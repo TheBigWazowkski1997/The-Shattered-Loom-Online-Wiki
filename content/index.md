@@ -36,7 +36,7 @@ The core realm of mortal life, bordered by vibrant reflections and shadowy dread
 
 | Realm                                | Description                                                                              | Map & Cities                                                |
 | :----------------------------------- | :--------------------------------------------------------------------------------------- | :---------------------------------------------------------- |
-| **[[The Material Plane\|The Material Plane]]**           | The Crucible Realm; patchwork world riddled with shatterpoints.                          | [[Map of the Material Plane\|Map of the Material Plane]]                               |
+| **[[Planes of Existence/The Material Plane/The Material Plane\|The Material Plane]]**           | The Crucible Realm; patchwork world riddled with shatterpoints.                          | [[Map of the Material Plane\|Map of the Material Plane]]                               |
 | **[[Feywild\|Feywild]]**                      | Vibrant, untamed plane of emotion and raw wonder; ruled by the Seelie & Unseelie Courts. | [[Map of the Feywild\|Map of the Feywild]]                                      |
 | **[[Shadowfell\|Shadowfell]]**                   | Desolate echo realm of despair, mist, and Domains of Dread ruled by Darklords.           | [[Map of the Shadowfell\|Map of the Shadowfell]]                                   |
 | **[[Cities of the Material Plane\|Cities of the Material Plane]]** | Major bastions of mortal civilization and frontier havens.                               | [[The Molten Reach\|The Molten Reach]], [[Ashara's Rest\|Ashara's Rest]], [[Verdent Hollow\|Verdent Hollow]] |
@@ -88,7 +88,7 @@ Fragments of crystallized ideology and divinity scattered across the Astral Sea.
 
 | Faction | Philosophy | Core Agenda | Dossier Link |
 | :--- | :--- | :--- | :--- |
-| **The Pale Lodge** | *"We mend what was broken."* | Stabilize planar bleed, recover Loom shards, and guide Threadwalkers. | [[The Pale Lodge\|The Pale Lodge]] |
+| **The Pale Lodge** | *"We mend what was broken."* | Stabilize planar bleed, recover Loom shards, and guide Threadwalkers. | [[Factions/The Pale Lodge/The Pale Lodge\|The Pale Lodge]] |
 | **The Cult of the Broken Thread** | *"A single thread binds; a broken thread liberates."* | Oppose restoration, embrace cosmic entropy, and shatter reality further. | [[The Cult of The Broken Thread\|The Cult of The Broken Thread]] |
 | **The Keepers of the Sacred Weft** | *"To mend in the dark is to sew a shroud for the world."* | Rebuild reality strictly adhering to Telara's original pristine blueprint. | [[The Keepers of the Sacred Weft\|The Keepers of the Sacred Weft]] |
 | **The Consortium of the Gilded Caliper** | *"Measure twice, shape with honor."* | Regulate planar commerce, trade routes, tariffs, and guild rights. | [[The Consortium of the Gilded Caliper\|The Consortium of the Gilded Caliper]] |
