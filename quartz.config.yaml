@@ -1,7 +1,7 @@
 # yaml-language-server: $schema=./quartz/plugins/quartz-plugins.schema.json
 configuration:
-  pageTitle: Quartz 5
-  pageTitleSuffix: ""
+  pageTitle: "The Shattered Loom"
+  pageTitleSuffix: " - The Shattered Loom Wiki"
   enableSPA: true
   enablePopovers: true
   analytics:
@@ -16,30 +16,30 @@ configuration:
     fontOrigin: googleFonts
     cdnCaching: true
     typography:
-      header: Schibsted Grotesk
-      body: Source Sans Pro
+      header: Cinzel
+      body: Alegreya
       code: IBM Plex Mono
     colors:
       lightMode:
-        light: "#faf8f8"
-        lightgray: "#e5e5e5"
-        gray: "#b8b8b8"
-        darkgray: "#4e4e4e"
-        dark: "#2b2b2b"
-        secondary: "#284b63"
-        tertiary: "#84a59d"
-        highlight: rgba(143, 159, 169, 0.15)
-        textHighlight: "#fff23688"
+        light: "#fcf8f0"
+        lightgray: "#e8dcce"
+        gray: "#a89582"
+        darkgray: "#2c2017"
+        dark: "#150d08"
+        secondary: "#7c1a22"
+        tertiary: "#b8860b"
+        highlight: "rgba(184, 134, 11, 0.12)"
+        textHighlight: "rgba(218, 165, 32, 0.3)"
       darkMode:
-        light: "#161618"
-        lightgray: "#393639"
-        gray: "#646464"
-        darkgray: "#d4d4d4"
-        dark: "#ebebec"
-        secondary: "#7b97aa"
-        tertiary: "#84a59d"
-        highlight: rgba(143, 159, 169, 0.15)
-        textHighlight: "#b3aa0288"
+        light: "#151210"
+        lightgray: "#2b231c"
+        gray: "#6a594b"
+        darkgray: "#ded3c1"
+        dark: "#f6eee2"
+        secondary: "#c54245"
+        tertiary: "#d4a34b"
+        highlight: "rgba(197, 66, 69, 0.18)"
+        textHighlight: "rgba(212, 163, 75, 0.25)"
 plugins:
   - source: "@quartz-community/created-modified-date"
     enabled: true

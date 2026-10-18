@@ -1,4 +1,5 @@
 ---
+title: The Shattered Loom
 dg-home: true
 dg-publish: true
 ---
