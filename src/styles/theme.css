@@ -416,3 +416,31 @@ li::marker {
   border-radius: 12px;
   box-shadow: var(--shadow-card);
 }
+
+/* Wiki Links */
+.wiki-link {
+  color: var(--gold-primary);
+  text-decoration: none;
+  border-bottom: 1px solid rgba(229, 184, 90, 0.4);
+  transition: all 0.15s ease;
+}
+
+.wiki-link:hover {
+  color: var(--gold-light);
+  border-bottom-color: var(--gold-primary);
+  text-shadow: 0 0 8px rgba(229, 184, 90, 0.4);
+}
+
+.wiki-link-unresolved {
+  color: #d4af7a;
+  border-bottom: 1px dashed rgba(212, 175, 122, 0.6);
+  cursor: pointer;
+}
+
+.wiki-link-unresolved:hover {
+  color: #fff;
+  border-bottom: 1px dashed var(--gold-primary);
+  background: rgba(229, 184, 90, 0.1);
+  border-radius: 2px;
+}
+

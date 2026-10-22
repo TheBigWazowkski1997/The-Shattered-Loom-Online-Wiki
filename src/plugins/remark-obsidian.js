@@ -146,22 +146,40 @@ export function remarkObsidian(options = {}) {
           } else {
             // Internal Wikilink
             const displayText = alias || target.replace(/^.*[\\\/]/, '').replace(/\.md$/, '');
-            const url = resolveWikiLink(target, lookup, baseUrl);
+            const linkInfo = resolveWikiLink(target, lookup, baseUrl);
             const hashAnchor = hash ? `#${slugify(hash)}` : '';
 
-            newChildren.push({
-              type: 'link',
-              url: `${url}${hashAnchor}`,
-              data: {
-                hProperties: {
-                  className: ['wiki-link'],
-                  'data-wiki-target': target
+            if (linkInfo.isImage) {
+              newChildren.push({
+                type: 'image',
+                url: linkInfo.url,
+                alt: displayText,
+                data: {
+                  hProperties: {
+                    className: ['wiki-image'],
+                    loading: 'lazy'
+                  }
                 }
-              },
-              children: [
-                { type: 'text', value: displayText }
-              ]
-            });
+              });
+            } else {
+              const classes = ['wiki-link'];
+              if (linkInfo.isUnresolved) classes.push('wiki-link-unresolved');
+
+              newChildren.push({
+                type: 'link',
+                url: `${linkInfo.url}${hashAnchor}`,
+                data: {
+                  hProperties: {
+                    className: classes,
+                    'data-wiki-target': target,
+                    title: linkInfo.isUnresolved ? `Search lore records for "${displayText}"` : displayText
+                  }
+                },
+                children: [
+                  { type: 'text', value: displayText }
+                ]
+              });
+            }
           }
 
           lastIndex = match.index + fullMatch.length;
@@ -220,22 +238,37 @@ export function remarkObsidian(options = {}) {
             });
           } else {
             const displayText = alias || target.replace(/^.*[\\\/]/, '').replace(/\.md$/, '');
-            const url = resolveWikiLink(target, lookup, baseUrl);
+            const linkInfo = resolveWikiLink(target, lookup, baseUrl);
             const hashAnchor = hash ? `#${slugify(hash)}` : '';
 
-            newChildren.push({
-              type: 'link',
-              url: `${url}${hashAnchor}`,
-              data: {
-                hProperties: {
-                  className: ['wiki-link'],
-                  'data-wiki-target': target
+            if (linkInfo.isImage) {
+              newChildren.push({
+                type: 'image',
+                url: linkInfo.url,
+                alt: displayText,
+                data: {
+                  hProperties: { className: ['wiki-image'], loading: 'lazy' }
                 }
-              },
-              children: [
-                { type: 'text', value: displayText }
-              ]
-            });
+              });
+            } else {
+              const classes = ['wiki-link'];
+              if (linkInfo.isUnresolved) classes.push('wiki-link-unresolved');
+
+              newChildren.push({
+                type: 'link',
+                url: `${linkInfo.url}${hashAnchor}`,
+                data: {
+                  hProperties: {
+                    className: classes,
+                    'data-wiki-target': target,
+                    title: linkInfo.isUnresolved ? `Search lore records for "${displayText}"` : displayText
+                  }
+                },
+                children: [
+                  { type: 'text', value: displayText }
+                ]
+              });
+            }
           }
 
           lastIndex = match.index + fullMatch.length;

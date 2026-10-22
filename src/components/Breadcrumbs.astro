@@ -11,10 +11,26 @@ const baseUrl = import.meta.env.BASE_URL.replace(/\/$/, '');
 const parts = currentSlug.split('/').filter(Boolean);
 const crumbs = [];
 
+const categoryNameMap: Record<string, string> = {
+  'npcs': 'Dramatis Personae (NPCs)',
+  'gods': 'Pantheon & Deities',
+  'cosmology': 'Cosmology & Lore',
+  'planes-of-existence': 'Planes of Existence',
+  'the-material-plane': 'The Material Plane',
+  'elemental-planes': 'Elemental Planes',
+  'outer-planes-divine-shards': 'Divine Shards',
+  'beings-of-power': 'Beings of Power',
+  'factions': 'The Ten Factions',
+  'species': 'Species & Bestiary',
+  'magic': 'Magic & Arcana',
+  'sessions': 'Campaign Chronicles'
+};
+
 let accumulatedPath = '';
 for (let i = 0; i < parts.length - 1; i++) {
   accumulatedPath += (accumulatedPath ? '/' : '') + parts[i];
-  const name = parts[i].replace(/[_-]/g, ' ').replace(/\b\w/g, (c) => c.toUpperCase());
+  const rawKey = parts[i].toLowerCase();
+  const name = categoryNameMap[rawKey] || parts[i].replace(/[_-]/g, ' ').replace(/\b\w/g, (c) => c.toUpperCase());
   crumbs.push({
     name,
     href: `${baseUrl}/wiki/${accumulatedPath}`,

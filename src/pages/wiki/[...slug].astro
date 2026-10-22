@@ -5,30 +5,758 @@ import { slugify } from '../../plugins/wiki-indexer.js';
 
 export async function getStaticPaths() {
   const docs = await getCollection('wiki');
-  return docs.map((doc) => {
+  const paths = [];
+  const seenSlugs = new Set();
+  const dirDocsMap = new Map();
+  const dirSubdirsMap = new Map();
+
+  // 1. Process all documents
+  for (const doc of docs) {
     const slug = slugify(doc.id);
-    return {
-      params: { slug },
-      props: { doc, currentSlug: slug },
-    };
+    if (!seenSlugs.has(slug)) {
+      seenSlugs.add(slug);
+      paths.push({
+        params: { slug },
+        props: { isDirectory: false, doc, currentSlug: slug },
+      });
+    }
+
+    // Generate alias with underscore if slug has dashes
+    if (slug.includes('-')) {
+      const underSlug = slug.replace(/-/g, '_');
+      if (!seenSlugs.has(underSlug)) {
+        seenSlugs.add(underSlug);
+        paths.push({
+          params: { slug: underSlug },
+          props: { isDirectory: false, doc, currentSlug: slug },
+        });
+      }
+    }
+
+    // Map ancestors for directory routes
+    const rawParts = doc.id.split('/');
+    const slugParts = slug.split('/');
+    for (let i = 1; i < slugParts.length; i++) {
+      const dirSlug = slugParts.slice(0, i).join('/');
+      if (!dirDocsMap.has(dirSlug)) dirDocsMap.set(dirSlug, []);
+
+      const rawBaseName = doc.id.replace(/\.md$/, '').split('/').pop() || '';
+      const docTitle = doc.data?.title || rawBaseName.replace(/[_-]/g, ' ');
+
+      dirDocsMap.get(dirSlug).push({
+        id: doc.id,
+        slug,
+        title: docTitle,
+        description: doc.data?.description || '',
+        category: slugParts[0],
+        subCategory: slugParts[1] || '',
+        isGod: slug.includes('npcs/gods'),
+        isKeyNpc: rawBaseName.toLowerCase().startsWith('key npcs')
+      });
+
+      if (i > 1) {
+        const parentSlug = slugParts.slice(0, i - 1).join('/');
+        if (!dirSubdirsMap.has(parentSlug)) dirSubdirsMap.set(parentSlug, new Set());
+        dirSubdirsMap.get(parentSlug).add(dirSlug);
+      }
+    }
+  }
+
+  // 2. Add Directory Index routes for every directory and subdirectory
+  for (const [dirSlug, childDocs] of dirDocsMap.entries()) {
+    if (!seenSlugs.has(dirSlug)) {
+      seenSlugs.add(dirSlug);
+      const subdirs = Array.from(dirSubdirsMap.get(dirSlug) || []);
+      paths.push({
+        params: { slug: dirSlug },
+        props: {
+          isDirectory: true,
+          dirSlug,
+          currentSlug: dirSlug,
+          childDocs,
+          subdirs
+        }
+      });
+    }
+
+    // Also alias directory slug if it contains dashes
+    if (dirSlug.includes('-')) {
+      const underDirSlug = dirSlug.replace(/-/g, '_');
+      if (!seenSlugs.has(underDirSlug)) {
+        seenSlugs.add(underDirSlug);
+        const subdirs = Array.from(dirSubdirsMap.get(dirSlug) || []);
+        paths.push({
+          params: { slug: underDirSlug },
+          props: {
+            isDirectory: true,
+            dirSlug,
+            currentSlug: dirSlug,
+            childDocs,
+            subdirs
+          }
+        });
+      }
+    }
+  }
+
+  // 3. Root wiki index route (/wiki or /wiki/)
+  paths.push({
+    params: { slug: undefined },
+    props: {
+      isDirectory: true,
+      dirSlug: '',
+      currentSlug: '',
+      childDocs: docs.map((d) => {
+        const s = slugify(d.id);
+        const rawBase = d.id.replace(/\.md$/, '').split('/').pop() || '';
+        return {
+          id: d.id,
+          slug: s,
+          title: d.data?.title || rawBase.replace(/[_-]/g, ' '),
+          description: d.data?.description || '',
+          category: s.split('/')[0]
+        };
+      }),
+      subdirs: ['npcs', 'cosmology', 'planes-of-existence', 'factions', 'species', 'magic', 'sessions']
+    }
   });
+
+  return paths;
 }
 
-const { doc, currentSlug } = Astro.props;
-const { Content, headings } = await render(doc);
+const { isDirectory = false, doc, currentSlug = '', dirSlug = '', childDocs = [], subdirs = [] } = Astro.props;
+const baseUrl = import.meta.env.BASE_URL.replace(/\/$/, '');
 
-// Compute title
-const rawName = doc.id.replace(/\.md$/, '').split('/').pop() || '';
-const title = doc.data?.title || rawName.replace(/[_-]/g, ' ');
-const description = doc.data?.description || `Explore ${title} in the Project Shattered Loom D&D 5e player wiki and multiverse setting guide.`;
+let Content = null;
+let headings = [];
+let pageTitle = '';
+let pageDescription = '';
+let frontmatter = {};
+
+// Pretty titles & metadata for directory hubs
+const dirMetaMap: Record<string, { title: string; subtitle: string; icon: string }> = {
+  '': {
+    title: 'Compendium of the Shattered Loom',
+    subtitle: 'The Complete Player Wiki & Multiverse Setting Archive for D&D 5e',
+    icon: '🌌'
+  },
+  'npcs': {
+    title: 'Dramatis Personae: The Multiverse Archive',
+    subtitle: 'Complete directory of 95 deities, faction leaders, darklords, scholars, and personages across the planes.',
+    icon: '👥'
+  },
+  'npcs/gods': {
+    title: 'Pantheon & Divine Powers',
+    subtitle: 'The Prime Weavers, Vestiges, and Divine Shard Avatars presiding over the cosmic fabric.',
+    icon: '⚡'
+  },
+  'cosmology': {
+    title: 'Cosmology & Universal Lore',
+    subtitle: 'The cosmic architecture, the Shattering of the Loom, ancient relics, and timeless conflicts.',
+    icon: '🌌'
+  },
+  'cosmology/beings-of-power': {
+    title: 'Cosmic Beings of Power',
+    subtitle: 'Enigmas, primordial architects, and dragon calamities of the apocalypse.',
+    icon: '🐉'
+  },
+  'planes-of-existence': {
+    title: 'Planes of Existence: Planar Atlas',
+    subtitle: 'The Material Plane, the Elemental Expanses, Outer Divine Shards, and Demiplanes.',
+    icon: '🗺️'
+  },
+  'planes-of-existence/the-material-plane': {
+    title: 'The Material Plane & Echo Realms',
+    subtitle: 'The mortal hearth, the Feywild, the Barovian Shadowfell, and sovereign mortal cities.',
+    icon: '🏰'
+  },
+  'planes-of-existence/elemental-planes': {
+    title: 'The Elemental Planes',
+    subtitle: 'The infinite expanses of Air, Fire, Earth, and Water bound by primordial energy.',
+    icon: '🌪️'
+  },
+  'planes-of-existence/outer-planes-divine-shards': {
+    title: 'Outer Planes: Divine Shards',
+    subtitle: 'The fractured realms of Avarice, Law, Secrets, Unity, Eternal Craft, and Wild Balance.',
+    icon: '✨'
+  },
+  'factions': {
+    title: 'The Ten Factions of the Multiverse',
+    subtitle: 'The secret cabals, imperial consortiums, and holy inquisitions vying for control of the Weft.',
+    icon: '🏛️'
+  },
+  'species': {
+    title: 'Species & Bestiary',
+    subtitle: 'Planar beings, sorrowsworn horrors, dragons, and beasts spawned from the cosmic unraveling.',
+    icon: '🧬'
+  },
+  'magic': {
+    title: 'Magic, Vessels & Cosmic Law',
+    subtitle: 'Spelljamming vessels, legacy artifacts, and primeval pacts governing reality.',
+    icon: '🛸'
+  },
+  'sessions': {
+    title: 'Campaign Chronicles',
+    subtitle: 'Historical session logs documenting the player characters’ quest through the Shattered Loom.',
+    icon: '📜'
+  }
+};
+
+function formatDirTitle(slug: string): string {
+  if (dirMetaMap[slug]) return dirMetaMap[slug].title;
+  const lastPart = slug.split('/').pop() || slug;
+  return lastPart.replace(/[_-]/g, ' ').replace(/\b\w/g, (c) => c.toUpperCase());
+}
+
+if (!isDirectory && doc) {
+  const rendered = await render(doc);
+  Content = rendered.Content;
+  headings = rendered.headings;
+  const rawName = doc.id.replace(/\.md$/, '').split('/').pop() || '';
+  pageTitle = doc.data?.title || rawName.replace(/[_-]/g, ' ');
+  pageDescription = doc.data?.description || `Explore ${pageTitle} in the Project Shattered Loom D&D 5e player wiki.`;
+  frontmatter = doc.data || {};
+} else {
+  pageTitle = formatDirTitle(dirSlug);
+  const meta = dirMetaMap[dirSlug] || {
+    title: pageTitle,
+    subtitle: `Browse all articles, lore records, and documents under ${pageTitle}.`,
+    icon: '📁'
+  };
+  pageDescription = meta.subtitle;
+}
+
+// Sort childDocs alphabetically
+const sortedDocs = [...childDocs].sort((a, b) => a.title.localeCompare(b.title));
+const isNpcDir = dirSlug === 'npcs' || dirSlug === 'npcs/gods';
 ---
 
 <WikiLayout
-  title={title}
-  description={description}
+  title={pageTitle}
+  description={pageDescription}
   currentSlug={currentSlug}
   headings={headings}
-  frontmatter={doc.data || {}}
+  frontmatter={frontmatter}
 >
-  <Content />
+  {!isDirectory && Content ? (
+    <Content />
+  ) : (
+    <div class="directory-container">
+      <div class="directory-hero">
+        <div class="dir-icon-badge">
+          {dirMetaMap[dirSlug]?.icon || '📜'}
+        </div>
+        <div class="dir-hero-text">
+          <p class="dir-subtitle">{dirMetaMap[dirSlug]?.subtitle || `Compendium index containing ${sortedDocs.length} documents.`}</p>
+          <div class="dir-stats-badge">
+            <span class="count-highlight">{sortedDocs.length}</span> Documents Cataloged
+          </div>
+        </div>
+      </div>
+
+      <!-- Live Interactive Search & Filter Controls -->
+      <div class="dir-controls glass-panel">
+        <div class="dir-search-box">
+          <span class="search-icon">🔍</span>
+          <input
+            type="text"
+            id="dir-filter-input"
+            placeholder={isNpcDir ? "Search 95 NPCs by name, title, or affiliation..." : `Filter ${sortedDocs.length} entries in this codex...`}
+            aria-label="Filter documents"
+          />
+        </div>
+
+        {isNpcDir && (
+          <div class="dir-filter-pills" id="npc-filter-pills">
+            <button class="filter-pill active" data-filter="all">All ({sortedDocs.length})</button>
+            <button class="filter-pill" data-filter="gods">⚡ Deities & Powers (14)</button>
+            <button class="filter-pill" data-filter="compendiums">🏛️ Faction Compendiums (4)</button>
+            <button class="filter-pill" data-filter="mortals">👥 Planar Personages (77)</button>
+          </div>
+        )}
+      </div>
+
+      <!-- Sub-Directory Navigation Badges if any -->
+      {subdirs.length > 0 && (
+        <div class="subdirs-section">
+          <h3 class="section-label">Planar Sub-Directories</h3>
+          <div class="subdir-chips">
+            {subdirs.map((sub) => {
+              const subMeta = dirMetaMap[sub] || { title: formatDirTitle(sub), icon: '📁' };
+              return (
+                <a href={`${baseUrl}/wiki/${sub}`} class="subdir-chip">
+                  <span class="chip-icon">{subMeta.icon}</span>
+                  <span class="chip-title">{subMeta.title}</span>
+                  <span class="chip-arrow">→</span>
+                </a>
+              );
+            })}
+          </div>
+        </div>
+      )}
+
+      <!-- Cards Grid of child documents -->
+      <div class="dir-grid" id="dir-grid">
+        {sortedDocs.map((item) => {
+          let cardType = 'mortal';
+          let badgeLabel = 'Personage';
+          if (item.isGod) {
+            cardType = 'god';
+            badgeLabel = 'Deity / Divine';
+          } else if (item.isKeyNpc) {
+            cardType = 'compendium';
+            badgeLabel = 'Faction Dossier';
+          } else if (item.category === 'planes-of-existence') {
+            cardType = 'plane';
+            badgeLabel = 'Planar Domain';
+          } else if (item.category === 'factions') {
+            cardType = 'faction';
+            badgeLabel = 'Multiverse Cabal';
+          } else if (item.category === 'species') {
+            cardType = 'species';
+            badgeLabel = 'Beast / Species';
+          }
+
+          return (
+            <a
+              href={`${baseUrl}/wiki/${item.slug}`}
+              class="dir-card glass-panel"
+              data-title={item.title.toLowerCase()}
+              data-type={cardType}
+            >
+              <div class="card-header">
+                <span class={`card-badge badge-${cardType}`}>{badgeLabel}</span>
+                <span class="card-arrow">↗</span>
+              </div>
+              <h3 class="card-title">{item.title}</h3>
+              {item.description ? (
+                <p class="card-desc">{item.description}</p>
+              ) : (
+                <p class="card-desc fallback">Access lore dossier, secrets, and chronicle references for {item.title}.</p>
+              )}
+              <div class="card-footer">
+                <span class="read-more">Read Chronicle Entry &rarr;</span>
+              </div>
+            </a>
+          );
+        })}
+      </div>
+
+      <div id="no-results" class="no-results-msg" style="display: none;">
+        <span class="empty-icon">📜</span>
+        <p>No documents matching your search term were found in this codex.</p>
+        <button id="reset-filter-btn" class="reset-btn">Clear Search Filter</button>
+      </div>
+    </div>
+  )}
 </WikiLayout>
+
+<style>
+  .directory-container {
+    display: flex;
+    flex-direction: column;
+    gap: 2rem;
+  }
+
+  .directory-hero {
+    display: flex;
+    align-items: center;
+    gap: 1.5rem;
+    padding-bottom: 1.5rem;
+    border-bottom: 1px solid var(--border-subtle);
+  }
+
+  .dir-icon-badge {
+    font-size: 3rem;
+    width: 72px;
+    height: 72px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background: rgba(229, 184, 90, 0.1);
+    border: 1px solid var(--border-strong);
+    border-radius: 12px;
+    box-shadow: var(--gold-glow);
+    flex-shrink: 0;
+  }
+
+  .dir-hero-text {
+    flex: 1;
+  }
+
+  .dir-subtitle {
+    font-size: 1.15rem;
+    color: var(--text-muted);
+    margin-bottom: 0.6rem;
+    line-height: 1.5;
+  }
+
+  .dir-stats-badge {
+    display: inline-flex;
+    align-items: center;
+    gap: 0.5rem;
+    padding: 0.25rem 0.8rem;
+    border-radius: 20px;
+    font-size: 0.82rem;
+    font-family: var(--font-heading);
+    font-weight: 700;
+    color: var(--gold-primary);
+    background: rgba(229, 184, 90, 0.08);
+    border: 1px solid var(--border-subtle);
+  }
+
+  .count-highlight {
+    color: #fff;
+    font-size: 0.95rem;
+  }
+
+  .dir-controls {
+    padding: 1.2rem;
+    display: flex;
+    flex-direction: column;
+    gap: 1rem;
+    border-radius: 10px;
+  }
+
+  .dir-search-box {
+    display: flex;
+    align-items: center;
+    gap: 0.8rem;
+    background: rgba(0, 0, 0, 0.35);
+    border: 1px solid var(--border-subtle);
+    border-radius: 8px;
+    padding: 0.6rem 1rem;
+    transition: all 0.2s ease;
+  }
+
+  .dir-search-box:focus-within {
+    border-color: var(--gold-primary);
+    box-shadow: 0 0 10px rgba(229, 184, 90, 0.2);
+  }
+
+  .search-icon {
+    font-size: 1.1rem;
+    color: var(--gold-primary);
+  }
+
+  #dir-filter-input {
+    flex: 1;
+    background: transparent;
+    border: none;
+    outline: none;
+    color: var(--text-main);
+    font-family: var(--font-body);
+    font-size: 1rem;
+  }
+
+  #dir-filter-input::placeholder {
+    color: var(--text-faint);
+  }
+
+  .dir-filter-pills {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 0.5rem;
+  }
+
+  .filter-pill {
+    padding: 0.35rem 0.85rem;
+    border-radius: 20px;
+    background: rgba(255, 255, 255, 0.04);
+    border: 1px solid var(--border-subtle);
+    color: var(--text-muted);
+    font-family: var(--font-heading);
+    font-size: 0.82rem;
+    cursor: pointer;
+    transition: all 0.2s ease;
+  }
+
+  .filter-pill:hover {
+    color: var(--gold-primary);
+    border-color: var(--gold-secondary);
+  }
+
+  .filter-pill.active {
+    background: rgba(229, 184, 90, 0.18);
+    border-color: var(--gold-primary);
+    color: #fff;
+    box-shadow: 0 0 10px rgba(229, 184, 90, 0.15);
+  }
+
+  .subdirs-section {
+    display: flex;
+    flex-direction: column;
+    gap: 0.8rem;
+  }
+
+  .section-label {
+    font-family: var(--font-heading);
+    font-size: 0.9rem;
+    color: var(--gold-primary);
+    text-transform: uppercase;
+    letter-spacing: 0.05em;
+  }
+
+  .subdir-chips {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 0.8rem;
+  }
+
+  .subdir-chip {
+    display: inline-flex;
+    align-items: center;
+    gap: 0.6rem;
+    padding: 0.5rem 1rem;
+    border-radius: 8px;
+    background: var(--bg-surface);
+    border: 1px solid var(--border-subtle);
+    color: var(--text-main);
+    text-decoration: none;
+    font-family: var(--font-heading);
+    font-size: 0.88rem;
+    transition: all 0.2s ease;
+  }
+
+  .subdir-chip:hover {
+    border-color: var(--gold-primary);
+    color: var(--gold-light);
+    transform: translateY(-2px);
+    box-shadow: 0 4px 12px rgba(0, 0, 0, 0.4);
+  }
+
+  .chip-arrow {
+    color: var(--gold-primary);
+  }
+
+  .dir-grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fill, minmax(280px, 1fr));
+    gap: 1.25rem;
+  }
+
+  .dir-card {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    padding: 1.4rem;
+    border-radius: 10px;
+    border: 1px solid var(--border-subtle);
+    background: var(--bg-surface);
+    text-decoration: none;
+    transition: all 0.22s ease;
+    min-height: 160px;
+  }
+
+  .dir-card:hover {
+    border-color: var(--gold-primary);
+    transform: translateY(-3px);
+    box-shadow: 0 6px 18px rgba(0, 0, 0, 0.5), 0 0 12px rgba(229, 184, 90, 0.15);
+  }
+
+  .card-header {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    margin-bottom: 0.8rem;
+  }
+
+  .card-badge {
+    font-size: 0.72rem;
+    font-family: var(--font-heading);
+    font-weight: 700;
+    text-transform: uppercase;
+    letter-spacing: 0.05em;
+    padding: 0.2rem 0.55rem;
+    border-radius: 4px;
+    background: rgba(255, 255, 255, 0.06);
+    color: var(--text-muted);
+    border: 1px solid var(--border-subtle);
+  }
+
+  .badge-god {
+    color: #f7d58b;
+    border-color: rgba(247, 213, 139, 0.4);
+    background: rgba(247, 213, 139, 0.1);
+  }
+
+  .badge-compendium {
+    color: #e27d60;
+    border-color: rgba(226, 125, 96, 0.4);
+    background: rgba(226, 125, 96, 0.1);
+  }
+
+  .badge-plane {
+    color: #85c1e9;
+    border-color: rgba(133, 193, 233, 0.4);
+    background: rgba(133, 193, 233, 0.1);
+  }
+
+  .card-arrow {
+    color: var(--text-faint);
+    font-size: 1rem;
+    transition: transform 0.2s ease, color 0.2s ease;
+  }
+
+  .dir-card:hover .card-arrow {
+    color: var(--gold-primary);
+    transform: translate(2px, -2px);
+  }
+
+  .card-title {
+    font-family: var(--font-heading);
+    font-size: 1.15rem;
+    color: var(--gold-light);
+    margin-bottom: 0.5rem;
+    line-height: 1.35;
+    transition: color 0.2s ease;
+  }
+
+  .dir-card:hover .card-title {
+    color: #fff;
+  }
+
+  .card-desc {
+    font-size: 0.88rem;
+    color: var(--text-muted);
+    line-height: 1.5;
+    margin-bottom: 1.2rem;
+    flex: 1;
+    display: -webkit-box;
+    -webkit-line-clamp: 3;
+    -webkit-box-orient: vertical;
+    overflow: hidden;
+  }
+
+  .card-desc.fallback {
+    color: var(--text-faint);
+    font-style: italic;
+  }
+
+  .card-footer {
+    display: flex;
+    align-items: center;
+    border-top: 1px solid rgba(255, 255, 255, 0.05);
+    padding-top: 0.8rem;
+  }
+
+  .read-more {
+    font-family: var(--font-heading);
+    font-size: 0.82rem;
+    font-weight: 700;
+    color: var(--gold-primary);
+    transition: transform 0.2s ease;
+  }
+
+  .dir-card:hover .read-more {
+    transform: translateX(3px);
+  }
+
+  .no-results-msg {
+    text-align: center;
+    padding: 3rem 1.5rem;
+    border: 1px dashed var(--border-subtle);
+    border-radius: 12px;
+    background: rgba(0, 0, 0, 0.2);
+  }
+
+  .empty-icon {
+    font-size: 2.5rem;
+    display: block;
+    margin-bottom: 1rem;
+    color: var(--gold-secondary);
+  }
+
+  .reset-btn {
+    margin-top: 1rem;
+    padding: 0.5rem 1.2rem;
+    border-radius: 6px;
+    background: var(--gold-primary);
+    color: #0b0d13;
+    border: none;
+    font-family: var(--font-heading);
+    font-weight: 700;
+    cursor: pointer;
+    transition: opacity 0.2s ease;
+  }
+
+  .reset-btn:hover {
+    opacity: 0.9;
+  }
+
+  @media (max-width: 768px) {
+    .dir-grid {
+      grid-template-columns: 1fr;
+    }
+    .directory-hero {
+      flex-direction: column;
+      align-items: flex-start;
+    }
+  }
+</style>
+
+<script>
+  function setupDirFilter() {
+    const input = document.getElementById('dir-filter-input') as HTMLInputElement | null;
+    const cards = document.querySelectorAll<HTMLElement>('.dir-card');
+    const noResults = document.getElementById('no-results');
+    const resetBtn = document.getElementById('reset-filter-btn');
+    const pills = document.querySelectorAll<HTMLButtonElement>('.filter-pill');
+
+    let currentFilter = 'all';
+
+    function applyFilters() {
+      const q = input?.value.toLowerCase().trim() || '';
+      let visibleCount = 0;
+
+      cards.forEach((card) => {
+        const title = card.getAttribute('data-title') || '';
+        const desc = card.textContent?.toLowerCase() || '';
+        const cardType = card.getAttribute('data-type') || '';
+
+        const matchesQuery = !q || title.includes(q) || desc.includes(q);
+        let matchesPill = true;
+        if (currentFilter === 'gods') matchesPill = cardType === 'god';
+        else if (currentFilter === 'compendiums') matchesPill = cardType === 'compendium';
+        else if (currentFilter === 'mortals') matchesPill = cardType === 'mortal';
+
+        const isVisible = matchesQuery && matchesPill;
+        card.style.display = isVisible ? 'flex' : 'none';
+        if (isVisible) visibleCount++;
+      });
+
+      if (noResults) {
+        noResults.style.display = visibleCount === 0 ? 'block' : 'none';
+      }
+    }
+
+    if (input) {
+      input.addEventListener('input', applyFilters);
+    }
+
+    if (pills) {
+      pills.forEach((pill) => {
+        pill.addEventListener('click', () => {
+          pills.forEach((p) => p.classList.remove('active'));
+          pill.classList.add('active');
+          currentFilter = pill.getAttribute('data-filter') || 'all';
+          applyFilters();
+        });
+      });
+    }
+
+    if (resetBtn) {
+      resetBtn.addEventListener('click', () => {
+        if (input) input.value = '';
+        pills.forEach((p) => p.classList.remove('active'));
+        const allPill = document.querySelector('.filter-pill[data-filter="all"]');
+        if (allPill) allPill.classList.add('active');
+        currentFilter = 'all';
+        applyFilters();
+      });
+    }
+  }
+
+  setupDirFilter();
+  document.addEventListener('astro:after-swap', setupDirFilter);
+</script>

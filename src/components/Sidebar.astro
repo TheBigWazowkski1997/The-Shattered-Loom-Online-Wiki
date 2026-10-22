@@ -11,14 +11,39 @@ const baseUrl = import.meta.env.BASE_URL.replace(/\/$/, '');
 // Navigation structure
 const navSections = [
   {
+    title: '👥 Dramatis Personae',
+    icon: '👥',
+    items: [
+      { title: '📜 All NPCs Directory (95)', slug: 'npcs' },
+      { title: '⚡ Deities & Divine Powers (14)', slug: 'npcs/gods' },
+      { title: 'Telara, Prime Weaver', slug: 'npcs/gods/telara' },
+      { title: 'Pale Night, Veiled Mother', slug: 'npcs/gods/pale-night' },
+      { title: 'Key NPCs: Pale Lodge', slug: 'npcs/key-npcs-pale-lodge' },
+      { title: 'Key NPCs: The Gilded Caliper', slug: 'npcs/key-npcs-the-gilded-caliper' },
+      { title: 'Key NPCs: Ironbound Covenant', slug: 'npcs/key-npcs-the-ironbound-covenant' },
+      { title: 'Key NPCs: Dreambound', slug: 'npcs/key-npcs-dreambound' },
+      { title: 'Aelira, the Weftkeeper', slug: 'npcs/aelira-the-weftkeeper' },
+      { title: 'Kaelthar, the Threadwarden', slug: 'npcs/kaelthar-the-threadwarden' },
+      { title: 'The Silent Spool', slug: 'npcs/the-silent-spool' },
+      { title: 'Vaelen Corryn', slug: 'npcs/vaelen-corryn' },
+      { title: 'Captain Seris Vael', slug: 'npcs/captain-seris-vael' },
+      { title: 'Count Strahd von Zarovich', slug: 'npcs/count-strahd-von-zarovich' },
+      { title: 'Azalin Rex', slug: 'npcs/azalin-rex' },
+      { title: 'Tasha (Iggwilv)', slug: 'npcs/tasha-iggwilv-the-mother-of-witches' },
+      { title: 'Halaster Blackcloak', slug: 'npcs/halaster-blackcloak-the-mad-weaver' },
+      { title: 'Vecna, Whispered Secret', slug: 'npcs/vecna-the-whispered-secret' },
+    ]
+  },
+  {
     title: '🌌 Cosmology & Lore',
     icon: '🌌',
     items: [
+      { title: '🌌 All Cosmology Lore Hub', slug: 'cosmology' },
       { title: 'The Shattered Loom Universe', slug: 'cosmology/the-shattered-loom-universe' },
       { title: 'The Shattering of the Loom', slug: 'cosmology/the-shattering-of-the-loom' },
       { title: 'The Mark of Telara', slug: 'cosmology/the-mark-of-telara' },
       { title: 'Graphical Timeline', slug: 'cosmology/timeline-of-the-shattered-loom-graphical' },
-      { title: 'Interplanar Calendar', slug: 'cosmology/shattered_loom_calendar' },
+      { title: 'Interplanar Calendar', slug: 'cosmology/shattered-loom-calendar' },
       { title: 'Relics of Power', slug: 'cosmology/relics-of-power' },
     ]
   },
@@ -26,6 +51,7 @@ const navSections = [
     title: '🗺️ Planes of Existence',
     icon: '🗺️',
     items: [
+      { title: '🗺️ All Planes Directory', slug: 'planes-of-existence' },
       { title: 'The Material Plane', slug: 'planes-of-existence/the-material-plane/the-material-plane' },
       { title: 'The Feywild', slug: 'planes-of-existence/the-material-plane/feywild' },
       { title: 'The Shadowfell', slug: 'planes-of-existence/the-material-plane/shadowfell' },
@@ -48,6 +74,7 @@ const navSections = [
     title: '🏛️ The Ten Factions',
     icon: '🏛️',
     items: [
+      { title: '🏛️ All Factions Directory', slug: 'factions' },
       { title: 'The Pale Lodge', slug: 'factions/the-pale-lodge/the-pale-lodge' },
       { title: 'The Cult of the Broken Thread', slug: 'factions/the-cult-of-the-broken-thread' },
       { title: 'The Keepers of the Sacred Weft', slug: 'factions/the-keepers-of-the-sacred-weft' },
@@ -58,28 +85,6 @@ const navSections = [
       { title: 'The Priests of Osybus', slug: 'factions/the-priests-of-osybus' },
       { title: 'The Shadar-kai Memory-Sworn', slug: 'factions/the-shadar-kai-memory-sworn' },
       { title: 'The Ulmist Inquisition', slug: 'factions/the-ulmist-inquisition' },
-    ]
-  },
-  {
-    title: '👥 Dramatis Personae',
-    icon: '👥',
-    items: [
-      { title: 'Telara, Prime Weaver', slug: 'npcs/gods/telara' },
-      { title: 'Pale Night, Veiled Mother', slug: 'npcs/gods/pale-night' },
-      { title: 'Key NPCs: Pale Lodge', slug: 'npcs/key-npcs-pale-lodge' },
-      { title: 'Key NPCs: The Gilded Caliper', slug: 'npcs/key-npcs-the-gilded-caliper' },
-      { title: 'Key NPCs: Ironbound Covenant', slug: 'npcs/key-npcs-the-ironbound-covenant' },
-      { title: 'Key NPCs: Dreambound', slug: 'npcs/key-npcs-dreambound' },
-      { title: 'Aelira, the Weftkeeper', slug: 'npcs/aelira-the-weftkeeper' },
-      { title: 'Kaelthar, the Threadwarden', slug: 'npcs/kaelthar-the-threadwarden' },
-      { title: 'The Silent Spool', slug: 'npcs/the-silent-spool' },
-      { title: 'Vaelen Corryn', slug: 'npcs/vaelen-corryn' },
-      { title: 'Captain Seris Vael', slug: 'npcs/captain-seris-vael' },
-      { title: 'Count Strahd von Zarovich', slug: 'npcs/count-strahd-von-zarovich' },
-      { title: 'Azalin Rex', slug: 'npcs/azalin-rex' },
-      { title: 'Tasha (Iggwilv)', slug: 'npcs/tasha-iggwilv-the-mother-of-witches' },
-      { title: 'Halaster Blackcloak', slug: 'npcs/halaster-blackcloak-the-mad-weaver' },
-      { title: 'Vecna, Whispered Secret', slug: 'npcs/vecna-the-whispered-secret' },
     ]
   },
   {
@@ -104,6 +109,7 @@ const navSections = [
     title: '🧬 Species & Bestiary',
     icon: '🧬',
     items: [
+      { title: '🧬 All Species Directory', slug: 'species' },
       { title: 'Hag Dragon', slug: 'species/hag-dragon' },
       { title: 'Sorrowsworn', slug: 'species/sorrowsworn' },
       { title: 'Corpse Collector', slug: 'species/corpse-collector' },
@@ -115,6 +121,7 @@ const navSections = [
     title: '🛸 Magic & Vessels',
     icon: '🛸',
     items: [
+      { title: '🛸 All Magic & Arcana', slug: 'magic' },
       { title: 'Spell Jammers', slug: 'magic/spell-jammers' },
       { title: 'Legacy Items', slug: 'magic/legacy-items' },
       { title: 'The Pact Primeval', slug: 'magic/the-pact-primeval' },
@@ -124,6 +131,7 @@ const navSections = [
     title: '📜 Campaign Chronicles',
     icon: '📜',
     items: [
+      { title: '📜 All Campaign Chronicles', slug: 'sessions' },
       { title: 'Chronicle 0: Awakening & Call', slug: 'sessions/session-0' },
       { title: 'Chronicle 1: The Wraith & Pale Lodge', slug: 'sessions/session-1-the-wraith-and-the-pale-lodge' },
       { title: 'Chronicle 2: The Silent Singularity', slug: 'sessions/session-2-the-silent-singularity' },
