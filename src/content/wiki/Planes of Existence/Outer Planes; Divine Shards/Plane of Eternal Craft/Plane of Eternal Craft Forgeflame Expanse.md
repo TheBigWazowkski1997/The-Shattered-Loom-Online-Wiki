@@ -16,5 +16,5 @@ dg-publish: true
 * [[../../../NPCs/Gods/God of The Plane of Eternal Craft/Kaldryn, the Eternal Artisan|Kaldryn, the Eternal Artisan]]
 * [[../../../NPCs/Key NPCs - The Gilded Caliper|Key NPCs - The Gilded Caliper]]
 * [[../../../NPCs/Key NPCs - The Ironbound Covenant|Key NPCs - The Ironbound Covenant]]
-* [[../../../Sessions/Session 4 - Steel, Smoke, and Gold|Session 4 — Steel, Smoke, and Gold]]
 * [[../../../NPCs/Dorrim Ashvein|Dorrim Ashvein]]
+

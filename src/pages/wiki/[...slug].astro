@@ -117,7 +117,7 @@ export async function getStaticPaths() {
           category: s.split('/')[0]
         };
       }),
-      subdirs: ['npcs', 'cosmology', 'planes-of-existence', 'factions', 'species', 'magic', 'sessions']
+      subdirs: ['npcs', 'cosmology', 'planes-of-existence', 'factions', 'species', 'magic']
     }
   });
 
@@ -194,11 +194,6 @@ const dirMetaMap: Record<string, { title: string; subtitle: string; icon: string
     title: 'Magic, Vessels & Cosmic Law',
     subtitle: 'Spelljamming vessels, legacy artifacts, and primeval pacts governing reality.',
     icon: '🛸'
-  },
-  'sessions': {
-    title: 'Campaign Chronicles',
-    subtitle: 'Historical session logs documenting the player characters’ quest through the Shattered Loom.',
-    icon: '📜'
   }
 };
 

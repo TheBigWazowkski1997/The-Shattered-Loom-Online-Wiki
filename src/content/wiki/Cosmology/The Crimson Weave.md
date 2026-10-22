@@ -39,6 +39,4 @@ Those who carry the **Mark of Telara** (the players) can interact with the Crims
 [[Beings of Power/Strahd von Zarovich|Strahd von Zarovich]]
 [[The Shattering of the Loom|The Shattering of the Loom]]
 [[../Planes of Existence/The Fractured Nexus/The Fractured Nexus|The Fractured Nexus]]
-[[../Sessions/Session 3 - The Blood and the Loom|Session 3 - The Blood and the Loom]]
-[[../Sessions/Session 4 - Steel, Smoke, and Gold|Session 4 - Steel, Smoke, and Gold]]
-[[../Sessions/Session 5 - The Grand Archive|Session 5 - The Grand Archive]]
+

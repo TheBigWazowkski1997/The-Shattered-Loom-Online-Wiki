@@ -33,8 +33,8 @@ const realmCards = [
     title: 'Dramatis Personae',
     icon: '👥',
     desc: '95 documented entities: Primordials, planar governors, Darklords of Ravenloft, and legendary mages.',
-    href: `${baseUrl}/wiki/npcs/gods/telara`,
-    badge: '95 NPCs',
+    href: `${baseUrl}/wiki/npcs`,
+    badge: '95 NPCs Directory',
     color: '#a855f7'
   },
   {
@@ -60,14 +60,6 @@ const realmCards = [
     href: `${baseUrl}/wiki/magic/spell-jammers`,
     badge: 'Vessels & Items',
     color: '#06b6d4'
-  },
-  {
-    title: 'Campaign Chronicles',
-    icon: '📜',
-    desc: 'Step through the recorded adventures of the party from Session 0 across Barovia to the Grand Archive.',
-    href: `${baseUrl}/wiki/sessions/session-0`,
-    badge: 'Sessions 0 - 5',
-    color: '#f97316'
   }
 ];
 
@@ -113,8 +105,8 @@ const commonKnowledge = [
           <button class="btn-secondary" data-open-search>
             <span>Search Multiverse (⌘K)</span>
           </button>
-          <a href={`${baseUrl}/wiki/sessions/session-0`} class="btn-outline">
-            <span>Read Campaign Chronicles</span>
+          <a href={`${baseUrl}/wiki/npcs`} class="btn-outline">
+            <span>Dramatis Personae (95 NPCs)</span>
           </a>
         </div>
       </div>
@@ -122,7 +114,7 @@ const commonKnowledge = [
       <!-- Quick Metrics Ribbon -->
       <div class="stats-ribbon glass-panel">
         <div class="stat-item">
-          <span class="stat-number">198</span>
+          <span class="stat-number">192</span>
           <span class="stat-label">Lore Documents</span>
         </div>
         <div class="stat-divider">✦</div>

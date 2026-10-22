@@ -166,19 +166,6 @@ Fragments of crystallized ideology and divinity scattered across the Astral Sea.
 
 ---
 
-## 📜 Campaign Chronicles (Session Logs)
-
-Step through the party's recorded adventures from the beginning of their journey:
-
-* **[[Sessions/Session 0|Chronicle 0: Awakening & The Call of Telara]]** — Dreams of the Loom and individual departures toward the travel district.
-* **[[Sessions/Session 1 - The Wraith and the Pale Lodge|Chronicle 1: The Wraith and the Pale Lodge]]** — Astral voyage through the psychic tides, the encounter at the god-skull, and arrival at the Lodge.
-* **[[Sessions/Session 2 - The Silent Singularity|Chronicle 2: The Silent Singularity]]** — The Heart of the Darkfire, the paused Convergence Temple, and opening the Shatterpoint.
-* **[[Sessions/Session 3 - The Blood and the Loom|Chronicle 3: The Blood and the Loom]]** — Crossing into Barovia, navigating the Crimson Weave, and dealing with Count Strahd von Zarovich.
-* **[[Sessions/Session 4 - Steel, Smoke, and Gold|Chronicle 4: Steel, Smoke, and Gold]]** — The smelting pits of Metallos, gladiatorial confrontations, and uncovering cult sabotage.
-* **[[Sessions/Session 5 - The Grand Archive|Chronicle 5: The Grand Archive]]** — Infiltrating the infinite library, paying the tithe of memories, and uncovering forgotten history.
-
----
-
 ## 📌 Traveler's Common Knowledge
 
 | Term | What Every Adventurer Knows |

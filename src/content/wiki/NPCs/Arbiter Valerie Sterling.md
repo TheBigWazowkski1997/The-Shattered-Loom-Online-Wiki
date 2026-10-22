@@ -28,7 +28,7 @@ Valerie is a 9th-level Forge Cleric. Her spellcasting ability is Wisdom (Spell S
 [[Key NPCs - The Gilded Caliper|Key NPCs - The Gilded Caliper]]
 [[../Factions/The Consortium of the Gilded Caliper|The Consortium of the Gilded Caliper]]
 [[../Planes of Existence/Outer Planes; Divine Shards/Plane of Eternal Craft/Plane of Eternal Craft Forgeflame Expanse|Plane of Eternal Craft Forgeflame Expanse]]
-[[../Sessions/Session 4 - Steel, Smoke, and Gold|Session 4 - Steel, Smoke, and Gold]]
+
 
 ---
 

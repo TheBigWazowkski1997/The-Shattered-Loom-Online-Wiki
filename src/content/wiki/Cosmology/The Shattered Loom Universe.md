@@ -12,8 +12,6 @@ Core Themes
 [[../NPCs/Gods/Telara|Telara]]
 [[The Shattering of the Loom|The Shattering of the Loom]]
 [[../Magic/Legacy Items|Legacy Items]]
-[[../Sessions/Session 0|Session 0]]
-[[../Sessions/Session 1 - The Wraith and the Pale Lodge|Session 1 - The Wraith and the Pale Lodge]]
 
 Planes of Existence
 [[../Planes of Existence/The Material Plane/The Material Plane|The Material Plane]]

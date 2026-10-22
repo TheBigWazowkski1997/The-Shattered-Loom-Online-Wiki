@@ -14,7 +14,6 @@ dg-publish: true
 
 ---
 [[../Factions/The Pale Lodge/The Pale Lodge|The Pale Lodge]]
-[[../Sessions/Session 1 - The Wraith and the Pale Lodge|Session 1 - The Wraith and the Pale Lodge]]
 [[../Cosmology/Relics of Power|Loom Fragment]]
 [[#The Scholar's Journal|The Scholar's Journal]]
 [[#Thread-Sense|Thread-Map]]
