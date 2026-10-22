@@ -1,0 +1,108 @@
+---
+import BaseLayout from '../layouts/BaseLayout.astro';
+import Header from '../components/Header.astro';
+
+const baseUrl = import.meta.env.BASE_URL.replace(/\/$/, '');
+---
+
+<BaseLayout
+  title="404: Lost in the Void | The Shattered Loom"
+  description="You have drifted beyond the woven tapestries of reality into the un-woven void."
+>
+  <Header />
+
+  <main class="not-found-main">
+    <div class="not-found-card glass-panel">
+      <div class="void-rune">✦ 404 ✦</div>
+      <h1 class="void-title">LOST BEYOND THE WEAVE</h1>
+      <p class="void-desc">
+        You have drifted past the boundaries of the Shattered Loom into the cold, silent void where geometry and fate dissolve. No golden filaments tether this coordinate.
+      </p>
+
+      <div class="void-actions">
+        <a href={`${baseUrl}/`} class="btn-primary">
+          <span>Return to Fractured Nexus</span>
+          <span class="btn-arrow">→</span>
+        </a>
+        <a href={`${baseUrl}/wiki/cosmology/the-shattered-loom-universe`} class="btn-secondary">
+          <span>Re-Anchor to Core Setting</span>
+        </a>
+      </div>
+    </div>
+  </main>
+</BaseLayout>
+
+<style>
+  .not-found-main {
+    flex: 1;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    padding: 4rem 1.5rem;
+    position: relative;
+    z-index: 10;
+  }
+
+  .not-found-card {
+    max-width: 600px;
+    width: 100%;
+    padding: 3.5rem 2.5rem;
+    text-align: center;
+    border: 1px solid var(--border-strong);
+    box-shadow: var(--shadow-elevation), var(--crimson-glow);
+  }
+
+  .void-rune {
+    font-family: var(--font-heading);
+    font-size: 1.5rem;
+    font-weight: 800;
+    color: var(--crimson-primary);
+    letter-spacing: 0.2em;
+    margin-bottom: 1rem;
+  }
+
+  .void-title {
+    font-size: 2.2rem;
+    color: var(--gold-primary);
+    margin-bottom: 1.2rem;
+  }
+
+  .void-desc {
+    color: var(--text-muted);
+    font-size: 1.1rem;
+    line-height: 1.7;
+    margin-bottom: 2.5rem;
+  }
+
+  .void-actions {
+    display: flex;
+    gap: 1rem;
+    justify-content: center;
+    flex-wrap: wrap;
+  }
+
+  .btn-primary {
+    display: inline-flex;
+    align-items: center;
+    gap: 0.5rem;
+    background: linear-gradient(135deg, var(--gold-primary), var(--gold-secondary));
+    color: #000;
+    font-family: var(--font-heading);
+    font-weight: 700;
+    padding: 0.75rem 1.4rem;
+    border-radius: 8px;
+    text-decoration: none;
+    box-shadow: var(--gold-glow);
+  }
+
+  .btn-secondary {
+    display: inline-flex;
+    align-items: center;
+    border: 1px solid var(--border-subtle);
+    padding: 0.75rem 1.4rem;
+    border-radius: 8px;
+    color: var(--gold-light);
+    font-family: var(--font-heading);
+    text-decoration: none;
+  }
+</style>

@@ -1,0 +1,374 @@
+---
+import { slugify } from '../plugins/wiki-indexer.js';
+
+interface Props {
+  currentSlug?: string;
+}
+
+const { currentSlug = '' } = Astro.props;
+const baseUrl = import.meta.env.BASE_URL.replace(/\/$/, '');
+
+// Navigation structure
+const navSections = [
+  {
+    title: '🌌 Cosmology & Lore',
+    icon: '🌌',
+    items: [
+      { title: 'The Shattered Loom Universe', slug: 'cosmology/the-shattered-loom-universe' },
+      { title: 'The Shattering of the Loom', slug: 'cosmology/the-shattering-of-the-loom' },
+      { title: 'The Mark of Telara', slug: 'cosmology/the-mark-of-telara' },
+      { title: 'Graphical Timeline', slug: 'cosmology/timeline-of-the-shattered-loom-graphical' },
+      { title: 'Interplanar Calendar', slug: 'cosmology/shattered_loom_calendar' },
+      { title: 'Relics of Power', slug: 'cosmology/relics-of-power' },
+    ]
+  },
+  {
+    title: '🗺️ Planes of Existence',
+    icon: '🗺️',
+    items: [
+      { title: 'The Material Plane', slug: 'planes-of-existence/the-material-plane/the-material-plane' },
+      { title: 'The Feywild', slug: 'planes-of-existence/the-material-plane/feywild' },
+      { title: 'The Shadowfell', slug: 'planes-of-existence/the-material-plane/shadowfell' },
+      { title: 'Cities of Material Plane', slug: 'planes-of-existence/the-material-plane/cities-of-the-material-plane' },
+      { title: 'The Elemental Planes Overview', slug: 'planes-of-existence/elemental-planes/the-elemental-planes' },
+      { title: 'Plane of Air: Skybound Expanse', slug: 'planes-of-existence/elemental-planes/plane-of-air/plane-of-air-the-skybound-expanse' },
+      { title: 'Plane of Fire: Everblaze Expanse', slug: 'planes-of-existence/elemental-planes/plane-of-fire/plane-of-fire-the-everblaze-expanse' },
+      { title: 'Plane of Earth: Unyielding Depths', slug: 'planes-of-existence/elemental-planes/plane-of-earth/plane-of-earth-the-unyielding-depths' },
+      { title: 'Plane of Water: Azure Expanse', slug: 'planes-of-existence/elemental-planes/plane-of-water/plane-of-water-the-azure-expanse' },
+      { title: 'The Fractured Nexus', slug: 'planes-of-existence/the-fractured-nexus/the-fractured-nexus' },
+      { title: 'The Grand Archive', slug: 'planes-of-existence/the-grand-archive/the-grand-archive' },
+      { title: 'The Nine Hells', slug: 'planes-of-existence/the-nine-hells/the-nine-hells' },
+      { title: 'The Abyss', slug: 'planes-of-existence/the-abyss/the-abyss' },
+      { title: 'The 32 Chambers (Prison Plane)', slug: 'planes-of-existence/the-prison-plane/the-32-chambers' },
+      { title: "City of Ry'leh", slug: 'planes-of-existence/city-of-ryleh/city-of-ryleh' },
+      { title: 'The Far Realm', slug: 'planes-of-existence/the-far-realm/the-far-realm' },
+    ]
+  },
+  {
+    title: '🏛️ The Ten Factions',
+    icon: '🏛️',
+    items: [
+      { title: 'The Pale Lodge', slug: 'factions/the-pale-lodge/the-pale-lodge' },
+      { title: 'The Cult of the Broken Thread', slug: 'factions/the-cult-of-the-broken-thread' },
+      { title: 'The Keepers of the Sacred Weft', slug: 'factions/the-keepers-of-the-sacred-weft' },
+      { title: 'The Consortium of the Gilded Caliper', slug: 'factions/the-consortium-of-the-gilded-caliper' },
+      { title: 'The Ironbound Covenant', slug: 'factions/the-ironbound-covenant' },
+      { title: 'The Kargat', slug: 'factions/the-kargat' },
+      { title: 'The Keepers of the Feather', slug: 'factions/the-keepers-of-the-feather' },
+      { title: 'The Priests of Osybus', slug: 'factions/the-priests-of-osybus' },
+      { title: 'The Shadar-kai Memory-Sworn', slug: 'factions/the-shadar-kai-memory-sworn' },
+      { title: 'The Ulmist Inquisition', slug: 'factions/the-ulmist-inquisition' },
+    ]
+  },
+  {
+    title: '👥 Dramatis Personae',
+    icon: '👥',
+    items: [
+      { title: 'Telara, Prime Weaver', slug: 'npcs/gods/telara' },
+      { title: 'Pale Night, Veiled Mother', slug: 'npcs/gods/pale-night' },
+      { title: 'Key NPCs: Pale Lodge', slug: 'npcs/key-npcs-pale-lodge' },
+      { title: 'Key NPCs: The Gilded Caliper', slug: 'npcs/key-npcs-the-gilded-caliper' },
+      { title: 'Key NPCs: Ironbound Covenant', slug: 'npcs/key-npcs-the-ironbound-covenant' },
+      { title: 'Key NPCs: Dreambound', slug: 'npcs/key-npcs-dreambound' },
+      { title: 'Aelira, the Weftkeeper', slug: 'npcs/aelira-the-weftkeeper' },
+      { title: 'Kaelthar, the Threadwarden', slug: 'npcs/kaelthar-the-threadwarden' },
+      { title: 'The Silent Spool', slug: 'npcs/the-silent-spool' },
+      { title: 'Vaelen Corryn', slug: 'npcs/vaelen-corryn' },
+      { title: 'Captain Seris Vael', slug: 'npcs/captain-seris-vael' },
+      { title: 'Count Strahd von Zarovich', slug: 'npcs/count-strahd-von-zarovich' },
+      { title: 'Azalin Rex', slug: 'npcs/azalin-rex' },
+      { title: 'Tasha (Iggwilv)', slug: 'npcs/tasha-iggwilv-the-mother-of-witches' },
+      { title: 'Halaster Blackcloak', slug: 'npcs/halaster-blackcloak-the-mad-weaver' },
+      { title: 'Vecna, Whispered Secret', slug: 'npcs/vecna-the-whispered-secret' },
+    ]
+  },
+  {
+    title: '⚡ Cosmic Conflicts & Beings',
+    icon: '⚡',
+    items: [
+      { title: 'The Blood War', slug: 'cosmology/the-blood-war' },
+      { title: 'The Crimson Weave', slug: 'cosmology/the-crimson-weave' },
+      { title: 'The Elder Evils', slug: 'cosmology/the-elder-evils' },
+      { title: 'The Trial of Asmodeus', slug: 'cosmology/the-trial-of-asmodeus' },
+      { title: 'The Loom Warden', slug: 'cosmology/beings-of-power/the-loom-warden' },
+      { title: 'The Librarian', slug: 'cosmology/beings-of-power/the-librarian' },
+      { title: 'The Great Dreamer', slug: 'cosmology/beings-of-power/the-great-dreamer' },
+      { title: 'Baba Lysaga', slug: 'cosmology/beings-of-power/baba-lysaga' },
+      { title: 'Thanathel, Final Severance', slug: 'cosmology/beings-of-power/the-dragons-of-the-apocolyse/thanathel-the-final-severance' },
+      { title: 'Keterus, Sovereign Mandate', slug: 'cosmology/beings-of-power/the-dragons-of-the-apocolyse/keterus-the-sovereign-mandate' },
+      { title: 'Mortha-Vahl, Blight of Meaning', slug: 'cosmology/beings-of-power/the-dragons-of-the-apocolyse/mortha-vahl-the-blight-of-meaning' },
+      { title: 'Vrakkas, Friction of Being', slug: 'cosmology/beings-of-power/the-dragons-of-the-apocolyse/vrakkas-the-friction-of-being' },
+    ]
+  },
+  {
+    title: '🧬 Species & Bestiary',
+    icon: '🧬',
+    items: [
+      { title: 'Hag Dragon', slug: 'species/hag-dragon' },
+      { title: 'Sorrowsworn', slug: 'species/sorrowsworn' },
+      { title: 'Corpse Collector', slug: 'species/corpse-collector' },
+      { title: "Death's Head", slug: 'species/deaths-head' },
+      { title: 'Black Beast of Bedlam', slug: 'species/black-beast-of-bedlam' },
+    ]
+  },
+  {
+    title: '🛸 Magic & Vessels',
+    icon: '🛸',
+    items: [
+      { title: 'Spell Jammers', slug: 'magic/spell-jammers' },
+      { title: 'Legacy Items', slug: 'magic/legacy-items' },
+      { title: 'The Pact Primeval', slug: 'magic/the-pact-primeval' },
+    ]
+  },
+  {
+    title: '📜 Campaign Chronicles',
+    icon: '📜',
+    items: [
+      { title: 'Chronicle 0: Awakening & Call', slug: 'sessions/session-0' },
+      { title: 'Chronicle 1: The Wraith & Pale Lodge', slug: 'sessions/session-1-the-wraith-and-the-pale-lodge' },
+      { title: 'Chronicle 2: The Silent Singularity', slug: 'sessions/session-2-the-silent-singularity' },
+      { title: 'Chronicle 3: The Blood & The Loom', slug: 'sessions/session-3-the-blood-and-the-loom' },
+      { title: 'Chronicle 4: Steel, Smoke, and Gold', slug: 'sessions/session-4-steel-smoke-and-gold' },
+      { title: 'Chronicle 5: The Grand Archive', slug: 'sessions/session-5-the-grand-archive' },
+    ]
+  }
+];
+---
+
+<aside id="wiki-sidebar" class="wiki-sidebar">
+  <div class="sidebar-filter-wrapper">
+    <input
+      type="text"
+      id="sidebar-filter-input"
+      placeholder="Filter topics..."
+      aria-label="Filter sidebar navigation"
+    />
+  </div>
+
+  <nav class="sidebar-nav">
+    <a href={`${baseUrl}/`} class={`sidebar-home-link ${!currentSlug ? 'active' : ''}`}>
+      <span class="home-icon">🏠</span>
+      <span>Wiki Portal Home</span>
+    </a>
+
+    {navSections.map((sec, secIdx) => (
+      <div class="nav-group" data-section-idx={secIdx}>
+        <button class="nav-group-header" aria-expanded="true">
+          <span class="group-title">{sec.title}</span>
+          <span class="group-chevron">▾</span>
+        </button>
+        <ul class="nav-group-items">
+          {sec.items.map((item) => {
+            const isActive = currentSlug === item.slug || currentSlug.endsWith(item.slug);
+            return (
+              <li class="nav-item">
+                <a
+                  href={`${baseUrl}/wiki/${item.slug}`}
+                  class={`nav-item-link ${isActive ? 'active' : ''}`}
+                  title={item.title}
+                >
+                  {item.title}
+                </a>
+              </li>
+            );
+          })}
+        </ul>
+      </div>
+    ))}
+  </nav>
+</aside>
+
+<style>
+  .wiki-sidebar {
+    width: var(--sidebar-width);
+    flex-shrink: 0;
+    height: calc(100vh - var(--header-height));
+    position: sticky;
+    top: var(--header-height);
+    overflow-y: auto;
+    background: var(--bg-surface);
+    border-right: 1px solid var(--border-subtle);
+    padding: 1.2rem 1rem 3rem 1rem;
+    display: flex;
+    flex-direction: column;
+    gap: 1rem;
+    z-index: 50;
+  }
+
+  .sidebar-filter-wrapper {
+    position: sticky;
+    top: 0;
+    z-index: 2;
+    background: var(--bg-surface);
+    padding-bottom: 0.5rem;
+  }
+
+  #sidebar-filter-input {
+    width: 100%;
+    padding: 0.45rem 0.8rem;
+    border-radius: 6px;
+    border: 1px solid var(--border-subtle);
+    background: rgba(0, 0, 0, 0.25);
+    color: var(--text-main);
+    font-family: var(--font-body);
+    font-size: 0.9rem;
+    outline: none;
+    transition: border-color 0.2s ease;
+  }
+
+  #sidebar-filter-input:focus {
+    border-color: var(--gold-primary);
+    box-shadow: 0 0 8px rgba(229, 184, 90, 0.2);
+  }
+
+  .sidebar-home-link {
+    display: flex;
+    align-items: center;
+    gap: 0.6rem;
+    padding: 0.5rem 0.8rem;
+    border-radius: 6px;
+    font-family: var(--font-heading);
+    font-size: 0.92rem;
+    font-weight: 700;
+    color: var(--gold-primary);
+    text-decoration: none;
+    margin-bottom: 0.8rem;
+    border: 1px solid var(--border-subtle);
+    background: rgba(229, 184, 90, 0.06);
+    transition: all 0.2s ease;
+  }
+
+  .sidebar-home-link:hover, .sidebar-home-link.active {
+    background: rgba(229, 184, 90, 0.15);
+    border-color: var(--gold-primary);
+    box-shadow: var(--gold-glow);
+  }
+
+  .nav-group {
+    margin-bottom: 0.8rem;
+  }
+
+  .nav-group-header {
+    width: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding: 0.4rem 0.5rem;
+    background: transparent;
+    border: none;
+    color: var(--gold-primary);
+    font-family: var(--font-heading);
+    font-size: 0.82rem;
+    font-weight: 800;
+    letter-spacing: 0.05em;
+    text-transform: uppercase;
+    cursor: pointer;
+    border-bottom: 1px solid var(--border-subtle);
+    margin-bottom: 0.4rem;
+  }
+
+  .group-chevron {
+    transition: transform 0.2s ease;
+    font-size: 0.85rem;
+  }
+
+  .nav-group.collapsed .group-chevron {
+    transform: rotate(-90deg);
+  }
+
+  .nav-group.collapsed .nav-group-items {
+    display: none;
+  }
+
+  .nav-group-items {
+    list-style: none;
+    padding-left: 0.5rem;
+    margin: 0;
+  }
+
+  .nav-item {
+    margin: 0.15rem 0;
+  }
+
+  .nav-item-link {
+    display: block;
+    padding: 0.35rem 0.6rem;
+    border-radius: 5px;
+    font-size: 0.88rem;
+    color: var(--text-muted);
+    text-decoration: none;
+    white-space: nowrap;
+    overflow: hidden;
+    text-overflow: ellipsis;
+    transition: all 0.15s ease;
+    border-left: 2px solid transparent;
+  }
+
+  .nav-item-link:hover {
+    color: var(--gold-light);
+    background: rgba(229, 184, 90, 0.08);
+    border-left-color: var(--gold-primary);
+    transform: translateX(2px);
+  }
+
+  .nav-item-link.active {
+    color: #fff;
+    background: rgba(229, 184, 90, 0.18);
+    border-left-color: var(--gold-primary);
+    font-weight: 600;
+    box-shadow: 0 0 10px rgba(229, 184, 90, 0.15);
+  }
+
+  @media (max-width: 960px) {
+    .wiki-sidebar {
+      position: fixed;
+      left: -100%;
+      top: var(--header-height);
+      height: calc(100vh - var(--header-height));
+      width: 290px;
+      transition: left 0.3s ease;
+      box-shadow: 10px 0 30px rgba(0, 0, 0, 0.7);
+    }
+    :global(body.sidebar-mobile-open) .wiki-sidebar {
+      left: 0;
+    }
+  }
+</style>
+
+<script>
+  function setupSidebar() {
+    // Collapsible sections
+    document.querySelectorAll('.nav-group-header').forEach((btn) => {
+      btn.addEventListener('click', () => {
+        const group = btn.closest('.nav-group');
+        if (!group) return;
+        const isCollapsed = group.classList.toggle('collapsed');
+        btn.setAttribute('aria-expanded', isCollapsed ? 'false' : 'true');
+      });
+    });
+
+    // Real-time topic filter
+    const filterInput = document.getElementById('sidebar-filter-input');
+    if (!filterInput) return;
+
+    filterInput.addEventListener('input', (e) => {
+      const q = e.target.value.toLowerCase().trim();
+      const items = document.querySelectorAll('.nav-item');
+
+      items.forEach((item) => {
+        const text = item.textContent?.toLowerCase() || '';
+        const match = !q || text.includes(q);
+        item.style.display = match ? 'block' : 'none';
+      });
+
+      // Show/hide section header based on whether any children are visible
+      document.querySelectorAll('.nav-group').forEach((group) => {
+        const visibleItems = group.querySelectorAll('.nav-item[style*="display: block"], .nav-item:not([style*="display: none"])');
+        group.style.display = (visibleItems.length > 0 || !q) ? 'block' : 'none';
+      });
+    });
+  }
+
+  setupSidebar();
+  document.addEventListener('astro:after-swap', setupSidebar);
+</script>

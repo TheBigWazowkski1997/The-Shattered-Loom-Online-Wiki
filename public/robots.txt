@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://thebigwazowkski1997.github.io/The-Shattered-Loom-Online-Wiki/sitemap-index.xml

@@ -1,0 +1,131 @@
+---
+interface Heading {
+  depth: number;
+  slug: string;
+  text: string;
+}
+
+interface Props {
+  headings?: Heading[];
+}
+
+const { headings = [] } = Astro.props;
+const filteredHeadings = headings.filter((h) => h.depth === 2 || h.depth === 3);
+---
+
+{filteredHeadings.length > 0 && (
+  <nav class="toc-container">
+    <div class="toc-header">
+      <span class="toc-icon">📜</span>
+      <span>ON THIS PAGE</span>
+    </div>
+    <ul class="toc-list">
+      {filteredHeadings.map((h) => (
+        <li class={`toc-item depth-${h.depth}`}>
+          <a href={`#${h.slug}`} class="toc-link" data-heading-slug={h.slug}>
+            {h.text}
+          </a>
+        </li>
+      ))}
+    </ul>
+  </nav>
+)}
+
+<style>
+  .toc-container {
+    width: var(--toc-width);
+    flex-shrink: 0;
+    position: sticky;
+    top: calc(var(--header-height) + 2rem);
+    max-height: calc(100vh - var(--header-height) - 4rem);
+    overflow-y: auto;
+    padding: 1rem 0.5rem 1rem 1rem;
+    border-left: 1px solid var(--border-subtle);
+    font-size: 0.85rem;
+  }
+
+  .toc-header {
+    display: flex;
+    align-items: center;
+    gap: 0.4rem;
+    font-family: var(--font-heading);
+    font-weight: 700;
+    color: var(--gold-primary);
+    letter-spacing: 0.05em;
+    font-size: 0.78rem;
+    margin-bottom: 0.8rem;
+    text-transform: uppercase;
+  }
+
+  .toc-icon {
+    font-size: 0.95rem;
+  }
+
+  .toc-list {
+    list-style: none;
+    margin: 0;
+    padding: 0;
+  }
+
+  .toc-item {
+    margin-bottom: 0.35rem;
+  }
+
+  .toc-item.depth-3 {
+    padding-left: 0.85rem;
+    font-size: 0.8rem;
+  }
+
+  .toc-link {
+    display: block;
+    color: var(--text-muted);
+    text-decoration: none;
+    line-height: 1.4;
+    transition: all 0.15s ease;
+    border-left: 2px solid transparent;
+    padding-left: 0.5rem;
+    margin-left: -1px;
+  }
+
+  .toc-link:hover {
+    color: var(--gold-light);
+  }
+
+  .toc-link.active {
+    color: var(--gold-primary);
+    border-left-color: var(--gold-primary);
+    font-weight: 600;
+  }
+
+  @media (max-width: 1200px) {
+    .toc-container {
+      display: none;
+    }
+  }
+</style>
+
+<script>
+  function setupTocSpy() {
+    const links = document.querySelectorAll('.toc-link');
+    if (links.length === 0) return;
+
+    const observer = new IntersectionObserver(
+      (entries) => {
+        entries.forEach((entry) => {
+          if (entry.isIntersecting) {
+            const id = entry.target.getAttribute('id');
+            links.forEach((l) => {
+              l.classList.toggle('active', l.getAttribute('data-heading-slug') === id);
+            });
+          }
+        });
+      },
+      { rootMargin: '-80px 0px -70% 0px' }
+    );
+
+    document.querySelectorAll('h2[id], h3[id]').forEach((h) => observer.observe(h));
+  }
+
+  setupTocSpy();
+  document.addEventListener('astro:after-swap', setupTocSpy);
+</script>

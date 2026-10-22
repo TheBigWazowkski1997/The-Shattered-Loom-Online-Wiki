@@ -1,0 +1,196 @@
+---
+import BaseLayout from './BaseLayout.astro';
+import Header from '../components/Header.astro';
+import Sidebar from '../components/Sidebar.astro';
+import TableOfContents from '../components/TableOfContents.astro';
+import Breadcrumbs from '../components/Breadcrumbs.astro';
+
+interface Props {
+  title: string;
+  description?: string;
+  currentSlug?: string;
+  headings?: any[];
+  frontmatter?: any;
+}
+
+const { title, description, currentSlug = '', headings = [], frontmatter = {} } = Astro.props;
+const baseUrl = import.meta.env.BASE_URL.replace(/\/$/, '');
+---
+
+<BaseLayout title={`${title} | The Shattered Loom Wiki`} description={description}>
+  <!-- Top Reading Progress Indicator -->
+  <div id="reading-progress" class="reading-progress-bar"></div>
+
+  <Header />
+
+  <div class="wiki-main-container">
+    <Sidebar currentSlug={currentSlug} />
+
+    <main class="wiki-content-area">
+      <div class="article-wrapper">
+        <Breadcrumbs currentSlug={currentSlug} title={title} />
+
+        <article class="wiki-article glass-panel">
+          <header class="article-header">
+            <h1 class="article-title">{title}</h1>
+            <div class="article-meta">
+              <span class="badge">D&D 5E Setting</span>
+              {frontmatter.aliases && (
+                <span class="aliases-text">Known as: {Array.isArray(frontmatter.aliases) ? frontmatter.aliases.join(', ') : frontmatter.aliases}</span>
+              )}
+            </div>
+          </header>
+
+          <div class="article-body">
+            <slot />
+          </div>
+
+          <footer class="article-footer">
+            <div class="footer-quote">
+              <em>"Every door is a gateway, every stranger is a survivor, and every step is a choice between restoration... or unraveling."</em>
+            </div>
+            <div class="footer-links">
+              <a href="https://github.com/TheBigWazowkski1997/The-Shattered-Loom-Online-Wiki" target="_blank" rel="noopener">
+                ✦ View Source Repository
+              </a>
+              <a href={`${baseUrl}/`} class="back-to-portal">
+                Return to Multiverse Portal ↑
+              </a>
+            </div>
+          </footer>
+        </article>
+      </div>
+    </main>
+
+    <TableOfContents headings={headings} />
+  </div>
+</BaseLayout>
+
+<style>
+  .reading-progress-bar {
+    position: fixed;
+    top: 0;
+    left: 0;
+    height: 3px;
+    background: linear-gradient(90deg, var(--gold-secondary), var(--gold-primary), var(--crimson-primary));
+    width: 0%;
+    z-index: 200;
+    transition: width 0.1s ease;
+    box-shadow: 0 0 10px rgba(229, 184, 90, 0.7);
+  }
+
+  .wiki-main-container {
+    max-width: 1600px;
+    margin: 0 auto;
+    width: 100%;
+    display: flex;
+    position: relative;
+    z-index: 10;
+  }
+
+  .wiki-content-area {
+    flex: 1;
+    min-width: 0;
+    padding: 2rem 2.5rem 4rem 2.5rem;
+  }
+
+  .article-wrapper {
+    max-width: 900px;
+    margin: 0 auto;
+  }
+
+  .wiki-article {
+    padding: 2.5rem 3rem;
+    border: 1px solid var(--border-subtle);
+    border-radius: 14px;
+    background: var(--bg-surface);
+    backdrop-filter: blur(14px);
+    -webkit-backdrop-filter: blur(14px);
+    box-shadow: var(--shadow-elevation);
+  }
+
+  .article-header {
+    margin-bottom: 2rem;
+    border-bottom: 1px solid var(--border-subtle);
+    padding-bottom: 1.5rem;
+  }
+
+  .article-title {
+    font-size: 2.4rem;
+    margin-bottom: 0.8rem;
+    color: var(--gold-primary);
+    text-shadow: 0 2px 8px rgba(0, 0, 0, 0.4);
+    letter-spacing: 0.02em;
+  }
+
+  .article-meta {
+    display: flex;
+    align-items: center;
+    gap: 1rem;
+    flex-wrap: wrap;
+    font-size: 0.85rem;
+    color: var(--text-faint);
+  }
+
+  .article-body {
+    font-size: 1.05rem;
+    line-height: 1.8;
+  }
+
+  .article-footer {
+    margin-top: 3.5rem;
+    padding-top: 1.8rem;
+    border-top: 1px solid var(--border-subtle);
+  }
+
+  .footer-quote {
+    font-family: var(--font-body);
+    font-style: italic;
+    color: var(--text-muted);
+    font-size: 0.95rem;
+    text-align: center;
+    margin-bottom: 1.5rem;
+  }
+
+  .footer-links {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    flex-wrap: wrap;
+    gap: 1rem;
+    font-family: var(--font-heading);
+    font-size: 0.85rem;
+  }
+
+  .footer-links a {
+    color: var(--gold-primary);
+  }
+
+  @media (max-width: 960px) {
+    .wiki-content-area {
+      padding: 1.2rem 1rem 3rem 1rem;
+    }
+    .wiki-article {
+      padding: 1.5rem 1.25rem;
+    }
+    .article-title {
+      font-size: 1.85rem;
+    }
+  }
+</style>
+
+<script>
+  function setupScrollProgress() {
+    const bar = document.getElementById('reading-progress');
+    if (!bar) return;
+
+    window.addEventListener('scroll', () => {
+      const total = document.documentElement.scrollHeight - window.innerHeight;
+      const progress = total > 0 ? (window.scrollY / total) * 100 : 0;
+      bar.style.width = `${progress}%`;
+    });
+  }
+
+  setupScrollProgress();
+  document.addEventListener('astro:after-swap', setupScrollProgress);
+</script>

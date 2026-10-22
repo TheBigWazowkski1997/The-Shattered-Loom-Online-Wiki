@@ -1,0 +1,418 @@
+@import url('https://fonts.googleapis.com/css2?family=Alegreya:ital,wght@0,400;0,500;0,600;0,700;1,400;1,600&family=Cinzel:wght@500;600;700;800;900&family=IBM+Plex+Mono:wght@400;500;600&display=swap');
+
+:root {
+  --font-heading: 'Cinzel', serif;
+  --font-body: 'Alegreya', Georgia, serif;
+  --font-mono: 'IBM Plex Mono', monospace;
+
+  /* Dark Theme (Astral Weave - Default) */
+  --bg-primary: #0a080c;
+  --bg-secondary: #120e16;
+  --bg-tertiary: #19141f;
+  --bg-surface: rgba(22, 17, 27, 0.75);
+  --bg-surface-solid: #17121c;
+  --bg-surface-hover: rgba(35, 27, 43, 0.85);
+
+  --border-subtle: rgba(212, 163, 75, 0.15);
+  --border-strong: rgba(212, 163, 75, 0.4);
+  --border-glow: rgba(229, 184, 90, 0.35);
+
+  --gold-primary: #e5b85a;
+  --gold-secondary: #c99a38;
+  --gold-light: #fbe3a1;
+  --gold-glow: 0 0 20px rgba(229, 184, 90, 0.25);
+
+  --crimson-primary: #d13849;
+  --crimson-secondary: #a6202f;
+  --crimson-glow: 0 0 15px rgba(209, 56, 73, 0.3);
+
+  --cyan-astral: #38bdf8;
+  --cyan-glow: 0 0 15px rgba(56, 189, 248, 0.25);
+
+  --text-main: #f5efe6;
+  --text-muted: #c8bbae;
+  --text-faint: #8d7e70;
+
+  --shadow-card: 0 10px 30px -10px rgba(0, 0, 0, 0.7);
+  --shadow-elevation: 0 20px 40px -15px rgba(0, 0, 0, 0.8);
+
+  --header-height: 64px;
+  --sidebar-width: 300px;
+  --toc-width: 250px;
+}
+
+[data-theme="light"] {
+  --bg-primary: #f8f4ec;
+  --bg-secondary: #f0e8da;
+  --bg-tertiary: #e7dcce;
+  --bg-surface: rgba(255, 255, 255, 0.82);
+  --bg-surface-solid: #ffffff;
+  --bg-surface-hover: rgba(245, 237, 225, 0.95);
+
+  --border-subtle: rgba(160, 118, 42, 0.2);
+  --border-strong: rgba(160, 118, 42, 0.5);
+  --border-glow: rgba(160, 118, 42, 0.25);
+
+  --gold-primary: #9e7422;
+  --gold-secondary: #7e5c19;
+  --gold-light: #523b0d;
+  --gold-glow: 0 0 12px rgba(158, 116, 34, 0.2);
+
+  --crimson-primary: #9c1c2a;
+  --crimson-secondary: #74111d;
+  --crimson-glow: 0 0 10px rgba(156, 28, 42, 0.2);
+
+  --cyan-astral: #0284c7;
+  --cyan-glow: 0 0 10px rgba(2, 132, 199, 0.2);
+
+  --text-main: #241a13;
+  --text-muted: #534335;
+  --text-faint: #847262;
+
+  --shadow-card: 0 8px 24px -8px rgba(90, 68, 45, 0.15);
+  --shadow-elevation: 0 16px 36px -12px rgba(90, 68, 45, 0.22);
+}
+
+/* Reset & Base */
+*, *::before, *::after {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+
+html {
+  font-family: var(--font-body);
+  font-size: 18px;
+  line-height: 1.7;
+  color: var(--text-main);
+  background-color: var(--bg-primary);
+  scroll-behavior: smooth;
+  scroll-padding-top: calc(var(--header-height) + 1.5rem);
+}
+
+body {
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  background-image: 
+    radial-gradient(ellipse at 50% 0%, rgba(229, 184, 90, 0.05) 0%, transparent 60%),
+    radial-gradient(ellipse at 85% 30%, rgba(209, 56, 73, 0.03) 0%, transparent 50%),
+    radial-gradient(ellipse at 15% 70%, rgba(56, 189, 248, 0.03) 0%, transparent 50%);
+  background-attachment: fixed;
+  overflow-x: hidden;
+}
+
+/* Typography */
+h1, h2, h3, h4, h5, h6 {
+  font-family: var(--font-heading);
+  letter-spacing: 0.03em;
+  font-weight: 700;
+  color: var(--gold-primary);
+  line-height: 1.25;
+  text-shadow: 0 2px 4px rgba(0, 0, 0, 0.3);
+}
+
+h1 { font-size: 2.2rem; margin-bottom: 1rem; }
+h2 { font-size: 1.65rem; margin-top: 2rem; margin-bottom: 0.75rem; border-bottom: 1px solid var(--border-subtle); padding-bottom: 0.3rem; }
+h3 { font-size: 1.35rem; margin-top: 1.5rem; margin-bottom: 0.5rem; color: var(--gold-light); }
+h4 { font-size: 1.15rem; margin-top: 1.25rem; margin-bottom: 0.5rem; }
+
+p {
+  margin-bottom: 1.2rem;
+  font-size: 1.05rem;
+}
+
+a {
+  color: var(--gold-primary);
+  text-decoration: none;
+  transition: all 0.2s ease;
+}
+
+a:hover {
+  color: var(--gold-light);
+  text-shadow: var(--gold-glow);
+}
+
+/* Custom Scrollbars */
+::-webkit-scrollbar {
+  width: 8px;
+  height: 8px;
+}
+::-webkit-scrollbar-track {
+  background: var(--bg-primary);
+}
+::-webkit-scrollbar-thumb {
+  background: var(--border-strong);
+  border-radius: 4px;
+}
+::-webkit-scrollbar-thumb:hover {
+  background: var(--gold-primary);
+}
+
+/* Runic Horizontal Rule */
+hr {
+  border: 0;
+  height: 1px;
+  background: linear-gradient(90deg, transparent, var(--border-strong), transparent);
+  margin: 2.5rem 0;
+  position: relative;
+  overflow: visible;
+}
+hr::after {
+  content: '✦';
+  position: absolute;
+  left: 50%;
+  top: 50%;
+  transform: translate(-50%, -50%);
+  background: var(--bg-primary);
+  padding: 0 0.75rem;
+  color: var(--gold-primary);
+  font-size: 0.85rem;
+}
+
+/* Wiki Links */
+.wiki-link {
+  color: var(--gold-primary);
+  font-weight: 600;
+  border-bottom: 1px dashed var(--border-strong);
+  padding-bottom: 1px;
+  transition: all 0.2s ease;
+}
+.wiki-link:hover {
+  color: #fff;
+  border-bottom-style: solid;
+  border-bottom-color: var(--gold-light);
+  background: rgba(229, 184, 90, 0.12);
+  border-radius: 2px;
+  padding: 1px 4px;
+  margin: -1px -4px;
+}
+
+/* Callouts / Parchment Scrolls */
+.wiki-callout {
+  margin: 1.8rem 0;
+  border-radius: 8px;
+  border: 1px solid var(--border-subtle);
+  background: var(--bg-surface);
+  backdrop-filter: blur(8px);
+  overflow: hidden;
+  box-shadow: var(--shadow-card);
+  border-left-width: 4px;
+  transition: transform 0.2s ease, box-shadow 0.2s ease;
+}
+
+.wiki-callout:hover {
+  transform: translateY(-1px);
+  box-shadow: var(--shadow-elevation);
+}
+
+.callout-header {
+  display: flex;
+  align-items: center;
+  gap: 0.6rem;
+  padding: 0.6rem 1rem;
+  background: rgba(0, 0, 0, 0.2);
+  border-bottom: 1px solid var(--border-subtle);
+  font-family: var(--font-heading);
+  font-size: 0.85rem;
+  font-weight: 700;
+  letter-spacing: 0.05em;
+  text-transform: uppercase;
+}
+
+.callout-icon {
+  font-size: 1.1rem;
+}
+
+.callout-body {
+  padding: 1rem 1.2rem;
+}
+
+.callout-body > *:last-child {
+  margin-bottom: 0;
+}
+
+/* Callout Variant Colors */
+.callout-note { border-left-color: var(--gold-primary); }
+.callout-note .callout-header { color: var(--gold-primary); }
+
+.callout-warning, .callout-caution { border-left-color: #f59e0b; }
+.callout-warning .callout-header, .callout-caution .callout-header { color: #f59e0b; }
+
+.callout-danger { border-left-color: var(--crimson-primary); }
+.callout-danger .callout-header { color: var(--crimson-primary); }
+
+.callout-tip { border-left-color: #10b981; }
+.callout-tip .callout-header { color: #10b981; }
+
+.callout-lore { border-left-color: var(--cyan-astral); }
+.callout-lore .callout-header { color: var(--cyan-astral); }
+
+/* Markdown Blockquotes */
+blockquote:not(.wiki-callout) {
+  margin: 1.5rem 0;
+  padding: 0.8rem 1.2rem;
+  border-left: 3px solid var(--gold-secondary);
+  background: rgba(229, 184, 90, 0.05);
+  font-style: italic;
+  color: var(--text-muted);
+  border-radius: 0 6px 6px 0;
+}
+
+/* Media & Figures */
+.wiki-figure {
+  margin: 2rem 0;
+  text-align: center;
+}
+
+.wiki-image {
+  max-width: 100%;
+  height: auto;
+  border-radius: 8px;
+  border: 1px solid var(--border-strong);
+  box-shadow: var(--shadow-elevation);
+  transition: transform 0.3s ease, border-color 0.3s ease;
+  background: #000;
+}
+
+.wiki-image:hover {
+  transform: scale(1.01);
+  border-color: var(--gold-primary);
+  box-shadow: 0 12px 35px rgba(229, 184, 90, 0.2);
+}
+
+.wiki-figure figcaption {
+  margin-top: 0.6rem;
+  font-size: 0.9rem;
+  color: var(--text-faint);
+  font-style: italic;
+}
+
+.wiki-pdf-card {
+  margin: 1.5rem 0;
+  padding: 1rem 1.5rem;
+  border-radius: 8px;
+  border: 1px dashed var(--border-strong);
+  background: var(--bg-surface);
+  display: inline-block;
+}
+
+.pdf-btn {
+  font-family: var(--font-heading);
+  font-weight: 600;
+  color: var(--gold-primary);
+  font-size: 0.95rem;
+}
+
+/* Tables - D&D Sourcebook Style */
+table {
+  width: 100%;
+  border-collapse: separate;
+  border-spacing: 0;
+  margin: 2rem 0;
+  border-radius: 8px;
+  overflow: hidden;
+  border: 1px solid var(--border-subtle);
+  box-shadow: var(--shadow-card);
+  background: var(--bg-surface);
+  font-size: 0.95rem;
+}
+
+th {
+  background: linear-gradient(180deg, rgba(35, 27, 43, 0.95), rgba(22, 17, 27, 0.95));
+  font-family: var(--font-heading);
+  color: var(--gold-primary);
+  text-align: left;
+  padding: 0.85rem 1rem;
+  font-size: 0.85rem;
+  letter-spacing: 0.05em;
+  text-transform: uppercase;
+  border-bottom: 2px solid var(--border-strong);
+}
+
+td {
+  padding: 0.75rem 1rem;
+  border-bottom: 1px solid var(--border-subtle);
+  color: var(--text-main);
+  vertical-align: top;
+}
+
+tr:last-child td {
+  border-bottom: none;
+}
+
+tr:nth-child(even) td {
+  background: rgba(255, 255, 255, 0.02);
+}
+
+tr:hover td {
+  background: rgba(229, 184, 90, 0.06);
+}
+
+/* Code & Stats */
+code {
+  font-family: var(--font-mono);
+  font-size: 0.88em;
+  background: rgba(0, 0, 0, 0.35);
+  border: 1px solid var(--border-subtle);
+  padding: 0.15rem 0.35rem;
+  border-radius: 4px;
+  color: var(--gold-light);
+}
+
+pre {
+  background: #08060a !important;
+  border: 1px solid var(--border-strong);
+  border-radius: 8px;
+  padding: 1.2rem;
+  overflow-x: auto;
+  margin: 1.5rem 0;
+  box-shadow: var(--shadow-card);
+}
+
+pre code {
+  background: transparent;
+  border: none;
+  padding: 0;
+  color: var(--text-main);
+}
+
+/* Lists */
+ul, ol {
+  margin: 1.2rem 0;
+  padding-left: 1.8rem;
+}
+
+li {
+  margin-bottom: 0.4rem;
+}
+
+li::marker {
+  color: var(--gold-primary);
+}
+
+/* Badges */
+.badge {
+  display: inline-flex;
+  align-items: center;
+  gap: 0.3rem;
+  padding: 0.2rem 0.6rem;
+  border-radius: 9999px;
+  font-size: 0.75rem;
+  font-family: var(--font-heading);
+  letter-spacing: 0.05em;
+  text-transform: uppercase;
+  border: 1px solid var(--border-strong);
+  background: rgba(229, 184, 90, 0.1);
+  color: var(--gold-primary);
+}
+
+/* Glassmorphism Card Utility */
+.glass-panel {
+  background: var(--bg-surface);
+  backdrop-filter: blur(12px);
+  -webkit-backdrop-filter: blur(12px);
+  border: 1px solid var(--border-subtle);
+  border-radius: 12px;
+  box-shadow: var(--shadow-card);
+}

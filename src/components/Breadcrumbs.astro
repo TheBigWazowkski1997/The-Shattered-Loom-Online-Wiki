@@ -1,0 +1,84 @@
+---
+interface Props {
+  currentSlug: string;
+  title: string;
+}
+
+const { currentSlug, title } = Astro.props;
+const baseUrl = import.meta.env.BASE_URL.replace(/\/$/, '');
+
+// Generate breadcrumb items from slug
+const parts = currentSlug.split('/').filter(Boolean);
+const crumbs = [];
+
+let accumulatedPath = '';
+for (let i = 0; i < parts.length - 1; i++) {
+  accumulatedPath += (accumulatedPath ? '/' : '') + parts[i];
+  const name = parts[i].replace(/[_-]/g, ' ').replace(/\b\w/g, (c) => c.toUpperCase());
+  crumbs.push({
+    name,
+    href: `${baseUrl}/wiki/${accumulatedPath}`,
+  });
+}
+---
+
+<nav class="breadcrumbs" aria-label="Breadcrumb navigation">
+  <ol class="breadcrumbs-list">
+    <li class="crumb-item">
+      <a href={`${baseUrl}/`} class="crumb-link">The Loom</a>
+      <span class="crumb-separator">›</span>
+    </li>
+    {crumbs.map((c) => (
+      <li class="crumb-item">
+        <a href={c.href} class="crumb-link">{c.name}</a>
+        <span class="crumb-separator">›</span>
+      </li>
+    ))}
+    <li class="crumb-item current" aria-current="page">
+      <span>{title}</span>
+    </li>
+  </ol>
+</nav>
+
+<style>
+  .breadcrumbs {
+    margin-bottom: 1.5rem;
+    font-size: 0.85rem;
+  }
+
+  .breadcrumbs-list {
+    display: flex;
+    flex-wrap: wrap;
+    align-items: center;
+    list-style: none;
+    padding: 0;
+    margin: 0;
+    color: var(--text-faint);
+  }
+
+  .crumb-item {
+    display: flex;
+    align-items: center;
+  }
+
+  .crumb-link {
+    color: var(--text-muted);
+    text-decoration: none;
+    transition: color 0.15s ease;
+  }
+
+  .crumb-link:hover {
+    color: var(--gold-primary);
+  }
+
+  .crumb-separator {
+    margin: 0 0.5rem;
+    color: var(--border-strong);
+    font-size: 0.9rem;
+  }
+
+  .crumb-item.current {
+    color: var(--gold-primary);
+    font-weight: 600;
+  }
+</style>

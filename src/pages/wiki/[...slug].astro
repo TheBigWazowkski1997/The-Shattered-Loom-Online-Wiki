@@ -1,0 +1,34 @@
+---
+import { getCollection, render } from 'astro:content';
+import WikiLayout from '../../layouts/WikiLayout.astro';
+import { slugify } from '../../plugins/wiki-indexer.js';
+
+export async function getStaticPaths() {
+  const docs = await getCollection('wiki');
+  return docs.map((doc) => {
+    const slug = slugify(doc.id);
+    return {
+      params: { slug },
+      props: { doc, currentSlug: slug },
+    };
+  });
+}
+
+const { doc, currentSlug } = Astro.props;
+const { Content, headings } = await render(doc);
+
+// Compute title
+const rawName = doc.id.replace(/\.md$/, '').split('/').pop() || '';
+const title = doc.data?.title || rawName.replace(/[_-]/g, ' ');
+const description = doc.data?.description || `Explore ${title} in the Project Shattered Loom D&D 5e player wiki and multiverse setting guide.`;
+---
+
+<WikiLayout
+  title={title}
+  description={description}
+  currentSlug={currentSlug}
+  headings={headings}
+  frontmatter={doc.data || {}}
+>
+  <Content />
+</WikiLayout>

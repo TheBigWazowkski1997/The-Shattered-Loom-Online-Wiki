@@ -1,0 +1,16 @@
+{
+  "name": "The Shattered Loom Wiki",
+  "short_name": "Shattered Loom",
+  "description": "Player-Friendly Wiki & Setting Guide for the Project Shattered Loom D&D 5e Multiverse",
+  "start_url": "/The-Shattered-Loom-Online-Wiki/",
+  "display": "standalone",
+  "background_color": "#0a080c",
+  "theme_color": "#e5b85a",
+  "icons": [
+    {
+      "src": "/The-Shattered-Loom-Online-Wiki/favicon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml"
+    }
+  ]
+}

@@ -1,0 +1,258 @@
+---
+import ThemeToggle from './ThemeToggle.astro';
+
+const baseUrl = import.meta.env.BASE_URL.replace(/\/$/, '');
+---
+
+<header class="wiki-header glass-panel">
+  <div class="header-inner">
+    <div class="header-left">
+      <button id="mobile-menu-btn" class="mobile-toggle" aria-label="Open Navigation Menu">
+        <svg viewBox="0 0 24 24" width="22" height="22" stroke="currentColor" stroke-width="2" fill="none">
+          <line x1="3" y1="12" x2="21" y2="12"></line>
+          <line x1="3" y1="6" x2="21" y2="6"></line>
+          <line x1="3" y1="18" x2="21" y2="18"></line>
+        </svg>
+      </button>
+
+      <a href={`${baseUrl}/`} class="site-branding">
+        <span class="spindle-icon">✦</span>
+        <div class="brand-text">
+          <span class="brand-title">THE SHATTERED LOOM</span>
+          <span class="brand-subtitle">D&D 5E PLAYER WIKI</span>
+        </div>
+      </a>
+    </div>
+
+    <nav class="header-nav">
+      <a href={`${baseUrl}/wiki/cosmology/the-shattered-loom-universe`} class="nav-link">Cosmology</a>
+      <a href={`${baseUrl}/wiki/planes-of-existence/the-material-plane/the-material-plane`} class="nav-link">Planes</a>
+      <a href={`${baseUrl}/wiki/factions/the-pale-lodge/the-pale-lodge`} class="nav-link">Factions</a>
+      <a href={`${baseUrl}/wiki/npcs/gods/telara`} class="nav-link">Dramatis Personae</a>
+      <a href={`${baseUrl}/wiki/sessions/session-0`} class="nav-link">Chronicles</a>
+    </nav>
+
+    <div class="header-right">
+      <button class="search-trigger-btn" data-open-search title="Search Wiki (Ctrl+K)">
+        <span class="search-btn-icon">🔍</span>
+        <span class="search-btn-text">Search Loom...</span>
+        <kbd class="search-shortcut">⌘K</kbd>
+      </button>
+
+      <a
+        href="https://github.com/TheBigWazowkski1997/The-Shattered-Loom-Online-Wiki"
+        target="_blank"
+        rel="noopener noreferrer"
+        class="github-link"
+        title="View Repository on GitHub"
+        aria-label="GitHub Repository"
+      >
+        <svg viewBox="0 0 24 24" width="20" height="20" stroke="currentColor" stroke-width="2" fill="none" stroke-linecap="round" stroke-linejoin="round">
+          <path d="M9 19c-5 1.5-5-2.5-7-3m14 6v-3.87a3.37 3.37 0 0 0-.94-2.61c3.14-.35 6.44-1.54 6.44-7A5.44 5.44 0 0 0 20 4.77 5.07 5.07 0 0 0 19.91 1S18.73.65 16 2.48a13.38 13.38 0 0 0-7 0C6.27.65 5.09 1 5.09 1A5.07 5.07 0 0 0 5 4.77a5.44 5.44 0 0 0-1.5 3.78c0 5.42 3.3 6.61 6.44 7A3.37 3.37 0 0 0 9 18.13V22"></path>
+        </svg>
+      </a>
+
+      <ThemeToggle />
+    </div>
+  </div>
+</header>
+
+<style>
+  .wiki-header {
+    position: sticky;
+    top: 0;
+    z-index: 100;
+    height: var(--header-height);
+    background: var(--bg-surface);
+    backdrop-filter: blur(14px);
+    -webkit-backdrop-filter: blur(14px);
+    border-radius: 0;
+    border-top: none;
+    border-left: none;
+    border-right: none;
+    border-bottom: 1px solid var(--border-strong);
+    box-shadow: 0 4px 20px rgba(0, 0, 0, 0.4);
+  }
+
+  .header-inner {
+    max-width: 1600px;
+    height: 100%;
+    margin: 0 auto;
+    padding: 0 1.5rem;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    gap: 1.5rem;
+  }
+
+  .header-left {
+    display: flex;
+    align-items: center;
+    gap: 1rem;
+  }
+
+  .mobile-toggle {
+    display: none;
+    background: transparent;
+    border: none;
+    color: var(--gold-primary);
+    cursor: pointer;
+    padding: 0.3rem;
+  }
+
+  .site-branding {
+    display: flex;
+    align-items: center;
+    gap: 0.75rem;
+    text-decoration: none;
+  }
+
+  .spindle-icon {
+    font-size: 1.5rem;
+    color: var(--gold-primary);
+    filter: drop-shadow(0 0 8px rgba(229, 184, 90, 0.6));
+    animation: pulseSpindle 4s ease-in-out infinite;
+  }
+
+  @keyframes pulseSpindle {
+    0%, 100% { transform: scale(1); opacity: 0.9; }
+    50% { transform: scale(1.15) rotate(90deg); opacity: 1; filter: drop-shadow(0 0 14px rgba(229, 184, 90, 0.9)); }
+  }
+
+  .brand-text {
+    display: flex;
+    flex-direction: column;
+  }
+
+  .brand-title {
+    font-family: var(--font-heading);
+    font-size: 1.15rem;
+    font-weight: 800;
+    letter-spacing: 0.08em;
+    color: var(--gold-primary);
+    line-height: 1.1;
+  }
+
+  .brand-subtitle {
+    font-family: var(--font-mono);
+    font-size: 0.65rem;
+    letter-spacing: 0.12em;
+    color: var(--text-faint);
+  }
+
+  .header-nav {
+    display: flex;
+    align-items: center;
+    gap: 1.4rem;
+  }
+
+  .nav-link {
+    font-family: var(--font-heading);
+    font-size: 0.88rem;
+    font-weight: 600;
+    letter-spacing: 0.04em;
+    color: var(--text-muted);
+    text-decoration: none;
+    position: relative;
+    padding: 0.3rem 0;
+    transition: color 0.2s ease;
+  }
+
+  .nav-link:hover {
+    color: var(--gold-light);
+  }
+
+  .nav-link::after {
+    content: '';
+    position: absolute;
+    bottom: -2px;
+    left: 0;
+    width: 0;
+    height: 1px;
+    background: var(--gold-primary);
+    transition: width 0.2s ease;
+  }
+
+  .nav-link:hover::after {
+    width: 100%;
+  }
+
+  .header-right {
+    display: flex;
+    align-items: center;
+    gap: 0.75rem;
+  }
+
+  .search-trigger-btn {
+    display: flex;
+    align-items: center;
+    gap: 0.6rem;
+    background: rgba(0, 0, 0, 0.25);
+    border: 1px solid var(--border-subtle);
+    border-radius: 8px;
+    padding: 0.4rem 0.8rem;
+    cursor: pointer;
+    color: var(--text-muted);
+    transition: all 0.2s ease;
+  }
+
+  .search-trigger-btn:hover {
+    border-color: var(--gold-primary);
+    background: rgba(229, 184, 90, 0.08);
+    color: var(--gold-light);
+  }
+
+  .search-btn-icon {
+    font-size: 0.9rem;
+  }
+
+  .search-btn-text {
+    font-family: var(--font-body);
+    font-size: 0.88rem;
+  }
+
+  .search-shortcut {
+    font-family: var(--font-mono);
+    font-size: 0.68rem;
+    background: rgba(255, 255, 255, 0.08);
+    border: 1px solid var(--border-subtle);
+    padding: 0.15rem 0.35rem;
+    border-radius: 4px;
+    color: var(--text-faint);
+  }
+
+  .github-link {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    padding: 0.45rem;
+    border-radius: 8px;
+    border: 1px solid var(--border-subtle);
+    color: var(--text-muted);
+    transition: all 0.2s ease;
+  }
+
+  .github-link:hover {
+    color: var(--gold-primary);
+    border-color: var(--gold-primary);
+    box-shadow: var(--gold-glow);
+  }
+
+  @media (max-width: 960px) {
+    .header-nav { display: none; }
+    .search-btn-text, .search-shortcut { display: none; }
+    .mobile-toggle { display: block; }
+  }
+</style>
+
+<script>
+  function setupMobileMenu() {
+    const btn = document.getElementById('mobile-menu-btn');
+    if (!btn) return;
+    btn.addEventListener('click', () => {
+      document.body.classList.toggle('sidebar-mobile-open');
+    });
+  }
+  setupMobileMenu();
+  document.addEventListener('astro:after-swap', setupMobileMenu);
+</script>

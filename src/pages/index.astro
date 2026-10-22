@@ -1,0 +1,615 @@
+---
+import BaseLayout from '../layouts/BaseLayout.astro';
+import Header from '../components/Header.astro';
+
+const baseUrl = import.meta.env.BASE_URL.replace(/\/$/, '');
+
+const realmCards = [
+  {
+    title: 'Core Cosmology',
+    icon: '🌌',
+    desc: 'The Prime Weaver Telara, the shattering of the Golden Tapestry, glowing marks, and relics of power.',
+    href: `${baseUrl}/wiki/cosmology/the-shattered-loom-universe`,
+    badge: 'Cosmic Order',
+    color: 'var(--gold-primary)'
+  },
+  {
+    title: 'Planes of Existence',
+    icon: '🗺️',
+    desc: 'Inner elemental planes, the material realm & echoes, outer divine shards, and dread realities.',
+    href: `${baseUrl}/wiki/planes-of-existence/the-material-plane/the-material-plane`,
+    badge: 'Cartography',
+    color: '#38bdf8'
+  },
+  {
+    title: 'The Ten Factions',
+    icon: '🏛️',
+    desc: 'From the menders of the Pale Lodge to the nihilists of the Cult of the Broken Thread and Gilded Caliper.',
+    href: `${baseUrl}/wiki/factions/the-pale-lodge/the-pale-lodge`,
+    badge: 'Alliances',
+    color: '#eab308'
+  },
+  {
+    title: 'Dramatis Personae',
+    icon: '👥',
+    desc: '95 documented entities: Primordials, planar governors, Darklords of Ravenloft, and legendary mages.',
+    href: `${baseUrl}/wiki/npcs/gods/telara`,
+    badge: '95 NPCs',
+    color: '#a855f7'
+  },
+  {
+    title: 'Beings of Power',
+    icon: '⚡',
+    desc: 'The Blood War, Elder Evils, the Dragons of the Apocalypse, Strahd, and the slumbering Great Dreamer.',
+    href: `${baseUrl}/wiki/cosmology/the-blood-war`,
+    badge: 'Arch-Entities',
+    color: 'var(--crimson-primary)'
+  },
+  {
+    title: 'Species & Bestiary',
+    icon: '🧬',
+    desc: 'Hag Dragons, Sorrowsworn of the Shadowfell, Corpse Collectors, and extradimensional predators.',
+    href: `${baseUrl}/wiki/species/hag-dragon`,
+    badge: 'Creature Lore',
+    color: '#10b981'
+  },
+  {
+    title: 'Magic & Spelljammers',
+    icon: '🛸',
+    desc: 'Astral sea vessels (The Wraith, Aether Gale), awakening Legacy Items, and the Pact Primeval.',
+    href: `${baseUrl}/wiki/magic/spell-jammers`,
+    badge: 'Vessels & Items',
+    color: '#06b6d4'
+  },
+  {
+    title: 'Campaign Chronicles',
+    icon: '📜',
+    desc: 'Step through the recorded adventures of the party from Session 0 across Barovia to the Grand Archive.',
+    href: `${baseUrl}/wiki/sessions/session-0`,
+    badge: 'Sessions 0 - 5',
+    color: '#f97316'
+  }
+];
+
+const commonKnowledge = [
+  { term: 'Shatterpoint', definition: 'A localized tear or volatile metaphysical portal connecting two drifting planes of existence.' },
+  { term: 'Golden Filaments', definition: "Remnants of Telara's Loom holding drifting planes in cosmic orbit around the Nexus." },
+  { term: 'Soul-Thread', definition: 'The metaphysical strand of fate, memory, and identity bound to every sentient mortal soul.' },
+  { term: 'Mark of Telara', definition: 'A luminous golden thread-pattern on mortal skin that resonates intensely near Loom shards.' },
+  { term: 'The Frayed End', definition: 'The celebrated neutral tavern in the Fractured Nexus where all blades and spells must stay sheathed.' },
+  { term: 'Planar Bleed', definition: 'The environmental, architectural, and magical leaking of one realm into an adjacent neighbor.' },
+];
+---
+
+<BaseLayout
+  title="The Shattered Loom | D&D 5E Player Wiki & Multiverse Guide"
+  description="Official player-friendly wiki & setting guide for the Project Shattered Loom homebrew D&D campaign. Explore planar geography, factions, deities, and chronicles."
+>
+  <Header />
+
+  <main class="home-main">
+    <!-- Hero Section -->
+    <section class="hero-section">
+      <div class="hero-content">
+        <div class="hero-badge">
+          <span class="badge-dot"></span>
+          <span>SPOILER-FREE PLAYER SETTING GUIDE</span>
+        </div>
+
+        <h1 class="hero-title">
+          WELCOME TO THE<br />
+          <span class="highlight-text">SHATTERED LOOM</span>
+        </h1>
+
+        <p class="hero-tagline">
+          <em>"In the beginning, there was only the Loom—woven by Telara, the Prime Weaver. Then the Loom shattered, and reality became drifting fragments stitched by golden filaments in the Astral Sea."</em>
+        </p>
+
+        <div class="hero-actions">
+          <a href={`${baseUrl}/wiki/cosmology/the-shattered-loom-universe`} class="btn-primary">
+            <span>Explore Setting Overview</span>
+            <span class="btn-arrow">→</span>
+          </a>
+          <button class="btn-secondary" data-open-search>
+            <span>Search Multiverse (⌘K)</span>
+          </button>
+          <a href={`${baseUrl}/wiki/sessions/session-0`} class="btn-outline">
+            <span>Read Campaign Chronicles</span>
+          </a>
+        </div>
+      </div>
+
+      <!-- Quick Metrics Ribbon -->
+      <div class="stats-ribbon glass-panel">
+        <div class="stat-item">
+          <span class="stat-number">198</span>
+          <span class="stat-label">Lore Documents</span>
+        </div>
+        <div class="stat-divider">✦</div>
+        <div class="stat-item">
+          <span class="stat-number">18</span>
+          <span class="stat-label">Planar Realms</span>
+        </div>
+        <div class="stat-divider">✦</div>
+        <div class="stat-item">
+          <span class="stat-number">10</span>
+          <span class="stat-label">Great Factions</span>
+        </div>
+        <div class="stat-divider">✦</div>
+        <div class="stat-item">
+          <span class="stat-number">95</span>
+          <span class="stat-label">Notable Figures</span>
+        </div>
+      </div>
+    </section>
+
+    <!-- Realm Explorer Grid -->
+    <section class="section-container">
+      <div class="section-header">
+        <span class="section-badge">NAVIGATE THE REALMS</span>
+        <h2 class="section-title">The Multiversal Codex</h2>
+        <p class="section-desc">Select a domain of the Shattered multiverse to access setting lore, faction dossiers, scholar treatises, and cartography.</p>
+      </div>
+
+      <div class="realms-grid">
+        {realmCards.map((card) => (
+          <a href={card.href} class="realm-card glass-panel" style={`--card-accent: ${card.color}`}>
+            <div class="card-top">
+              <span class="card-icon">{card.icon}</span>
+              <span class="badge">{card.badge}</span>
+            </div>
+            <h3 class="card-title">{card.title}</h3>
+            <p class="card-desc">{card.desc}</p>
+            <div class="card-footer">
+              <span class="card-action">Enter Domain</span>
+              <span class="card-arrow">→</span>
+            </div>
+          </a>
+        ))}
+      </div>
+    </section>
+
+    <!-- Common Knowledge Section -->
+    <section class="section-container">
+      <div class="section-header">
+        <span class="section-badge">ESSENTIAL SURVIVAL LORE</span>
+        <h2 class="section-title">Traveler's Common Knowledge</h2>
+        <p class="section-desc">Fundamental planar phenomena known to every mortal, spelljammer sailor, and threadwalker traversing the cosmos.</p>
+      </div>
+
+      <div class="knowledge-grid">
+        {commonKnowledge.map((item) => (
+          <div class="knowledge-card glass-panel">
+            <h3 class="knowledge-term">✦ {item.term}</h3>
+            <p class="knowledge-def">{item.definition}</p>
+          </div>
+        ))}
+      </div>
+    </section>
+
+    <!-- Spoiler-Free Callout Banner -->
+    <section class="section-container callout-section">
+      <div class="wiki-callout callout-note glass-panel">
+        <div class="callout-header">
+          <span class="callout-icon">📜</span>
+          <span class="callout-title">The Player-Safe Covenant</span>
+        </div>
+        <div class="callout-body">
+          <p>
+            <strong>Spoiler-Free Guarantee</strong>: This wiki contains zero DM stat blocks, combat mechanics, hidden encounter charts, or behind-the-screen secrets. All lore is written from an in-universe, player-safe perspective to enrich your roleplay, character backstory, and tactical decisions across the Shattered Loom multiverse.
+          </p>
+        </div>
+      </div>
+    </section>
+  </main>
+
+  <!-- Site Footer -->
+  <footer class="site-footer">
+    <div class="footer-inner">
+      <div class="footer-brand">
+        <span class="spindle-icon">✦</span>
+        <span class="footer-title">THE SHATTERED LOOM</span>
+      </div>
+      <p class="footer-quote">
+        <em>"In the beginning was the Loom; in the end is the weave we choose to mend."</em>
+      </p>
+      <div class="footer-sub">
+        <span>Project Shattered Loom Campaign Setting</span>
+        <span>•</span>
+        <a href="https://github.com/TheBigWazowkski1997/The-Shattered-Loom-Online-Wiki" target="_blank" rel="noopener">GitHub Repository</a>
+        <span>•</span>
+        <a href={`${baseUrl}/sitemap-index.xml`} target="_blank">Sitemap</a>
+      </div>
+    </div>
+  </footer>
+</BaseLayout>
+
+<style>
+  .home-main {
+    flex: 1;
+    position: relative;
+    z-index: 10;
+  }
+
+  .hero-section {
+    padding: 5rem 1.5rem 3rem 1.5rem;
+    max-width: 1200px;
+    margin: 0 auto;
+    text-align: center;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+  }
+
+  .hero-badge {
+    display: inline-flex;
+    align-items: center;
+    gap: 0.5rem;
+    padding: 0.35rem 0.9rem;
+    border-radius: 9999px;
+    border: 1px solid var(--border-strong);
+    background: rgba(229, 184, 90, 0.08);
+    color: var(--gold-primary);
+    font-family: var(--font-heading);
+    font-size: 0.75rem;
+    letter-spacing: 0.1em;
+    margin-bottom: 1.5rem;
+  }
+
+  .badge-dot {
+    width: 6px;
+    height: 6px;
+    border-radius: 50%;
+    background: var(--gold-primary);
+    box-shadow: 0 0 8px var(--gold-primary);
+    animation: blink 2s infinite;
+  }
+
+  @keyframes blink {
+    0%, 100% { opacity: 1; }
+    50% { opacity: 0.3; }
+  }
+
+  .hero-title {
+    font-size: 3.5rem;
+    font-weight: 900;
+    line-height: 1.15;
+    margin-bottom: 1.5rem;
+    color: #fff;
+    text-shadow: 0 4px 15px rgba(0, 0, 0, 0.7);
+    letter-spacing: 0.04em;
+  }
+
+  .highlight-text {
+    background: linear-gradient(135deg, var(--gold-light) 0%, var(--gold-primary) 50%, #d97706 100%);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    filter: drop-shadow(0 0 25px rgba(229, 184, 90, 0.35));
+  }
+
+  .hero-tagline {
+    max-width: 780px;
+    font-size: 1.2rem;
+    line-height: 1.8;
+    color: var(--text-muted);
+    margin-bottom: 2.5rem;
+  }
+
+  .hero-actions {
+    display: flex;
+    gap: 1rem;
+    flex-wrap: wrap;
+    justify-content: center;
+    margin-bottom: 3.5rem;
+  }
+
+  .btn-primary {
+    display: inline-flex;
+    align-items: center;
+    gap: 0.6rem;
+    background: linear-gradient(135deg, var(--gold-primary), var(--gold-secondary));
+    color: #0b090a;
+    font-family: var(--font-heading);
+    font-weight: 700;
+    font-size: 0.95rem;
+    letter-spacing: 0.05em;
+    padding: 0.85rem 1.6rem;
+    border-radius: 8px;
+    text-decoration: none;
+    box-shadow: 0 4px 20px rgba(229, 184, 90, 0.3);
+    transition: all 0.25s ease;
+  }
+
+  .btn-primary:hover {
+    transform: translateY(-2px);
+    box-shadow: 0 6px 25px rgba(229, 184, 90, 0.5);
+    color: #000;
+  }
+
+  .btn-arrow {
+    transition: transform 0.2s ease;
+  }
+  .btn-primary:hover .btn-arrow {
+    transform: translateX(4px);
+  }
+
+  .btn-secondary {
+    display: inline-flex;
+    align-items: center;
+    gap: 0.6rem;
+    background: rgba(22, 17, 27, 0.8);
+    border: 1px solid var(--border-strong);
+    color: var(--gold-light);
+    font-family: var(--font-heading);
+    font-weight: 600;
+    font-size: 0.95rem;
+    padding: 0.85rem 1.6rem;
+    border-radius: 8px;
+    cursor: pointer;
+    backdrop-filter: blur(8px);
+    transition: all 0.25s ease;
+  }
+
+  .btn-secondary:hover {
+    background: rgba(229, 184, 90, 0.15);
+    border-color: var(--gold-primary);
+    transform: translateY(-2px);
+  }
+
+  .btn-outline {
+    display: inline-flex;
+    align-items: center;
+    padding: 0.85rem 1.4rem;
+    color: var(--text-muted);
+    font-family: var(--font-heading);
+    font-size: 0.95rem;
+    text-decoration: none;
+    transition: color 0.2s ease;
+  }
+
+  .btn-outline:hover {
+    color: var(--gold-primary);
+  }
+
+  .stats-ribbon {
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    width: 100%;
+    max-width: 900px;
+    padding: 1.2rem 2rem;
+    border-radius: 12px;
+    border: 1px solid var(--border-subtle);
+  }
+
+  .stat-item {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+  }
+
+  .stat-number {
+    font-family: var(--font-heading);
+    font-size: 1.8rem;
+    font-weight: 800;
+    color: var(--gold-primary);
+    line-height: 1.1;
+  }
+
+  .stat-label {
+    font-family: var(--font-mono);
+    font-size: 0.72rem;
+    color: var(--text-faint);
+    text-transform: uppercase;
+    letter-spacing: 0.08em;
+  }
+
+  .stat-divider {
+    color: var(--border-strong);
+    font-size: 0.8rem;
+  }
+
+  .section-container {
+    max-width: 1300px;
+    margin: 4rem auto;
+    padding: 0 1.5rem;
+  }
+
+  .section-header {
+    text-align: center;
+    margin-bottom: 2.5rem;
+  }
+
+  .section-badge {
+    font-family: var(--font-heading);
+    font-size: 0.75rem;
+    font-weight: 700;
+    letter-spacing: 0.12em;
+    color: var(--gold-primary);
+    text-transform: uppercase;
+  }
+
+  .section-title {
+    font-size: 2.2rem;
+    margin: 0.4rem 0 0.8rem 0;
+  }
+
+  .section-desc {
+    max-width: 650px;
+    margin: 0 auto;
+    color: var(--text-muted);
+    font-size: 1.05rem;
+  }
+
+  .realms-grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fill, minmax(280px, 1fr));
+    gap: 1.5rem;
+  }
+
+  .realm-card {
+    padding: 1.6rem;
+    border-radius: 12px;
+    text-decoration: none;
+    border: 1px solid var(--border-subtle);
+    display: flex;
+    flex-direction: column;
+    position: relative;
+    overflow: hidden;
+    transition: all 0.3s cubic-bezier(0.16, 1, 0.3, 1);
+  }
+
+  .realm-card::before {
+    content: '';
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 3px;
+    background: var(--card-accent);
+    opacity: 0.6;
+    transition: opacity 0.3s ease, height 0.3s ease;
+  }
+
+  .realm-card:hover {
+    transform: translateY(-4px);
+    border-color: var(--card-accent);
+    box-shadow: 0 15px 35px -10px rgba(0, 0, 0, 0.8), 0 0 20px rgba(229, 184, 90, 0.15);
+  }
+
+  .realm-card:hover::before {
+    opacity: 1;
+    height: 4px;
+  }
+
+  .card-top {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    margin-bottom: 1rem;
+  }
+
+  .card-icon {
+    font-size: 2rem;
+  }
+
+  .card-title {
+    font-size: 1.25rem;
+    margin-bottom: 0.6rem;
+    color: var(--text-main);
+    transition: color 0.2s ease;
+  }
+
+  .realm-card:hover .card-title {
+    color: var(--card-accent);
+  }
+
+  .card-desc {
+    font-size: 0.95rem;
+    color: var(--text-muted);
+    line-height: 1.6;
+    flex: 1;
+    margin-bottom: 1.2rem;
+  }
+
+  .card-footer {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    font-family: var(--font-heading);
+    font-size: 0.82rem;
+    font-weight: 700;
+    color: var(--card-accent);
+    letter-spacing: 0.05em;
+    border-top: 1px solid var(--border-subtle);
+    padding-top: 0.8rem;
+  }
+
+  .card-arrow {
+    transition: transform 0.2s ease;
+  }
+  .realm-card:hover .card-arrow {
+    transform: translateX(4px);
+  }
+
+  .knowledge-grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fill, minmax(350px, 1fr));
+    gap: 1.2rem;
+  }
+
+  .knowledge-card {
+    padding: 1.4rem 1.6rem;
+    border-radius: 10px;
+    border: 1px solid var(--border-subtle);
+  }
+
+  .knowledge-term {
+    font-size: 1.1rem;
+    color: var(--gold-primary);
+    margin-bottom: 0.4rem;
+  }
+
+  .knowledge-def {
+    color: var(--text-muted);
+    font-size: 0.95rem;
+    line-height: 1.6;
+    margin-bottom: 0;
+  }
+
+  .callout-section {
+    max-width: 900px;
+  }
+
+  .site-footer {
+    margin-top: 5rem;
+    padding: 3rem 1.5rem;
+    border-top: 1px solid var(--border-strong);
+    background: var(--bg-surface);
+    text-align: center;
+  }
+
+  .footer-inner {
+    max-width: 900px;
+    margin: 0 auto;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap: 1rem;
+  }
+
+  .footer-brand {
+    display: flex;
+    align-items: center;
+    gap: 0.5rem;
+    font-family: var(--font-heading);
+    font-size: 1.1rem;
+    font-weight: 800;
+    color: var(--gold-primary);
+    letter-spacing: 0.06em;
+  }
+
+  .footer-quote {
+    font-size: 0.95rem;
+    color: var(--text-faint);
+  }
+
+  .footer-sub {
+    display: flex;
+    gap: 0.75rem;
+    font-family: var(--font-mono);
+    font-size: 0.75rem;
+    color: var(--text-faint);
+  }
+
+  .footer-sub a {
+    color: var(--gold-primary);
+  }
+
+  @media (max-width: 768px) {
+    .hero-title { font-size: 2.3rem; }
+    .stats-ribbon { flex-direction: column; gap: 1rem; }
+    .stat-divider { display: none; }
+    .knowledge-grid { grid-template-columns: 1fr; }
+  }
+</style>
