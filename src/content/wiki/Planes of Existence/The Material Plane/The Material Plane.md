@@ -333,8 +333,6 @@ PLOT HOOKS FOR ASHARAS REST
 										**Combat:**
 
 * **Unstable Fire Mephit**
-* ![[attachments/image.2.png]]
-* 
 * Environmental fire hazards
 
 										**Stakes:** Injuries, burned shops, and Korbin facing exile.
@@ -355,8 +353,6 @@ PLOT HOOKS FOR ASHARAS REST
 										**Combat:**
 
 * **Myconid Adult**
-* ![[attachments/image.3.png]]
-	
 
 										**Stakes:** Public health and safety.
 										**Outcome Weight:** Balance profit vs protection.
@@ -376,8 +372,6 @@ PLOT HOOKS FOR ASHARAS REST
 										**Combat:**
 
 * **Earth Elemental (Medium)**
-* ![[attachments/image.4.png]]
-* 
 
 										**Stakes:** Respect for the dead and social order.
 										**Outcome Weight:** Prevent mob violence.
@@ -395,8 +389,6 @@ PLOT HOOKS FOR ASHARAS REST
 										**If Ignored:** Trade routes become dangerous.
 										**Combat:**
 
-* ![[attachments/image.5.png]]
-	
 * Psychic hazards
 
 										**Stakes:** Economic harm, stranded travelers.
