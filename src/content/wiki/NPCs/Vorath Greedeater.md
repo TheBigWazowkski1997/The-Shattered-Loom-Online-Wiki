@@ -2,6 +2,9 @@
 dg-publish: true
 ---
 
+![[vorath_greedeater.jpg]]
+
+
 # Vorath Greedeater (The Devouring Maw)
 
 * **Race**: Ancient Dragon-Construct / Planar Dragon (Avarice-bound)

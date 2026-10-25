@@ -173,6 +173,13 @@ Fragments of crystallized ideology and divinity scattered across the Astral Sea.
 
 ---
 
+## ⚖️ Custom Rules & Mechanics
+
+* **[[Custom Rules/Custom Rules|Custom Rules & Mechanics Hub]]** — Overview of homebrew modular rulesets designed for the Shattered Multiverse.
+* **[[Custom Rules/The Interplanar Black Market & Smuggling Ruleset|The Interplanar Black Market & Smuggling Ruleset]]** — The Shadow Weft, Contraband Classification (Class I–IV), Planar Anathema preservation, Harmonic Heat tracking, and smuggling run mechanics.
+
+---
+
 ## 📌 Traveler's Common Knowledge
 
 | Term | What Every Adventurer Knows |

@@ -2,6 +2,9 @@
 dg-publish: true
 ---
 
+![[kaelor_stormwing.jpg]]
+
+
 # Sky Captain Kaelor Stormwing (Commander of the Skyguard)
 
 * **Race**: Aarakocra

@@ -117,7 +117,7 @@ export async function getStaticPaths() {
           category: s.split('/')[0]
         };
       }),
-      subdirs: ['npcs', 'cosmology', 'planes-of-existence', 'factions', 'species', 'magic']
+      subdirs: ['npcs', 'cosmology', 'planes-of-existence', 'factions', 'species', 'magic', 'custom-rules']
     }
   });
 
@@ -142,7 +142,7 @@ const dirMetaMap: Record<string, { title: string; subtitle: string; icon: string
   },
   'npcs': {
     title: 'Dramatis Personae: The Multiverse Archive',
-    subtitle: 'Complete directory of 95 deities, faction leaders, darklords, scholars, and personages across the planes.',
+    subtitle: 'Complete directory of 101 deities, faction leaders, darklords, scholars, and personages across the planes.',
     icon: '👥'
   },
   'npcs/gods': {
@@ -181,8 +181,8 @@ const dirMetaMap: Record<string, { title: string; subtitle: string; icon: string
     icon: '✨'
   },
   'factions': {
-    title: 'The Ten Factions of the Multiverse',
-    subtitle: 'The secret cabals, imperial consortiums, and holy inquisitions vying for control of the Weft.',
+    title: 'The Fifteen Factions of the Multiverse',
+    subtitle: 'The 15 sovereign factions, military legions, secret cabals, and holy orders vying for the Weft.',
     icon: '🏛️'
   },
   'species': {
@@ -194,6 +194,11 @@ const dirMetaMap: Record<string, { title: string; subtitle: string; icon: string
     title: 'Magic, Vessels & Cosmic Law',
     subtitle: 'Spelljamming vessels, legacy artifacts, and primeval pacts governing reality.',
     icon: '🛸'
+  },
+  'custom-rules': {
+    title: 'Custom Rules & Mechanics',
+    subtitle: 'Modular homebrew systems, interplanar black market mechanics, and smuggling operations.',
+    icon: '⚖️'
   }
 };
 
