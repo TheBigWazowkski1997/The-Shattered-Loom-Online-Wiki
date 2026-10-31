@@ -84,10 +84,11 @@ Fragments of crystallized ideology and divinity scattered across the Astral Sea.
 * **[[Planes of Existence/The Far Realm/The Far Realm|The Far Realm]]** — Madness beyond reality's borders where the geometry of thought unravels.
 * **[[Custom Rules/The Interplanar Black Market & Smuggling Ruleset|The Interplanar Black Market & Smuggling Ruleset]]** — The Shadow Weft, Shatterpoint Bazaars, and illicit contraband networks.
 * **[[Custom Rules/The Eldritch Madness & Dream-Fracture Ruleset|The Eldritch Madness & Dream-Fracture Ruleset]]** — The Lucidity Index (0–100), mental grounding, and double-edged forbidden insights.
+* **[[Custom Rules/The Interplanar Hunting, Harvesting & Trophy-Crafting Ruleset|The Interplanar Hunting, Harvesting & Trophy-Crafting Ruleset]]** & **[[Custom Rules/Planar Bestiary & Hunting Lodges Compendium|Planar Bestiary & Hunting Lodges Compendium]]** — Tracking apex monsters, carcass harvesting, trophy crafting, and 22 planar hunting lodges.
 
 ---
 
-## 🏛️ The Great Factions (26 Major Factions)
+## 🏛️ The Great Factions (27 Major Factions)
 
 | Faction | Philosophy | Core Agenda | Dossier Link |
 | :--- | :--- | :--- | :--- |
@@ -112,7 +113,7 @@ Fragments of crystallized ideology and divinity scattered across the Astral Sea.
 
 ---
 
-## 👥 Dramatis Personae (118 Notable NPCs)
+## 👥 Dramatis Personae (120 Notable NPCs)
 
 ### 1. Deities & Primordials
 * **[[NPCs/Gods/Telara|Telara]]** — The Prime Weaver, creator of the Loom of Creation.
@@ -128,6 +129,7 @@ Fragments of crystallized ideology and divinity scattered across the Astral Sea.
 * **[[NPCs/Vaelen Corryn|Vaelen Corryn]]** — Senior field handler ("The Stitcher") and primary contact.
 * **[[NPCs/Captain Seris Vael|Captain Seris Vael]]** — Githyanki pilot and tactical advisor aboard *The Wraith*.
 * Detailed roster: [[NPCs/Key NPCs - Pale Lodge|Key NPCs - Pale Lodge]]
+* **The Grand Guild of the Iron Spoor**: [[NPCs/Grand Huntmaster Torvald Blood-Tracer|Grand Huntmaster Torvald Blood-Tracer (CR 16)]], [[NPCs/Forge-Mistress Vespera Quick-Flint|Forge-Mistress Vespera Quick-Flint (CR 12)]], [[NPCs/Key NPCs - The Grand Guild of the Iron Spoor|Key NPCs - The Grand Guild of the Iron Spoor]]
 
 ### 3. Faction Leaders, Planar Governors & City Figures
 * **The Gilded Caliper**: [[NPCs/Lady Seraphina Aurum|Lady Seraphina Aurum]], [[NPCs/Arbiter Valerie Sterling|Arbiter Valerie Sterling]], [[NPCs/Hesperus Vane|Hesperus Vane]], [[NPCs/Mintmaster Orin Sterling|Mintmaster Orin Sterling]], [[NPCs/Key NPCs - The Gilded Caliper|Key NPCs - The Gilded Caliper]]
