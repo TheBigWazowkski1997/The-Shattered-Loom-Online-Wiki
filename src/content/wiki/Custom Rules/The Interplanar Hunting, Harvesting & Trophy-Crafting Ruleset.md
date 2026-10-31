@@ -82,7 +82,7 @@ Once an apex creature is slain, the hunters must act quickly. The alien physics 
 ### 2. The Harvesting Procedure
 Harvesting takes **10 minutes per size category** of the beast (10 min Medium, 20 min Large, 30 min Huge, 40 min Gargantuan). A creature can attempt to harvest one specific component category, rolling the appropriate check:
 
-$	ext{Harvest DC} = 10 + 	ext{Monster Challenge Rating (CR)}$
+> **Harvest DC = 10 + Monster Challenge Rating (CR)**
 
 *(Maximum DC 25 for CR 15+ creatures).*
 
@@ -177,3 +177,6 @@ graph LR
 * **Central Faction Dossier**: [[Factions/The Grand Guild of the Iron Spoor|The Grand Guild of the Iron Spoor]]
 * **Key Lodge NPCs & Personalities**: [[NPCs/Key NPCs - The Grand Guild of the Iron Spoor|Key NPCs: The Grand Guild of the Iron Spoor]]
 * **Master Rules Hub**: [[Custom Rules/Custom Rules|Custom Rules & Mechanics Hub]]
+* **Multiversal Species Directory**: [[Species/Species|The Multiversal Species & Bestiary Directory]]
+* **Eldritch Horror Bestiary**: [[Custom Rules/Eldritch Horror Bestiary - Creature Entries|Eldritch Horror Bestiary - Creature Entries]]
+* **Eldritch Hunting Ruleset**: [[Custom Rules/The Eldritch Horror Hunting & Sanity-Harvesting Ruleset|Module IV: The Eldritch Horror Hunting Ruleset]]

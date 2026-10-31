@@ -44,6 +44,22 @@ Below is the complete regional breakdown of all **22 Planar Lodges**, each featu
 ### 🦁 Thematic Apex Quarry I: The Spindle-Stalker Chimera (CR 9)
 * **Classification**: *A predatory chimera warped by ambient Loom filaments. It has the body of a scarred shadow-panther, the wings of a gloom-owl, and twin heads—one a lioness with prismatic glass fangs, the other a serpent spitting thread-dissolving acid.*
 * **Creature Type**: `Large Monstrosity, Unaligned`
+* **Combat Statistics**:
+  * **Armor Class**: 14 (natural armor)
+  * **Hit Points**: 91 (13d10 + 26)
+  * **Speed**: 40 ft., fly 60 ft.
+  * **Abilities**: STR 16 (+3) | DEX 16 (+3) | CON 14 (+2) | INT 8 (-1) | WIS 14 (+2) | CHA 10 (+0)
+  * **Saving Throws**: Con +6, Wis +6
+  * **Senses**: darkvision 60 ft., passive Perception 16
+  * **Languages**: Understands native planar dialect; telepathy 60 ft. (or unaligned)
+  * **Challenge**: 9 (9,000 XP) | **Proficiency Bonus**: +4
+* **Signature Combat Traits**:
+  * **Planar Apex Resilience**: The Spindle-Stalker Chimera has advantage on saving throws against spells and magical effects native to its home plane.
+  * **Predatory Instinct**: Adds its proficiency bonus (+4) to initiative rolls and cannot be surprised while conscious.
+* **Combat Actions & Multiattack**:
+  * **Multiattack**: The Spindle-Stalker Chimera makes three attacks: two with its primary natural weapons and one crushing strike.
+  * **Primary Strike**: *Melee Weapon Attack*: +7 to hit, reach 10 ft., one target. *Hit*: 12 (2d10 + 3) slashing/piercing damage plus 7 (2d6) elemental/force damage.
+  * **Crushing Surge (Recharge 5–6)**: The Spindle-Stalker Chimera unleashes a planar surge in a 30-foot cone/line. Targets must make a DC 14 Dexterity or Constitution save, taking 31 (9d6) damage on a failed save, or half as much on a success.
 
 #### **Harvestable Materials Table**
 | Component | Classification | Yield & Estimated Base Value |
@@ -62,6 +78,22 @@ Below is the complete regional breakdown of all **22 Planar Lodges**, each featu
 ### 🦁 Thematic Apex Quarry II: The Weave-Breaker Behir (CR 11)
 * **Classification**: *A twelve-legged serpentine titan whose azure scales are cross-hatched with golden Loom-scars. It hunts magical ley lines, disgorging lightning that shatters spell wards and unwinds active enchantments.*
 * **Creature Type**: `Huge Monstrosity, Neutral Evil`
+* **Combat Statistics**:
+  * **Armor Class**: 15 (natural armor)
+  * **Hit Points**: 120 (15d12 + 45)
+  * **Speed**: 40 ft.
+  * **Abilities**: STR 18 (+4) | DEX 18 (+4) | CON 16 (+3) | INT 8 (-1) | WIS 14 (+2) | CHA 10 (+0)
+  * **Saving Throws**: Con +7, Wis +6
+  * **Senses**: darkvision 60 ft., passive Perception 16
+  * **Languages**: Understands native planar dialect; telepathy 60 ft. (or unaligned)
+  * **Challenge**: 11 (11,000 XP) | **Proficiency Bonus**: +4
+* **Signature Combat Traits**:
+  * **Planar Apex Resilience**: The Weave-Breaker Behir has advantage on saving throws against spells and magical effects native to its home plane.
+  * **Predatory Instinct**: Adds its proficiency bonus (+4) to initiative rolls and cannot be surprised while conscious.
+* **Combat Actions & Multiattack**:
+  * **Multiattack**: The Weave-Breaker Behir makes three attacks: two with its primary natural weapons and one crushing strike.
+  * **Primary Strike**: *Melee Weapon Attack*: +8 to hit, reach 10 ft., one target. *Hit*: 13 (3d10 + 4) slashing/piercing damage plus 7 (2d6) elemental/force damage.
+  * **Crushing Surge (Recharge 5–6)**: The Weave-Breaker Behir unleashes a planar surge in a 30-foot cone/line. Targets must make a DC 15 Dexterity or Constitution save, taking 38 (11d6) damage on a failed save, or half as much on a success.
 
 #### **Harvestable Materials Table**
 | Component | Classification | Yield & Estimated Base Value |
@@ -80,6 +112,22 @@ Below is the complete regional breakdown of all **22 Planar Lodges**, each featu
 ### 🦁 Thematic Apex Quarry III: The Primeval Dire Thread-Boar (CR 8)
 * **Classification**: *A colossal tusked boar whose bristles are stiffened with mineralized loom-sap. When enraged, it charges through stone walls without slowing, leaving furrows of pulverized earth in its wake.*
 * **Creature Type**: `Large Beast (Monstrosity), Unaligned`
+* **Combat Statistics**:
+  * **Armor Class**: 14 (natural armor)
+  * **Hit Points**: 84 (12d10 + 24)
+  * **Speed**: 40 ft., fly 60 ft.
+  * **Abilities**: STR 16 (+3) | DEX 16 (+3) | CON 14 (+2) | INT 8 (-1) | WIS 14 (+2) | CHA 10 (+0)
+  * **Saving Throws**: Con +5, Wis +5
+  * **Senses**: darkvision 60 ft., passive Perception 15
+  * **Languages**: Understands native planar dialect; telepathy 60 ft. (or unaligned)
+  * **Challenge**: 8 (8,000 XP) | **Proficiency Bonus**: +3
+* **Signature Combat Traits**:
+  * **Planar Apex Resilience**: The Primeval Dire Thread-Boar has advantage on saving throws against spells and magical effects native to its home plane.
+  * **Predatory Instinct**: Adds its proficiency bonus (+3) to initiative rolls and cannot be surprised while conscious.
+* **Combat Actions & Multiattack**:
+  * **Multiattack**: The Primeval Dire Thread-Boar makes three attacks: two with its primary natural weapons and one crushing strike.
+  * **Primary Strike**: *Melee Weapon Attack*: +6 to hit, reach 10 ft., one target. *Hit*: 12 (2d10 + 3) slashing/piercing damage plus 7 (2d6) elemental/force damage.
+  * **Crushing Surge (Recharge 5–6)**: The Primeval Dire Thread-Boar unleashes a planar surge in a 30-foot cone/line. Targets must make a DC 13 Dexterity or Constitution save, taking 28 (8d6) damage on a failed save, or half as much on a success.
 
 #### **Harvestable Materials Table**
 | Component | Classification | Yield & Estimated Base Value |
@@ -109,6 +157,22 @@ Below is the complete regional breakdown of all **22 Planar Lodges**, each featu
 ### 🦁 Thematic Apex Quarry I: The Moonhorn Stag-Behemoth (CR 11)
 * **Classification**: *A colossal silver-white stag standing 18 feet at the shoulder, crowned by sweeping crystalline antlers that chime with celestial harmonies. Its hooves leave trails of luminous morning dew that cause thorny roses to erupt in its wake.*
 * **Creature Type**: `Huge Fey, Chaotic Good`
+* **Combat Statistics**:
+  * **Armor Class**: 15 (natural armor)
+  * **Hit Points**: 120 (15d12 + 45)
+  * **Speed**: 40 ft.
+  * **Abilities**: STR 18 (+4) | DEX 18 (+4) | CON 16 (+3) | INT 16 (+3) | WIS 14 (+2) | CHA 14 (+2)
+  * **Saving Throws**: Con +7, Wis +6
+  * **Senses**: truesight 60 ft., darkvision 120 ft., passive Perception 16
+  * **Languages**: Understands native planar dialect; telepathy 60 ft. (or unaligned)
+  * **Challenge**: 11 (11,000 XP) | **Proficiency Bonus**: +4
+* **Signature Combat Traits**:
+  * **Planar Apex Resilience**: The Moonhorn Stag-Behemoth has advantage on saving throws against spells and magical effects native to its home plane.
+  * **Predatory Instinct**: Adds its proficiency bonus (+4) to initiative rolls and cannot be surprised while conscious.
+* **Combat Actions & Multiattack**:
+  * **Multiattack**: The Moonhorn Stag-Behemoth makes three attacks: two with its primary natural weapons and one crushing strike.
+  * **Primary Strike**: *Melee Weapon Attack*: +8 to hit, reach 10 ft., one target. *Hit*: 13 (3d10 + 4) slashing/piercing damage plus 7 (2d6) elemental/force damage.
+  * **Crushing Surge (Recharge 5–6)**: The Moonhorn Stag-Behemoth unleashes a planar surge in a 30-foot cone/line. Targets must make a DC 15 Dexterity or Constitution save, taking 38 (11d6) damage on a failed save, or half as much on a success.
 
 #### **Harvestable Materials Table**
 | Component | Classification | Yield & Estimated Base Value |
@@ -127,6 +191,22 @@ Below is the complete regional breakdown of all **22 Planar Lodges**, each featu
 ### 🦁 Thematic Apex Quarry II: The Mirage-Winged Gossamer Manticore (CR 9)
 * **Classification**: *A graceful yet sadistic predator with the body of an emerald lion, wings of stained glass, and a tail crowned with crystalline needles that project disorienting auditory glamour before striking.*
 * **Creature Type**: `Large Monstrosity (Fey), Chaotic Evil`
+* **Combat Statistics**:
+  * **Armor Class**: 14 (natural armor)
+  * **Hit Points**: 91 (13d10 + 26)
+  * **Speed**: 40 ft., fly 60 ft.
+  * **Abilities**: STR 16 (+3) | DEX 16 (+3) | CON 14 (+2) | INT 16 (+3) | WIS 14 (+2) | CHA 14 (+2)
+  * **Saving Throws**: Con +6, Wis +6
+  * **Senses**: truesight 60 ft., darkvision 120 ft., passive Perception 16
+  * **Languages**: Understands native planar dialect; telepathy 60 ft. (or unaligned)
+  * **Challenge**: 9 (9,000 XP) | **Proficiency Bonus**: +4
+* **Signature Combat Traits**:
+  * **Planar Apex Resilience**: The Mirage-Winged Gossamer Manticore has advantage on saving throws against spells and magical effects native to its home plane.
+  * **Predatory Instinct**: Adds its proficiency bonus (+4) to initiative rolls and cannot be surprised while conscious.
+* **Combat Actions & Multiattack**:
+  * **Multiattack**: The Mirage-Winged Gossamer Manticore makes three attacks: two with its primary natural weapons and one crushing strike.
+  * **Primary Strike**: *Melee Weapon Attack*: +7 to hit, reach 10 ft., one target. *Hit*: 12 (2d10 + 3) slashing/piercing damage plus 7 (2d6) elemental/force damage.
+  * **Crushing Surge (Recharge 5–6)**: The Mirage-Winged Gossamer Manticore unleashes a planar surge in a 30-foot cone/line. Targets must make a DC 14 Dexterity or Constitution save, taking 31 (9d6) damage on a failed save, or half as much on a success.
 
 #### **Harvestable Materials Table**
 | Component | Classification | Yield & Estimated Base Value |
@@ -145,6 +225,22 @@ Below is the complete regional breakdown of all **22 Planar Lodges**, each featu
 ### 🦁 Thematic Apex Quarry III: The Bramble-Spine Treant-Behemoth (CR 12)
 * **Classification**: *A corrupted treant infected with malevolent unseelie briars. Its bark is studded with poisonous black thorns that weep paralytic sap, and its subterranean roots snare travelers like iron bear-traps.*
 * **Creature Type**: `Huge Plant (Fey), Neutral Evil`
+* **Combat Statistics**:
+  * **Armor Class**: 16 (natural armor)
+  * **Hit Points**: 144 (16d12 + 64)
+  * **Speed**: 40 ft.
+  * **Abilities**: STR 20 (+5) | DEX 18 (+4) | CON 18 (+4) | INT 18 (+4) | WIS 14 (+2) | CHA 14 (+2)
+  * **Saving Throws**: Con +8, Wis +6
+  * **Senses**: truesight 60 ft., darkvision 120 ft., passive Perception 16
+  * **Languages**: Understands native planar dialect; telepathy 60 ft. (or unaligned)
+  * **Challenge**: 12 (12,000 XP) | **Proficiency Bonus**: +4
+* **Signature Combat Traits**:
+  * **Planar Apex Resilience**: The Bramble-Spine Treant-Behemoth has advantage on saving throws against spells and magical effects native to its home plane.
+  * **Predatory Instinct**: Adds its proficiency bonus (+4) to initiative rolls and cannot be surprised while conscious.
+* **Combat Actions & Multiattack**:
+  * **Multiattack**: The Bramble-Spine Treant-Behemoth makes three attacks: two with its primary natural weapons and one crushing strike.
+  * **Primary Strike**: *Melee Weapon Attack*: +9 to hit, reach 10 ft., one target. *Hit*: 14 (3d10 + 5) slashing/piercing damage plus 7 (2d6) elemental/force damage.
+  * **Crushing Surge (Recharge 5–6)**: The Bramble-Spine Treant-Behemoth unleashes a planar surge in a 30-foot cone/line. Targets must make a DC 16 Dexterity or Constitution save, taking 42 (12d6) damage on a failed save, or half as much on a success.
 
 #### **Harvestable Materials Table**
 | Component | Classification | Yield & Estimated Base Value |
@@ -174,6 +270,22 @@ Below is the complete regional breakdown of all **22 Planar Lodges**, each featu
 ### 🦁 Thematic Apex Quarry I: The Gloom-Weaver Arachnid (CR 10)
 * **Classification**: *A grotesque, eight-legged predator whose carapace resembles cracked obsidian tombstones. It weaves webs not of silk, but of condensed shadow and mournful memories that drain heat and life from ensnared prey.*
 * **Creature Type**: `Huge Monstrosity (Undead), Neutral Evil`
+* **Combat Statistics**:
+  * **Armor Class**: 15 (natural armor)
+  * **Hit Points**: 112 (14d12 + 42)
+  * **Speed**: 40 ft., climb 40 ft.
+  * **Abilities**: STR 18 (+4) | DEX 18 (+4) | CON 16 (+3) | INT 16 (+3) | WIS 14 (+2) | CHA 14 (+2)
+  * **Saving Throws**: Con +7, Wis +6
+  * **Senses**: truesight 60 ft., darkvision 120 ft., passive Perception 16
+  * **Languages**: Understands native planar dialect; telepathy 60 ft. (or unaligned)
+  * **Challenge**: 10 (10,000 XP) | **Proficiency Bonus**: +4
+* **Signature Combat Traits**:
+  * **Planar Apex Resilience**: The Gloom-Weaver Arachnid has advantage on saving throws against spells and magical effects native to its home plane.
+  * **Predatory Instinct**: Adds its proficiency bonus (+4) to initiative rolls and cannot be surprised while conscious.
+* **Combat Actions & Multiattack**:
+  * **Multiattack**: The Gloom-Weaver Arachnid makes three attacks: two with its primary natural weapons and one crushing strike.
+  * **Primary Strike**: *Melee Weapon Attack*: +8 to hit, reach 10 ft., one target. *Hit*: 13 (3d10 + 4) slashing/piercing damage plus 7 (2d6) elemental/force damage.
+  * **Crushing Surge (Recharge 5–6)**: The Gloom-Weaver Arachnid unleashes a planar surge in a 30-foot cone/line. Targets must make a DC 15 Dexterity or Constitution save, taking 35 (10d6) damage on a failed save, or half as much on a success.
 
 #### **Harvestable Materials Table**
 | Component | Classification | Yield & Estimated Base Value |
@@ -192,6 +304,22 @@ Below is the complete regional breakdown of all **22 Planar Lodges**, each featu
 ### 🦁 Thematic Apex Quarry II: The Tomb-Gorged Corpse-Wyrm (CR 12)
 * **Classification**: *A terrifying, segmented scavenger that burrows through the grave-silt of Darkon and the Svalich Woods. Its carapace is made of fused mausoleum stones and bone meal, exhaling a vapor of tomb-chill.*
 * **Creature Type**: `Huge Undead (Monstrosity), Neutral Evil`
+* **Combat Statistics**:
+  * **Armor Class**: 16 (natural armor)
+  * **Hit Points**: 144 (16d12 + 64)
+  * **Speed**: 40 ft., burrow 30 ft.
+  * **Abilities**: STR 20 (+5) | DEX 18 (+4) | CON 18 (+4) | INT 18 (+4) | WIS 14 (+2) | CHA 14 (+2)
+  * **Saving Throws**: Con +8, Wis +6
+  * **Senses**: truesight 60 ft., darkvision 120 ft., passive Perception 16
+  * **Languages**: Understands native planar dialect; telepathy 60 ft. (or unaligned)
+  * **Challenge**: 12 (12,000 XP) | **Proficiency Bonus**: +4
+* **Signature Combat Traits**:
+  * **Planar Apex Resilience**: The Tomb-Gorged Corpse-Wyrm has advantage on saving throws against spells and magical effects native to its home plane.
+  * **Predatory Instinct**: Adds its proficiency bonus (+4) to initiative rolls and cannot be surprised while conscious.
+* **Combat Actions & Multiattack**:
+  * **Multiattack**: The Tomb-Gorged Corpse-Wyrm makes three attacks: two with its primary natural weapons and one crushing strike.
+  * **Primary Strike**: *Melee Weapon Attack*: +9 to hit, reach 10 ft., one target. *Hit*: 14 (3d10 + 5) slashing/piercing damage plus 7 (2d6) elemental/force damage.
+  * **Crushing Surge (Recharge 5–6)**: The Tomb-Gorged Corpse-Wyrm unleashes a planar surge in a 30-foot cone/line. Targets must make a DC 16 Dexterity or Constitution save, taking 42 (12d6) damage on a failed save, or half as much on a success.
 
 #### **Harvestable Materials Table**
 | Component | Classification | Yield & Estimated Base Value |
@@ -210,6 +338,22 @@ Below is the complete regional breakdown of all **22 Planar Lodges**, each featu
 ### 🦁 Thematic Apex Quarry III: The Sorrow-Hound Alpha (CR 8)
 * **Classification**: *A canine shadow-predator whose fur absorbs all ambient light. It stalks those in deep grief, amplifying feelings of hopelessness until its prey lays down in the snow to die.*
 * **Creature Type**: `Large Monstrosity (Shadow), Neutral Evil`
+* **Combat Statistics**:
+  * **Armor Class**: 14 (natural armor)
+  * **Hit Points**: 84 (12d10 + 24)
+  * **Speed**: 40 ft.
+  * **Abilities**: STR 16 (+3) | DEX 16 (+3) | CON 14 (+2) | INT 8 (-1) | WIS 14 (+2) | CHA 10 (+0)
+  * **Saving Throws**: Con +5, Wis +5
+  * **Senses**: darkvision 60 ft., passive Perception 15
+  * **Languages**: Understands native planar dialect; telepathy 60 ft. (or unaligned)
+  * **Challenge**: 8 (8,000 XP) | **Proficiency Bonus**: +3
+* **Signature Combat Traits**:
+  * **Planar Apex Resilience**: The Sorrow-Hound Alpha has advantage on saving throws against spells and magical effects native to its home plane.
+  * **Predatory Instinct**: Adds its proficiency bonus (+3) to initiative rolls and cannot be surprised while conscious.
+* **Combat Actions & Multiattack**:
+  * **Multiattack**: The Sorrow-Hound Alpha makes three attacks: two with its primary natural weapons and one crushing strike.
+  * **Primary Strike**: *Melee Weapon Attack*: +6 to hit, reach 10 ft., one target. *Hit*: 12 (2d10 + 3) slashing/piercing damage plus 7 (2d6) elemental/force damage.
+  * **Crushing Surge (Recharge 5–6)**: The Sorrow-Hound Alpha unleashes a planar surge in a 30-foot cone/line. Targets must make a DC 13 Dexterity or Constitution save, taking 28 (8d6) damage on a failed save, or half as much on a success.
 
 #### **Harvestable Materials Table**
 | Component | Classification | Yield & Estimated Base Value |
@@ -239,6 +383,22 @@ Below is the complete regional breakdown of all **22 Planar Lodges**, each featu
 ### 🦁 Thematic Apex Quarry I: The Gale-Rider Roc (CR 12)
 * **Classification**: *A tempestuous thunderbird spanning 100 feet from wingtip to wingtip. Its feathers crackle with sapphire lightning, and its piercing screech generates gale-force shockwaves capable of capsizing spelljammers.*
 * **Creature Type**: `Gargantuan Elemental (Beast), Chaotic Neutral`
+* **Combat Statistics**:
+  * **Armor Class**: 16 (natural armor)
+  * **Hit Points**: 144 (16d20 + 64)
+  * **Speed**: 40 ft., fly 60 ft.
+  * **Abilities**: STR 20 (+5) | DEX 18 (+4) | CON 18 (+4) | INT 10 (+0) | WIS 14 (+2) | CHA 10 (+0)
+  * **Saving Throws**: Con +8, Wis +6
+  * **Senses**: darkvision 60 ft., passive Perception 16
+  * **Languages**: Understands native planar dialect; telepathy 60 ft. (or unaligned)
+  * **Challenge**: 12 (12,000 XP) | **Proficiency Bonus**: +4
+* **Signature Combat Traits**:
+  * **Planar Apex Resilience**: The Gale-Rider Roc has advantage on saving throws against spells and magical effects native to its home plane.
+  * **Predatory Instinct**: Adds its proficiency bonus (+4) to initiative rolls and cannot be surprised while conscious.
+* **Combat Actions & Multiattack**:
+  * **Multiattack**: The Gale-Rider Roc makes three attacks: two with its primary natural weapons and one crushing strike.
+  * **Primary Strike**: *Melee Weapon Attack*: +9 to hit, reach 10 ft., one target. *Hit*: 14 (3d10 + 5) slashing/piercing damage plus 7 (2d6) elemental/force damage.
+  * **Crushing Surge (Recharge 5–6)**: The Gale-Rider Roc unleashes a planar surge in a 30-foot cone/line. Targets must make a DC 16 Dexterity or Constitution save, taking 42 (12d6) damage on a failed save, or half as much on a success.
 
 #### **Harvestable Materials Table**
 | Component | Classification | Yield & Estimated Base Value |
@@ -257,6 +417,22 @@ Below is the complete regional breakdown of all **22 Planar Lodges**, each featu
 ### 🦁 Thematic Apex Quarry II: The Cloud-Razor Chimera-Serpent (CR 10)
 * **Classification**: *A winged aerial viper that blends invisibly with cumulus clouds. Its scales are edged like surgical razors, slashing diving prey while discharging static bursts from its dual forked tongues.*
 * **Creature Type**: `Huge Elemental (Monstrosity), Chaotic Neutral`
+* **Combat Statistics**:
+  * **Armor Class**: 15 (natural armor)
+  * **Hit Points**: 112 (14d12 + 42)
+  * **Speed**: 40 ft., fly 60 ft.
+  * **Abilities**: STR 18 (+4) | DEX 18 (+4) | CON 16 (+3) | INT 8 (-1) | WIS 14 (+2) | CHA 10 (+0)
+  * **Saving Throws**: Con +7, Wis +6
+  * **Senses**: darkvision 60 ft., passive Perception 16
+  * **Languages**: Understands native planar dialect; telepathy 60 ft. (or unaligned)
+  * **Challenge**: 10 (10,000 XP) | **Proficiency Bonus**: +4
+* **Signature Combat Traits**:
+  * **Planar Apex Resilience**: The Cloud-Razor Chimera-Serpent has advantage on saving throws against spells and magical effects native to its home plane.
+  * **Predatory Instinct**: Adds its proficiency bonus (+4) to initiative rolls and cannot be surprised while conscious.
+* **Combat Actions & Multiattack**:
+  * **Multiattack**: The Cloud-Razor Chimera-Serpent makes three attacks: two with its primary natural weapons and one crushing strike.
+  * **Primary Strike**: *Melee Weapon Attack*: +8 to hit, reach 10 ft., one target. *Hit*: 13 (3d10 + 4) slashing/piercing damage plus 7 (2d6) elemental/force damage.
+  * **Crushing Surge (Recharge 5–6)**: The Cloud-Razor Chimera-Serpent unleashes a planar surge in a 30-foot cone/line. Targets must make a DC 15 Dexterity or Constitution save, taking 35 (10d6) damage on a failed save, or half as much on a success.
 
 #### **Harvestable Materials Table**
 | Component | Classification | Yield & Estimated Base Value |
@@ -275,6 +451,22 @@ Below is the complete regional breakdown of all **22 Planar Lodges**, each featu
 ### 🦁 Thematic Apex Quarry III: The Thunderhead Sky-Ray (CR 11)
 * **Classification**: *A vast, bioluminescent aerial manta ray that glides through the upper thermals of the Skybound Expanse, soaking in storm energy and lashing grounded vessels with electrified barbed tails.*
 * **Creature Type**: `Huge Elemental, Neutral`
+* **Combat Statistics**:
+  * **Armor Class**: 15 (natural armor)
+  * **Hit Points**: 120 (15d12 + 45)
+  * **Speed**: 40 ft.
+  * **Abilities**: STR 18 (+4) | DEX 18 (+4) | CON 16 (+3) | INT 8 (-1) | WIS 14 (+2) | CHA 10 (+0)
+  * **Saving Throws**: Con +7, Wis +6
+  * **Senses**: darkvision 60 ft., passive Perception 16
+  * **Languages**: Understands native planar dialect; telepathy 60 ft. (or unaligned)
+  * **Challenge**: 11 (11,000 XP) | **Proficiency Bonus**: +4
+* **Signature Combat Traits**:
+  * **Planar Apex Resilience**: The Thunderhead Sky-Ray has advantage on saving throws against spells and magical effects native to its home plane.
+  * **Predatory Instinct**: Adds its proficiency bonus (+4) to initiative rolls and cannot be surprised while conscious.
+* **Combat Actions & Multiattack**:
+  * **Multiattack**: The Thunderhead Sky-Ray makes three attacks: two with its primary natural weapons and one crushing strike.
+  * **Primary Strike**: *Melee Weapon Attack*: +8 to hit, reach 10 ft., one target. *Hit*: 13 (3d10 + 4) slashing/piercing damage plus 7 (2d6) elemental/force damage.
+  * **Crushing Surge (Recharge 5–6)**: The Thunderhead Sky-Ray unleashes a planar surge in a 30-foot cone/line. Targets must make a DC 15 Dexterity or Constitution save, taking 38 (11d6) damage on a failed save, or half as much on a success.
 
 #### **Harvestable Materials Table**
 | Component | Classification | Yield & Estimated Base Value |
@@ -304,6 +496,22 @@ Below is the complete regional breakdown of all **22 Planar Lodges**, each featu
 ### 🦁 Thematic Apex Quarry I: The Magma-Carapace Scorpid (CR 13)
 * **Classification**: *A hulking arachnid armored in interlocking plates of blackened volcanic glass. Its tail drips boiling sulfur-venom, and its claws can shear through solid iron while superheating the surrounding air to kiln temperatures.*
 * **Creature Type**: `Huge Elemental (Monstrosity), Neutral Evil`
+* **Combat Statistics**:
+  * **Armor Class**: 16 (natural armor)
+  * **Hit Points**: 153 (17d12 + 68)
+  * **Speed**: 40 ft.
+  * **Abilities**: STR 20 (+5) | DEX 18 (+4) | CON 18 (+4) | INT 10 (+0) | WIS 14 (+2) | CHA 10 (+0)
+  * **Saving Throws**: Con +9, Wis +7
+  * **Senses**: darkvision 60 ft., passive Perception 17
+  * **Languages**: Understands native planar dialect; telepathy 60 ft. (or unaligned)
+  * **Challenge**: 13 (13,000 XP) | **Proficiency Bonus**: +5
+* **Signature Combat Traits**:
+  * **Planar Apex Resilience**: The Magma-Carapace Scorpid has advantage on saving throws against spells and magical effects native to its home plane.
+  * **Predatory Instinct**: Adds its proficiency bonus (+5) to initiative rolls and cannot be surprised while conscious.
+* **Combat Actions & Multiattack**:
+  * **Multiattack**: The Magma-Carapace Scorpid makes three attacks: two with its primary natural weapons and one crushing strike.
+  * **Primary Strike**: *Melee Weapon Attack*: +10 to hit, reach 10 ft., one target. *Hit*: 14 (3d10 + 5) slashing/piercing damage plus 7 (2d6) elemental/force damage.
+  * **Crushing Surge (Recharge 5–6)**: The Magma-Carapace Scorpid unleashes a planar surge in a 30-foot cone/line. Targets must make a DC 16 Dexterity or Constitution save, taking 45 (13d6) damage on a failed save, or half as much on a success.
 
 #### **Harvestable Materials Table**
 | Component | Classification | Yield & Estimated Base Value |
@@ -322,6 +530,22 @@ Below is the complete regional breakdown of all **22 Planar Lodges**, each featu
 ### 🦁 Thematic Apex Quarry II: The Cinder-Horn Salamander Tyrant (CR 12)
 * **Classification**: *An ancient, crested fire-lizard that swims through the molten rivers of the Everblaze Expanse. Its horns are superheated rods of natural tungsten, and its tongue can snare prey from 30 feet away, cooking them in seconds.*
 * **Creature Type**: `Huge Elemental (Monstrosity), Chaotic Evil`
+* **Combat Statistics**:
+  * **Armor Class**: 16 (natural armor)
+  * **Hit Points**: 144 (16d12 + 64)
+  * **Speed**: 40 ft., swim 50 ft.
+  * **Abilities**: STR 20 (+5) | DEX 18 (+4) | CON 18 (+4) | INT 10 (+0) | WIS 14 (+2) | CHA 10 (+0)
+  * **Saving Throws**: Con +8, Wis +6
+  * **Senses**: darkvision 60 ft., passive Perception 16
+  * **Languages**: Understands native planar dialect; telepathy 60 ft. (or unaligned)
+  * **Challenge**: 12 (12,000 XP) | **Proficiency Bonus**: +4
+* **Signature Combat Traits**:
+  * **Planar Apex Resilience**: The Cinder-Horn Salamander Tyrant has advantage on saving throws against spells and magical effects native to its home plane.
+  * **Predatory Instinct**: Adds its proficiency bonus (+4) to initiative rolls and cannot be surprised while conscious.
+* **Combat Actions & Multiattack**:
+  * **Multiattack**: The Cinder-Horn Salamander Tyrant makes three attacks: two with its primary natural weapons and one crushing strike.
+  * **Primary Strike**: *Melee Weapon Attack*: +9 to hit, reach 10 ft., one target. *Hit*: 14 (3d10 + 5) slashing/piercing damage plus 7 (2d6) elemental/force damage.
+  * **Crushing Surge (Recharge 5–6)**: The Cinder-Horn Salamander Tyrant unleashes a planar surge in a 30-foot cone/line. Targets must make a DC 16 Dexterity or Constitution save, taking 42 (12d6) damage on a failed save, or half as much on a success.
 
 #### **Harvestable Materials Table**
 | Component | Classification | Yield & Estimated Base Value |
@@ -340,6 +564,22 @@ Below is the complete regional breakdown of all **22 Planar Lodges**, each featu
 ### 🦁 Thematic Apex Quarry III: The Slag-Basin Magma Worm (CR 11)
 * **Classification**: *A thick, armored annelid that bores through the volcanic crust near the City of Brass, digesting raw basalt and excreting rivers of liquified copper and gold.*
 * **Creature Type**: `Huge Monstrosity, Unaligned`
+* **Combat Statistics**:
+  * **Armor Class**: 15 (natural armor)
+  * **Hit Points**: 120 (15d12 + 45)
+  * **Speed**: 40 ft., burrow 30 ft.
+  * **Abilities**: STR 18 (+4) | DEX 18 (+4) | CON 16 (+3) | INT 8 (-1) | WIS 14 (+2) | CHA 10 (+0)
+  * **Saving Throws**: Con +7, Wis +6
+  * **Senses**: darkvision 60 ft., passive Perception 16
+  * **Languages**: Understands native planar dialect; telepathy 60 ft. (or unaligned)
+  * **Challenge**: 11 (11,000 XP) | **Proficiency Bonus**: +4
+* **Signature Combat Traits**:
+  * **Planar Apex Resilience**: The Slag-Basin Magma Worm has advantage on saving throws against spells and magical effects native to its home plane.
+  * **Predatory Instinct**: Adds its proficiency bonus (+4) to initiative rolls and cannot be surprised while conscious.
+* **Combat Actions & Multiattack**:
+  * **Multiattack**: The Slag-Basin Magma Worm makes three attacks: two with its primary natural weapons and one crushing strike.
+  * **Primary Strike**: *Melee Weapon Attack*: +8 to hit, reach 10 ft., one target. *Hit*: 13 (3d10 + 4) slashing/piercing damage plus 7 (2d6) elemental/force damage.
+  * **Crushing Surge (Recharge 5–6)**: The Slag-Basin Magma Worm unleashes a planar surge in a 30-foot cone/line. Targets must make a DC 15 Dexterity or Constitution save, taking 38 (11d6) damage on a failed save, or half as much on a success.
 
 #### **Harvestable Materials Table**
 | Component | Classification | Yield & Estimated Base Value |
@@ -369,6 +609,22 @@ Below is the complete regional breakdown of all **22 Planar Lodges**, each featu
 ### 🦁 Thematic Apex Quarry I: The Adamantine-Homed Gorgon Behemoth (CR 11)
 * **Classification**: *A primeval iron bull three times the size of a mortal ox, clad in overlapping plates of natural adamantine ore. Its breath is an ash-gray cloud of petrifying vapor, and its horns can gore through granite battlements.*
 * **Creature Type**: `Huge Monstrosity (Elemental), Unaligned`
+* **Combat Statistics**:
+  * **Armor Class**: 15 (natural armor)
+  * **Hit Points**: 120 (15d12 + 45)
+  * **Speed**: 40 ft., burrow 30 ft.
+  * **Abilities**: STR 18 (+4) | DEX 18 (+4) | CON 16 (+3) | INT 8 (-1) | WIS 14 (+2) | CHA 10 (+0)
+  * **Saving Throws**: Con +7, Wis +6
+  * **Senses**: darkvision 60 ft., passive Perception 16
+  * **Languages**: Understands native planar dialect; telepathy 60 ft. (or unaligned)
+  * **Challenge**: 11 (11,000 XP) | **Proficiency Bonus**: +4
+* **Signature Combat Traits**:
+  * **Planar Apex Resilience**: The Adamantine-Homed Gorgon Behemoth has advantage on saving throws against spells and magical effects native to its home plane.
+  * **Predatory Instinct**: Adds its proficiency bonus (+4) to initiative rolls and cannot be surprised while conscious.
+* **Combat Actions & Multiattack**:
+  * **Multiattack**: The Adamantine-Homed Gorgon Behemoth makes three attacks: two with its primary natural weapons and one crushing strike.
+  * **Primary Strike**: *Melee Weapon Attack*: +8 to hit, reach 10 ft., one target. *Hit*: 13 (3d10 + 4) slashing/piercing damage plus 7 (2d6) elemental/force damage.
+  * **Crushing Surge (Recharge 5–6)**: The Adamantine-Homed Gorgon Behemoth unleashes a planar surge in a 30-foot cone/line. Targets must make a DC 15 Dexterity or Constitution save, taking 38 (11d6) damage on a failed save, or half as much on a success.
 
 #### **Harvestable Materials Table**
 | Component | Classification | Yield & Estimated Base Value |
@@ -387,6 +643,22 @@ Below is the complete regional breakdown of all **22 Planar Lodges**, each featu
 ### 🦁 Thematic Apex Quarry II: The Crystal-Carapace Bulette (CR 10)
 * **Classification**: *A subterranean landshark whose osteoderms have crystallized into faceted quartz and amethyst, refracting light into dazzling bursts when it breaches the cavern floors.*
 * **Creature Type**: `Large Monstrosity, Unaligned`
+* **Combat Statistics**:
+  * **Armor Class**: 15 (natural armor)
+  * **Hit Points**: 112 (14d10 + 42)
+  * **Speed**: 40 ft., burrow 30 ft.
+  * **Abilities**: STR 18 (+4) | DEX 16 (+3) | CON 16 (+3) | INT 8 (-1) | WIS 14 (+2) | CHA 10 (+0)
+  * **Saving Throws**: Con +7, Wis +6
+  * **Senses**: darkvision 60 ft., passive Perception 16
+  * **Languages**: Understands native planar dialect; telepathy 60 ft. (or unaligned)
+  * **Challenge**: 10 (10,000 XP) | **Proficiency Bonus**: +4
+* **Signature Combat Traits**:
+  * **Planar Apex Resilience**: The Crystal-Carapace Bulette has advantage on saving throws against spells and magical effects native to its home plane.
+  * **Predatory Instinct**: Adds its proficiency bonus (+4) to initiative rolls and cannot be surprised while conscious.
+* **Combat Actions & Multiattack**:
+  * **Multiattack**: The Crystal-Carapace Bulette makes three attacks: two with its primary natural weapons and one crushing strike.
+  * **Primary Strike**: *Melee Weapon Attack*: +8 to hit, reach 10 ft., one target. *Hit*: 13 (2d10 + 4) slashing/piercing damage plus 7 (2d6) elemental/force damage.
+  * **Crushing Surge (Recharge 5–6)**: The Crystal-Carapace Bulette unleashes a planar surge in a 30-foot cone/line. Targets must make a DC 15 Dexterity or Constitution save, taking 35 (10d6) damage on a failed save, or half as much on a success.
 
 #### **Harvestable Materials Table**
 | Component | Classification | Yield & Estimated Base Value |
@@ -405,6 +677,22 @@ Below is the complete regional breakdown of all **22 Planar Lodges**, each featu
 ### 🦁 Thematic Apex Quarry III: The Granite-Spined Basidirond (CR 9)
 * **Classification**: *An inverted umbrella-shaped fungal monstrosity that roots in adamantine veins, launching hallucinogenic spores that cause victims to see the cavern walls collapsing upon them.*
 * **Creature Type**: `Huge Plant (Elemental), Unaligned`
+* **Combat Statistics**:
+  * **Armor Class**: 14 (natural armor)
+  * **Hit Points**: 91 (13d12 + 26)
+  * **Speed**: 40 ft.
+  * **Abilities**: STR 16 (+3) | DEX 20 (+5) | CON 14 (+2) | INT 8 (-1) | WIS 14 (+2) | CHA 10 (+0)
+  * **Saving Throws**: Con +6, Wis +6
+  * **Senses**: darkvision 60 ft., passive Perception 16
+  * **Languages**: Understands native planar dialect; telepathy 60 ft. (or unaligned)
+  * **Challenge**: 9 (9,000 XP) | **Proficiency Bonus**: +4
+* **Signature Combat Traits**:
+  * **Planar Apex Resilience**: The Granite-Spined Basidirond has advantage on saving throws against spells and magical effects native to its home plane.
+  * **Predatory Instinct**: Adds its proficiency bonus (+4) to initiative rolls and cannot be surprised while conscious.
+* **Combat Actions & Multiattack**:
+  * **Multiattack**: The Granite-Spined Basidirond makes three attacks: two with its primary natural weapons and one crushing strike.
+  * **Primary Strike**: *Melee Weapon Attack*: +7 to hit, reach 10 ft., one target. *Hit*: 12 (3d10 + 3) slashing/piercing damage plus 7 (2d6) elemental/force damage.
+  * **Crushing Surge (Recharge 5–6)**: The Granite-Spined Basidirond unleashes a planar surge in a 30-foot cone/line. Targets must make a DC 14 Dexterity or Constitution save, taking 31 (9d6) damage on a failed save, or half as much on a success.
 
 #### **Harvestable Materials Table**
 | Component | Classification | Yield & Estimated Base Value |
@@ -434,6 +722,22 @@ Below is the complete regional breakdown of all **22 Planar Lodges**, each featu
 ### 🦁 Thematic Apex Quarry I: The Abyssal Kraken-Spawn (CR 14)
 * **Classification**: *A predatory juvenile titan of the lightless trenches, featuring eight barbed tentacles lined with lamprey-like mouths and a central beak of serrated black coral. It emits a bioluminescent ink that suffocates magic and light.*
 * **Creature Type**: `Huge Monstrosity (Aberration), Chaotic Evil`
+* **Combat Statistics**:
+  * **Armor Class**: 17 (natural armor)
+  * **Hit Points**: 180 (18d12 + 90)
+  * **Speed**: 40 ft., swim 50 ft.
+  * **Abilities**: STR 22 (+6) | DEX 16 (+3) | CON 20 (+5) | INT 20 (+5) | WIS 16 (+3) | CHA 16 (+3)
+  * **Saving Throws**: Con +10, Wis +8
+  * **Senses**: truesight 60 ft., darkvision 120 ft., passive Perception 18
+  * **Languages**: Understands native planar dialect; telepathy 60 ft. (or unaligned)
+  * **Challenge**: 14 (14,000 XP) | **Proficiency Bonus**: +5
+* **Signature Combat Traits**:
+  * **Planar Apex Resilience**: The Abyssal Kraken-Spawn has advantage on saving throws against spells and magical effects native to its home plane.
+  * **Predatory Instinct**: Adds its proficiency bonus (+5) to initiative rolls and cannot be surprised while conscious.
+* **Combat Actions & Multiattack**:
+  * **Multiattack**: The Abyssal Kraken-Spawn makes three attacks: two with its primary natural weapons and one crushing strike.
+  * **Primary Strike**: *Melee Weapon Attack*: +11 to hit, reach 10 ft., one target. *Hit*: 15 (3d10 + 6) slashing/piercing damage plus 7 (2d6) elemental/force damage.
+  * **Crushing Surge (Recharge 5–6)**: The Abyssal Kraken-Spawn unleashes a planar surge in a 30-foot cone/line. Targets must make a DC 17 Dexterity or Constitution save, taking 49 (14d6) damage on a failed save, or half as much on a success.
 
 #### **Harvestable Materials Table**
 | Component | Classification | Yield & Estimated Base Value |
@@ -452,6 +756,22 @@ Below is the complete regional breakdown of all **22 Planar Lodges**, each featu
 ### 🦁 Thematic Apex Quarry II: The Leviathan Bone-Whale (CR 13)
 * **Classification**: *An ancient cetacean measuring over 90 feet in length, armored in external bone scaffolding formed from calcified coral. Its echolocating breach can shatter ship hulls and rupture the lungs of divers.*
 * **Creature Type**: `Gargantuan Beast (Monstrosity), Neutral`
+* **Combat Statistics**:
+  * **Armor Class**: 16 (natural armor)
+  * **Hit Points**: 153 (17d20 + 68)
+  * **Speed**: 40 ft., swim 50 ft.
+  * **Abilities**: STR 20 (+5) | DEX 18 (+4) | CON 18 (+4) | INT 10 (+0) | WIS 14 (+2) | CHA 10 (+0)
+  * **Saving Throws**: Con +9, Wis +7
+  * **Senses**: darkvision 60 ft., passive Perception 17
+  * **Languages**: Understands native planar dialect; telepathy 60 ft. (or unaligned)
+  * **Challenge**: 13 (13,000 XP) | **Proficiency Bonus**: +5
+* **Signature Combat Traits**:
+  * **Planar Apex Resilience**: The Leviathan Bone-Whale has advantage on saving throws against spells and magical effects native to its home plane.
+  * **Predatory Instinct**: Adds its proficiency bonus (+5) to initiative rolls and cannot be surprised while conscious.
+* **Combat Actions & Multiattack**:
+  * **Multiattack**: The Leviathan Bone-Whale makes three attacks: two with its primary natural weapons and one crushing strike.
+  * **Primary Strike**: *Melee Weapon Attack*: +10 to hit, reach 10 ft., one target. *Hit*: 14 (3d10 + 5) slashing/piercing damage plus 7 (2d6) elemental/force damage.
+  * **Crushing Surge (Recharge 5–6)**: The Leviathan Bone-Whale unleashes a planar surge in a 30-foot cone/line. Targets must make a DC 16 Dexterity or Constitution save, taking 45 (13d6) damage on a failed save, or half as much on a success.
 
 #### **Harvestable Materials Table**
 | Component | Classification | Yield & Estimated Base Value |
@@ -470,6 +790,22 @@ Below is the complete regional breakdown of all **22 Planar Lodges**, each featu
 ### 🦁 Thematic Apex Quarry III: The Tidal Sea-Drake (CR 11)
 * **Classification**: *A sleek, finned dragon with scales like polished sea-glass. It rides oceanic whirlpools, firing high-pressure jets of water capable of boring through foot-thick iron bulkheads.*
 * **Creature Type**: `Huge Dragon (Elemental), Chaotic Neutral`
+* **Combat Statistics**:
+  * **Armor Class**: 15 (natural armor)
+  * **Hit Points**: 120 (15d12 + 45)
+  * **Speed**: 40 ft., fly 60 ft., swim 50 ft.
+  * **Abilities**: STR 18 (+4) | DEX 18 (+4) | CON 16 (+3) | INT 16 (+3) | WIS 14 (+2) | CHA 14 (+2)
+  * **Saving Throws**: Con +7, Wis +6
+  * **Senses**: truesight 60 ft., darkvision 120 ft., passive Perception 16
+  * **Languages**: Understands native planar dialect; telepathy 60 ft. (or unaligned)
+  * **Challenge**: 11 (11,000 XP) | **Proficiency Bonus**: +4
+* **Signature Combat Traits**:
+  * **Planar Apex Resilience**: The Tidal Sea-Drake has advantage on saving throws against spells and magical effects native to its home plane.
+  * **Predatory Instinct**: Adds its proficiency bonus (+4) to initiative rolls and cannot be surprised while conscious.
+* **Combat Actions & Multiattack**:
+  * **Multiattack**: The Tidal Sea-Drake makes three attacks: two with its primary natural weapons and one crushing strike.
+  * **Primary Strike**: *Melee Weapon Attack*: +8 to hit, reach 10 ft., one target. *Hit*: 13 (3d10 + 4) slashing/piercing damage plus 7 (2d6) elemental/force damage.
+  * **Crushing Surge (Recharge 5–6)**: The Tidal Sea-Drake unleashes a planar surge in a 30-foot cone/line. Targets must make a DC 15 Dexterity or Constitution save, taking 38 (11d6) damage on a failed save, or half as much on a success.
 
 #### **Harvestable Materials Table**
 | Component | Classification | Yield & Estimated Base Value |
@@ -499,6 +835,22 @@ Below is the complete regional breakdown of all **22 Planar Lodges**, each featu
 ### 🦁 Thematic Apex Quarry I: The Filament-Eater Drake (CR 10)
 * **Classification**: *A slender, sinuous drake with scales of spun golden thread that feeds on the cosmic filaments connecting drifting shards. It breathes a cone of kinetic unraveling that unties magic and destabilizes spatial orientation.*
 * **Creature Type**: `Large Dragon (Monstrosity), Unaligned`
+* **Combat Statistics**:
+  * **Armor Class**: 15 (natural armor)
+  * **Hit Points**: 112 (14d10 + 42)
+  * **Speed**: 40 ft., fly 60 ft.
+  * **Abilities**: STR 18 (+4) | DEX 16 (+3) | CON 16 (+3) | INT 16 (+3) | WIS 14 (+2) | CHA 14 (+2)
+  * **Saving Throws**: Con +7, Wis +6
+  * **Senses**: truesight 60 ft., darkvision 120 ft., passive Perception 16
+  * **Languages**: Understands native planar dialect; telepathy 60 ft. (or unaligned)
+  * **Challenge**: 10 (10,000 XP) | **Proficiency Bonus**: +4
+* **Signature Combat Traits**:
+  * **Planar Apex Resilience**: The Filament-Eater Drake has advantage on saving throws against spells and magical effects native to its home plane.
+  * **Predatory Instinct**: Adds its proficiency bonus (+4) to initiative rolls and cannot be surprised while conscious.
+* **Combat Actions & Multiattack**:
+  * **Multiattack**: The Filament-Eater Drake makes three attacks: two with its primary natural weapons and one crushing strike.
+  * **Primary Strike**: *Melee Weapon Attack*: +8 to hit, reach 10 ft., one target. *Hit*: 13 (2d10 + 4) slashing/piercing damage plus 7 (2d6) elemental/force damage.
+  * **Crushing Surge (Recharge 5–6)**: The Filament-Eater Drake unleashes a planar surge in a 30-foot cone/line. Targets must make a DC 15 Dexterity or Constitution save, taking 35 (10d6) damage on a failed save, or half as much on a success.
 
 #### **Harvestable Materials Table**
 | Component | Classification | Yield & Estimated Base Value |
@@ -517,6 +869,22 @@ Below is the complete regional breakdown of all **22 Planar Lodges**, each featu
 ### 🦁 Thematic Apex Quarry II: The Void-Thread Stalker Panther (CR 9)
 * **Classification**: *A six-legged feline predator with fur like the night sky between planar shards. It stalks the golden filaments connecting drifting islands, phasing between dimensional frequencies to ambush couriers.*
 * **Creature Type**: `Large Monstrosity, Unaligned`
+* **Combat Statistics**:
+  * **Armor Class**: 14 (natural armor)
+  * **Hit Points**: 91 (13d10 + 26)
+  * **Speed**: 40 ft., climb 40 ft.
+  * **Abilities**: STR 16 (+3) | DEX 16 (+3) | CON 14 (+2) | INT 8 (-1) | WIS 14 (+2) | CHA 10 (+0)
+  * **Saving Throws**: Con +6, Wis +6
+  * **Senses**: darkvision 60 ft., passive Perception 16
+  * **Languages**: Understands native planar dialect; telepathy 60 ft. (or unaligned)
+  * **Challenge**: 9 (9,000 XP) | **Proficiency Bonus**: +4
+* **Signature Combat Traits**:
+  * **Planar Apex Resilience**: The Void-Thread Stalker Panther has advantage on saving throws against spells and magical effects native to its home plane.
+  * **Predatory Instinct**: Adds its proficiency bonus (+4) to initiative rolls and cannot be surprised while conscious.
+* **Combat Actions & Multiattack**:
+  * **Multiattack**: The Void-Thread Stalker Panther makes three attacks: two with its primary natural weapons and one crushing strike.
+  * **Primary Strike**: *Melee Weapon Attack*: +7 to hit, reach 10 ft., one target. *Hit*: 12 (2d10 + 3) slashing/piercing damage plus 7 (2d6) elemental/force damage.
+  * **Crushing Surge (Recharge 5–6)**: The Void-Thread Stalker Panther unleashes a planar surge in a 30-foot cone/line. Targets must make a DC 14 Dexterity or Constitution save, taking 31 (9d6) damage on a failed save, or half as much on a success.
 
 #### **Harvestable Materials Table**
 | Component | Classification | Yield & Estimated Base Value |
@@ -535,6 +903,22 @@ Below is the complete regional breakdown of all **22 Planar Lodges**, each featu
 ### 🦁 Thematic Apex Quarry III: The Nexus Weft-Leech Queen (CR 12)
 * **Classification**: *A bloated, lamprey-jawed horror that attaches itself to the underside of the Nexus Spire, siphoning the golden thread energy holding the city together and birthing swarms of hungry thread-mites.*
 * **Creature Type**: `Huge Aberration (Monstrosity), Neutral Evil`
+* **Combat Statistics**:
+  * **Armor Class**: 16 (natural armor)
+  * **Hit Points**: 144 (16d12 + 64)
+  * **Speed**: 40 ft.
+  * **Abilities**: STR 20 (+5) | DEX 18 (+4) | CON 18 (+4) | INT 18 (+4) | WIS 14 (+2) | CHA 14 (+2)
+  * **Saving Throws**: Con +8, Wis +6
+  * **Senses**: truesight 60 ft., darkvision 120 ft., passive Perception 16
+  * **Languages**: Understands native planar dialect; telepathy 60 ft. (or unaligned)
+  * **Challenge**: 12 (12,000 XP) | **Proficiency Bonus**: +4
+* **Signature Combat Traits**:
+  * **Planar Apex Resilience**: The Nexus Weft-Leech Queen has advantage on saving throws against spells and magical effects native to its home plane.
+  * **Predatory Instinct**: Adds its proficiency bonus (+4) to initiative rolls and cannot be surprised while conscious.
+* **Combat Actions & Multiattack**:
+  * **Multiattack**: The Nexus Weft-Leech Queen makes three attacks: two with its primary natural weapons and one crushing strike.
+  * **Primary Strike**: *Melee Weapon Attack*: +9 to hit, reach 10 ft., one target. *Hit*: 14 (3d10 + 5) slashing/piercing damage plus 7 (2d6) elemental/force damage.
+  * **Crushing Surge (Recharge 5–6)**: The Nexus Weft-Leech Queen unleashes a planar surge in a 30-foot cone/line. Targets must make a DC 16 Dexterity or Constitution save, taking 42 (12d6) damage on a failed save, or half as much on a success.
 
 #### **Harvestable Materials Table**
 | Component | Classification | Yield & Estimated Base Value |
@@ -564,6 +948,22 @@ Below is the complete regional breakdown of all **22 Planar Lodges**, each featu
 ### 🦁 Thematic Apex Quarry I: The Memory-Devouring Sphinx-Beast (CR 13)
 * **Classification**: *A rogue guardian sphinx corrupted by loose chronicle threads. It has the body of an ebony lion and wings of razor-sharp parchment scrolls. Its claws strike with the force of forgotten oaths, stripping spell slots and memories from victims.*
 * **Creature Type**: `Large Monstrosity, Lawful Neutral`
+* **Combat Statistics**:
+  * **Armor Class**: 16 (natural armor)
+  * **Hit Points**: 153 (17d10 + 68)
+  * **Speed**: 40 ft., fly 60 ft.
+  * **Abilities**: STR 20 (+5) | DEX 18 (+4) | CON 18 (+4) | INT 10 (+0) | WIS 14 (+2) | CHA 10 (+0)
+  * **Saving Throws**: Con +9, Wis +7
+  * **Senses**: darkvision 60 ft., passive Perception 17
+  * **Languages**: Understands native planar dialect; telepathy 60 ft. (or unaligned)
+  * **Challenge**: 13 (13,000 XP) | **Proficiency Bonus**: +5
+* **Signature Combat Traits**:
+  * **Planar Apex Resilience**: The Memory-Devouring Sphinx-Beast has advantage on saving throws against spells and magical effects native to its home plane.
+  * **Predatory Instinct**: Adds its proficiency bonus (+5) to initiative rolls and cannot be surprised while conscious.
+* **Combat Actions & Multiattack**:
+  * **Multiattack**: The Memory-Devouring Sphinx-Beast makes three attacks: two with its primary natural weapons and one crushing strike.
+  * **Primary Strike**: *Melee Weapon Attack*: +10 to hit, reach 10 ft., one target. *Hit*: 14 (2d10 + 5) slashing/piercing damage plus 7 (2d6) elemental/force damage.
+  * **Crushing Surge (Recharge 5–6)**: The Memory-Devouring Sphinx-Beast unleashes a planar surge in a 30-foot cone/line. Targets must make a DC 16 Dexterity or Constitution save, taking 45 (13d6) damage on a failed save, or half as much on a success.
 
 #### **Harvestable Materials Table**
 | Component | Classification | Yield & Estimated Base Value |
@@ -582,6 +982,22 @@ Below is the complete regional breakdown of all **22 Planar Lodges**, each featu
 ### 🦁 Thematic Apex Quarry II: The Living Vellum Cockatrice (CR 9)
 * **Classification**: *A chimeric rooster-serpent composed of compressed illuminated manuscript pages and quill-like feathers that inject a fast-acting calcifying ink into intruders.*
 * **Creature Type**: `Medium Monstrosity, Neutral`
+* **Combat Statistics**:
+  * **Armor Class**: 14 (natural armor)
+  * **Hit Points**: 91 (13d8 + 26)
+  * **Speed**: 40 ft.
+  * **Abilities**: STR 16 (+3) | DEX 16 (+3) | CON 14 (+2) | INT 8 (-1) | WIS 14 (+2) | CHA 10 (+0)
+  * **Saving Throws**: Con +6, Wis +6
+  * **Senses**: darkvision 60 ft., passive Perception 16
+  * **Languages**: Understands native planar dialect; telepathy 60 ft. (or unaligned)
+  * **Challenge**: 9 (9,000 XP) | **Proficiency Bonus**: +4
+* **Signature Combat Traits**:
+  * **Planar Apex Resilience**: The Living Vellum Cockatrice has advantage on saving throws against spells and magical effects native to its home plane.
+  * **Predatory Instinct**: Adds its proficiency bonus (+4) to initiative rolls and cannot be surprised while conscious.
+* **Combat Actions & Multiattack**:
+  * **Multiattack**: The Living Vellum Cockatrice makes three attacks: two with its primary natural weapons and one crushing strike.
+  * **Primary Strike**: *Melee Weapon Attack*: +7 to hit, reach 10 ft., one target. *Hit*: 12 (2d8 + 3) slashing/piercing damage plus 7 (2d6) elemental/force damage.
+  * **Crushing Surge (Recharge 5–6)**: The Living Vellum Cockatrice unleashes a planar surge in a 30-foot cone/line. Targets must make a DC 14 Dexterity or Constitution save, taking 31 (9d6) damage on a failed save, or half as much on a success.
 
 #### **Harvestable Materials Table**
 | Component | Classification | Yield & Estimated Base Value |
@@ -600,6 +1016,22 @@ Below is the complete regional breakdown of all **22 Planar Lodges**, each featu
 ### 🦁 Thematic Apex Quarry III: The Tome-Carapace Hermit Crab (CR 10)
 * **Classification**: *A crustacean that inhabits abandoned spellbook bindings from dead archmages, using the hardbound iron covers as an impervious shell while its pincers slice paper and steel alike.*
 * **Creature Type**: `Large Beast (Construct), Unaligned`
+* **Combat Statistics**:
+  * **Armor Class**: 15 (natural armor)
+  * **Hit Points**: 112 (14d10 + 42)
+  * **Speed**: 40 ft.
+  * **Abilities**: STR 18 (+4) | DEX 16 (+3) | CON 16 (+3) | INT 8 (-1) | WIS 14 (+2) | CHA 10 (+0)
+  * **Saving Throws**: Con +7, Wis +6
+  * **Senses**: darkvision 60 ft., passive Perception 16
+  * **Languages**: Understands native planar dialect; telepathy 60 ft. (or unaligned)
+  * **Challenge**: 10 (10,000 XP) | **Proficiency Bonus**: +4
+* **Signature Combat Traits**:
+  * **Planar Apex Resilience**: The Tome-Carapace Hermit Crab has advantage on saving throws against spells and magical effects native to its home plane.
+  * **Predatory Instinct**: Adds its proficiency bonus (+4) to initiative rolls and cannot be surprised while conscious.
+* **Combat Actions & Multiattack**:
+  * **Multiattack**: The Tome-Carapace Hermit Crab makes three attacks: two with its primary natural weapons and one crushing strike.
+  * **Primary Strike**: *Melee Weapon Attack*: +8 to hit, reach 10 ft., one target. *Hit*: 13 (2d10 + 4) slashing/piercing damage plus 7 (2d6) elemental/force damage.
+  * **Crushing Surge (Recharge 5–6)**: The Tome-Carapace Hermit Crab unleashes a planar surge in a 30-foot cone/line. Targets must make a DC 15 Dexterity or Constitution save, taking 35 (10d6) damage on a failed save, or half as much on a success.
 
 #### **Harvestable Materials Table**
 | Component | Classification | Yield & Estimated Base Value |
@@ -629,6 +1061,22 @@ Below is the complete regional breakdown of all **22 Planar Lodges**, each featu
 ### 🦁 Thematic Apex Quarry I: The Hellfire Brimstone Juggernaut (CR 15)
 * **Classification**: *A terrifying war-beast bred in the armories of Dis. It resembles a quadrupedal rhinoceros clad in thick iron-and-bone plate that burns with hellfire, exhaling clouds of choking sulfur and molten copper.*
 * **Creature Type**: `Huge Fiend (Devil), Lawful Evil`
+* **Combat Statistics**:
+  * **Armor Class**: 17 (natural armor)
+  * **Hit Points**: 190 (19d12 + 95)
+  * **Speed**: 40 ft.
+  * **Abilities**: STR 22 (+6) | DEX 16 (+3) | CON 20 (+5) | INT 10 (+0) | WIS 16 (+3) | CHA 10 (+0)
+  * **Saving Throws**: Con +10, Wis +8
+  * **Senses**: truesight 60 ft., darkvision 120 ft., passive Perception 18
+  * **Languages**: Understands native planar dialect; telepathy 60 ft. (or unaligned)
+  * **Challenge**: 15 (15,000 XP) | **Proficiency Bonus**: +5
+* **Signature Combat Traits**:
+  * **Planar Apex Resilience**: The Hellfire Brimstone Juggernaut has advantage on saving throws against spells and magical effects native to its home plane.
+  * **Predatory Instinct**: Adds its proficiency bonus (+5) to initiative rolls and cannot be surprised while conscious.
+* **Combat Actions & Multiattack**:
+  * **Multiattack**: The Hellfire Brimstone Juggernaut makes three attacks: two with its primary natural weapons and one crushing strike.
+  * **Primary Strike**: *Melee Weapon Attack*: +11 to hit, reach 10 ft., one target. *Hit*: 15 (3d10 + 6) slashing/piercing damage plus 7 (2d6) elemental/force damage.
+  * **Crushing Surge (Recharge 5–6)**: The Hellfire Brimstone Juggernaut unleashes a planar surge in a 30-foot cone/line. Targets must make a DC 17 Dexterity or Constitution save, taking 52 (15d6) damage on a failed save, or half as much on a success.
 
 #### **Harvestable Materials Table**
 | Component | Classification | Yield & Estimated Base Value |
@@ -647,6 +1095,22 @@ Below is the complete regional breakdown of all **22 Planar Lodges**, each featu
 ### 🦁 Thematic Apex Quarry II: The Stygian Frost-Hound Alpha (CR 12)
 * **Classification**: *A frost-rimed canine bred along the shores of frozen Cania. Its breath is an icy mist of Stygian water that causes instantaneous amnesia and hypothermic shock in warm-blooded creatures.*
 * **Creature Type**: `Large Fiend (Devil), Lawful Evil`
+* **Combat Statistics**:
+  * **Armor Class**: 16 (natural armor)
+  * **Hit Points**: 144 (16d10 + 64)
+  * **Speed**: 40 ft., swim 50 ft.
+  * **Abilities**: STR 20 (+5) | DEX 18 (+4) | CON 18 (+4) | INT 10 (+0) | WIS 14 (+2) | CHA 10 (+0)
+  * **Saving Throws**: Con +8, Wis +6
+  * **Senses**: darkvision 60 ft., passive Perception 16
+  * **Languages**: Understands native planar dialect; telepathy 60 ft. (or unaligned)
+  * **Challenge**: 12 (12,000 XP) | **Proficiency Bonus**: +4
+* **Signature Combat Traits**:
+  * **Planar Apex Resilience**: The Stygian Frost-Hound Alpha has advantage on saving throws against spells and magical effects native to its home plane.
+  * **Predatory Instinct**: Adds its proficiency bonus (+4) to initiative rolls and cannot be surprised while conscious.
+* **Combat Actions & Multiattack**:
+  * **Multiattack**: The Stygian Frost-Hound Alpha makes three attacks: two with its primary natural weapons and one crushing strike.
+  * **Primary Strike**: *Melee Weapon Attack*: +9 to hit, reach 10 ft., one target. *Hit*: 14 (2d10 + 5) slashing/piercing damage plus 7 (2d6) elemental/force damage.
+  * **Crushing Surge (Recharge 5–6)**: The Stygian Frost-Hound Alpha unleashes a planar surge in a 30-foot cone/line. Targets must make a DC 16 Dexterity or Constitution save, taking 42 (12d6) damage on a failed save, or half as much on a success.
 
 #### **Harvestable Materials Table**
 | Component | Classification | Yield & Estimated Base Value |
@@ -665,6 +1129,22 @@ Below is the complete regional breakdown of all **22 Planar Lodges**, each featu
 ### 🦁 Thematic Apex Quarry III: The Malebranche Iron-Wasp Queen (CR 11)
 * **Classification**: *A terrifying, mechanized insectoid devil that nests inside the furnace-towers of Dis. Its stinger is an iron needle inscribed with binding legal damnations that paralyze victims before dragging them to the hives.*
 * **Creature Type**: `Huge Fiend (Devil), Lawful Evil`
+* **Combat Statistics**:
+  * **Armor Class**: 15 (natural armor)
+  * **Hit Points**: 120 (15d12 + 45)
+  * **Speed**: 40 ft.
+  * **Abilities**: STR 18 (+4) | DEX 18 (+4) | CON 16 (+3) | INT 8 (-1) | WIS 14 (+2) | CHA 10 (+0)
+  * **Saving Throws**: Con +7, Wis +6
+  * **Senses**: darkvision 60 ft., passive Perception 16
+  * **Languages**: Understands native planar dialect; telepathy 60 ft. (or unaligned)
+  * **Challenge**: 11 (11,000 XP) | **Proficiency Bonus**: +4
+* **Signature Combat Traits**:
+  * **Planar Apex Resilience**: The Malebranche Iron-Wasp Queen has advantage on saving throws against spells and magical effects native to its home plane.
+  * **Predatory Instinct**: Adds its proficiency bonus (+4) to initiative rolls and cannot be surprised while conscious.
+* **Combat Actions & Multiattack**:
+  * **Multiattack**: The Malebranche Iron-Wasp Queen makes three attacks: two with its primary natural weapons and one crushing strike.
+  * **Primary Strike**: *Melee Weapon Attack*: +8 to hit, reach 10 ft., one target. *Hit*: 13 (3d10 + 4) slashing/piercing damage plus 7 (2d6) elemental/force damage.
+  * **Crushing Surge (Recharge 5–6)**: The Malebranche Iron-Wasp Queen unleashes a planar surge in a 30-foot cone/line. Targets must make a DC 15 Dexterity or Constitution save, taking 38 (11d6) damage on a failed save, or half as much on a success.
 
 #### **Harvestable Materials Table**
 | Component | Classification | Yield & Estimated Base Value |
@@ -694,6 +1174,22 @@ Below is the complete regional breakdown of all **22 Planar Lodges**, each featu
 ### 🦁 Thematic Apex Quarry I: The Fray-Bred Abomination (Goristro-Hydra) (CR 15)
 * **Classification**: *A towering, multi-headed beast spawned in the entropic pits of the 88th layer. It combines the massive bulk of a minotaur-goristro with four writhing hydra maws that spew acidic bile and scream in discordant frequencies.*
 * **Creature Type**: `Huge Fiend (Demon, Aberration), Chaotic Evil`
+* **Combat Statistics**:
+  * **Armor Class**: 17 (natural armor)
+  * **Hit Points**: 190 (19d12 + 95)
+  * **Speed**: 40 ft.
+  * **Abilities**: STR 22 (+6) | DEX 16 (+3) | CON 20 (+5) | INT 20 (+5) | WIS 16 (+3) | CHA 16 (+3)
+  * **Saving Throws**: Con +10, Wis +8
+  * **Senses**: truesight 60 ft., darkvision 120 ft., passive Perception 18
+  * **Languages**: Understands native planar dialect; telepathy 60 ft. (or unaligned)
+  * **Challenge**: 15 (15,000 XP) | **Proficiency Bonus**: +5
+* **Signature Combat Traits**:
+  * **Planar Apex Resilience**: The Fray-Bred Abomination (Goristro-Hydra) has advantage on saving throws against spells and magical effects native to its home plane.
+  * **Predatory Instinct**: Adds its proficiency bonus (+5) to initiative rolls and cannot be surprised while conscious.
+* **Combat Actions & Multiattack**:
+  * **Multiattack**: The Fray-Bred Abomination (Goristro-Hydra) makes three attacks: two with its primary natural weapons and one crushing strike.
+  * **Primary Strike**: *Melee Weapon Attack*: +11 to hit, reach 10 ft., one target. *Hit*: 15 (3d10 + 6) slashing/piercing damage plus 7 (2d6) elemental/force damage.
+  * **Crushing Surge (Recharge 5–6)**: The Fray-Bred Abomination (Goristro-Hydra) unleashes a planar surge in a 30-foot cone/line. Targets must make a DC 17 Dexterity or Constitution save, taking 52 (15d6) damage on a failed save, or half as much on a success.
 
 #### **Harvestable Materials Table**
 | Component | Classification | Yield & Estimated Base Value |
@@ -712,6 +1208,22 @@ Below is the complete regional breakdown of all **22 Planar Lodges**, each featu
 ### 🦁 Thematic Apex Quarry II: The Spore-Rot Chasme Behemoth (CR 12)
 * **Classification**: *An overgrown, fly-like demon whose buzzing wings induce catatonic nightmares. It feeds on decaying demon carcasses, carrying fungal spores from the 222nd layer of Juiblex that melt skin into liquid sludge.*
 * **Creature Type**: `Huge Fiend (Demon, Aberration), Chaotic Evil`
+* **Combat Statistics**:
+  * **Armor Class**: 16 (natural armor)
+  * **Hit Points**: 144 (16d12 + 64)
+  * **Speed**: 40 ft., fly 60 ft.
+  * **Abilities**: STR 20 (+5) | DEX 18 (+4) | CON 18 (+4) | INT 18 (+4) | WIS 14 (+2) | CHA 14 (+2)
+  * **Saving Throws**: Con +8, Wis +6
+  * **Senses**: truesight 60 ft., darkvision 120 ft., passive Perception 16
+  * **Languages**: Understands native planar dialect; telepathy 60 ft. (or unaligned)
+  * **Challenge**: 12 (12,000 XP) | **Proficiency Bonus**: +4
+* **Signature Combat Traits**:
+  * **Planar Apex Resilience**: The Spore-Rot Chasme Behemoth has advantage on saving throws against spells and magical effects native to its home plane.
+  * **Predatory Instinct**: Adds its proficiency bonus (+4) to initiative rolls and cannot be surprised while conscious.
+* **Combat Actions & Multiattack**:
+  * **Multiattack**: The Spore-Rot Chasme Behemoth makes three attacks: two with its primary natural weapons and one crushing strike.
+  * **Primary Strike**: *Melee Weapon Attack*: +9 to hit, reach 10 ft., one target. *Hit*: 14 (3d10 + 5) slashing/piercing damage plus 7 (2d6) elemental/force damage.
+  * **Crushing Surge (Recharge 5–6)**: The Spore-Rot Chasme Behemoth unleashes a planar surge in a 30-foot cone/line. Targets must make a DC 16 Dexterity or Constitution save, taking 42 (12d6) damage on a failed save, or half as much on a success.
 
 #### **Harvestable Materials Table**
 | Component | Classification | Yield & Estimated Base Value |
@@ -730,6 +1242,22 @@ Below is the complete regional breakdown of all **22 Planar Lodges**, each featu
 ### 🦁 Thematic Apex Quarry III: The Blood-Tide Vrock Matriarch (CR 13)
 * **Classification**: *A diseased vulture-demon four times the size of a standard vrock. Its screech shatters physical glass and mortal eardrums, while its rotten plumage rains acidic toxic spores over entire battlefields.*
 * **Creature Type**: `Huge Fiend (Demon), Chaotic Evil`
+* **Combat Statistics**:
+  * **Armor Class**: 16 (natural armor)
+  * **Hit Points**: 153 (17d12 + 68)
+  * **Speed**: 40 ft., fly 60 ft.
+  * **Abilities**: STR 20 (+5) | DEX 18 (+4) | CON 18 (+4) | INT 10 (+0) | WIS 14 (+2) | CHA 10 (+0)
+  * **Saving Throws**: Con +9, Wis +7
+  * **Senses**: darkvision 60 ft., passive Perception 17
+  * **Languages**: Understands native planar dialect; telepathy 60 ft. (or unaligned)
+  * **Challenge**: 13 (13,000 XP) | **Proficiency Bonus**: +5
+* **Signature Combat Traits**:
+  * **Planar Apex Resilience**: The Blood-Tide Vrock Matriarch has advantage on saving throws against spells and magical effects native to its home plane.
+  * **Predatory Instinct**: Adds its proficiency bonus (+5) to initiative rolls and cannot be surprised while conscious.
+* **Combat Actions & Multiattack**:
+  * **Multiattack**: The Blood-Tide Vrock Matriarch makes three attacks: two with its primary natural weapons and one crushing strike.
+  * **Primary Strike**: *Melee Weapon Attack*: +10 to hit, reach 10 ft., one target. *Hit*: 14 (3d10 + 5) slashing/piercing damage plus 7 (2d6) elemental/force damage.
+  * **Crushing Surge (Recharge 5–6)**: The Blood-Tide Vrock Matriarch unleashes a planar surge in a 30-foot cone/line. Targets must make a DC 16 Dexterity or Constitution save, taking 45 (13d6) damage on a failed save, or half as much on a success.
 
 #### **Harvestable Materials Table**
 | Component | Classification | Yield & Estimated Base Value |
@@ -759,6 +1287,22 @@ Below is the complete regional breakdown of all **22 Planar Lodges**, each featu
 ### 🦁 Thematic Apex Quarry I: The Silent Spindle Warden-Hound (CR 11)
 * **Classification**: *A headless, canine-shaped construct woven from null-magic adamantine filaments and dense lead plating. It hunts sound and somatic casting, draining spell slots with every bite and radiating an aura of total silence.*
 * **Creature Type**: `Large Aberration (Construct), Lawful Neutral`
+* **Combat Statistics**:
+  * **Armor Class**: 15 (natural armor)
+  * **Hit Points**: 120 (15d10 + 45)
+  * **Speed**: 40 ft.
+  * **Abilities**: STR 18 (+4) | DEX 18 (+4) | CON 16 (+3) | INT 16 (+3) | WIS 14 (+2) | CHA 14 (+2)
+  * **Saving Throws**: Con +7, Wis +6
+  * **Senses**: truesight 60 ft., darkvision 120 ft., passive Perception 16
+  * **Languages**: Understands native planar dialect; telepathy 60 ft. (or unaligned)
+  * **Challenge**: 11 (11,000 XP) | **Proficiency Bonus**: +4
+* **Signature Combat Traits**:
+  * **Planar Apex Resilience**: The Silent Spindle Warden-Hound has advantage on saving throws against spells and magical effects native to its home plane.
+  * **Predatory Instinct**: Adds its proficiency bonus (+4) to initiative rolls and cannot be surprised while conscious.
+* **Combat Actions & Multiattack**:
+  * **Multiattack**: The Silent Spindle Warden-Hound makes three attacks: two with its primary natural weapons and one crushing strike.
+  * **Primary Strike**: *Melee Weapon Attack*: +8 to hit, reach 10 ft., one target. *Hit*: 13 (2d10 + 4) slashing/piercing damage plus 7 (2d6) elemental/force damage.
+  * **Crushing Surge (Recharge 5–6)**: The Silent Spindle Warden-Hound unleashes a planar surge in a 30-foot cone/line. Targets must make a DC 15 Dexterity or Constitution save, taking 38 (11d6) damage on a failed save, or half as much on a success.
 
 #### **Harvestable Materials Table**
 | Component | Classification | Yield & Estimated Base Value |
@@ -777,6 +1321,22 @@ Below is the complete regional breakdown of all **22 Planar Lodges**, each featu
 ### 🦁 Thematic Apex Quarry II: The Shackle-Carapace Arthropod (CR 10)
 * **Classification**: *A scuttling, crab-like construct formed from the melted chains of condemned sorcerers. It moves silently across the iron ceilings of the Prison Plane, dropping iron clamps onto spellcasters.*
 * **Creature Type**: `Large Aberration (Construct), Lawful Neutral`
+* **Combat Statistics**:
+  * **Armor Class**: 15 (natural armor)
+  * **Hit Points**: 112 (14d10 + 42)
+  * **Speed**: 40 ft.
+  * **Abilities**: STR 18 (+4) | DEX 16 (+3) | CON 16 (+3) | INT 16 (+3) | WIS 14 (+2) | CHA 14 (+2)
+  * **Saving Throws**: Con +7, Wis +6
+  * **Senses**: truesight 60 ft., darkvision 120 ft., passive Perception 16
+  * **Languages**: Understands native planar dialect; telepathy 60 ft. (or unaligned)
+  * **Challenge**: 10 (10,000 XP) | **Proficiency Bonus**: +4
+* **Signature Combat Traits**:
+  * **Planar Apex Resilience**: The Shackle-Carapace Arthropod has advantage on saving throws against spells and magical effects native to its home plane.
+  * **Predatory Instinct**: Adds its proficiency bonus (+4) to initiative rolls and cannot be surprised while conscious.
+* **Combat Actions & Multiattack**:
+  * **Multiattack**: The Shackle-Carapace Arthropod makes three attacks: two with its primary natural weapons and one crushing strike.
+  * **Primary Strike**: *Melee Weapon Attack*: +8 to hit, reach 10 ft., one target. *Hit*: 13 (2d10 + 4) slashing/piercing damage plus 7 (2d6) elemental/force damage.
+  * **Crushing Surge (Recharge 5–6)**: The Shackle-Carapace Arthropod unleashes a planar surge in a 30-foot cone/line. Targets must make a DC 15 Dexterity or Constitution save, taking 35 (10d6) damage on a failed save, or half as much on a success.
 
 #### **Harvestable Materials Table**
 | Component | Classification | Yield & Estimated Base Value |
@@ -795,6 +1355,22 @@ Below is the complete regional breakdown of all **22 Planar Lodges**, each featu
 ### 🦁 Thematic Apex Quarry III: The Echo-Dampening Manticore (CR 12)
 * **Classification**: *A modified manticore deployed by the Silent Spindle wardens to hunt prisoners who attempt telepathic or somatic escapes. Its tail launches hollow bone spikes that siphon sound and breathe vacuums.*
 * **Creature Type**: `Huge Monstrosity, Lawful Neutral`
+* **Combat Statistics**:
+  * **Armor Class**: 16 (natural armor)
+  * **Hit Points**: 144 (16d12 + 64)
+  * **Speed**: 40 ft.
+  * **Abilities**: STR 20 (+5) | DEX 18 (+4) | CON 18 (+4) | INT 10 (+0) | WIS 14 (+2) | CHA 10 (+0)
+  * **Saving Throws**: Con +8, Wis +6
+  * **Senses**: darkvision 60 ft., passive Perception 16
+  * **Languages**: Understands native planar dialect; telepathy 60 ft. (or unaligned)
+  * **Challenge**: 12 (12,000 XP) | **Proficiency Bonus**: +4
+* **Signature Combat Traits**:
+  * **Planar Apex Resilience**: The Echo-Dampening Manticore has advantage on saving throws against spells and magical effects native to its home plane.
+  * **Predatory Instinct**: Adds its proficiency bonus (+4) to initiative rolls and cannot be surprised while conscious.
+* **Combat Actions & Multiattack**:
+  * **Multiattack**: The Echo-Dampening Manticore makes three attacks: two with its primary natural weapons and one crushing strike.
+  * **Primary Strike**: *Melee Weapon Attack*: +9 to hit, reach 10 ft., one target. *Hit*: 14 (3d10 + 5) slashing/piercing damage plus 7 (2d6) elemental/force damage.
+  * **Crushing Surge (Recharge 5–6)**: The Echo-Dampening Manticore unleashes a planar surge in a 30-foot cone/line. Targets must make a DC 16 Dexterity or Constitution save, taking 42 (12d6) damage on a failed save, or half as much on a success.
 
 #### **Harvestable Materials Table**
 | Component | Classification | Yield & Estimated Base Value |
@@ -824,6 +1400,22 @@ Below is the complete regional breakdown of all **22 Planar Lodges**, each featu
 ### 🦁 Thematic Apex Quarry I: The Somnolent Mind-Leviathan (CR 14)
 * **Classification**: *A colossal, semi-translucent eel-like entity whose scales reflect sleeping dreams like mirrors. It swims through the thought-sea of Ry'leh, stunning targets with waves of psychic vertigo and feeding on forgotten memories.*
 * **Creature Type**: `Huge Aberration, Chaotic Neutral`
+* **Combat Statistics**:
+  * **Armor Class**: 17 (natural armor)
+  * **Hit Points**: 180 (18d12 + 90)
+  * **Speed**: 40 ft., swim 50 ft.
+  * **Abilities**: STR 22 (+6) | DEX 16 (+3) | CON 20 (+5) | INT 20 (+5) | WIS 16 (+3) | CHA 16 (+3)
+  * **Saving Throws**: Con +10, Wis +8
+  * **Senses**: truesight 60 ft., darkvision 120 ft., passive Perception 18
+  * **Languages**: Understands native planar dialect; telepathy 60 ft. (or unaligned)
+  * **Challenge**: 14 (14,000 XP) | **Proficiency Bonus**: +5
+* **Signature Combat Traits**:
+  * **Planar Apex Resilience**: The Somnolent Mind-Leviathan has advantage on saving throws against spells and magical effects native to its home plane.
+  * **Predatory Instinct**: Adds its proficiency bonus (+5) to initiative rolls and cannot be surprised while conscious.
+* **Combat Actions & Multiattack**:
+  * **Multiattack**: The Somnolent Mind-Leviathan makes three attacks: two with its primary natural weapons and one crushing strike.
+  * **Primary Strike**: *Melee Weapon Attack*: +11 to hit, reach 10 ft., one target. *Hit*: 15 (3d10 + 6) slashing/piercing damage plus 7 (2d6) elemental/force damage.
+  * **Crushing Surge (Recharge 5–6)**: The Somnolent Mind-Leviathan unleashes a planar surge in a 30-foot cone/line. Targets must make a DC 17 Dexterity or Constitution save, taking 49 (14d6) damage on a failed save, or half as much on a success.
 
 #### **Harvestable Materials Table**
 | Component | Classification | Yield & Estimated Base Value |
@@ -842,6 +1434,22 @@ Below is the complete regional breakdown of all **22 Planar Lodges**, each featu
 ### 🦁 Thematic Apex Quarry II: The Cyclopean Starlight Octopod (CR 13)
 * **Classification**: *A predatory cephalopod that crawls through the cyclopean arches of the Dreaming Spires. Its skin is studded with thirty-six functioning human eyes, each weeping glowing starlight brine that burns mortal minds.*
 * **Creature Type**: `Huge Aberration, Chaotic Neutral`
+* **Combat Statistics**:
+  * **Armor Class**: 16 (natural armor)
+  * **Hit Points**: 153 (17d12 + 68)
+  * **Speed**: 40 ft., fly 60 ft., swim 50 ft.
+  * **Abilities**: STR 20 (+5) | DEX 18 (+4) | CON 18 (+4) | INT 18 (+4) | WIS 14 (+2) | CHA 14 (+2)
+  * **Saving Throws**: Con +9, Wis +7
+  * **Senses**: truesight 60 ft., darkvision 120 ft., passive Perception 17
+  * **Languages**: Understands native planar dialect; telepathy 60 ft. (or unaligned)
+  * **Challenge**: 13 (13,000 XP) | **Proficiency Bonus**: +5
+* **Signature Combat Traits**:
+  * **Planar Apex Resilience**: The Cyclopean Starlight Octopod has advantage on saving throws against spells and magical effects native to its home plane.
+  * **Predatory Instinct**: Adds its proficiency bonus (+5) to initiative rolls and cannot be surprised while conscious.
+* **Combat Actions & Multiattack**:
+  * **Multiattack**: The Cyclopean Starlight Octopod makes three attacks: two with its primary natural weapons and one crushing strike.
+  * **Primary Strike**: *Melee Weapon Attack*: +10 to hit, reach 10 ft., one target. *Hit*: 14 (3d10 + 5) slashing/piercing damage plus 7 (2d6) elemental/force damage.
+  * **Crushing Surge (Recharge 5–6)**: The Cyclopean Starlight Octopod unleashes a planar surge in a 30-foot cone/line. Targets must make a DC 16 Dexterity or Constitution save, taking 45 (13d6) damage on a failed save, or half as much on a success.
 
 #### **Harvestable Materials Table**
 | Component | Classification | Yield & Estimated Base Value |
@@ -860,6 +1468,22 @@ Below is the complete regional breakdown of all **22 Planar Lodges**, each featu
 ### 🦁 Thematic Apex Quarry III: The Non-Euclidean Trench-Stalker (CR 12)
 * **Classification**: *An arachnid-like deep-sea abomination that inhabits the Abyssal Trench beneath Ry'leh. It steps through acute angles in walls, attacking from geometries that do not exist in conventional space.*
 * **Creature Type**: `Huge Aberration, Neutral Evil`
+* **Combat Statistics**:
+  * **Armor Class**: 16 (natural armor)
+  * **Hit Points**: 144 (16d12 + 64)
+  * **Speed**: 40 ft.
+  * **Abilities**: STR 20 (+5) | DEX 18 (+4) | CON 18 (+4) | INT 18 (+4) | WIS 14 (+2) | CHA 14 (+2)
+  * **Saving Throws**: Con +8, Wis +6
+  * **Senses**: truesight 60 ft., darkvision 120 ft., passive Perception 16
+  * **Languages**: Understands native planar dialect; telepathy 60 ft. (or unaligned)
+  * **Challenge**: 12 (12,000 XP) | **Proficiency Bonus**: +4
+* **Signature Combat Traits**:
+  * **Planar Apex Resilience**: The Non-Euclidean Trench-Stalker has advantage on saving throws against spells and magical effects native to its home plane.
+  * **Predatory Instinct**: Adds its proficiency bonus (+4) to initiative rolls and cannot be surprised while conscious.
+* **Combat Actions & Multiattack**:
+  * **Multiattack**: The Non-Euclidean Trench-Stalker makes three attacks: two with its primary natural weapons and one crushing strike.
+  * **Primary Strike**: *Melee Weapon Attack*: +9 to hit, reach 10 ft., one target. *Hit*: 14 (3d10 + 5) slashing/piercing damage plus 7 (2d6) elemental/force damage.
+  * **Crushing Surge (Recharge 5–6)**: The Non-Euclidean Trench-Stalker unleashes a planar surge in a 30-foot cone/line. Targets must make a DC 16 Dexterity or Constitution save, taking 42 (12d6) damage on a failed save, or half as much on a success.
 
 #### **Harvestable Materials Table**
 | Component | Classification | Yield & Estimated Base Value |
@@ -889,6 +1513,22 @@ Below is the complete regional breakdown of all **22 Planar Lodges**, each featu
 ### 🦁 Thematic Apex Quarry I: The Void-Folded Polyhedral Horror (CR 16)
 * **Classification**: *An entity with twelve angular facets that rotate through non-existent fourth-dimensional directions. It attacks by unfolding its surfaces, trapping victims in localized geometric paradoxes that invert anatomy.*
 * **Creature Type**: `Huge Aberration, Chaotic Evil`
+* **Combat Statistics**:
+  * **Armor Class**: 18 (natural armor)
+  * **Hit Points**: 220 (20d12 + 120)
+  * **Speed**: 40 ft.
+  * **Abilities**: STR 24 (+7) | DEX 16 (+3) | CON 22 (+6) | INT 22 (+6) | WIS 16 (+3) | CHA 16 (+3)
+  * **Saving Throws**: Con +11, Wis +8
+  * **Senses**: truesight 60 ft., darkvision 120 ft., passive Perception 18
+  * **Languages**: Understands native planar dialect; telepathy 60 ft. (or unaligned)
+  * **Challenge**: 16 (16,000 XP) | **Proficiency Bonus**: +5
+* **Signature Combat Traits**:
+  * **Planar Apex Resilience**: The Void-Folded Polyhedral Horror has advantage on saving throws against spells and magical effects native to its home plane.
+  * **Predatory Instinct**: Adds its proficiency bonus (+5) to initiative rolls and cannot be surprised while conscious.
+* **Combat Actions & Multiattack**:
+  * **Multiattack**: The Void-Folded Polyhedral Horror makes three attacks: two with its primary natural weapons and one crushing strike.
+  * **Primary Strike**: *Melee Weapon Attack*: +12 to hit, reach 10 ft., one target. *Hit*: 16 (3d10 + 7) slashing/piercing damage plus 7 (2d6) elemental/force damage.
+  * **Crushing Surge (Recharge 5–6)**: The Void-Folded Polyhedral Horror unleashes a planar surge in a 30-foot cone/line. Targets must make a DC 18 Dexterity or Constitution save, taking 56 (16d6) damage on a failed save, or half as much on a success.
 
 #### **Harvestable Materials Table**
 | Component | Classification | Yield & Estimated Base Value |
@@ -907,6 +1547,22 @@ Below is the complete regional breakdown of all **22 Planar Lodges**, each featu
 ### 🦁 Thematic Apex Quarry II: The Astral Mind-Flayer Scion (Ulc-Behemoth) (CR 14)
 * **Classification**: *A mutated elder illithid war-beast spanning 25 feet, bred in the dark between planes. Its four facial tentacles can crush stone pillars, and its telepathic mind-blast can liquify the brain matter of an entire platoon.*
 * **Creature Type**: `Huge Aberration, Lawful Evil`
+* **Combat Statistics**:
+  * **Armor Class**: 17 (natural armor)
+  * **Hit Points**: 180 (18d12 + 90)
+  * **Speed**: 40 ft.
+  * **Abilities**: STR 22 (+6) | DEX 16 (+3) | CON 20 (+5) | INT 20 (+5) | WIS 16 (+3) | CHA 16 (+3)
+  * **Saving Throws**: Con +10, Wis +8
+  * **Senses**: truesight 60 ft., darkvision 120 ft., passive Perception 18
+  * **Languages**: Understands native planar dialect; telepathy 60 ft. (or unaligned)
+  * **Challenge**: 14 (14,000 XP) | **Proficiency Bonus**: +5
+* **Signature Combat Traits**:
+  * **Planar Apex Resilience**: The Astral Mind-Flayer Scion (Ulc-Behemoth) has advantage on saving throws against spells and magical effects native to its home plane.
+  * **Predatory Instinct**: Adds its proficiency bonus (+5) to initiative rolls and cannot be surprised while conscious.
+* **Combat Actions & Multiattack**:
+  * **Multiattack**: The Astral Mind-Flayer Scion (Ulc-Behemoth) makes three attacks: two with its primary natural weapons and one crushing strike.
+  * **Primary Strike**: *Melee Weapon Attack*: +11 to hit, reach 10 ft., one target. *Hit*: 15 (3d10 + 6) slashing/piercing damage plus 7 (2d6) elemental/force damage.
+  * **Crushing Surge (Recharge 5–6)**: The Astral Mind-Flayer Scion (Ulc-Behemoth) unleashes a planar surge in a 30-foot cone/line. Targets must make a DC 17 Dexterity or Constitution save, taking 49 (14d6) damage on a failed save, or half as much on a success.
 
 #### **Harvestable Materials Table**
 | Component | Classification | Yield & Estimated Base Value |
@@ -925,6 +1581,22 @@ Below is the complete regional breakdown of all **22 Planar Lodges**, each featu
 ### 🦁 Thematic Apex Quarry III: The Star-Spawn Spore-Calamity (CR 15)
 * **Classification**: *A catastrophic fungal-astronomic horror that drifts through deep void space. Its body is pitted with meteor craters that discharge cosmic spores, distorting gravity and decomposing biological tissue into gelatinous sludge.*
 * **Creature Type**: `Gargantuan Aberration, Chaotic Evil`
+* **Combat Statistics**:
+  * **Armor Class**: 17 (natural armor)
+  * **Hit Points**: 190 (19d20 + 95)
+  * **Speed**: 40 ft.
+  * **Abilities**: STR 22 (+6) | DEX 16 (+3) | CON 20 (+5) | INT 20 (+5) | WIS 16 (+3) | CHA 16 (+3)
+  * **Saving Throws**: Con +10, Wis +8
+  * **Senses**: truesight 60 ft., darkvision 120 ft., passive Perception 18
+  * **Languages**: Understands native planar dialect; telepathy 60 ft. (or unaligned)
+  * **Challenge**: 15 (15,000 XP) | **Proficiency Bonus**: +5
+* **Signature Combat Traits**:
+  * **Planar Apex Resilience**: The Star-Spawn Spore-Calamity has advantage on saving throws against spells and magical effects native to its home plane.
+  * **Predatory Instinct**: Adds its proficiency bonus (+5) to initiative rolls and cannot be surprised while conscious.
+* **Combat Actions & Multiattack**:
+  * **Multiattack**: The Star-Spawn Spore-Calamity makes three attacks: two with its primary natural weapons and one crushing strike.
+  * **Primary Strike**: *Melee Weapon Attack*: +11 to hit, reach 10 ft., one target. *Hit*: 15 (3d10 + 6) slashing/piercing damage plus 7 (2d6) elemental/force damage.
+  * **Crushing Surge (Recharge 5–6)**: The Star-Spawn Spore-Calamity unleashes a planar surge in a 30-foot cone/line. Targets must make a DC 17 Dexterity or Constitution save, taking 52 (15d6) damage on a failed save, or half as much on a success.
 
 #### **Harvestable Materials Table**
 | Component | Classification | Yield & Estimated Base Value |
@@ -954,6 +1626,22 @@ Below is the complete regional breakdown of all **22 Planar Lodges**, each featu
 ### 🦁 Thematic Apex Quarry I: The Aurum-Gilded Basilisk (CR 11)
 * **Classification**: *An eight-legged reptilian beast whose scales have absorbed centuries of pure auric pressure, turning into solid, overlapping gold plates. Its gaze does not turn flesh to stone, but transmutes it into solid, screaming gold.*
 * **Creature Type**: `Large Monstrosity, Unaligned`
+* **Combat Statistics**:
+  * **Armor Class**: 15 (natural armor)
+  * **Hit Points**: 120 (15d10 + 45)
+  * **Speed**: 40 ft.
+  * **Abilities**: STR 18 (+4) | DEX 18 (+4) | CON 16 (+3) | INT 8 (-1) | WIS 14 (+2) | CHA 10 (+0)
+  * **Saving Throws**: Con +7, Wis +6
+  * **Senses**: darkvision 60 ft., passive Perception 16
+  * **Languages**: Understands native planar dialect; telepathy 60 ft. (or unaligned)
+  * **Challenge**: 11 (11,000 XP) | **Proficiency Bonus**: +4
+* **Signature Combat Traits**:
+  * **Planar Apex Resilience**: The Aurum-Gilded Basilisk has advantage on saving throws against spells and magical effects native to its home plane.
+  * **Predatory Instinct**: Adds its proficiency bonus (+4) to initiative rolls and cannot be surprised while conscious.
+* **Combat Actions & Multiattack**:
+  * **Multiattack**: The Aurum-Gilded Basilisk makes three attacks: two with its primary natural weapons and one crushing strike.
+  * **Primary Strike**: *Melee Weapon Attack*: +8 to hit, reach 10 ft., one target. *Hit*: 13 (2d10 + 4) slashing/piercing damage plus 7 (2d6) elemental/force damage.
+  * **Crushing Surge (Recharge 5–6)**: The Aurum-Gilded Basilisk unleashes a planar surge in a 30-foot cone/line. Targets must make a DC 15 Dexterity or Constitution save, taking 38 (11d6) damage on a failed save, or half as much on a success.
 
 #### **Harvestable Materials Table**
 | Component | Classification | Yield & Estimated Base Value |
@@ -972,6 +1660,22 @@ Below is the complete regional breakdown of all **22 Planar Lodges**, each featu
 ### 🦁 Thematic Apex Quarry II: The Hoard-Gorged Magpie Drake (CR 12)
 * **Classification**: *A ravenous, feathered drake that nests atop mountains of melted gold. Its feathers are tipped with sharpened platinum filigree, and it exhales a cloud of superheated silver vapors that coat victims in molten metal.*
 * **Creature Type**: `Huge Dragon (Monstrosity), Chaotic Neutral`
+* **Combat Statistics**:
+  * **Armor Class**: 16 (natural armor)
+  * **Hit Points**: 144 (16d12 + 64)
+  * **Speed**: 40 ft., fly 60 ft.
+  * **Abilities**: STR 20 (+5) | DEX 18 (+4) | CON 18 (+4) | INT 18 (+4) | WIS 14 (+2) | CHA 14 (+2)
+  * **Saving Throws**: Con +8, Wis +6
+  * **Senses**: truesight 60 ft., darkvision 120 ft., passive Perception 16
+  * **Languages**: Understands native planar dialect; telepathy 60 ft. (or unaligned)
+  * **Challenge**: 12 (12,000 XP) | **Proficiency Bonus**: +4
+* **Signature Combat Traits**:
+  * **Planar Apex Resilience**: The Hoard-Gorged Magpie Drake has advantage on saving throws against spells and magical effects native to its home plane.
+  * **Predatory Instinct**: Adds its proficiency bonus (+4) to initiative rolls and cannot be surprised while conscious.
+* **Combat Actions & Multiattack**:
+  * **Multiattack**: The Hoard-Gorged Magpie Drake makes three attacks: two with its primary natural weapons and one crushing strike.
+  * **Primary Strike**: *Melee Weapon Attack*: +9 to hit, reach 10 ft., one target. *Hit*: 14 (3d10 + 5) slashing/piercing damage plus 7 (2d6) elemental/force damage.
+  * **Crushing Surge (Recharge 5–6)**: The Hoard-Gorged Magpie Drake unleashes a planar surge in a 30-foot cone/line. Targets must make a DC 16 Dexterity or Constitution save, taking 42 (12d6) damage on a failed save, or half as much on a success.
 
 #### **Harvestable Materials Table**
 | Component | Classification | Yield & Estimated Base Value |
@@ -990,6 +1694,22 @@ Below is the complete regional breakdown of all **22 Planar Lodges**, each featu
 ### 🦁 Thematic Apex Quarry III: The Midas-Carapace Scorpion (CR 10)
 * **Classification**: *A predatory scorpion that crawls through Grelthor's vault vaults. Its claws are heavy ingots of gold that crush plate armor, and its stinger injects an auric venom that calcifies blood vessels into pure gold wire.*
 * **Creature Type**: `Large Monstrosity, Unaligned`
+* **Combat Statistics**:
+  * **Armor Class**: 15 (natural armor)
+  * **Hit Points**: 112 (14d10 + 42)
+  * **Speed**: 40 ft., climb 40 ft.
+  * **Abilities**: STR 18 (+4) | DEX 16 (+3) | CON 16 (+3) | INT 8 (-1) | WIS 14 (+2) | CHA 10 (+0)
+  * **Saving Throws**: Con +7, Wis +6
+  * **Senses**: darkvision 60 ft., passive Perception 16
+  * **Languages**: Understands native planar dialect; telepathy 60 ft. (or unaligned)
+  * **Challenge**: 10 (10,000 XP) | **Proficiency Bonus**: +4
+* **Signature Combat Traits**:
+  * **Planar Apex Resilience**: The Midas-Carapace Scorpion has advantage on saving throws against spells and magical effects native to its home plane.
+  * **Predatory Instinct**: Adds its proficiency bonus (+4) to initiative rolls and cannot be surprised while conscious.
+* **Combat Actions & Multiattack**:
+  * **Multiattack**: The Midas-Carapace Scorpion makes three attacks: two with its primary natural weapons and one crushing strike.
+  * **Primary Strike**: *Melee Weapon Attack*: +8 to hit, reach 10 ft., one target. *Hit*: 13 (2d10 + 4) slashing/piercing damage plus 7 (2d6) elemental/force damage.
+  * **Crushing Surge (Recharge 5–6)**: The Midas-Carapace Scorpion unleashes a planar surge in a 30-foot cone/line. Targets must make a DC 15 Dexterity or Constitution save, taking 35 (10d6) damage on a failed save, or half as much on a success.
 
 #### **Harvestable Materials Table**
 | Component | Classification | Yield & Estimated Base Value |
@@ -1019,6 +1739,22 @@ Below is the complete regional breakdown of all **22 Planar Lodges**, each featu
 ### 🦁 Thematic Apex Quarry I: The Slag-Forged Drake (CR 13)
 * **Classification**: *A wingless quadrupedal drake born from the runoff slag of divine anvils. Its body is composed of layered Damascus-folded steel and glowing magma veins, exhaling a torrent of white-hot molten metal.*
 * **Creature Type**: `Huge Dragon (Elemental), Neutral Neutral`
+* **Combat Statistics**:
+  * **Armor Class**: 16 (natural armor)
+  * **Hit Points**: 153 (17d12 + 68)
+  * **Speed**: 40 ft., fly 60 ft.
+  * **Abilities**: STR 20 (+5) | DEX 18 (+4) | CON 18 (+4) | INT 18 (+4) | WIS 14 (+2) | CHA 14 (+2)
+  * **Saving Throws**: Con +9, Wis +7
+  * **Senses**: truesight 60 ft., darkvision 120 ft., passive Perception 17
+  * **Languages**: Understands native planar dialect; telepathy 60 ft. (or unaligned)
+  * **Challenge**: 13 (13,000 XP) | **Proficiency Bonus**: +5
+* **Signature Combat Traits**:
+  * **Planar Apex Resilience**: The Slag-Forged Drake has advantage on saving throws against spells and magical effects native to its home plane.
+  * **Predatory Instinct**: Adds its proficiency bonus (+5) to initiative rolls and cannot be surprised while conscious.
+* **Combat Actions & Multiattack**:
+  * **Multiattack**: The Slag-Forged Drake makes three attacks: two with its primary natural weapons and one crushing strike.
+  * **Primary Strike**: *Melee Weapon Attack*: +10 to hit, reach 10 ft., one target. *Hit*: 14 (3d10 + 5) slashing/piercing damage plus 7 (2d6) elemental/force damage.
+  * **Crushing Surge (Recharge 5–6)**: The Slag-Forged Drake unleashes a planar surge in a 30-foot cone/line. Targets must make a DC 16 Dexterity or Constitution save, taking 45 (13d6) damage on a failed save, or half as much on a success.
 
 #### **Harvestable Materials Table**
 | Component | Classification | Yield & Estimated Base Value |
@@ -1037,6 +1773,22 @@ Below is the complete regional breakdown of all **22 Planar Lodges**, each featu
 ### 🦁 Thematic Apex Quarry II: The Living Crucible Golem-Behemoth (CR 14)
 * **Classification**: *A walking foundry furnace constructed from divine brass and slag. It shovels ore and broken weaponry into its central chest-furnace, exhaling showers of white-hot steel pellets from twin chimney-shoulders.*
 * **Creature Type**: `Huge Construct (Elemental), Unaligned`
+* **Combat Statistics**:
+  * **Armor Class**: 17 (natural armor)
+  * **Hit Points**: 180 (18d12 + 90)
+  * **Speed**: 40 ft.
+  * **Abilities**: STR 22 (+6) | DEX 16 (+3) | CON 20 (+5) | INT 10 (+0) | WIS 16 (+3) | CHA 10 (+0)
+  * **Saving Throws**: Con +10, Wis +8
+  * **Senses**: truesight 60 ft., darkvision 120 ft., passive Perception 18
+  * **Languages**: Understands native planar dialect; telepathy 60 ft. (or unaligned)
+  * **Challenge**: 14 (14,000 XP) | **Proficiency Bonus**: +5
+* **Signature Combat Traits**:
+  * **Planar Apex Resilience**: The Living Crucible Golem-Behemoth has advantage on saving throws against spells and magical effects native to its home plane.
+  * **Predatory Instinct**: Adds its proficiency bonus (+5) to initiative rolls and cannot be surprised while conscious.
+* **Combat Actions & Multiattack**:
+  * **Multiattack**: The Living Crucible Golem-Behemoth makes three attacks: two with its primary natural weapons and one crushing strike.
+  * **Primary Strike**: *Melee Weapon Attack*: +11 to hit, reach 10 ft., one target. *Hit*: 15 (3d10 + 6) slashing/piercing damage plus 7 (2d6) elemental/force damage.
+  * **Crushing Surge (Recharge 5–6)**: The Living Crucible Golem-Behemoth unleashes a planar surge in a 30-foot cone/line. Targets must make a DC 17 Dexterity or Constitution save, taking 49 (14d6) damage on a failed save, or half as much on a success.
 
 #### **Harvestable Materials Table**
 | Component | Classification | Yield & Estimated Base Value |
@@ -1055,6 +1807,22 @@ Below is the complete regional breakdown of all **22 Planar Lodges**, each featu
 ### 🦁 Thematic Apex Quarry III: The Tempering Flame-Salamander (CR 11)
 * **Classification**: *A quick, predatory lizard that nests inside the cooling flumes of Kaldryn's forges. Its scales quench molten metals instantly, absorbing thermal energy and redirecting it as concussive shockwaves.*
 * **Creature Type**: `Large Elemental (Monstrosity), Neutral`
+* **Combat Statistics**:
+  * **Armor Class**: 15 (natural armor)
+  * **Hit Points**: 120 (15d10 + 45)
+  * **Speed**: 40 ft.
+  * **Abilities**: STR 18 (+4) | DEX 18 (+4) | CON 16 (+3) | INT 8 (-1) | WIS 14 (+2) | CHA 10 (+0)
+  * **Saving Throws**: Con +7, Wis +6
+  * **Senses**: darkvision 60 ft., passive Perception 16
+  * **Languages**: Understands native planar dialect; telepathy 60 ft. (or unaligned)
+  * **Challenge**: 11 (11,000 XP) | **Proficiency Bonus**: +4
+* **Signature Combat Traits**:
+  * **Planar Apex Resilience**: The Tempering Flame-Salamander has advantage on saving throws against spells and magical effects native to its home plane.
+  * **Predatory Instinct**: Adds its proficiency bonus (+4) to initiative rolls and cannot be surprised while conscious.
+* **Combat Actions & Multiattack**:
+  * **Multiattack**: The Tempering Flame-Salamander makes three attacks: two with its primary natural weapons and one crushing strike.
+  * **Primary Strike**: *Melee Weapon Attack*: +8 to hit, reach 10 ft., one target. *Hit*: 13 (2d10 + 4) slashing/piercing damage plus 7 (2d6) elemental/force damage.
+  * **Crushing Surge (Recharge 5–6)**: The Tempering Flame-Salamander unleashes a planar surge in a 30-foot cone/line. Targets must make a DC 15 Dexterity or Constitution save, taking 38 (11d6) damage on a failed save, or half as much on a success.
 
 #### **Harvestable Materials Table**
 | Component | Classification | Yield & Estimated Base Value |
@@ -1084,6 +1852,22 @@ Below is the complete regional breakdown of all **22 Planar Lodges**, each featu
 ### 🦁 Thematic Apex Quarry I: The Echo-Mirage Stalker (CR 12)
 * **Classification**: *A feline predator composed of broken mirror-prisms that stalks travelers across the Shardlands. It does not attack directly; it projects illusions of the target's most painful memories, feeding on mental anguish before shattering into a whirlwind of razor glass.*
 * **Creature Type**: `Large Monstrosity, Chaotic Neutral`
+* **Combat Statistics**:
+  * **Armor Class**: 16 (natural armor)
+  * **Hit Points**: 144 (16d10 + 64)
+  * **Speed**: 40 ft.
+  * **Abilities**: STR 20 (+5) | DEX 18 (+4) | CON 18 (+4) | INT 10 (+0) | WIS 14 (+2) | CHA 10 (+0)
+  * **Saving Throws**: Con +8, Wis +6
+  * **Senses**: darkvision 60 ft., passive Perception 16
+  * **Languages**: Understands native planar dialect; telepathy 60 ft. (or unaligned)
+  * **Challenge**: 12 (12,000 XP) | **Proficiency Bonus**: +4
+* **Signature Combat Traits**:
+  * **Planar Apex Resilience**: The Echo-Mirage Stalker has advantage on saving throws against spells and magical effects native to its home plane.
+  * **Predatory Instinct**: Adds its proficiency bonus (+4) to initiative rolls and cannot be surprised while conscious.
+* **Combat Actions & Multiattack**:
+  * **Multiattack**: The Echo-Mirage Stalker makes three attacks: two with its primary natural weapons and one crushing strike.
+  * **Primary Strike**: *Melee Weapon Attack*: +9 to hit, reach 10 ft., one target. *Hit*: 14 (2d10 + 5) slashing/piercing damage plus 7 (2d6) elemental/force damage.
+  * **Crushing Surge (Recharge 5–6)**: The Echo-Mirage Stalker unleashes a planar surge in a 30-foot cone/line. Targets must make a DC 16 Dexterity or Constitution save, taking 42 (12d6) damage on a failed save, or half as much on a success.
 
 #### **Harvestable Materials Table**
 | Component | Classification | Yield & Estimated Base Value |
@@ -1102,6 +1886,22 @@ Below is the complete regional breakdown of all **22 Planar Lodges**, each featu
 ### 🦁 Thematic Apex Quarry II: The Shard-Glass Harpy Matriarch (CR 10)
 * **Classification**: *A winged predator with plumage of jagged mirror-glass and talons of honed quartz. Her screech carries the voices of a victim's lost loved ones, paralyzing them with regret before she dives.*
 * **Creature Type**: `Large Monstrosity, Chaotic Evil`
+* **Combat Statistics**:
+  * **Armor Class**: 15 (natural armor)
+  * **Hit Points**: 112 (14d10 + 42)
+  * **Speed**: 40 ft., fly 60 ft.
+  * **Abilities**: STR 18 (+4) | DEX 16 (+3) | CON 16 (+3) | INT 8 (-1) | WIS 14 (+2) | CHA 10 (+0)
+  * **Saving Throws**: Con +7, Wis +6
+  * **Senses**: darkvision 60 ft., passive Perception 16
+  * **Languages**: Understands native planar dialect; telepathy 60 ft. (or unaligned)
+  * **Challenge**: 10 (10,000 XP) | **Proficiency Bonus**: +4
+* **Signature Combat Traits**:
+  * **Planar Apex Resilience**: The Shard-Glass Harpy Matriarch has advantage on saving throws against spells and magical effects native to its home plane.
+  * **Predatory Instinct**: Adds its proficiency bonus (+4) to initiative rolls and cannot be surprised while conscious.
+* **Combat Actions & Multiattack**:
+  * **Multiattack**: The Shard-Glass Harpy Matriarch makes three attacks: two with its primary natural weapons and one crushing strike.
+  * **Primary Strike**: *Melee Weapon Attack*: +8 to hit, reach 10 ft., one target. *Hit*: 13 (2d10 + 4) slashing/piercing damage plus 7 (2d6) elemental/force damage.
+  * **Crushing Surge (Recharge 5–6)**: The Shard-Glass Harpy Matriarch unleashes a planar surge in a 30-foot cone/line. Targets must make a DC 15 Dexterity or Constitution save, taking 35 (10d6) damage on a failed save, or half as much on a success.
 
 #### **Harvestable Materials Table**
 | Component | Classification | Yield & Estimated Base Value |
@@ -1120,6 +1920,22 @@ Below is the complete regional breakdown of all **22 Planar Lodges**, each featu
 ### 🦁 Thematic Apex Quarry III: The Regret-Gorged Behemoth (CR 13)
 * **Classification**: *A four-legged armored beast that consumes the petrified memories scattered across the Shardlands. Its hide is an impenetrable shell of compressed mirror-quartz that reflects physical attacks back at attackers.*
 * **Creature Type**: `Huge Monstrosity, Neutral`
+* **Combat Statistics**:
+  * **Armor Class**: 16 (natural armor)
+  * **Hit Points**: 153 (17d12 + 68)
+  * **Speed**: 40 ft.
+  * **Abilities**: STR 20 (+5) | DEX 18 (+4) | CON 18 (+4) | INT 10 (+0) | WIS 14 (+2) | CHA 10 (+0)
+  * **Saving Throws**: Con +9, Wis +7
+  * **Senses**: darkvision 60 ft., passive Perception 17
+  * **Languages**: Understands native planar dialect; telepathy 60 ft. (or unaligned)
+  * **Challenge**: 13 (13,000 XP) | **Proficiency Bonus**: +5
+* **Signature Combat Traits**:
+  * **Planar Apex Resilience**: The Regret-Gorged Behemoth has advantage on saving throws against spells and magical effects native to its home plane.
+  * **Predatory Instinct**: Adds its proficiency bonus (+5) to initiative rolls and cannot be surprised while conscious.
+* **Combat Actions & Multiattack**:
+  * **Multiattack**: The Regret-Gorged Behemoth makes three attacks: two with its primary natural weapons and one crushing strike.
+  * **Primary Strike**: *Melee Weapon Attack*: +10 to hit, reach 10 ft., one target. *Hit*: 14 (3d10 + 5) slashing/piercing damage plus 7 (2d6) elemental/force damage.
+  * **Crushing Surge (Recharge 5–6)**: The Regret-Gorged Behemoth unleashes a planar surge in a 30-foot cone/line. Targets must make a DC 16 Dexterity or Constitution save, taking 45 (13d6) damage on a failed save, or half as much on a success.
 
 #### **Harvestable Materials Table**
 | Component | Classification | Yield & Estimated Base Value |
@@ -1149,6 +1965,22 @@ Below is the complete regional breakdown of all **22 Planar Lodges**, each featu
 ### 🦁 Thematic Apex Quarry I: The Chasm-Devourer Larva (CR 13)
 * **Classification**: *A segmented, burrowing worm 50 feet in length, possessing three concentric rings of rotating teeth and multiple acid glands. It bores through solid planar stone at terrifying speed, leaving tunnels lined with corrosive digestive fluids.*
 * **Creature Type**: `Huge Monstrosity, Chaotic Evil`
+* **Combat Statistics**:
+  * **Armor Class**: 16 (natural armor)
+  * **Hit Points**: 153 (17d12 + 68)
+  * **Speed**: 40 ft., fly 60 ft., burrow 30 ft.
+  * **Abilities**: STR 20 (+5) | DEX 18 (+4) | CON 18 (+4) | INT 10 (+0) | WIS 14 (+2) | CHA 10 (+0)
+  * **Saving Throws**: Con +9, Wis +7
+  * **Senses**: darkvision 60 ft., passive Perception 17
+  * **Languages**: Understands native planar dialect; telepathy 60 ft. (or unaligned)
+  * **Challenge**: 13 (13,000 XP) | **Proficiency Bonus**: +5
+* **Signature Combat Traits**:
+  * **Planar Apex Resilience**: The Chasm-Devourer Larva has advantage on saving throws against spells and magical effects native to its home plane.
+  * **Predatory Instinct**: Adds its proficiency bonus (+5) to initiative rolls and cannot be surprised while conscious.
+* **Combat Actions & Multiattack**:
+  * **Multiattack**: The Chasm-Devourer Larva makes three attacks: two with its primary natural weapons and one crushing strike.
+  * **Primary Strike**: *Melee Weapon Attack*: +10 to hit, reach 10 ft., one target. *Hit*: 14 (3d10 + 5) slashing/piercing damage plus 7 (2d6) elemental/force damage.
+  * **Crushing Surge (Recharge 5–6)**: The Chasm-Devourer Larva unleashes a planar surge in a 30-foot cone/line. Targets must make a DC 16 Dexterity or Constitution save, taking 45 (13d6) damage on a failed save, or half as much on a success.
 
 #### **Harvestable Materials Table**
 | Component | Classification | Yield & Estimated Base Value |
@@ -1167,6 +1999,22 @@ Below is the complete regional breakdown of all **22 Planar Lodges**, each featu
 ### 🦁 Thematic Apex Quarry II: The Maw-Spined Spiral Wyrm (CR 14)
 * **Classification**: *A terrifying burrower that spirals along the chasm walls of Vorzath's domain. Its body is surrounded by five rotating rings of serrated bone-plates that grind stone and flesh into digestible slurry.*
 * **Creature Type**: `Huge Monstrosity, Chaotic Evil`
+* **Combat Statistics**:
+  * **Armor Class**: 17 (natural armor)
+  * **Hit Points**: 180 (18d12 + 90)
+  * **Speed**: 40 ft., burrow 30 ft.
+  * **Abilities**: STR 22 (+6) | DEX 16 (+3) | CON 20 (+5) | INT 10 (+0) | WIS 16 (+3) | CHA 10 (+0)
+  * **Saving Throws**: Con +10, Wis +8
+  * **Senses**: truesight 60 ft., darkvision 120 ft., passive Perception 18
+  * **Languages**: Understands native planar dialect; telepathy 60 ft. (or unaligned)
+  * **Challenge**: 14 (14,000 XP) | **Proficiency Bonus**: +5
+* **Signature Combat Traits**:
+  * **Planar Apex Resilience**: The Maw-Spined Spiral Wyrm has advantage on saving throws against spells and magical effects native to its home plane.
+  * **Predatory Instinct**: Adds its proficiency bonus (+5) to initiative rolls and cannot be surprised while conscious.
+* **Combat Actions & Multiattack**:
+  * **Multiattack**: The Maw-Spined Spiral Wyrm makes three attacks: two with its primary natural weapons and one crushing strike.
+  * **Primary Strike**: *Melee Weapon Attack*: +11 to hit, reach 10 ft., one target. *Hit*: 15 (3d10 + 6) slashing/piercing damage plus 7 (2d6) elemental/force damage.
+  * **Crushing Surge (Recharge 5–6)**: The Maw-Spined Spiral Wyrm unleashes a planar surge in a 30-foot cone/line. Targets must make a DC 17 Dexterity or Constitution save, taking 49 (14d6) damage on a failed save, or half as much on a success.
 
 #### **Harvestable Materials Table**
 | Component | Classification | Yield & Estimated Base Value |
@@ -1185,6 +2033,22 @@ Below is the complete regional breakdown of all **22 Planar Lodges**, each featu
 ### 🦁 Thematic Apex Quarry III: The Carrion-Gorged Chasm Hyena Alpha (CR 10)
 * **Classification**: *A mutated pack-leader that stalks the chasm edges, feasting on whatever falls into the spiral. Its jaws can crack adamantine bones, and its laughing howl sends tremors of panic through entire hunting expeditions.*
 * **Creature Type**: `Large Monstrosity, Chaotic Evil`
+* **Combat Statistics**:
+  * **Armor Class**: 15 (natural armor)
+  * **Hit Points**: 112 (14d10 + 42)
+  * **Speed**: 40 ft.
+  * **Abilities**: STR 18 (+4) | DEX 16 (+3) | CON 16 (+3) | INT 8 (-1) | WIS 14 (+2) | CHA 10 (+0)
+  * **Saving Throws**: Con +7, Wis +6
+  * **Senses**: darkvision 60 ft., passive Perception 16
+  * **Languages**: Understands native planar dialect; telepathy 60 ft. (or unaligned)
+  * **Challenge**: 10 (10,000 XP) | **Proficiency Bonus**: +4
+* **Signature Combat Traits**:
+  * **Planar Apex Resilience**: The Carrion-Gorged Chasm Hyena Alpha has advantage on saving throws against spells and magical effects native to its home plane.
+  * **Predatory Instinct**: Adds its proficiency bonus (+4) to initiative rolls and cannot be surprised while conscious.
+* **Combat Actions & Multiattack**:
+  * **Multiattack**: The Carrion-Gorged Chasm Hyena Alpha makes three attacks: two with its primary natural weapons and one crushing strike.
+  * **Primary Strike**: *Melee Weapon Attack*: +8 to hit, reach 10 ft., one target. *Hit*: 13 (2d10 + 4) slashing/piercing damage plus 7 (2d6) elemental/force damage.
+  * **Crushing Surge (Recharge 5–6)**: The Carrion-Gorged Chasm Hyena Alpha unleashes a planar surge in a 30-foot cone/line. Targets must make a DC 15 Dexterity or Constitution save, taking 35 (10d6) damage on a failed save, or half as much on a success.
 
 #### **Harvestable Materials Table**
 | Component | Classification | Yield & Estimated Base Value |
@@ -1214,6 +2078,22 @@ Below is the complete regional breakdown of all **22 Planar Lodges**, each featu
 ### 🦁 Thematic Apex Quarry I: The Whisper-Gill Moray (CR 12)
 * **Classification**: *A massive, silver-skinned moray eel with skin that constantly whispers in the voices of drowned kings. It swims through liquid secrets, blinding victims with brilliant bioluminescent lures before injecting a truth-extracting toxin.*
 * **Creature Type**: `Huge Beast (Aberration), Neutral Evil`
+* **Combat Statistics**:
+  * **Armor Class**: 16 (natural armor)
+  * **Hit Points**: 144 (16d12 + 64)
+  * **Speed**: 40 ft., swim 50 ft.
+  * **Abilities**: STR 20 (+5) | DEX 18 (+4) | CON 18 (+4) | INT 18 (+4) | WIS 14 (+2) | CHA 14 (+2)
+  * **Saving Throws**: Con +8, Wis +6
+  * **Senses**: truesight 60 ft., darkvision 120 ft., passive Perception 16
+  * **Languages**: Understands native planar dialect; telepathy 60 ft. (or unaligned)
+  * **Challenge**: 12 (12,000 XP) | **Proficiency Bonus**: +4
+* **Signature Combat Traits**:
+  * **Planar Apex Resilience**: The Whisper-Gill Moray has advantage on saving throws against spells and magical effects native to its home plane.
+  * **Predatory Instinct**: Adds its proficiency bonus (+4) to initiative rolls and cannot be surprised while conscious.
+* **Combat Actions & Multiattack**:
+  * **Multiattack**: The Whisper-Gill Moray makes three attacks: two with its primary natural weapons and one crushing strike.
+  * **Primary Strike**: *Melee Weapon Attack*: +9 to hit, reach 10 ft., one target. *Hit*: 14 (3d10 + 5) slashing/piercing damage plus 7 (2d6) elemental/force damage.
+  * **Crushing Surge (Recharge 5–6)**: The Whisper-Gill Moray unleashes a planar surge in a 30-foot cone/line. Targets must make a DC 16 Dexterity or Constitution save, taking 42 (12d6) damage on a failed save, or half as much on a success.
 
 #### **Harvestable Materials Table**
 | Component | Classification | Yield & Estimated Base Value |
@@ -1232,6 +2112,22 @@ Below is the complete regional breakdown of all **22 Planar Lodges**, each featu
 ### 🦁 Thematic Apex Quarry II: The Trench-Stalker Angler Titan (CR 13)
 * **Classification**: *A terrifying deep-sea behemoth with a bioluminescent lure that mimics the voices of drowned kings and long-dead confidants, drawing travelers into its cavernous, needle-lined gullet.*
 * **Creature Type**: `Huge Monstrosity (Aberration), Neutral Evil`
+* **Combat Statistics**:
+  * **Armor Class**: 16 (natural armor)
+  * **Hit Points**: 153 (17d12 + 68)
+  * **Speed**: 40 ft., fly 60 ft.
+  * **Abilities**: STR 20 (+5) | DEX 18 (+4) | CON 18 (+4) | INT 18 (+4) | WIS 14 (+2) | CHA 14 (+2)
+  * **Saving Throws**: Con +9, Wis +7
+  * **Senses**: truesight 60 ft., darkvision 120 ft., passive Perception 17
+  * **Languages**: Understands native planar dialect; telepathy 60 ft. (or unaligned)
+  * **Challenge**: 13 (13,000 XP) | **Proficiency Bonus**: +5
+* **Signature Combat Traits**:
+  * **Planar Apex Resilience**: The Trench-Stalker Angler Titan has advantage on saving throws against spells and magical effects native to its home plane.
+  * **Predatory Instinct**: Adds its proficiency bonus (+5) to initiative rolls and cannot be surprised while conscious.
+* **Combat Actions & Multiattack**:
+  * **Multiattack**: The Trench-Stalker Angler Titan makes three attacks: two with its primary natural weapons and one crushing strike.
+  * **Primary Strike**: *Melee Weapon Attack*: +10 to hit, reach 10 ft., one target. *Hit*: 14 (3d10 + 5) slashing/piercing damage plus 7 (2d6) elemental/force damage.
+  * **Crushing Surge (Recharge 5–6)**: The Trench-Stalker Angler Titan unleashes a planar surge in a 30-foot cone/line. Targets must make a DC 16 Dexterity or Constitution save, taking 45 (13d6) damage on a failed save, or half as much on a success.
 
 #### **Harvestable Materials Table**
 | Component | Classification | Yield & Estimated Base Value |
@@ -1250,6 +2146,22 @@ Below is the complete regional breakdown of all **22 Planar Lodges**, each featu
 ### 🦁 Thematic Apex Quarry III: The Ghost-Coral Ray (CR 11)
 * **Classification**: *A spectral manta ray whose wings are composed of translucent coral filigree. It glides noiselessly through the Ocean of Whispers, passing through solid objects like phantom mist.*
 * **Creature Type**: `Huge Beast (Undead), Unaligned`
+* **Combat Statistics**:
+  * **Armor Class**: 15 (natural armor)
+  * **Hit Points**: 120 (15d12 + 45)
+  * **Speed**: 40 ft., fly 60 ft.
+  * **Abilities**: STR 18 (+4) | DEX 18 (+4) | CON 16 (+3) | INT 16 (+3) | WIS 14 (+2) | CHA 14 (+2)
+  * **Saving Throws**: Con +7, Wis +6
+  * **Senses**: truesight 60 ft., darkvision 120 ft., passive Perception 16
+  * **Languages**: Understands native planar dialect; telepathy 60 ft. (or unaligned)
+  * **Challenge**: 11 (11,000 XP) | **Proficiency Bonus**: +4
+* **Signature Combat Traits**:
+  * **Planar Apex Resilience**: The Ghost-Coral Ray has advantage on saving throws against spells and magical effects native to its home plane.
+  * **Predatory Instinct**: Adds its proficiency bonus (+4) to initiative rolls and cannot be surprised while conscious.
+* **Combat Actions & Multiattack**:
+  * **Multiattack**: The Ghost-Coral Ray makes three attacks: two with its primary natural weapons and one crushing strike.
+  * **Primary Strike**: *Melee Weapon Attack*: +8 to hit, reach 10 ft., one target. *Hit*: 13 (3d10 + 4) slashing/piercing damage plus 7 (2d6) elemental/force damage.
+  * **Crushing Surge (Recharge 5–6)**: The Ghost-Coral Ray unleashes a planar surge in a 30-foot cone/line. Targets must make a DC 15 Dexterity or Constitution save, taking 38 (11d6) damage on a failed save, or half as much on a success.
 
 #### **Harvestable Materials Table**
 | Component | Classification | Yield & Estimated Base Value |
@@ -1279,6 +2191,22 @@ Below is the complete regional breakdown of all **22 Planar Lodges**, each featu
 ### 🦁 Thematic Apex Quarry I: The Axiom-Fracture Clockwork Chimera (CR 12)
 * **Classification**: *A biomechanical chimera forged from polished brass, interlocking clockwork springs, and fractured law-stones. Its gears tick with rhythmic precision, accelerating its speed or freezing local time when it pounces.*
 * **Creature Type**: `Large Construct, Lawful Neutral`
+* **Combat Statistics**:
+  * **Armor Class**: 16 (natural armor)
+  * **Hit Points**: 144 (16d10 + 64)
+  * **Speed**: 40 ft.
+  * **Abilities**: STR 20 (+5) | DEX 18 (+4) | CON 18 (+4) | INT 10 (+0) | WIS 14 (+2) | CHA 10 (+0)
+  * **Saving Throws**: Con +8, Wis +6
+  * **Senses**: darkvision 60 ft., passive Perception 16
+  * **Languages**: Understands native planar dialect; telepathy 60 ft. (or unaligned)
+  * **Challenge**: 12 (12,000 XP) | **Proficiency Bonus**: +4
+* **Signature Combat Traits**:
+  * **Planar Apex Resilience**: The Axiom-Fracture Clockwork Chimera has advantage on saving throws against spells and magical effects native to its home plane.
+  * **Predatory Instinct**: Adds its proficiency bonus (+4) to initiative rolls and cannot be surprised while conscious.
+* **Combat Actions & Multiattack**:
+  * **Multiattack**: The Axiom-Fracture Clockwork Chimera makes three attacks: two with its primary natural weapons and one crushing strike.
+  * **Primary Strike**: *Melee Weapon Attack*: +9 to hit, reach 10 ft., one target. *Hit*: 14 (2d10 + 5) slashing/piercing damage plus 7 (2d6) elemental/force damage.
+  * **Crushing Surge (Recharge 5–6)**: The Axiom-Fracture Clockwork Chimera unleashes a planar surge in a 30-foot cone/line. Targets must make a DC 16 Dexterity or Constitution save, taking 42 (12d6) damage on a failed save, or half as much on a success.
 
 #### **Harvestable Materials Table**
 | Component | Classification | Yield & Estimated Base Value |
@@ -1297,6 +2225,22 @@ Below is the complete regional breakdown of all **22 Planar Lodges**, each featu
 ### 🦁 Thematic Apex Quarry II: The Gear-Toothed Inevitable Hound (CR 11)
 * **Classification**: *A quadrupedal tracking automaton forged from brass and iron. It is programmed to hunt law-breakers across the Spire, calculating attack trajectories with cold mathematical perfection.*
 * **Creature Type**: `Large Construct, Lawful Neutral`
+* **Combat Statistics**:
+  * **Armor Class**: 15 (natural armor)
+  * **Hit Points**: 120 (15d10 + 45)
+  * **Speed**: 40 ft.
+  * **Abilities**: STR 18 (+4) | DEX 18 (+4) | CON 16 (+3) | INT 8 (-1) | WIS 14 (+2) | CHA 10 (+0)
+  * **Saving Throws**: Con +7, Wis +6
+  * **Senses**: darkvision 60 ft., passive Perception 16
+  * **Languages**: Understands native planar dialect; telepathy 60 ft. (or unaligned)
+  * **Challenge**: 11 (11,000 XP) | **Proficiency Bonus**: +4
+* **Signature Combat Traits**:
+  * **Planar Apex Resilience**: The Gear-Toothed Inevitable Hound has advantage on saving throws against spells and magical effects native to its home plane.
+  * **Predatory Instinct**: Adds its proficiency bonus (+4) to initiative rolls and cannot be surprised while conscious.
+* **Combat Actions & Multiattack**:
+  * **Multiattack**: The Gear-Toothed Inevitable Hound makes three attacks: two with its primary natural weapons and one crushing strike.
+  * **Primary Strike**: *Melee Weapon Attack*: +8 to hit, reach 10 ft., one target. *Hit*: 13 (2d10 + 4) slashing/piercing damage plus 7 (2d6) elemental/force damage.
+  * **Crushing Surge (Recharge 5–6)**: The Gear-Toothed Inevitable Hound unleashes a planar surge in a 30-foot cone/line. Targets must make a DC 15 Dexterity or Constitution save, taking 38 (11d6) damage on a failed save, or half as much on a success.
 
 #### **Harvestable Materials Table**
 | Component | Classification | Yield & Estimated Base Value |
@@ -1315,6 +2259,22 @@ Below is the complete regional breakdown of all **22 Planar Lodges**, each featu
 ### 🦁 Thematic Apex Quarry III: The Pendulum-Blade Mantis (CR 13)
 * **Classification**: *A terrifying insectoid machine with scythe-like forearms that swing like oscillating clock pendulums, accelerating with terrifying mathematical momentum.*
 * **Creature Type**: `Huge Construct (Monstrosity), Lawful Neutral`
+* **Combat Statistics**:
+  * **Armor Class**: 16 (natural armor)
+  * **Hit Points**: 153 (17d12 + 68)
+  * **Speed**: 40 ft., fly 60 ft.
+  * **Abilities**: STR 20 (+5) | DEX 18 (+4) | CON 18 (+4) | INT 10 (+0) | WIS 14 (+2) | CHA 10 (+0)
+  * **Saving Throws**: Con +9, Wis +7
+  * **Senses**: darkvision 60 ft., passive Perception 17
+  * **Languages**: Understands native planar dialect; telepathy 60 ft. (or unaligned)
+  * **Challenge**: 13 (13,000 XP) | **Proficiency Bonus**: +5
+* **Signature Combat Traits**:
+  * **Planar Apex Resilience**: The Pendulum-Blade Mantis has advantage on saving throws against spells and magical effects native to its home plane.
+  * **Predatory Instinct**: Adds its proficiency bonus (+5) to initiative rolls and cannot be surprised while conscious.
+* **Combat Actions & Multiattack**:
+  * **Multiattack**: The Pendulum-Blade Mantis makes three attacks: two with its primary natural weapons and one crushing strike.
+  * **Primary Strike**: *Melee Weapon Attack*: +10 to hit, reach 10 ft., one target. *Hit*: 14 (3d10 + 5) slashing/piercing damage plus 7 (2d6) elemental/force damage.
+  * **Crushing Surge (Recharge 5–6)**: The Pendulum-Blade Mantis unleashes a planar surge in a 30-foot cone/line. Targets must make a DC 16 Dexterity or Constitution save, taking 45 (13d6) damage on a failed save, or half as much on a success.
 
 #### **Harvestable Materials Table**
 | Component | Classification | Yield & Estimated Base Value |
@@ -1344,6 +2304,22 @@ Below is the complete regional breakdown of all **22 Planar Lodges**, each featu
 ### 🦁 Thematic Apex Quarry I: The Harmonious Mycelial Weaver (CR 10)
 * **Classification**: *A colossal entity of ancient fungal threads, living bark, and luminous spore-mushrooms. It communicates through spores, absorbing fallen beasts into its shared root-consciousness while ensnaring intruders in empathic webs.*
 * **Creature Type**: `Huge Plant (Monstrosity), Lawful Good`
+* **Combat Statistics**:
+  * **Armor Class**: 15 (natural armor)
+  * **Hit Points**: 112 (14d12 + 42)
+  * **Speed**: 40 ft.
+  * **Abilities**: STR 18 (+4) | DEX 18 (+4) | CON 16 (+3) | INT 8 (-1) | WIS 14 (+2) | CHA 10 (+0)
+  * **Saving Throws**: Con +7, Wis +6
+  * **Senses**: darkvision 60 ft., passive Perception 16
+  * **Languages**: Understands native planar dialect; telepathy 60 ft. (or unaligned)
+  * **Challenge**: 10 (10,000 XP) | **Proficiency Bonus**: +4
+* **Signature Combat Traits**:
+  * **Planar Apex Resilience**: The Harmonious Mycelial Weaver has advantage on saving throws against spells and magical effects native to its home plane.
+  * **Predatory Instinct**: Adds its proficiency bonus (+4) to initiative rolls and cannot be surprised while conscious.
+* **Combat Actions & Multiattack**:
+  * **Multiattack**: The Harmonious Mycelial Weaver makes three attacks: two with its primary natural weapons and one crushing strike.
+  * **Primary Strike**: *Melee Weapon Attack*: +8 to hit, reach 10 ft., one target. *Hit*: 13 (3d10 + 4) slashing/piercing damage plus 7 (2d6) elemental/force damage.
+  * **Crushing Surge (Recharge 5–6)**: The Harmonious Mycelial Weaver unleashes a planar surge in a 30-foot cone/line. Targets must make a DC 15 Dexterity or Constitution save, taking 35 (10d6) damage on a failed save, or half as much on a success.
 
 #### **Harvestable Materials Table**
 | Component | Classification | Yield & Estimated Base Value |
@@ -1362,6 +2338,22 @@ Below is the complete regional breakdown of all **22 Planar Lodges**, each featu
 ### 🦁 Thematic Apex Quarry II: The Symbiotic Root-Hydra (CR 12)
 * **Classification**: *A multi-headed serpentine entity grown from ancient oak roots and living vines. When one head is severed, two new root-tendrils weave together in seconds through shared cellular resonance.*
 * **Creature Type**: `Huge Plant (Monstrosity), Lawful Neutral`
+* **Combat Statistics**:
+  * **Armor Class**: 16 (natural armor)
+  * **Hit Points**: 144 (16d12 + 64)
+  * **Speed**: 40 ft.
+  * **Abilities**: STR 20 (+5) | DEX 18 (+4) | CON 18 (+4) | INT 10 (+0) | WIS 14 (+2) | CHA 10 (+0)
+  * **Saving Throws**: Con +8, Wis +6
+  * **Senses**: darkvision 60 ft., passive Perception 16
+  * **Languages**: Understands native planar dialect; telepathy 60 ft. (or unaligned)
+  * **Challenge**: 12 (12,000 XP) | **Proficiency Bonus**: +4
+* **Signature Combat Traits**:
+  * **Planar Apex Resilience**: The Symbiotic Root-Hydra has advantage on saving throws against spells and magical effects native to its home plane.
+  * **Predatory Instinct**: Adds its proficiency bonus (+4) to initiative rolls and cannot be surprised while conscious.
+* **Combat Actions & Multiattack**:
+  * **Multiattack**: The Symbiotic Root-Hydra makes three attacks: two with its primary natural weapons and one crushing strike.
+  * **Primary Strike**: *Melee Weapon Attack*: +9 to hit, reach 10 ft., one target. *Hit*: 14 (3d10 + 5) slashing/piercing damage plus 7 (2d6) elemental/force damage.
+  * **Crushing Surge (Recharge 5–6)**: The Symbiotic Root-Hydra unleashes a planar surge in a 30-foot cone/line. Targets must make a DC 16 Dexterity or Constitution save, taking 42 (12d6) damage on a failed save, or half as much on a success.
 
 #### **Harvestable Materials Table**
 | Component | Classification | Yield & Estimated Base Value |
@@ -1380,6 +2372,22 @@ Below is the complete regional breakdown of all **22 Planar Lodges**, each featu
 ### 🦁 Thematic Apex Quarry III: The Hive-Bound Weaver Hawk (CR 9)
 * **Classification**: *A raptor that hunts in synchronized flocks connected by an empathic psychic network. Its feathers shimmer with harmonic golden filaments, blinding prey with coordinated aerial maneuvers.*
 * **Creature Type**: `Large Beast (Monstrosity), Lawful Good`
+* **Combat Statistics**:
+  * **Armor Class**: 14 (natural armor)
+  * **Hit Points**: 91 (13d10 + 26)
+  * **Speed**: 40 ft., fly 60 ft.
+  * **Abilities**: STR 16 (+3) | DEX 16 (+3) | CON 14 (+2) | INT 8 (-1) | WIS 14 (+2) | CHA 10 (+0)
+  * **Saving Throws**: Con +6, Wis +6
+  * **Senses**: darkvision 60 ft., passive Perception 16
+  * **Languages**: Understands native planar dialect; telepathy 60 ft. (or unaligned)
+  * **Challenge**: 9 (9,000 XP) | **Proficiency Bonus**: +4
+* **Signature Combat Traits**:
+  * **Planar Apex Resilience**: The Hive-Bound Weaver Hawk has advantage on saving throws against spells and magical effects native to its home plane.
+  * **Predatory Instinct**: Adds its proficiency bonus (+4) to initiative rolls and cannot be surprised while conscious.
+* **Combat Actions & Multiattack**:
+  * **Multiattack**: The Hive-Bound Weaver Hawk makes three attacks: two with its primary natural weapons and one crushing strike.
+  * **Primary Strike**: *Melee Weapon Attack*: +7 to hit, reach 10 ft., one target. *Hit*: 12 (2d10 + 3) slashing/piercing damage plus 7 (2d6) elemental/force damage.
+  * **Crushing Surge (Recharge 5–6)**: The Hive-Bound Weaver Hawk unleashes a planar surge in a 30-foot cone/line. Targets must make a DC 14 Dexterity or Constitution save, taking 31 (9d6) damage on a failed save, or half as much on a success.
 
 #### **Harvestable Materials Table**
 | Component | Classification | Yield & Estimated Base Value |
@@ -1409,6 +2417,22 @@ Below is the complete regional breakdown of all **22 Planar Lodges**, each featu
 ### 🦁 Thematic Apex Quarry I: The Primal Apex Chimera-Panther (CR 13)
 * **Classification**: *The undisputed apex hunter of the Verdant Nexus. It features the muscular chassis of a dire sabertooth panther, the sweeping horned mantle of a ram, and four barbed scorpion tails that lash with neuromuscular venom.*
 * **Creature Type**: `Huge Beast (Monstrosity), Unaligned`
+* **Combat Statistics**:
+  * **Armor Class**: 16 (natural armor)
+  * **Hit Points**: 153 (17d12 + 68)
+  * **Speed**: 40 ft., climb 40 ft.
+  * **Abilities**: STR 20 (+5) | DEX 18 (+4) | CON 18 (+4) | INT 10 (+0) | WIS 14 (+2) | CHA 10 (+0)
+  * **Saving Throws**: Con +9, Wis +7
+  * **Senses**: darkvision 60 ft., passive Perception 17
+  * **Languages**: Understands native planar dialect; telepathy 60 ft. (or unaligned)
+  * **Challenge**: 13 (13,000 XP) | **Proficiency Bonus**: +5
+* **Signature Combat Traits**:
+  * **Planar Apex Resilience**: The Primal Apex Chimera-Panther has advantage on saving throws against spells and magical effects native to its home plane.
+  * **Predatory Instinct**: Adds its proficiency bonus (+5) to initiative rolls and cannot be surprised while conscious.
+* **Combat Actions & Multiattack**:
+  * **Multiattack**: The Primal Apex Chimera-Panther makes three attacks: two with its primary natural weapons and one crushing strike.
+  * **Primary Strike**: *Melee Weapon Attack*: +10 to hit, reach 10 ft., one target. *Hit*: 14 (3d10 + 5) slashing/piercing damage plus 7 (2d6) elemental/force damage.
+  * **Crushing Surge (Recharge 5–6)**: The Primal Apex Chimera-Panther unleashes a planar surge in a 30-foot cone/line. Targets must make a DC 16 Dexterity or Constitution save, taking 45 (13d6) damage on a failed save, or half as much on a success.
 
 #### **Harvestable Materials Table**
 | Component | Classification | Yield & Estimated Base Value |
@@ -1427,6 +2451,22 @@ Below is the complete regional breakdown of all **22 Planar Lodges**, each featu
 ### 🦁 Thematic Apex Quarry II: The Thorn-Horned Primeval Moose (CR 11)
 * **Classification**: *A colossal cervid standing 22 feet tall, crowned with sweeping antlers composed of petrified blackthorn branches. Its hooves shake the ground, and its roar causes predatory vines to strangle pursuers.*
 * **Creature Type**: `Huge Beast (Monstrosity), Unaligned`
+* **Combat Statistics**:
+  * **Armor Class**: 15 (natural armor)
+  * **Hit Points**: 120 (15d12 + 45)
+  * **Speed**: 40 ft.
+  * **Abilities**: STR 18 (+4) | DEX 18 (+4) | CON 16 (+3) | INT 8 (-1) | WIS 14 (+2) | CHA 10 (+0)
+  * **Saving Throws**: Con +7, Wis +6
+  * **Senses**: darkvision 60 ft., passive Perception 16
+  * **Languages**: Understands native planar dialect; telepathy 60 ft. (or unaligned)
+  * **Challenge**: 11 (11,000 XP) | **Proficiency Bonus**: +4
+* **Signature Combat Traits**:
+  * **Planar Apex Resilience**: The Thorn-Horned Primeval Moose has advantage on saving throws against spells and magical effects native to its home plane.
+  * **Predatory Instinct**: Adds its proficiency bonus (+4) to initiative rolls and cannot be surprised while conscious.
+* **Combat Actions & Multiattack**:
+  * **Multiattack**: The Thorn-Horned Primeval Moose makes three attacks: two with its primary natural weapons and one crushing strike.
+  * **Primary Strike**: *Melee Weapon Attack*: +8 to hit, reach 10 ft., one target. *Hit*: 13 (3d10 + 4) slashing/piercing damage plus 7 (2d6) elemental/force damage.
+  * **Crushing Surge (Recharge 5–6)**: The Thorn-Horned Primeval Moose unleashes a planar surge in a 30-foot cone/line. Targets must make a DC 15 Dexterity or Constitution save, taking 38 (11d6) damage on a failed save, or half as much on a success.
 
 #### **Harvestable Materials Table**
 | Component | Classification | Yield & Estimated Base Value |
@@ -1445,6 +2485,22 @@ Below is the complete regional breakdown of all **22 Planar Lodges**, each featu
 ### 🦁 Thematic Apex Quarry III: The River-Terror Crocodile Behemoth (CR 12)
 * **Classification**: *A 60-foot river predator armored in scutes of petrified ironwood. It executes death-rolls capable of capsizing galleons, dragging prey into the lightless sediment beneath the Verdant Nexus rapids.*
 * **Creature Type**: `Gargantuan Monstrosity, Unaligned`
+* **Combat Statistics**:
+  * **Armor Class**: 16 (natural armor)
+  * **Hit Points**: 144 (16d20 + 64)
+  * **Speed**: 40 ft., fly 60 ft., swim 50 ft.
+  * **Abilities**: STR 20 (+5) | DEX 18 (+4) | CON 18 (+4) | INT 10 (+0) | WIS 14 (+2) | CHA 10 (+0)
+  * **Saving Throws**: Con +8, Wis +6
+  * **Senses**: darkvision 60 ft., passive Perception 16
+  * **Languages**: Understands native planar dialect; telepathy 60 ft. (or unaligned)
+  * **Challenge**: 12 (12,000 XP) | **Proficiency Bonus**: +4
+* **Signature Combat Traits**:
+  * **Planar Apex Resilience**: The River-Terror Crocodile Behemoth has advantage on saving throws against spells and magical effects native to its home plane.
+  * **Predatory Instinct**: Adds its proficiency bonus (+4) to initiative rolls and cannot be surprised while conscious.
+* **Combat Actions & Multiattack**:
+  * **Multiattack**: The River-Terror Crocodile Behemoth makes three attacks: two with its primary natural weapons and one crushing strike.
+  * **Primary Strike**: *Melee Weapon Attack*: +9 to hit, reach 10 ft., one target. *Hit*: 14 (3d10 + 5) slashing/piercing damage plus 7 (2d6) elemental/force damage.
+  * **Crushing Surge (Recharge 5–6)**: The River-Terror Crocodile Behemoth unleashes a planar surge in a 30-foot cone/line. Targets must make a DC 16 Dexterity or Constitution save, taking 42 (12d6) damage on a failed save, or half as much on a success.
 
 #### **Harvestable Materials Table**
 | Component | Classification | Yield & Estimated Base Value |
