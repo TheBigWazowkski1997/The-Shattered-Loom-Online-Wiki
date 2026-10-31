@@ -32,7 +32,7 @@ dg-publish: true
 *Large Fiend (Demon), Chaotic Evil*
 
 * **Armor Class**: 20 (Natural Armor)
-* **Hit Points**: 346 ($29	ext{d}10 + 187$)
+* **Hit Points**: 346 (29d10 + 187)
 * **Speed**: 40 ft., fly 40 ft.
 * **Saving Throws**: Dex +11, Con +14, Wis +13, Cha +17
 * **Skills**: Deception +17, Insight +13, Perception +13, Persuasion +17
@@ -51,7 +51,7 @@ dg-publish: true
 
 ### **Actions**
 * **Multiattack**: Graz'zt makes two Greatsword attacks or casts a spell and makes one Greatsword attack.
-* **Wave-Bladed Greatsword (+2)**: *Melee Weapon Attack*: +16 to hit, reach 10 ft., one target. *Hit*: 22 ($4	ext{d}6 + 8$) slashing damage plus 14 ($4	ext{d}6$) acid damage.
+* **Wave-Bladed Greatsword (+2)**: *Melee Weapon Attack*: +16 to hit, reach 10 ft., one target. *Hit*: 22 (4d6 + 8) slashing damage plus 14 (4d6) acid damage.
 * **Seductive Teleport**: Graz'zt teleports up to 60 feet. Each creature within 10 feet of his destination space must make a DC 25 Wisdom save or be charmed by Graz'zt until the end of its next turn.
 
 ### **Legendary Actions (3/Round)**

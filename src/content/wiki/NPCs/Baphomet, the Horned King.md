@@ -30,7 +30,7 @@ dg-publish: true
 *Huge Fiend (Demon), Chaotic Evil*
 
 * **Armor Class**: 22 (Natural Armor)
-* **Hit Points**: 319 ($22	ext{d}12 + 176$)
+* **Hit Points**: 319 (22d12 + 176)
 * **Speed**: 40 ft.
 * **Saving Throws**: Dex +9, Con +15, Wis +11, Cha +12
 * **Skills**: Athletics +16, Intimidation +12, Perception +11, Survival +11
@@ -43,19 +43,19 @@ dg-publish: true
 
 ### **Special Traits**
 * **Labyrinthine Recall**: Baphomet can perfectly recall any path he has traveled and is immune to the *Maze* spell.
-* **Charge**: If Baphomet moves at least 20 feet straight toward a target and hits with a Gore attack, the target takes an extra 16 ($3	ext{d}10$) piercing damage. If the target is a creature, it must succeed on a DC 24 Str save or be knocked prone.
+* **Charge**: If Baphomet moves at least 20 feet straight toward a target and hits with a Gore attack, the target takes an extra 16 (3d10) piercing damage. If the target is a creature, it must succeed on a DC 24 Str save or be knocked prone.
 * **Reckless**: At the start of his turn, Baphomet can gain advantage on all melee weapon attack rolls, but attack rolls against him have advantage until the start of his next turn.
 * **Legendary Resistance (3/Day)**: Can choose to succeed on a failed saving throw.
 
 ### **Actions**
 * **Multiattack**: Baphomet makes three attacks: one with *Heartcleaver*, one with his Bite, and one with his Gore.
-* **Heartcleaver (Glaive +2)**: *Melee Weapon Attack*: +18 to hit, reach 15 ft., one target. *Hit*: 21 ($2	ext{d}10 + 10$) slashing damage.
-* **Gore**: *Melee Weapon Attack*: +16 to hit, reach 10 ft., one target. *Hit*: 19 ($2	ext{d}10 + 8$) piercing damage.
+* **Heartcleaver (Glaive +2)**: *Melee Weapon Attack*: +18 to hit, reach 15 ft., one target. *Hit*: 21 (2d10 + 10) slashing damage.
+* **Gore**: *Melee Weapon Attack*: +16 to hit, reach 10 ft., one target. *Hit*: 19 (2d10 + 8) piercing damage.
 * **Frightful Presence**: Each creature of Baphomet's choice within 120 feet must make a DC 20 Wisdom save or become frightened for 1 minute (save ends at end of turn).
 
 ### **Legendary Actions (3/Round)**
 * **Heartcleaver Attack**: Baphomet attacks with Heartcleaver.
-* **Trample (Costs 2 Actions)**: Baphomet moves up to his speed. During this movement, he can enter Large or smaller creatures' spaces. Each creature whose space he enters must make a DC 24 Str save or take 19 ($2	ext{d}10 + 8$) bludgeoning damage and be knocked prone.
+* **Trample (Costs 2 Actions)**: Baphomet moves up to his speed. During this movement, he can enter Large or smaller creatures' spaces. Each creature whose space he enters must make a DC 24 Str save or take 19 (2d10 + 8) bludgeoning damage and be knocked prone.
 
 ***
 

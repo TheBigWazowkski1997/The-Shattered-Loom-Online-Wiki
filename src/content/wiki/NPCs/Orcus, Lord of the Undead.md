@@ -32,7 +32,7 @@ dg-publish: true
 *Huge Fiend (Demon), Chaotic Evil*
 
 * **Armor Class**: 20 (Natural Armor, 23 with Wand of Orcus)
-* **Hit Points**: 405 ($30	ext{d}12 + 210$)
+* **Hit Points**: 405 (30d12 + 210)
 * **Speed**: 40 ft., fly 40 ft.
 * **Saving Throws**: Dex +10, Con +15, Wis +13, Cha +15
 * **Skills**: Arcana +17, History +17, Religion +17, Perception +13
@@ -45,15 +45,15 @@ dg-publish: true
 
 ### **Special Traits**
 * **The Wand of Orcus**: Orcus wields the legendary Wand of Orcus. While holding it, his AC increases to 23, and he can cast spells from it including *Animate Dead*, *Circle of Death*, *Finger of Death*, *Power Word Kill*, and *Time Stop*.
-* **Aura of Thanatos**: Unaligned or living creatures that start their turn within 30 feet of Orcus take 21 ($6	ext{d}6$) necrotic damage, and Orcus regains hit points equal to half the damage dealt.
+* **Aura of Thanatos**: Unaligned or living creatures that start their turn within 30 feet of Orcus take 21 (6d6) necrotic damage, and Orcus regains hit points equal to half the damage dealt.
 * **Master of Stagnation**: Undead creatures within 300 feet of Orcus have advantage on saving throws against Turn Undead and gain a +4 bonus to their attack and damage rolls.
 * **Legendary Resistance (3/Day)**: Can choose to succeed on a failed saving throw.
 
 ### **Actions**
 * **Multiattack**: Orcus makes two attacks with the Wand of Orcus.
-* **Wand of Orcus**: *Melee Weapon Attack*: +19 to hit, reach 10 ft., one target. *Hit*: 21 ($3	ext{d}8 + 8$) bludgeoning damage plus 27 ($6	ext{d}8$) necrotic damage.
-* **Tail**: *Melee Weapon Attack*: +16 to hit, reach 10 ft., one target. *Hit*: 21 ($3	ext{d}8 + 8$) piercing damage plus 18 ($4	ext{d}8$) poison damage.
-* **Creeping Death (Recharge 5–6)**: Orcus chooses a point within 100 feet. A 20-foot-radius sphere of swirling black bone-shards erupts. Each living creature in that area must make a DC 23 Con save, taking 66 ($12	ext{d}10$) necrotic damage on a failure, or half on a success.
+* **Wand of Orcus**: *Melee Weapon Attack*: +19 to hit, reach 10 ft., one target. *Hit*: 21 (3d8 + 8) bludgeoning damage plus 27 (6d8) necrotic damage.
+* **Tail**: *Melee Weapon Attack*: +16 to hit, reach 10 ft., one target. *Hit*: 21 (3d8 + 8) piercing damage plus 18 (4d8) poison damage.
+* **Creeping Death (Recharge 5–6)**: Orcus chooses a point within 100 feet. A 20-foot-radius sphere of swirling black bone-shards erupts. Each living creature in that area must make a DC 23 Con save, taking 66 (12d10) necrotic damage on a failure, or half on a success.
 
 ### **Legendary Actions (3/Round)**
 * **Cast Spell**: Orcus casts a spell from the Wand of Orcus.

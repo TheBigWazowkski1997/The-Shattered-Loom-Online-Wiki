@@ -32,7 +32,7 @@ dg-publish: true
 *Huge Fiend (Demon), Chaotic Evil*
 
 * **Armor Class**: 22 (Natural Armor)
-* **Hit Points**: 464 ($32	ext{d}12 + 256$)
+* **Hit Points**: 464 (32d12 + 256)
 * **Speed**: 50 ft., swim 50 ft.
 * **Saving Throws**: Dex +10, Con +16, Wis +13, Cha +15
 * **Skills**: Athletics +17, Perception +19, Insight +13
@@ -51,15 +51,15 @@ dg-publish: true
 
 ### **Actions**
 * **Multiattack**: Demogorgon makes two Tentacle attacks and uses Gaze of the Twin Lords.
-* **Tentacle**: *Melee Weapon Attack*: +17 to hit, reach 15 ft., one target. *Hit*: 28 ($4	ext{d}8 + 9$) bludgeoning damage plus 18 ($4	ext{d}8$) necrotic damage. Target's maximum HP is reduced by the necrotic damage dealt, and Demogorgon regains that many hit points.
+* **Tentacle**: *Melee Weapon Attack*: +17 to hit, reach 15 ft., one target. *Hit*: 28 (4d8 + 9) bludgeoning damage plus 18 (4d8) necrotic damage. Target's maximum HP is reduced by the necrotic damage dealt, and Demogorgon regains that many hit points.
 * **Gaze of the Twin Lords**: Demogorgon turns his gaze toward up to two creatures within 120 feet:
   * *Aameul's Beguiling Gaze*: DC 23 Wisdom save or charmed until the start of Demogorgon's next turn. While charmed, the target must spend its reaction to attack an ally.
-  * *Hethradiah's Gaze of Madness*: DC 23 Charisma save or take 36 ($8	ext{d}8$) psychic damage and suffer short-term madness for 1 minute (save ends at end of turn).
+  * *Hethradiah's Gaze of Madness*: DC 23 Charisma save or take 36 (8d8) psychic damage and suffer short-term madness for 1 minute (save ends at end of turn).
 
 ### **Legendary Actions (3/Round)**
-* **Tail Sweep**: Demogorgon lashes his bifurcated tail. DC 25 Dex save for all creatures in a 15-ft cone or take 20 ($2	ext{d}10 + 9$) bludgeoning damage and be knocked prone.
+* **Tail Sweep**: Demogorgon lashes his bifurcated tail. DC 25 Dex save for all creatures in a 15-ft cone or take 20 (2d10 + 9) bludgeoning damage and be knocked prone.
 * **Teleport**: Demogorgon magically teleports up to 60 feet to an unoccupied space he can see.
-* **Spur the Madness (Costs 2 Actions)**: Demogorgon emits an ear-splitting shriek. All creatures within 60 feet must make a DC 23 Con save or take 27 ($6	ext{d}8$) thunder damage and be stunned until the end of their next turn.
+* **Spur the Madness (Costs 2 Actions)**: Demogorgon emits an ear-splitting shriek. All creatures within 60 feet must make a DC 23 Con save or take 27 (6d8) thunder damage and be stunned until the end of their next turn.
 
 ***
 

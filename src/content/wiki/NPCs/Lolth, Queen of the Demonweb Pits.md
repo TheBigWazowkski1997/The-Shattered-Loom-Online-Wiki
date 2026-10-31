@@ -30,7 +30,7 @@ dg-publish: true
 *Large Fiend (Demon, Shapechanger), Chaotic Evil*
 
 * **Armor Class**: 21 (Natural Armor)
-* **Hit Points**: 324 ($24	ext{d}10 + 192$)
+* **Hit Points**: 324 (24d10 + 192)
 * **Speed**: 40 ft., climb 40 ft.
 * **Saving Throws**: Dex +12, Con +14, Wis +13, Cha +16
 * **Skills**: Stealth +19, Deception +16, Insight +13, Perception +13
@@ -49,9 +49,9 @@ dg-publish: true
 
 ### **Actions**
 * **Multiattack**: Lolth makes three attacks: two with her Claws and one with her Venomous Bite.
-* **Claws**: *Melee Weapon Attack*: +15 to hit, reach 10 ft., one target. *Hit*: 18 ($3	ext{d}6 + 8$) slashing damage plus 14 ($4	ext{d}6$) poison damage.
-* **Venomous Bite**: *Melee Weapon Attack*: +15 to hit, reach 5 ft., one target. *Hit*: 24 ($3	ext{d}10 + 8$) piercing damage plus 36 ($8	ext{d}8$) poison damage (DC 22 Con save halves).
-* **Web Spray (Recharge 5–6)**: Lolth sprays sticky, acidic web in a 60-foot cone. Each creature in that area must make a DC 22 Dex save or be restrained and take 28 ($8	ext{d}6$) acid damage.
+* **Claws**: *Melee Weapon Attack*: +15 to hit, reach 10 ft., one target. *Hit*: 18 (3d6 + 8) slashing damage plus 14 (4d6) poison damage.
+* **Venomous Bite**: *Melee Weapon Attack*: +15 to hit, reach 5 ft., one target. *Hit*: 24 (3d10 + 8) piercing damage plus 36 (8d8) poison damage (DC 22 Con save halves).
+* **Web Spray (Recharge 5–6)**: Lolth sprays sticky, acidic web in a 60-foot cone. Each creature in that area must make a DC 22 Dex save or be restrained and take 28 (8d6) acid damage.
 
 ### **Legendary Actions (3/Round)**
 * **Web Strider**: Lolth moves up to her speed without provoking opportunity attacks.
