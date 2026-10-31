@@ -1,6 +1,6 @@
 ---
 title: "The Anvil-Hearth Lodge"
-description: "Planar hunting lodge gazetteer, facilities, local apex quarry, and barter exchange for the Grand Guild of the Iron Spoor in Plane of Eternal Craft."
+description: "Planar hunting lodge gazetteer, facilities, local apex quarry monsters, and barter exchange for the Grand Guild of the Iron Spoor in Plane of Eternal Craft."
 category: Planes of Existence
 tags:
   - lodge
@@ -40,15 +40,16 @@ Every hunter passing through the lodge has access to specialized equipment desig
 
 ---
 
-## 🦁 Primary Apex Quarry: The Slag-Forged Drake (CR 13)
+## 🦁 Regional Apex Quarry (3 Thematic Monsters)
 
-The primary monster tracked and harvested from this lodge is the feared **The Slag-Forged Drake**.
+Hunters registered with this lodge track three distinct tiers of apex quarry native to Plane of Eternal Craft:
 
+### 1. The Slag-Forged Drake (CR 13)
 * **Creature Profile**: *A wingless quadrupedal drake born from the runoff slag of divine anvils. Its body is composed of layered Damascus-folded steel and glowing magma veins, exhaling a torrent of white-hot molten metal.*
 * **Type & Alignment**: `Huge Dragon (Elemental), Neutral Neutral`
 * **Harvest Check DC**: **DC 23**
 
-### Harvestable Components
+#### Harvestable Components
 | Component | Classification | Yield & Base Value |
 | :--- | :--- | :--- |
 | **Slag-Armor Plating** | Defensive Layer | 4 Folded Metal Plates (value 350 gp each) |
@@ -56,11 +57,53 @@ The primary monster tracked and harvested from this lodge is the feared **The Sl
 | **Tempered Steel Claws** | Offensive Matrix | 4 Serrated Metal Talons (value 200 gp each) |
 | **Foundry Drake-Core** | Essence Core | 1 White-Hot Core (value 850 gp) |
 
-### Trophy-Forge Recipes Available at this Lodge
+#### Trophy-Forge Recipes
 | Crafted Relic | Category | Mechanical Properties (D&D 5e) |
 | :--- | :---: | :--- |
 | **Crucible-Flame Warhammer (+2)** | Weapon (Warhammer) | Deals 1d8 bludgeoning + 2d6 fire damage. Can smash through solid iron doors or armor, reducing target AC by 1 on a critical hit (max -3). |
 | **Forge-Walker's Cuirass** | Armor (Breastplate) | AC 15 + Dex (max 2). Immunity to fire damage; resistance to piercing and slashing from nonmagical attacks. |
+
+---
+
+### 2. The Living Crucible Golem-Behemoth (CR 14)
+* **Creature Profile**: *A walking foundry furnace constructed from divine brass and slag. It shovels ore and broken weaponry into its central chest-furnace, exhaling showers of white-hot steel pellets from twin chimney-shoulders.*
+* **Type & Alignment**: `Huge Construct (Elemental), Unaligned`
+* **Harvest Check DC**: **DC 24**
+
+#### Harvestable Components
+| Component | Classification | Yield & Base Value |
+| :--- | :--- | :--- |
+| **Divine Crucible Plates** | Defensive Layer | 4 Heat-Forged Brass Slabs (value 400 gp each) |
+| **Slag-Spitting Mortar Jaw** | Offensive Matrix | 1 Heavy Pneumatic Cannon Jaw (value 550 gp) |
+| **Bellows Lung-Chambers** | Alchemical Secretion | 2 Superheated Air Reservoirs (value 300 gp each) |
+| **Foundry Molten Heart** | Essence Core | 1 Self-Sustaining Magma Engine (value 900 gp) |
+
+#### Trophy-Forge Recipes
+| Crafted Relic | Category | Mechanical Properties (D&D 5e) |
+| :--- | :---: | :--- |
+| **Plate Armor of the Divine Crucible (+2)** | Armor (Plate) | AC 20. Wearer is immune to fire damage. When struck by melee attacks, armor releases gouts of spark dealing 2d6 fire damage to attacker. |
+| **Hammer of the Endless Forge (+2)** | Weapon (Warhammer) | Can instantly repair damaged weapons, armor, or structures during a short rest without tools. Deals 2d8 fire damage on hit. |
+
+---
+
+### 3. The Tempering Flame-Salamander (CR 11)
+* **Creature Profile**: *A quick, predatory lizard that nests inside the cooling flumes of Kaldryn's forges. Its scales quench molten metals instantly, absorbing thermal energy and redirecting it as concussive shockwaves.*
+* **Type & Alignment**: `Large Elemental (Monstrosity), Neutral`
+* **Harvest Check DC**: **DC 21**
+
+#### Harvestable Components
+| Component | Classification | Yield & Base Value |
+| :--- | :--- | :--- |
+| **Fire-Tempered Scale Pelt** | Defensive Layer | 1 Highly Heat-Conductive Pelt (value 350 gp) |
+| **Quench-Oil Glands** | Alchemical Secretion | 2 Flasks of Instant-Cooling Oil (value 200 gp each) |
+| **Steel-Spike Tail** | Offensive Matrix | 1 Barbed Counter-Balance Whip (value 300 gp) |
+| **Core of Kaldryn's Flame** | Essence Core | 1 Radiant Forge Core (value 600 gp) |
+
+#### Trophy-Forge Recipes
+| Crafted Relic | Category | Mechanical Properties (D&D 5e) |
+| :--- | :---: | :--- |
+| **Spear of the Master Smith (+2)** | Weapon (Spear) | Deals 1d6 piercing + 2d6 fire damage. Can be driven into cold metal to heat it to forge temperatures in 10 seconds. |
+| **Shield of Flame Tempering** | Armor (Shield) | Shield (+1). Grants resistance to fire damage. When hit by fire damage, charge the shield (+2 AC on next turn). |
 
 ---
 
@@ -77,10 +120,10 @@ Hunters can redeem their **Spoor Marks** or trade gold and monster components fo
 
 | d4 | Contract Title | Objective & Complications | Reward |
 | :---: | :--- | :--- | :--- |
-| **1** | **The Apex Cull** | Slay an alpha The Slag-Forged Drake stalking the regional trade trail. | 15 Spoor Marks + 600 gp |
-| **2** | **Pristine Core Recovery** | Deliver 1 unblemished essence core without triggering carcass decay. | 25 Spoor Marks + *Master Skinning Blade* |
-| **3** | **Lost Tracker Escort** | Locate an overdue guild scout trapped in regional hazards. | 10 Spoor Marks + Free Lodge Lodging (1 Month) |
-| **4** | **Beast Lair Cleansing** | Clear a nesting den of young predators before they overrun local outposts. | 20 Spoor Marks + Choice of 1 Trophy Weapon |
+| **1** | **The Primary Apex Cull** | Slay an alpha The Slag-Forged Drake stalking the regional trade trail. | 15 Spoor Marks + 600 gp |
+| **2** | **Secondary Quarry Hunt** | Track and harvest the elusive The Living Crucible Golem-Behemoth. | 20 Spoor Marks + 900 gp |
+| **3** | **Apex Territory Cleansing** | Eradicate a nesting den of The Tempering Flame-Salamander. | 25 Spoor Marks + *Master Skinning Blade* |
+| **4** | **Pristine Core Recovery** | Deliver 1 unblemished essence core without triggering carcass decay. | 30 Spoor Marks + Choice of 1 Trophy Weapon |
 
 ---
 
@@ -89,4 +132,5 @@ Hunters can redeem their **Spoor Marks** or trade gold and monster components fo
 * **Regional Realm Dossier**: [[Planes of Existence/Outer Planes; Divine Shards/Plane of Eternal Craft/Plane of Eternal Craft Forgeflame Expanse|Plane of Eternal Craft]]
 * **Full Multiverse Lodges Atlas**: [[Custom Rules/Planar Bestiary & Hunting Lodges Compendium|Planar Bestiary & Hunting Lodges Compendium]]
 * **Master Hunting Rules**: [[Custom Rules/The Interplanar Hunting, Harvesting & Trophy-Crafting Ruleset|The Interplanar Hunting, Harvesting & Trophy-Crafting Ruleset]]
+* **Eldritch Hunting Rules**: [[Custom Rules/The Eldritch Horror Hunting & Sanity-Harvesting Ruleset|The Eldritch Horror Hunting & Sanity-Harvesting Ruleset]]
 * **Parent Faction**: [[Factions/The Grand Guild of the Iron Spoor|The Grand Guild of the Iron Spoor]]

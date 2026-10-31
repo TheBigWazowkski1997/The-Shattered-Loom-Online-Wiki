@@ -1,6 +1,6 @@
 ---
 title: "The Cinder-Spur Bastion"
-description: "Planar hunting lodge gazetteer, facilities, local apex quarry, and barter exchange for the Grand Guild of the Iron Spoor in Plane of Fire."
+description: "Planar hunting lodge gazetteer, facilities, local apex quarry monsters, and barter exchange for the Grand Guild of the Iron Spoor in Plane of Fire."
 category: Planes of Existence
 tags:
   - lodge
@@ -40,15 +40,16 @@ Every hunter passing through the lodge has access to specialized equipment desig
 
 ---
 
-## 🦁 Primary Apex Quarry: The Magma-Carapace Scorpid (CR 13)
+## 🦁 Regional Apex Quarry (3 Thematic Monsters)
 
-The primary monster tracked and harvested from this lodge is the feared **The Magma-Carapace Scorpid**.
+Hunters registered with this lodge track three distinct tiers of apex quarry native to Plane of Fire:
 
+### 1. The Magma-Carapace Scorpid (CR 13)
 * **Creature Profile**: *A hulking arachnid armored in interlocking plates of blackened volcanic glass. Its tail drips boiling sulfur-venom, and its claws can shear through solid iron while superheating the surrounding air to kiln temperatures.*
 * **Type & Alignment**: `Huge Elemental (Monstrosity), Neutral Evil`
 * **Harvest Check DC**: **DC 23**
 
-### Harvestable Components
+#### Harvestable Components
 | Component | Classification | Yield & Base Value |
 | :--- | :--- | :--- |
 | **Obsidian Carapace Plates** | Defensive Layer | 4 Heat-Resistant Plates (value 300 gp each) |
@@ -56,11 +57,53 @@ The primary monster tracked and harvested from this lodge is the feared **The Ma
 | **Sulfur Venom Sac** | Alchemical Secretion | 3 Flasks of Magma Venom (value 200 gp each) |
 | **Crucible Heart-Stone** | Essence Core | 1 Smoldering Magma Core (value 800 gp) |
 
-### Trophy-Forge Recipes Available at this Lodge
+#### Trophy-Forge Recipes
 | Crafted Relic | Category | Mechanical Properties (D&D 5e) |
 | :--- | :---: | :--- |
 | **Magma-Forged Plate Armor** | Armor (Plate) | AC 18. Grants immunity to fire damage and resistance to slashing damage. Attackers grappling wearer take 1d10 fire damage. |
 | **Cinder-Bite Scythe (+2)** | Weapon (Halberd/Scythe) | Deals 2d6 fire damage on hit. Critical hits cause the target to ignite, taking 1d10 fire damage at start of turns (DC 16 Con to extinguish). |
+
+---
+
+### 2. The Cinder-Horn Salamander Tyrant (CR 12)
+* **Creature Profile**: *An ancient, crested fire-lizard that swims through the molten rivers of the Everblaze Expanse. Its horns are superheated rods of natural tungsten, and its tongue can snare prey from 30 feet away, cooking them in seconds.*
+* **Type & Alignment**: `Huge Elemental (Monstrosity), Chaotic Evil`
+* **Harvest Check DC**: **DC 22**
+
+#### Harvestable Components
+| Component | Classification | Yield & Base Value |
+| :--- | :--- | :--- |
+| **Molten Horn-Spikes** | Offensive Matrix | 2 Glowing Tungsten Horns (value 350 gp each) |
+| **Flame-Sweat Hide** | Defensive Layer | 1 Heat-Absorbing Scale Pelt (value 500 gp) |
+| **Smoldering Tongue-Lash** | Offensive Matrix | 1 Heavy Muscular Whip-Tendril (value 300 gp) |
+| **Core of Living Embers** | Essence Core | 1 Pulsing Magma Heart (value 750 gp) |
+
+#### Trophy-Forge Recipes
+| Crafted Relic | Category | Mechanical Properties (D&D 5e) |
+| :--- | :---: | :--- |
+| **Salamander-Hide Cuirass (+2)** | Armor (Breastplate) | AC 16 + Dex (max 2). Immunity to fire damage. Cold damage dealt to wearer is reduced by 5. |
+| **Cinder-Lash Flail (+2)** | Weapon (Flail) | Reach 10 ft. Deals 1d8 bludgeoning + 2d6 fire damage. Can grapple targets on hit (escape DC 16). |
+
+---
+
+### 3. The Slag-Basin Magma Worm (CR 11)
+* **Creature Profile**: *A thick, armored annelid that bores through the volcanic crust near the City of Brass, digesting raw basalt and excreting rivers of liquified copper and gold.*
+* **Type & Alignment**: `Huge Monstrosity, Unaligned`
+* **Harvest Check DC**: **DC 21**
+
+#### Harvestable Components
+| Component | Classification | Yield & Base Value |
+| :--- | :--- | :--- |
+| **Heat-Tempered Maw Ring** | Offensive Matrix | 1 Circular Tooth-Grinder (value 300 gp) |
+| **Sulfur-Bile Glands** | Alchemical Secretion | 3 Flasks of Vitriol Acid (value 200 gp each) |
+| **Segmented Basalt Shell** | Defensive Layer | 4 Fire-Resistant Shell Rings (value 250 gp each) |
+| **Geothermal Gizzard** | Essence Core | 1 Dense Heat-Engine Stone (value 600 gp) |
+
+#### Trophy-Forge Recipes
+| Crafted Relic | Category | Mechanical Properties (D&D 5e) |
+| :--- | :---: | :--- |
+| **Trowel of the Magma-Shaper** | Wondrous Item (Rare) | Allows user to shape stone and rock as if it were clay. Can cast Stone Shape 2/day without spell slots. |
+| **Boots of the Molten Stride** | Wondrous Item (Rare) | Wearer can walk across lava, magma, and boiling oil as if it were solid ground without taking damage. |
 
 ---
 
@@ -77,10 +120,10 @@ Hunters can redeem their **Spoor Marks** or trade gold and monster components fo
 
 | d4 | Contract Title | Objective & Complications | Reward |
 | :---: | :--- | :--- | :--- |
-| **1** | **The Apex Cull** | Slay an alpha The Magma-Carapace Scorpid stalking the regional trade trail. | 15 Spoor Marks + 600 gp |
-| **2** | **Pristine Core Recovery** | Deliver 1 unblemished essence core without triggering carcass decay. | 25 Spoor Marks + *Master Skinning Blade* |
-| **3** | **Lost Tracker Escort** | Locate an overdue guild scout trapped in regional hazards. | 10 Spoor Marks + Free Lodge Lodging (1 Month) |
-| **4** | **Beast Lair Cleansing** | Clear a nesting den of young predators before they overrun local outposts. | 20 Spoor Marks + Choice of 1 Trophy Weapon |
+| **1** | **The Primary Apex Cull** | Slay an alpha The Magma-Carapace Scorpid stalking the regional trade trail. | 15 Spoor Marks + 600 gp |
+| **2** | **Secondary Quarry Hunt** | Track and harvest the elusive The Cinder-Horn Salamander Tyrant. | 20 Spoor Marks + 900 gp |
+| **3** | **Apex Territory Cleansing** | Eradicate a nesting den of The Slag-Basin Magma Worm. | 25 Spoor Marks + *Master Skinning Blade* |
+| **4** | **Pristine Core Recovery** | Deliver 1 unblemished essence core without triggering carcass decay. | 30 Spoor Marks + Choice of 1 Trophy Weapon |
 
 ---
 
@@ -89,4 +132,5 @@ Hunters can redeem their **Spoor Marks** or trade gold and monster components fo
 * **Regional Realm Dossier**: [[Planes of Existence/Elemental Planes/Plane of Fire/Plane Of Fire The Everblaze Expanse|Plane of Fire]]
 * **Full Multiverse Lodges Atlas**: [[Custom Rules/Planar Bestiary & Hunting Lodges Compendium|Planar Bestiary & Hunting Lodges Compendium]]
 * **Master Hunting Rules**: [[Custom Rules/The Interplanar Hunting, Harvesting & Trophy-Crafting Ruleset|The Interplanar Hunting, Harvesting & Trophy-Crafting Ruleset]]
+* **Eldritch Hunting Rules**: [[Custom Rules/The Eldritch Horror Hunting & Sanity-Harvesting Ruleset|The Eldritch Horror Hunting & Sanity-Harvesting Ruleset]]
 * **Parent Faction**: [[Factions/The Grand Guild of the Iron Spoor|The Grand Guild of the Iron Spoor]]

@@ -85,10 +85,11 @@ Fragments of crystallized ideology and divinity scattered across the Astral Sea.
 * **[[Custom Rules/The Interplanar Black Market & Smuggling Ruleset|The Interplanar Black Market & Smuggling Ruleset]]** — The Shadow Weft, Shatterpoint Bazaars, and illicit contraband networks.
 * **[[Custom Rules/The Eldritch Madness & Dream-Fracture Ruleset|The Eldritch Madness & Dream-Fracture Ruleset]]** — The Lucidity Index (0–100), mental grounding, and double-edged forbidden insights.
 * **[[Custom Rules/The Interplanar Hunting, Harvesting & Trophy-Crafting Ruleset|The Interplanar Hunting, Harvesting & Trophy-Crafting Ruleset]]** & **[[Custom Rules/Planar Bestiary & Hunting Lodges Compendium|Planar Bestiary & Hunting Lodges Compendium]]** — Tracking apex monsters, carcass harvesting, trophy crafting, and 22 planar hunting lodges.
+* **[[Custom Rules/The Eldritch Horror Hunting & Sanity-Harvesting Ruleset|The Eldritch Horror Hunting & Sanity-Harvesting Ruleset]]** — Psionic tracking, reciprocal gaze backlash, Lucidity-risk dissection, and void-relic crafting.
 
 ---
 
-## 🏛️ The Great Factions (27 Major Factions)
+## 🏛️ The Great Factions (28 Major Factions)
 
 | Faction | Philosophy | Core Agenda | Dossier Link |
 | :--- | :--- | :--- | :--- |
@@ -113,7 +114,7 @@ Fragments of crystallized ideology and divinity scattered across the Astral Sea.
 
 ---
 
-## 👥 Dramatis Personae (120 Notable NPCs)
+## 👥 Dramatis Personae (122 Notable NPCs)
 
 ### 1. Deities & Primordials
 * **[[NPCs/Gods/Telara|Telara]]** — The Prime Weaver, creator of the Loom of Creation.
@@ -129,6 +130,7 @@ Fragments of crystallized ideology and divinity scattered across the Astral Sea.
 * **[[NPCs/Vaelen Corryn|Vaelen Corryn]]** — Senior field handler ("The Stitcher") and primary contact.
 * **[[NPCs/Captain Seris Vael|Captain Seris Vael]]** — Githyanki pilot and tactical advisor aboard *The Wraith*.
 * Detailed roster: [[NPCs/Key NPCs - Pale Lodge|Key NPCs - Pale Lodge]]
+* **The Order of the Severed Eye**: [[NPCs/Grand Inquisitor Sylas the Blind|Grand Inquisitor Sylas the Blind (CR 16)]], [[NPCs/Doctor Vaelen Malcor, Void-Surgeon|Doctor Vaelen Malcor, Void-Surgeon (CR 13)]], [[NPCs/Key NPCs - The Order of the Severed Eye|Key NPCs - The Order of the Severed Eye]]
 * **The Grand Guild of the Iron Spoor**: [[NPCs/Grand Huntmaster Torvald Blood-Tracer|Grand Huntmaster Torvald Blood-Tracer (CR 16)]], [[NPCs/Forge-Mistress Vespera Quick-Flint|Forge-Mistress Vespera Quick-Flint (CR 12)]], [[NPCs/Key NPCs - The Grand Guild of the Iron Spoor|Key NPCs - The Grand Guild of the Iron Spoor]]
 
 ### 3. Faction Leaders, Planar Governors & City Figures
