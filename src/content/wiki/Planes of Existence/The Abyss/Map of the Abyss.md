@@ -1,143 +1,133 @@
 ---
+title: "Map & Regional Atlas: The Abyss"
+description: "Cartographic atlas, fracture-zones, travel corridors, citadels, and hazards of The Abyss in Project Shattered Loom D&D 5e."
 dg-publish: true
 ---
 
-# Map & Geography of the Abyss (The Fracture-Zones of the Unwoven)
+# **Map & Regional Atlas: The Abyss (The Fracture-Zones of the Unwoven)**
 
-![[attachments/the_abyss_map.jpg]]
+![The Abyss Cartographic Atlas](/The-Shattered-Loom-Online-Wiki/images/the_abyss_map.jpg)
 
-> _"To chart the Abyss is to map a wound that refuses to clot. In the descent through the fracture-zones, space loops without warning, time frays into static, and the demon lords gnaw at the raw threads of creation to fuel an eternity of unweaving. Here, survival is not a matter of blade or spell—it is maintaining the memory of who you are before the void dissolves your name."_
-> — Journal of Vexiryn the Unbowed
+> *"To chart the Abyss is to map a wound that refuses to clot. In the descent through the fracture-zones, space loops without warning, time frays into static, and the demon lords gnaw at the raw threads of creation to fuel an eternity of unweaving. Here, survival is not a matter of blade or spell—it is maintaining the memory of who you are before the void dissolves your name."*  
+> — **Journal of Vexiryn the Unbowed, Planar Cartographer**
 
----
+***
 
-## Planar Geography & Canonical Foundations
+## **D&D 5e Planar Integration & Loom Cosmology**
 
 > [!IMPORTANT]
-> ### The Architecture of Entropy
-> The Abyss represents the cosmological antithesis of order—a bottomless chasm of fractured reality where the laws of nature, geometry, and identity break down into raw, entropic static:
+> ### Canonical D&D 5e Adaptation & Homebrew Metaphysics
+> The Abyss in **Project Shattered Loom** bridges the official D&D 5e cosmology of the Infinite Layers (*Dungeon Master's Guide*, pp. 62–64, *Out of the Abyss*, *Mordenkainen's Tome of Foes*) with the Shattered Loom setting:
 > 
-> * **The Core Layers & Fracture-Zones**:
->   * **Pazunia (The Plain of Infinite Portals)**: A wind-scoured wasteland pitted with thousands of gaping conduit-holes leading deeper into chaotic Abyssal fracture-zones.
->   * **Azzagrat (The Triple Realm)**: The three-layered domain of Graz'zt, linked by sparkling portals and anchored by the triple-spanned metropolis of **Zelatar**.
->   * **The Demonweb Pits**: An infinite realm of silken webs snaring drifting planar shards and suspended spider-fanes.
->   * **The Gaping Maw**: A primordial brine-ocean and carnivorous jungle anchored around the sunken ruins and dual towers of **Lemoriax**.
->   * **Thanatos**: The necropolis of black stone and bone where cold, stygian mists drift across the sunken city of **Naratyr**.
->   * **Shedaklah (The Slime Pits)**: A bubbling wilderness of sentient ooze and fungal decay.
->   * **The Endless Maze**: A gargantuan stone labyrinth of looping corridors centered around the fortress of **Lyktion**.
-> * **Loom Integration**: While the Nine Hells seek to freeze reality into a mechanical cage of absolute law, the Abyss is the **Static of the Unwoven**—the entropic wake of the **Great Dreamer** returning creation to an un-spun void.
+> * **The Nine Master Fracture-Zones**:
+>   * **Layer 1 (Pazunia / Plain of Infinite Portals)**: The wind-scoured limestone wasteland pitted with thousands of gaping conduit-holes leading to lower layers and drifting astral flotsam.
+>   * **Layers 45, 46, 47 (Azzagrat)**: The triple-layered decadent empire of Graz'zt, unified by the mirrored metropolis of **Zelatar** spanning the River of Salt, the Argent Palace, and the Viper Forest.
+>   * **Layer 66 (The Demonweb Pits)**: The infinite silken web-realm of Lolth, snaring drifting astral shards, suspended drow cities, and the mobile iron Web-Fortress.
+>   * **Layer 88 (The Gaping Maw)**: The primal ocean and carnivorous tropical jungle of Demogorgon, anchored around the sunken ruins of **Lemoriax** and the Twin Spires of Abysm.
+>   * **Layer 113 (Thanatos)**: The black-skied necropolis of Orcus, traversed by the frozen, bone-choked River Styx and the sunken bone city of **Naratyr**.
+>   * **Layer 222 (Shedaklah / The Slime Pits)**: The bubbling morass of sentient ooze and fungal rot contested between Juiblex and Zuggtmoy.
+>   * **Layer 422 (The Seeping Woods)**: The blood-drenched ironwood wilderness and arid hunting plains of Yeenoghu.
+>   * **Layer 570 (Shendilavri)**: The deceptively gorgeous pastel court of Malcanthet, masking bottomless agony pits behind velvet luxury.
+>   * **Layer 600 (The Endless Maze)**: The cyclopean stone labyrinth and mountain fortress of **Lyktion**, lair of Baphomet.
+> * **The Entropic Wake**: Where the Nine Hells seek to freeze reality into a rigid machine of tyrannical law, the Abyss is the **Static of the Unwoven**—the entropic wake of the **Great Dreamer** consuming the remnants of reality.
 
----
+***
 
-## The Three Great Metropolises & Citadels of the Fray
+## **The Three Great Metropolises of the Fray**
 
-### 1. [[The Abyss#5. Azzagrat: The Triple-City of Glitches|Zelatar: The Triple-City of Hedonistic Entropy]]
-* **Location**: Mirrored simultaneously across three overlapping planar shards in Azzagrat.
-* **Role**: The decadent commercial capital of the Abyss, where planar wanderers, renegades, and cultists barter in soul-static, forbidden treasures, and salvaged Loom remnants.
+### **1. Zelatar: The Triple-City of Hedonistic Entropy**
+* **Location**: Mirrored simultaneously across Layers 45, 46, and 47 (Azzagrat).
+* **Population**: ~85,000 (Demons, cambions, tieflings, drow, corrupt mortal planar merchants).
+* **Role**: The commercial and diplomatic capital of the Abyss, where devils, mercenary planar wanderers, and depraved mortals barter in soul-static, forbidden pleasures, and stolen Loom fragments.
 * **Key Landmarks**:
-  * **The Argent Palace**: A palace of mirrored obsidian and crystal where architecture shifts dynamically to reflect the hidden desires and fears of anyone who walks its halls.
+  * **The Argent Palace**: Graz'zt’s palace of sixty-six mirrored obsidian towers where reality shifts to accommodate deepest desires and terrors.
   * **The River of Salt**: A sparkling white channel of caustic brine dividing the city's three dimensional districts.
-  * **The Grand Bazaar of Frayed Goods**: A bustling, dangerous market where rare artifacts and unraveled planar relics are traded openly.
-* **Ruler**: **Graz'zt, the Prince of Pleasurable Entropy**.
+  * **The Grand Bazaar of Frayed Goods**: Open-air market where illegal thread-staples, demon blood, and memories of unraveled worlds are openly traded.
+* **Ruler**: **Graz'zt, the Dark Prince of Azzagrat**.
 
-### 2. [[The Abyss#2. Thanatos: The Void-Grave|Naratyr: The City of Sunken Skeletons]]
-* **Location**: Thanatos, built upon an immense shelf of black bone projecting into a lake of cold tears.
-* **Role**: The solemn, silent necropolis of the Abyss, where unraveled souls are bound into unmoving legions to enforce absolute stasis.
+### **2. Naratyr: The City of Sunken Skeletons**
+* **Location**: Layer 113 (Thanatos), built upon an immense shelf of black bone projecting into a lake of cold tears.
+* **Population**: ~120,000 (Undead legionnaires, liches, wights, death-cultists, necromancer pilgrims).
+* **Role**: The solemn, silent necropolis of the Abyss, where dead souls are harvested into mindless undead armies to enforce universal stasis.
 * **Key Landmarks**:
-  * **The Obsidian Citadel of Orcus**: A colossal mountain-sized skull towering over the city, crowned with cold necrotic light.
-  * **The Hall of the Cut Threads**: An ancient archive preserving the severed destinies of ancient heroes and forgotten kingdoms.
-  * **The Bone Aqueducts**: Massive stone sluiceways carrying the freezing, memory-leaching waters of the Styx throughout the city.
-* **Ruler**: **Orcus, the Tatter-King (Lord of the Unmoving Thread)**.
+  * **The Obsidian Skull Citadel**: A mountain-sized skull towering over the city, wreathed in green necrotic fire.
+  * **The Hall of the Cut Threads**: Vault where Orcus stores the broken destinies of heroes slain by his cultists.
+  * **The Bone Aqueducts**: Massive sluiceways carrying the cold waters of the Styx throughout the city.
+* **Ruler**: **Orcus, the Tatter-King (Prince of Undeath)**.
 
-### 3. [[The Abyss#1. The Gaping Maw: The Triple-Fracture|Lemoriax: City of the Twin Spires]]
-* **Location**: The Gaping Maw, rising from a turbulent, blood-warm ocean bordered by primeval jungle.
-* **Role**: The primal epicenter of cosmic contradiction, where matter continuously duplicates, flickers, and tears.
+### **3. Lemoriax: City of the Twin Spires**
+* **Location**: Layer 88 (The Gaping Maw), rising from a turbulent, blood-warm ocean bordered by primeval jungle.
+* **Population**: ~40,000 (Aquatic demons, sahuagin zealots, ixitxachitl, feral tieflings).
+* **Role**: The primal epicenter of madness and cosmic contradiction, where matter continuously duplicates, flickers, and tears.
 * **Key Landmarks**:
-  * **The Twin Spires of Abysm**: Two jagged fangs of dripping black stone jutting from the sea, each crowned with a throne for Demogorgon's two aspects.
-  * **The Screaming Reefs**: Living reefs of compressed coral and calcified carapaces that wail with the shifting tides.
-  * **The Maw of the Sunder**: An underwater whirlpool drawing drifting planar flotsam into the entropic core.
-* **Ruler**: **Demogorgon, the Prince of Fraying (The Living Contradiction)**.
+  * **The Twin Spires of Abysm**: Two jagged fangs of dripping black stone jutting from the sea, each crowned with a throne for Demogorgon's two heads.
+  * **The Screaming Reefs**: Living reefs of compressed coral and calcified demon carapaces that wail with the tides.
+  * **The Maw of the Sunder**: An underwater whirlpool sucking drifting planar debris into the entropic core.
+* **Ruler**: **Demogorgon, Prince of Demons (The Living Contradiction)**.
 
----
+***
 
-## Frontier Fray-Sites, Fortresses & Outposts
+## **Frontier Citadels, Redoubts & Outposts**
 
-### 1. Fort Fray (The Scavenger's Redoubt)
-* **Location**: Pazunia, overlooking the rim of the Grand Chasm.
-* **Population**: ~350 (Tieflings, planar mercenaries, and unaligned survivalists).
-* **Description**: A fortified citadel cobbled together from the hulls of crashed astral skiffs and reinforced Loom-thread braces.
-* **Specialty**: Salvaged Abyssal iron, planar guide services, and enchanted containment flasks.
-* **Notable Feature — The Horizon Eye**: An arcane telescope that peers through conduit-wells into lower fracture-zones.
+| Citadel / Outpost | Layer | Population | Controlling Power | Specialty & Purpose |
+| :--- | :--- | :--- | :--- | :--- |
+| **Fort Fray** | Layer 1 (Pazunia) | ~350 | Unaligned Scavengers & Doomguard | Salvaged abyssal iron, conduit guide services, Styx containment flasks |
+| **The Web-Fortress of Lolth** | Layer 66 (Demonweb Pits) | ~2,500 | Lolth & Drow Priestesses | Mobile spider-citadel, soul-spinning looms, counterfeit weave storage |
+| **Hanging City of Malshym** | Layer 66 (Demonweb Pits) | ~1,200 | Drow Houses & Driders | Web-silk manufacture, poison distillation, interplanar trade |
+| **The Glistening Bastion** | Layer 222 (Shedaklah) | ~150 | Slime Cultists & Ooze-Mages | Acid vial refinement, slime symbiotes, identity-erasing tinctures |
+| **The Fungal Spire** | Layer 222 (Shedaklah) | ~3,000 | Zuggtmoy & Spore-Thralls | Spore harvesting, fungal thrall creation, parasitic mold cultivation |
+| **The Den of the Gnashing Maw** | Layer 422 (Seeping Woods) | ~5,000 | Yeenoghu & Flind War-Herds | Carnage muster grounds, warband armories, sacrificial feeding pits |
+| **The Velvet Palace** | Layer 570 (Shendilavri) | ~1,800 | Malcanthet & Succubi Court | Diplomatic seduction, memory harvesting, velvet espionage |
+| **Lyktion** | Layer 600 (Endless Maze) | ~4,500 | Baphomet & Minotaur Clans | Non-Euclidean maze fortification, goristro breeding, siege engineering |
 
-### 2. The Demonweb Gates (Anchor-Pillars of Lolth)
-* **Location**: The Demonweb Pits, suspended in the void between drifting web strands.
-* **Population**: ~500 (Drow wanderers, weaver-cultists, and arachnid guardians).
-* **Description**: Spidery wrought-iron gateways anchored directly to strands of blackened weave that capture drifting planar flotsam.
-* **Specialty**: Venom distillates, enchanted spider-silk cloaks, and memory cocoons.
-* **Notable Feature — The Web Spindle**: An artificial spindle that traps passing souls and binds them into web-servitors.
+***
 
-### 3. Lyktion (The Palace of the Labyrinth)
-* **Location**: The Endless Maze, at the geometric heart of a billion looping stone corridors.
-* **Population**: ~1,200 (Minotaurs, maze-wardens, and feral beastfolk).
-* **Description**: A brutalist palace of cyclopean stone carved with mathematical paradoxes and recursive spiral runes.
-* **Specialty**: Maze-navigating compasses, unyielding horn-iron weapons, and siege engines.
-* **Notable Feature — The Inextricable Spire**: A tower whose stairs ascend and descend simultaneously, confounding travelers without planar orientation.
+## **Environmental Dynamics & Planar Hazards**
 
-### 4. The Glistening Bastion (Watch of the Slime Pits)
-* **Location**: Shedaklah, perched on an island of petrified bone amidst bubbling rivers of acidic ooze.
-* **Population**: ~150 (Ooze-touched hermits, sludge alchemists, and scavengers).
-* **Description**: A melting fortress where walls continuously dissolve and re-form from sentient, primordial sludge.
-* **Specialty**: Caustic solvents capable of dissolving enchanted wards, and memory-cleansing tinctures.
-* **Notable Feature — The Dissolution Basin**: A boiling vat where matter and memory are reduced to primal, formless potential.
-
----
-
-## Special Features & Planar Wonders
-
-### 1. The Entropic Wake (The Trail of the Great Dreamer)
-* **Description**: A vast cosmological trench cutting through the Abyss where the Great Dreamer slumbers and stirs, trailing pure reality-shredding static.
-* **Planar Trait**: Approaching the Wake causes sensory glitches, phantom echoes, and spatial doubling, testing the mental fortitude of mortal visitors.
-
-### 2. The Frayed Weave & Reality Glitches
-* **Description**: Pervasive instability where Telara's golden threads have snapped, causing localized physics, gravity, and magic to flicker unpredictably.
-* **Planar Trait**: Magic cast in the Abyss often surges with volatile, chaotic resonance, while spells of rigid abjuration require intense concentration to anchor.
-
-### 3. The Abyssal Styx (The Poisoned Memory Stream)
-* **Description**: A viscous, crimson-streaked branch of the River Styx that cascades through the fracture-zones, carrying shredded memories of forgotten gods.
-* **Planar Trait**: Direct contact with the water causes severe amnesia, unraveling personal memories into raw static.
-
-### 4. Void-Wells (Conduits of Nothingness)
-* **Description**: Bottomless pits puncturing the floor of Pazunia and other layers, emitting low hums of spatial suction.
-* **Planar Trait**: Objects or creatures drawn into a Void-Well plummet across planar boundaries, tumbling into deeper, unpredictable fracture-zones below.
-
----
-
-## Hazards & Planar Threats
-
-| Hazard | Description | Environmental Peril |
-| :--- | :--- | :--- |
-| **Entropic Static Storm** | Violet lightning and tear-winds that physically shred thread-destinies. | Crackling planar static that strips away protective wards, disorients senses, and damages equipment. |
-| **Abyssal Fray-Madness** | The psychic screaming of an unraveled cosmos battering mortal minds. | Persistent psychological strain causing disorientation, paranoia, and memory loss over prolonged exposure. |
-| **Caustic Sludge Surge** | Sudden floods of sentient acid bursting from the banks of Shedaklah. | Highly corrosive slime tides that eat through metal, leather, and stone upon contact. |
-| **Demon Lord Resonance** | The oppressive aura of a near-divine avatar of chaos permeating the layer. | Overwhelming despair and spiritual weight that suppresses natural healing and deadens mortal hope. |
-
----
-
-## Travel Routes & Major Corridors
-
-| Route Name | From / To | Distance / Travel Time | Hazards / Features |
+| Hazard | Primary Layer | Environmental Description | 5e Mechanical Effects |
 | :--- | :--- | :--- | :--- |
-| **The Styx Abyssal Run** | Pazunia $\rightarrow$ Thanatos $\rightarrow$ Gaping Maw | Trans-Planar Current | Demon raiding skiffs, memory-stealing spray, Stygian ferry tolls |
-| **The Lolthian Web-Corridor** | Pazunia $\rightarrow$ Demonweb Pits | 30 miles of suspended webs | Arachnid predators, sticky thread-anchors, dizzying void drops |
-| **The Labyrinthine Trench** | Pazunia $\rightarrow$ The Endless Maze | 50 miles of shifting chasms | Spatial disorientation, shifting corridors, beast patrols |
-| **The Triple Rift** | Pazunia $\rightarrow$ Azzagrat (Zelatar) | Planar Portal Conduits | Graz'zt's glamour wards, tax-demons, shifting gravity thresholds |
+| **Rust-Wind Gale** | Pazunia | Screaming winds carrying pulverized planar debris and corrosive rust-spores. | DC 13 Con save every hour or take 2d6 slashing damage; nonmagical metal gear suffers -1 penalty to AC/attacks. |
+| **Weight of Light** | Azzagrat | Heavy, oppressive illumination in Zelatar pressing down upon travelers. | Bright light slows movement by 10 ft unless DC 14 Str save succeeds or carrying Graz'zt sigil. |
+| **Sticky Corrupted Silk** | Demonweb Pits | Taut, blackened web strands coated in acidic necrotic grease. | DC 14 Dex (Acrobatics) or restrained (escape DC 15 Str); cutting web deals 2d8 acid damage to attacker. |
+| **Duality Logic Error** | Gaping Maw | Reality splits into competing, contradictory outcomes within 10 miles of spires. | DC 16 Wis save each dawn or suffer 2 competing personalities (disadvantage on initiative/concentration) or 20% miss chance. |
+| **Stagnant Knot Chill** | Thanatos | Deep cosmological frost that freezes thread-destinies and halts vitality. | Necromancy save DCs +2; magical healing halved; DC 15 Con save after rests or gain 1 exhaustion. |
+| **Identity Liquefaction** | Shedaklah | Acidic slurry that eats through memory, sense of self, and physical form. | Acid damage forces DC 14 Cha save or target temporarily forgets name and background for 1 hour. |
+| **The Splintering Laugh** | Seeping Woods | Resonating hyena cackle of Yeenoghu that tears at mental sanity. | DC 14 Wis save or enter bloodthirsty rage, attacking nearest living creature; repeats at end of each turn. |
+| **Perfumed Memory Poison**| Shendilavri | Sweet jasmine and candied lotus fragrance that dissolves mortal oaths. | DC 15 Wis save every 4 hours or lose 1 personal ideal/bond, replaced with obsession with pleasing the court. |
+| **Recursive Loop Knot** | Endless Maze | Non-Euclidean stone corridors that fold space back on itself infinitely. | Walking straight loops back to start after 1d6 hours outside; escaping requires DC 16 Survival/Investigation check. |
 
----
+***
 
-## Related Links
+## **Travel Routes & Trans-Planar Corridors**
 
-* [[The Abyss|The Abyss Overview]]
-* [[../The Nine Hells/The Nine Hells|The Nine Hells Overview]]
-* [[../The Nine Hells/Map of the Nine Hells|Map of the Nine Hells]]
-* [[../../Cosmology/The Blood War|The Blood War]]
-* [[../../Cosmology/The Shattered Loom Universe|The Shattered Loom Universe]]
+| Route Name | From -> To | Distance / Travel Time | Hazards & Navigational Features |
+| :--- | :--- | :--- | :--- |
+| **The Conduit Plunge** | Pazunia -> Any Lower Layer | Instantaneous Freefall | Void-Pits drop into specific layers; DC 15 Dex save or take 10d6 bludgeoning upon impact. |
+| **The Styx Abyssal Run** | Pazunia -> Thanatos -> Gaping Maw | Trans-Planar Waterway | Demon raiding skiffs, memory-stealing spray (DC 16 Int save), Merrenoloth corsairs. |
+| **The Lolthian Web-Corridor** | Pazunia -> Demonweb Pits (Malshym) | 30 miles of suspended webs | Bebilith predators, sticky thread-anchors, bottomless void drop, tremorsense tracking. |
+| **The Triple Rift** | Pazunia -> Azzagrat (Zelatar) | Planar Conduit Gates | Graz'zt's seduction wards, tax-demons, shifting gravity thresholds, dimensional split. |
+| **The Labyrinthine Trench** | Pazunia -> Endless Maze (Lyktion) | 50 miles of shifting chasms | Spatial disorientation (DC 15 Survival to navigate), Goristro patrols, bestial echoes. |
+| **The Fungal Slime Sluice** | Pazunia -> Shedaklah | Acidic Waterfall Descent | Living ooze cascades, toxic spore clouds, digestive currents eating vessel hulls. |
+| **The Carnage Trail** | Pazunia -> Seeping Woods | 40 miles of scorched steppes | Gnoll hunting warbands, carrion scent tracking, howling wind ambushes. |
+| **The Perfumed Stair** | Azzagrat -> Shendilavri | 15 miles of crystal terraces | Deceptive illusions, memory-eroding perfume, siren song charms. |
+
+***
+
+## **Related Links & Planar Codex**
+
+* **Planar Overview**: [[The Abyss|The Abyss (The Great Unraveling)]]
+* **The Infernal Counterpart**: [[The Nine Hells|The Nine Hells (The Spindle of Absolute Tyranny)]]
+* **Tactical Baatorian Atlas**: [[Map of the Nine Hells|Map of the Nine Hells (The Nine Tiers & Citadels)]]
+* **Cosmic Conflicts**: [[The Blood War|The Blood War (The Weaver's Conflict)]]
+* **Cosmic Lore**: [[The Shattered Loom Universe|The Shattered Loom Universe]]
+* **Dramatis Personae (Demon Lords)**:
+  * [[Demogorgon, Prince of Demons|Demogorgon, Prince of Demons]]
+  * [[Orcus, Lord of the Undead|Orcus, Lord of the Undead (The Tatter-King)]]
+  * [[Graz'zt, Dark Prince of Pleasure|Graz'zt, Dark Prince of Pleasure]]
+  * [[Lolth, Queen of the Demonweb Pits|Lolth, Queen of the Demonweb Pits]]
+  * [[Baphomet, the Horned King|Baphomet, the Horned King]]
+  * [[Key NPCs - The Abyss|Key NPCs of the Abyss (Regional Directory)]]
+* **Great Factions of the Fray**:
+  * [[The Cults of Chaos and the Fray|The Cults of Chaos and the Fray]]
+  * [[The Hordes of the Blood War (Demonic)|The Hordes of the Blood War (Demonic)]]
+  * [[The Consortium of Azzagrat|The Consortium of Azzagrat]]

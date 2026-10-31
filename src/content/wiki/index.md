@@ -86,7 +86,7 @@ Fragments of crystallized ideology and divinity scattered across the Astral Sea.
 
 ---
 
-## 🏛️ The Great Factions (22 Major Factions)
+## 🏛️ The Great Factions (25 Major Factions)
 
 | Faction | Philosophy | Core Agenda | Dossier Link |
 | :--- | :--- | :--- | :--- |
@@ -111,7 +111,7 @@ Fragments of crystallized ideology and divinity scattered across the Astral Sea.
 
 ---
 
-## 👥 Dramatis Personae (111 Notable NPCs)
+## 👥 Dramatis Personae (116 Notable NPCs)
 
 ### 1. Deities & Primordials
 * **[[NPCs/Gods/Telara|Telara]]** — The Prime Weaver, creator of the Loom of Creation.
@@ -134,6 +134,7 @@ Fragments of crystallized ideology and divinity scattered across the Astral Sea.
 * **The Ironbound Covenant**: [[NPCs/Warden-Captain Jaxen Vance|Warden-Captain Jaxen Vance]], [[NPCs/Warmaster Grash|Warmaster Grash]], [[NPCs/Key NPCs - The Ironbound Covenant|Key NPCs - The Ironbound Covenant]]
 * **Lords & Darklords of the Mists**: [[NPCs/The Raven Queen|The Raven Queen]], [[NPCs/Count Strahd von Zarovich|Count Strahd von Zarovich]], [[NPCs/Azalin Rex|Azalin Rex]], [[NPCs/Pharaoh Ankhtepot|Pharaoh Ankhtepot]], [[NPCs/General Vladeska Drakov|General Vladeska Drakov]], [[NPCs/Dr. Viktra Mordenheim|Dr. Viktra Mordenheim]], [[NPCs/Duchess Saidra d'Honaire|Duchess Saidra d'Honaire]], [[NPCs/Lady Ivana Boritsi|Lady Ivana Boritsi]], [[NPCs/Ivan Dilisnya|Ivan Dilisnya]], [[NPCs/Chakuna|Chakuna]]
 * **Shadowfell Investigators & Figures**: [[NPCs/Alanik Ray|Alanik Ray]], [[NPCs/Elise, the Living Core|Elise, the Living Core]], [[NPCs/Baba Lysaga|Baba Lysaga]], [[NPCs/Key NPCs - Shadowfell|Key NPCs - Shadowfell]]
+* **Demon Lords of the Abyss**: [[NPCs/Demogorgon, Prince of Demons|Demogorgon, Prince of Demons]], [[NPCs/Orcus, Lord of the Undead|Orcus, Lord of the Undead]], [[NPCs/Graz'zt, Dark Prince of Pleasure|Graz'zt, Dark Prince of Pleasure]], [[NPCs/Lolth, Queen of the Demonweb Pits|Lolth, Queen of the Demonweb Pits]], [[NPCs/Baphomet, the Horned King|Baphomet, the Horned King]], [[NPCs/Key NPCs - The Abyss|Key NPCs - The Abyss]]
 * **Archdevils & Lords of the Nine Hells**: [[NPCs/Asmodeus, Lord of the Ninth|Asmodeus, Lord of the Ninth]], [[NPCs/Zariel, Archduchess of Avernus|Zariel, Archduchess of Avernus]], [[NPCs/Dispater, Iron Duke of Dis|Dispater, Iron Duke of Dis]], [[NPCs/Mephistopheles, Lord of Cania|Mephistopheles, Lord of Cania]], [[NPCs/Belial and Fierna|Belial and Fierna]], [[NPCs/Key NPCs - The Nine Hells|Key NPCs - The Nine Hells]]
 * * **Archfey & Sovereigns of Faerie**: [[NPCs/Queen Titania|Queen Titania]], [[NPCs/King Oberon|King Oberon]], [[NPCs/The Queen of Air and Darkness|The Queen of Air and Darkness]], [[NPCs/Prince Varyl, the Night Stalker|Prince Varyl, the Night Stalker]], [[NPCs/Cernunnos, Master of the Wild Hunt|Cernunnos, Master of the Wild Hunt]], [[NPCs/Key NPCs - Feywild|Key NPCs - Feywild]]
 * **Shard & Planar Commanders**: [[NPCs/Arch-Curator Kaelen|Arch-Curator Kaelen]], [[NPCs/Commander Valen of Accord|Commander Valen of Accord]], [[NPCs/Chainlord Vane Shadow-Drift|Chainlord Vane Shadow-Drift]], [[NPCs/Grand Storm-Marshal Vaelen Gale|Grand Storm-Marshal Vaelen Gale]], [[NPCs/High Druid Lyra Heartbloom|High Druid Lyra Heartbloom]], [[NPCs/High Glutton Malakor|High Glutton Malakor]], [[NPCs/Kallian the Abyssal|Kallian the Abyssal]], [[NPCs/Lord Magistrate Ralvax Firemane|Lord Magistrate Ralvax Firemane]], [[NPCs/Prime Cogwright Torin|Prime Cogwright Torin]], [[NPCs/Shade-Mistress Morwen|Shade-Mistress Morwen]], [[NPCs/Tidecaller Thalassa|Tidecaller Thalassa]], [[NPCs/Warlord Vekthar Flamebound|Warlord Vekthar Flamebound]], [[NPCs/Forgecaller Brann|Forgecaller Brann]], [[NPCs/Forge-Judge Kael|Forge-Judge Kael]], [[NPCs/Matron Varis Gloomweaver|Matron Varis Gloomweaver]]
