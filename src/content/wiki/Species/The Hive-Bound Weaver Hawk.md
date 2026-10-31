@@ -1,6 +1,6 @@
 ---
 title: "The Hive-Bound Weaver Hawk"
-description: "Comprehensive species dossier, planar ecology, full 5e statblock, harvesting component yields, and lodge trophy-crafting for The Hive-Bound Weaver Hawk across the Shattered Loom multiverse."
+description: "Comprehensive species dossier, planar ecology, harvesting component yields, and lodge trophy-crafting for The Hive-Bound Weaver Hawk across the Shattered Loom multiverse."
 category: Species
 tags:
   - species
@@ -9,12 +9,11 @@ tags:
   - hunting
   - harvesting
   - crafting
-  - statblock
 dg-publish: true
 ---
 
 # 🦁 The Hive-Bound Weaver Hawk
-### *Multiversal Species & Planar Apex Predator Dossier (Challenge Rating 9)*
+### *Multiversal Species & Planar Apex Predator Dossier*
 
 > “To fight one is to fight the entire ecosystem. Its mycelial threads connect every root, leaf, and hive in a single sovereign mind.”
 — Arch-Weaver Thelar
@@ -38,25 +37,14 @@ A raptor that hunts in synchronized flocks connected by an empathic psychic netw
 
 ---
 
-## ⚔️ Combat Statistics (D&D 5e)
+## ⚔️ Tactical Overview & Threat Assessment
 
-* **Combat Statistics**:
-  * **Armor Class**: 14 (natural armor)
-  * **Hit Points**: 91 (13d10 + 26)
-  * **Speed**: 40 ft., fly 60 ft.
-  * **Abilities**: STR 16 (+3) | DEX 16 (+3) | CON 14 (+2) | INT 8 (-1) | WIS 14 (+2) | CHA 10 (+0)
-  * **Saving Throws**: Con +6, Wis +6
-  * **Senses**: darkvision 60 ft., passive Perception 16
-  * **Languages**: Understands native planar dialect; telepathy 60 ft. (or unaligned)
-  * **Challenge**: 9 (9,000 XP) | **Proficiency Bonus**: +4
-* **Signature Combat Traits**:
-  * **Planar Apex Resilience**: The Hive-Bound Weaver Hawk has advantage on saving throws against spells and magical effects native to its home plane.
-  * **Predatory Instinct**: Adds its proficiency bonus (+4) to initiative rolls and cannot be surprised while conscious.
-* **Combat Actions & Multiattack**:
-  * **Multiattack**: The Hive-Bound Weaver Hawk makes three attacks: two with its primary natural weapons and one crushing strike.
-  * **Primary Strike**: *Melee Weapon Attack*: +7 to hit, reach 10 ft., one target. *Hit*: 12 (2d10 + 3) slashing/piercing damage plus 7 (2d6) elemental/force damage.
-  * **Crushing Surge (Recharge 5–6)**: The Hive-Bound Weaver Hawk unleashes a planar surge in a 30-foot cone/line. Targets must make a DC 14 Dexterity or Constitution save, taking 31 (9d6) damage on a failed save, or half as much on a success.
+> [!NOTE]
+> **Dungeon Master Directive**: Complete numeric combat statistics, Armor Class, Hit Points, saving throws, and attack modifiers are restricted to the Dungeon Master's Master Bestiary.
 
+* **Combat Overview**: A terrifying planar apex predator known for devastating ambushes, lethal multi-strikes, and environmental manipulation.
+* **Combat Behavior & Tactics**: Engages targets with predatory cunning, leveraging its native planar affinity to resist spells and overwhelm hunters before retreating into the planar terrain.
+* **Hunter's Warning**: Direct confrontation without specialized planar warding and lodge-grade gear is heavily discouraged.
 ---
 
 ## 🔪 Harvesting & Salvage Materials

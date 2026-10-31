@@ -15,17 +15,12 @@ dg-publish: true
 ---
 ---
 
-## Known Abilities & Combat Style
+## Tactical Profile & Combat Demeanor
+
+> [!NOTE]
+> **Dungeon Master Directive**: Complete numeric statistics, Armor Class, Hit Points, spell slots, and action mechanics are restricted to the Dungeon Master's Master Vault.
 
 Selene is a formidable psychic spellcaster and mental warder capable of confounding enemies, pacifying aggression, and retaliating with overwhelming mental force.
-
-* **Dual Mind**: Selene has advantage on all Wisdom saving throws.
-* **Psychic Feedback**: Whenever a creature attempts to read Selene's thoughts or cast an enchantment or illusion spell targeting her, that creature takes significant damage.
-* **Spellcasting**: Selene is an 8th-level spellcaster. Her spellcasting ability is Wisdom (spell save saving throw, +7 to hit with spell attacks). She has the following spells prepared:.
-* **Mind Blast (Recharge 5–6)**: Selene emits psychic energy in a 60-foot cone. Each creature in that area must succeed on a saving throw or take 22 (4d8 + 4) psychic damage and be stunned for 1 minute. A target can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success.
-* **Thought Spear**: *Ranged Spell Attack:* +7 to hit, range 90 ft., one target.
-* **Soothe Memory (3/Day)**: Selene touches a creature. The creature regains 21 (4d8 + 3) hit points and is freed from any active charm, fear, or madness effect.
-* **Thought Shatter**: When an enemy within 30 feet casts a spell, Selene forces the caster to make a saving throw. On failure, the spell fails and the caster takes significant damage.
 
 ---
 

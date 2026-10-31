@@ -20,18 +20,12 @@ The Sealed Eye
 
 ---
 
-## Known Abilities & Combat Style
+## Tactical Profile & Combat Demeanor
+
+> [!NOTE]
+> **Dungeon Master Directive**: Complete numeric statistics, Armor Class, Hit Points, spell slots, and action mechanics are restricted to the Dungeon Master's Master Vault.
 
 Zathara does not fight — she *knows*. Her avatar manifests when a secret must be protected or when a truth threatens to unmake the delicate balance of her archive. In combat, she weaponizes knowledge itself, whispering secrets that shatter minds.
-
-* **Secret Sense**: Zathara automatically knows one secret of every creature within 120 feet that she can see. She can choose to reveal or weaponize any secret she knows as a bonus action (saving throw to avoid being stunned for 1 round upon revelation).
-* **Legendary Resistance (3/Day)**: If Zathara fails a saving throw, she can choose to succeed instead.
-* **Multiattack**: Zathara makes three Shadow Tendril attacks and uses Whispered Secret if available.
-* **Shadow Tendril**: *Melee Spell Attack:* +13 to hit, reach 15 ft. The target must succeed on a saving throw or be paralyzed until the end of their next turn.
-* **Whispered Secret (Recharge 5–6)**: Zathara whispers a creature's deepest secret aloud. The target takes significant damage and is stunned for 1 minute (saving throw for half, not stunned on success).
-* **Veil of Silence (1/Day)**: Zathara creates a 60-foot radius zone of magical silence and darkness. No light or sound can penetrate it. Within the zone, Zathara cannot be targeted by spells that require sight or verbal components.
-* **Shadow Step (1 Action)**: Zathara teleports up to 60 feet to any area of shadow or darkness.
-* **Reveal (2 Actions)**: Zathara targets one creature; all other creatures within 60 feet instantly learn that creature's current intention, emotional state, and one secret (no save).
 
 ---
 

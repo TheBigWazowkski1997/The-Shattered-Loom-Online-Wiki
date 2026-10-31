@@ -19,16 +19,12 @@ The Tidecallers
 
 ---
 
-## Known Abilities & Combat Style
+## Tactical Profile & Combat Demeanor
+
+> [!NOTE]
+> **Dungeon Master Directive**: Complete numeric statistics, Armor Class, Hit Points, spell slots, and action mechanics are restricted to the Dungeon Master's Master Vault.
 
 Nereia prefers not to fight. She is a healer, a preserver, a listener. But when the waters of her plane are threatened — when the Loom's fracturing poisons the deep — she rises as the Depthmother, and the ocean itself becomes her weapon.
-
-* **Fluid Form**: Nereia can move through spaces as small as 1 inch wide. She has resistance to all non-magical weapon damage in water.
-* **Legendary Resistance (3/Day)**: If Nereia fails a saving throw, she can choose to succeed instead.
-* **Multiattack**: Nereia makes three Tidal Surge attacks.
-* **Tidal Surge**: The target must succeed on a saving throw or be pushed 30 feet and knocked prone.
-* **Riptide (Recharge 5–6)**: Nereia summons a massive current in a 60-foot radius. All creatures in the area must succeed on a saving throw or be swept 60 feet in Nereia's chosen direction and be restrained until they escape with a effort (action required).
-* **Abyssal Healing (1/Day)**: Nereia channels the life of the deep. All allied creatures within 120 feet regain 70 hit points, and all disease and poison effects on them end.
 
 ---
 

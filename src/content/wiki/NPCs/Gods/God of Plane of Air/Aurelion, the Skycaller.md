@@ -19,19 +19,12 @@ The Skyborn
 
 ---
 
-## Known Abilities & Combat Style
+## Tactical Profile & Combat Demeanor
+
+> [!NOTE]
+> **Dungeon Master Directive**: Complete numeric statistics, Armor Class, Hit Points, spell slots, and action mechanics are restricted to the Dungeon Master's Master Vault.
 
 Aurelion does not fight for causes — he fights for the aesthetic of the storm. His avatar is a living hurricane, a force of nature that cannot be grappled, restrained, or pinned down. He moves through the battlefield like a force of physics given will.
-
-* **Storm Form**: Aurelion can move through a space as narrow as 1 inch wide without squeezing. Any creature that touches or hits him with a melee attack takes significant damage.
-* **Legendary Resistance (3/Day)**: If Aurelion fails a saving throw, he can choose to succeed instead.
-* **Multiattack**: Aurelion makes two Wind Slam attacks and casts one storm spell.
-* **Wind Slam**: *Melee Spell Attack:* +15 to hit, reach 15 ft., one target. The target is pushed 20 feet in a direction of Aurelion's choice.
-* **Lightning Bolt (Recharge 5–6)**: Aurelion hurls a bolt at a point within 120 feet. Each creature in a 100-foot line, 5 feet wide, must succeed on a saving throw, taking significant damage on a failure, or half on a success.
-* **Cyclone (1/Day)**: Aurelion creates a massive cyclone in a 60-foot radius centered on himself. Each creature in the area must succeed on a saving throw or be hurled 60 feet in a random direction and knocked prone, taking significant damage.
-* **Gust (1 Action)**: One creature within 60 feet must succeed on saving throw or be pushed 30 feet and knocked prone.
-* **Strike (2 Actions)**: Aurelion makes one Lightning Strike attack (+15 to hit, significant damage, range 120 ft.).
-* **Eye of the Storm (3 Actions)**: Aurelion calms a 30-foot sphere around himself. For 1 minute, no wind, weather, or ranged attacks can enter this sphere.
 
 ---
 

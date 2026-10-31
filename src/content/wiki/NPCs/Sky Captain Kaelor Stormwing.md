@@ -16,18 +16,12 @@ dg-publish: true
 ---
 ---
 
-## Known Abilities & Combat Style
+## Tactical Profile & Combat Demeanor
+
+> [!NOTE]
+> **Dungeon Master Directive**: Complete numeric statistics, Armor Class, Hit Points, spell slots, and action mechanics are restricted to the Dungeon Master's Master Vault.
 
 Kaelor is a devastating aerial skirmisher (formidable) who dives at blinding speed, strikes with lightning polearm attacks, and commands aerial squadrons with tactical precision.
-
-* **Dive Attack**: If Kaelor is flying and dives at least 30 feet straight toward a target and then hits it with a melee weapon attack, the attack deals an extra 10 (3d6) damage to the target.
-* **Flyby**: Kaelor doesn’t provoke opportunity attacks when he flies out of an enemy’s reach.
-* **Keen Sight**: Kaelor has advantage on Wisdom (Perception) checks that rely on sight.
-* **Multiattack**: Kaelor makes three melee attacks: two with *Tempest-Fang* (halberd) and one with his Talons.
-* **Tempest-Fang (Halberd)**: one target. If the target is a flying creature, its flying speed is reduced to 0 until the end of its next turn.
-* **Talons**: Notable combat maneuver and signature technique.
-* **Call Lightning Javelin (Recharge 5–6)**: Kaelor hurls a spear of pure concentrated lightning at a point within 90 feet. Each creature within a 10-foot radius must make a saving throw, taking significant damage on a failure, or half on a success.
-* **Parry & Reposition**: Kaelor adds 3 to his AC against one melee attack that would hit him. If the attack misses, he can immediately fly up to 15 feet without provoking opportunity attacks.
 
 ---
 

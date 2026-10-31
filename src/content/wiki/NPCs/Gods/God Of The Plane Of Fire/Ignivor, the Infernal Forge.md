@@ -20,20 +20,12 @@ The Ashforged
 
 ---
 
-## Known Abilities & Combat Style
+## Tactical Profile & Combat Demeanor
+
+> [!NOTE]
+> **Dungeon Master Directive**: Complete numeric statistics, Armor Class, Hit Points, spell slots, and action mechanics are restricted to the Dungeon Master's Master Vault.
 
 Ignivor is volatility given form. His avatar manifests where fire burns hottest and creation is most desperate. In combat, he is an unrelenting offensive force — he does not defend, he overwhelms.
-
-* **Molten Aura (30 ft.)**: Any creature that starts its turn within 30 feet of Ignivor takes significant damage. Melee attackers take significant damage on a successful hit.
-* **Forge Master**: Ignivor can cast *Fabricate*, *Wall of Fire*, and *Heat Metal* at will. He can shape metal and stone as if by *Stone Shape* and *Fabricate* combined, but only while in contact with flame or lava.
-* **Legendary Resistance (3/Day)**: If Ignivor fails a saving throw, he can choose to succeed instead.
-* **Multiattack**: Ignivor makes three Infernal Hammer attacks.
-* **Infernal Hammer**: one target. If the target is an object or structure, it takes double damage.
-* **Eruption (Recharge 5–6)**: Ignivor strikes the ground, causing a volcanic eruption in a 60-foot radius. Each creature in the area must make a saving throw, taking severe damage on a failure, or half on a success. The area becomes difficult terrain as magma cools.
-* **Reforge (1/Day)**: Ignivor targets one metal object or construct within 120 feet. He can reshape it into any other metal object of equal or lesser mass, or repair it to full hit points. If the target is a construct, it regains 100 HP and gains the benefits of *Greater Restoration*.
-* **Hammer Swing (1 Action)**: Ignivor makes one Infernal Hammer attack.
-* **Lava Surge (2 Actions)**: Ignivor spews lava in a 30-foot line. Each creature in the line must succeed on a saving throw or take significant damage and be coated in cooling magma (restrained until effort as an action).
-* **Spark of Creation (3 Actions)**: Ignivor creates a temporary magic item — a weapon or piece of armor of rare quality or lower — that lasts for 1 hour. The item is forged from his own essence and deals an extra 2d6 fire damage.
 
 ---
 

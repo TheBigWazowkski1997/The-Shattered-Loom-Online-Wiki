@@ -15,21 +15,12 @@ dg-publish: true
 ---
 ---
 
-## Known Abilities & Combat Style
+## Tactical Profile & Combat Demeanor
+
+> [!NOTE]
+> **Dungeon Master Directive**: Complete numeric statistics, Armor Class, Hit Points, spell slots, and action mechanics are restricted to the Dungeon Master's Master Vault.
 
 Khanum Zoraya is a Noble Dao warlord (formidable) combining devastating bludgeoning force with petrifying earth magic and spell-like planar abilities.
-
-* **Earth Glide**: Zoraya can burrow through nonmagical, unworked earth and stone without disturbing the material she moves through.
-* **Elemental Demise**: If Zoraya dies, her body disintegrates into crystalline powder, leaving behind only the equipment she was wearing or carrying.
-* **Sure-Footed**: Zoraya has advantage on Strength and Dexterity saving throws made against effects that would knock her prone.
-* **Innate Spellcasting**: Zoraya’s innate spellcasting ability is Charisma (spell save saving throw, +8 to hit with spell attacks). She can innately cast the following spells, requiring no material components:.
-* **At will:**: *Detect Evil and Good*, *Detect Magic*, *Stone Shape*.
-* **3/day each:**: *Passwall*, *Move Earth*, *Tongues*, *Wall of Stone*.
-* **1/day each:**: *Conjure Elemental* (earth elemental only), *Flesh to Stone*, *Gaseous Form*, *Plane Shift*.
-* **Multiattack**: Zoraya makes two attacks with her *Amethyst Maul* or hurls two boulders.
-* **Amethyst Maul**: one target. If the target is a Large or smaller creature, it must succeed on a saving throw or be pushed up to 15 feet away and knocked prone.
-* **Boulder**: *Ranged Weapon Attack:* +10 to hit, range 60/240 ft., one target.
-* **Petrifying Breath (Recharge 5–6)**: Zoraya exhales calcifying dust in a 30-foot cone. Each creature in that area must make a saving throw. On a failure, a creature takes significant damage and begins to turn to stone, restrained. It must repeat the save at the end of its next turn. On a second failure, the creature is petrified.
 
 ---
 

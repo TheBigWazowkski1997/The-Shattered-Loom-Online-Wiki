@@ -20,17 +20,12 @@ dg-publish: true
 
 ---
 
-## Known Abilities & Combat Style
+## Tactical Profile & Combat Demeanor
+
+> [!NOTE]
+> **Dungeon Master Directive**: Complete numeric statistics, Armor Class, Hit Points, spell slots, and action mechanics are restricted to the Dungeon Master's Master Vault.
 
 Aeldris is a swift skirmisher and elusive scout who uses mobility, rapier precision, and psychic resonance. Rather than overpowering foes with brute weight, Aeldris projects an aura of disorienting resonance that forces enemies to hesitate and doubt their own actions.
-
-* **Resonance of Doubt**: Any hostile creature that starts its turn within 15 feet of Aeldris must make a saving throw. On a failure, the creature is stricken by sudden hesitation, suffering disadvantage on attack rolls and ability checks until the start of its next turn.
-* **Flickering Core**: Aeldris can take the Disengage or Dash action as a bonus action on each of their turns. In dim light or darkness, attacks against Aeldris have disadvantage unless the attacker has blindsight or truesight.
-* **Living Construct**: Aeldris has advantage on saving throws against poison and spells, and does not need to eat, sleep, or breathe.
-* **Multiattack**: Aeldris makes two attacks with their *Flickerblade* and uses *Echo Pulse* if available.
-* **Echo Pulse (Recharge 5–6)**: Aeldris taps into their faint, unconventional Soulcore ember, releasing an acoustic-spiritual wave in a 20-foot radius. Each creature in that area must make a saving throw. On a failure, a creature takes significant damage and cannot take reactions until the end of its next turn. On a success, it takes half damage and retains reactions.
-* **Empathetic Respite (1/Day)**: Aeldris touches a creature. The target regains 20 (4d8 + 2) hit points and is freed from any effect that caused it to be charmed or frightened.
-* **Slip the Blow**: When hit by a melee weapon attack, Aeldris can roll 1d8 and add it to their AC against the triggering attack. If the attack still hits, Aeldris can immediately move up to 10 feet without provoking opportunity attacks.
 
 ---
 

@@ -1,6 +1,6 @@
 ---
 title: "Grand Inquisitor Sylas the Blind"
-description: "Dramatis Personae profile and CR 16 statblock for Grand Inquisitor Sylas the Blind, supreme commander of the Order of the Severed Eye."
+description: "Dramatis Personae profile and lore profile for Grand Inquisitor Sylas the Blind, supreme commander of the Order of the Severed Eye."
 category: NPCs
 tags:
   - npc
@@ -38,46 +38,12 @@ Sylas wears high-collared monastic vestments of bleached linen embroidered with 
 
 ---
 
-## ⚔️ Combat Profile & Statblock
+## Tactical Profile & Combat Demeanor
 
-```
-Grand Inquisitor Sylas the Blind
-Medium Humanoid (Kalashtar), Lawful Neutral
-Armor Class: 19 (Monastic Defense + Psionic Barrier)
-Hit Points: 210 (20d8 + 120)
-Speed: 45 ft.
-```
+> [!NOTE]
+> **Dungeon Master Directive**: Complete numeric statistics, Armor Class, Hit Points, spell slots, and action mechanics are restricted to the Dungeon Master's Master Vault.
 
-| STR | DEX | CON | INT | WIS | CHA |
-|:---:|:---:|:---:|:---:|:---:|:---:|
-| 14 (+2) | 22 (+6) | 22 (+6) | 18 (+4) | 24 (+7) | 18 (+4) |
-
-* **Saving Throws**: Dex +11, Con +11, Wis +12, Cha +9
-* **Skills**: Insight +17, Perception +17, Arcana +14, Religion +12, Stealth +11
-* **Damage Resistances**: Psychic, Force, Radiant
-* **Condition Immunities**: Blinded, Charmed, Frightened, Stunned
-* **Senses**: Blindsight 120 ft., Truesight 60 ft., Passive Perception 27
-* **Languages**: Common, Deep Speech, Telepathy 120 ft.
-* **Challenge**: 16 (15,000 XP) | **Proficiency Bonus**: +5
-
-### Traits
-
-* **Eldritch Mind-Shield**: Sylas is immune to madness, Dream-Fracture Lucidity drain, and any effect that would read his thoughts or sense his emotions.
-* **Sever the Un-Woven**: Sylas's weapon attacks deal an extra 3d6 psychic or force damage against aberrations, fiends, and undead.
-* **Legendary Resistance (3/Day)**: If Sylas fails a saving throw, he can choose to succeed instead.
-
-### Actions
-
-* **Multiattack**: Sylas makes three attacks with **Severance** (Estoc) and uses *Psionic Purge*.
-* **Severance (Estoc +3)**: *Melee Weapon Attack*: +14 to hit, reach 5 ft., one target. *Hit*: 14 (1d8 + 10) piercing damage plus 14 (4d6) psychic damage. Target must succeed on a DC 20 Wisdom save or be unable to cast spells or use psionics until the end of its next turn.
-* **Psionic Purge (Recharge 5–6)**: Sylas releases a concentrated pulse of pure anti-aberrant mental energy in a 60-foot cone. Each creature in that area must make a DC 20 Intelligence saving throw. On a failure, a creature takes 55 (10d10) force damage, is stunned for 1 minute, and has all active illusions or mind-control effects dispelled. On a success, takes half damage.
-* **Suture the Veil (Bonus Action)**: Sylas teleports up to 40 feet to an unoccupied space he can sense, leaving behind a glowing silver glyph that deals 3d8 force damage to any hostile creature that enters it.
-
-### Legendary Actions (3 Actions/Round)
-
-* **Sense the Fracture**: Sylas makes a Wisdom (Insight) check with advantage or senses all aberrations within 300 feet.
-* **Blade Flash**: Sylas makes one attack with Severance.
-* **Exorcise the Dream (Costs 2 Actions)**: Sylas touches one ally within reach, instantly curing one mental condition, charm, fright, or restoring 20 Lucidity.
+Grand Inquisitor Sylas is a terrifying ascendant monk and psionic interrogator who perceives reality through vibrations in the cosmic weave, striking with psychic palm strikes that shatter thought and sever spellcasting concentration.
 
 ---
 

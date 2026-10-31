@@ -15,25 +15,12 @@ dg-publish: true
 ---
 ---
 
-## Known Abilities & Combat Style
+## Tactical Profile & Combat Demeanor
+
+> [!NOTE]
+> **Dungeon Master Directive**: Complete numeric statistics, Armor Class, Hit Points, spell slots, and action mechanics are restricted to the Dungeon Master's Master Vault.
 
 High Priestess Nylaris is a 12th-level divine spellcaster who commands oceanic fury, healing waters, and abjuration shields to safeguard her allies.
-
-* **Amphibious**: Nylaris can breathe air and water.
-* **Water Bond**: While fully submerged in water, Nylaris regains 5 hit points at the start of each of her turns if she has at least 1 hit point.
-* **Divine Ward**: Nylaris has advantage on saving throws against spells and magical effects.
-* **Multiattack**: Nylaris makes two attacks with her *Staff of the Deep Spring* or casts a spell and makes one melee attack.
-* **Staff of the Deep Spring**: Notable combat maneuver and signature technique.
-* **Radiant Wave (Recharge 5–6)**: Nylaris sends forth a tidal crest of glowing holy water in a 30-foot line that is 10 feet wide. Each hostile creature in that line must make a saving throw, taking significant damage on a failure, or half as much on a success. Friendly creatures in the area are healed for 14 (4d6) hit points.
-* **Spellcasting**: Nylaris is a 12th-level spellcaster. Her spellcasting ability is Wisdom (spell save saving throw, +8 to hit with spell attacks). She has the following cleric spells prepared:.
-* **Cantrips (at will):**: *Guidance*, *Light*, *Sacred Flame*, *Thaumaturgy*, *Spare the Dying*.
-* **1st level (4 slots):**: *Bless*, *Cure Wounds*, *Sanctuary*, *Create or Destroy Water*.
-* **2nd level (3 slots):**: *Hold Person*, *Lesser Restoration*, *Spiritual Weapon*, *Prayer of Healing*.
-* **3rd level (3 slots):**: *Dispel Magic*, *Mass Healing Word*, *Water Walk*, *Tidal Wave*.
-* **4th level (3 slots):**: *Control Water*, *Death Ward*, *Divination*.
-* **5th level (2 slots):**: *Greater Restoration*, *Mass Cure Wounds*.
-* **6th level (1 slot):**: *Heal*, *Heroes' Feast*.
-* **Tide-Shield**: When a creature within 30 feet of Nylaris takes damage, Nylaris can conjure a barrier of swirling water, reducing the damage by 15 (2d10 + 4).
 
 ---
 

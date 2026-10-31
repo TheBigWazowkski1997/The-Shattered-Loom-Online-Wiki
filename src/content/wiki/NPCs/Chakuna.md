@@ -18,21 +18,12 @@ dg-publish: true
 
 ---
 
-## Known Abilities & Combat Style
+## Tactical Profile & Combat Demeanor
+
+> [!NOTE]
+> **Dungeon Master Directive**: Complete numeric statistics, Armor Class, Hit Points, spell slots, and action mechanics are restricted to the Dungeon Master's Master Vault.
 
 Chakuna is a master ambush predator who uses the jungle canopy, rain squalls, and deep shadows to stalk her prey. She uses traps, poisoned blowguns, and pouncing strikes that snap spines in seconds, never engaging head-on if an ambush or guerrilla hit-and-run tactic is available.
-* **Damage Immunities**: Bludgeoning, Piercing, and Slashing from Nonmagical Attacks that aren't Silvered.
-* **Condition Immunities**: Charmed, Frightened.
-* **Senses**: Darkvision 120 ft., Passive Perception 17.
-* **Languages**: Common, Sylvan.
-* **Shapechanger**: Chakuna can use her action to polymorph into a tiger-humanoid hybrid or into a Large tiger, or back into her true human form.
-* **Pounce (Hybrid or Tiger Form Only)**: If Chakuna moves at least 20 feet straight toward a creature and then hits it with a claw attack on the same turn, that target must succeed on a saving throw or be knocked prone. If the target is prone, Chakuna can make one bite attack against it as a bonus action.
-* **Keen Smell**: Chakuna has advantage on Wisdom (Perception) checks that rely on smell.
-* **Multiattack (Humanoid or Hybrid Form)**: Chakuna makes three attacks: two with her Claws (or Obsidian Spear) and one with her Bite.
-* **Bite (Hybrid or Tiger Form Only)**: *Melee Weapon Attack*: expert accuracy, reach 5 ft., one target. piercing damage. If the target is a humanoid, it must succeed on a saving throw or be cursed with weretiger lycanthropy.
-* **Claw (Hybrid or Tiger Form Only)**: *Melee Weapon Attack*: expert accuracy, reach 5 ft., one target. slashing damage.
-* **Obsidian Spear**: *Melee or Ranged Weapon Attack*: expert accuracy, reach 5 ft. or range 20/60 ft., one target. piercing damage plus significant damage.
-* **Call of the Blood Moon (1/Day)**: Chakuna unleashes a blood-curdling roar. 2d4 dire wolves, jungle panthers, or weretigers arrive in 1d4 rounds to aid her.
 
 ---
 

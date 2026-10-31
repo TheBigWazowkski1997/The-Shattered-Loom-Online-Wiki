@@ -22,33 +22,12 @@ dg-publish: true
 
 ---
 
-## Known Abilities & Combat Style
+## Tactical Profile & Combat Demeanor
+
+> [!NOTE]
+> **Dungeon Master Directive**: Complete numeric statistics, Armor Class, Hit Points, spell slots, and action mechanics are restricted to the Dungeon Master's Master Vault.
 
 Tasha is a formidable archwitch-tier threat whose power comes from **reality hacking**—she doesn't cast spells so much as *edit the local variables of existence*. In her chamber, the "Void of No-Variables," she is powerless... unless someone brings a variable *in*. **Proficiency Bonus** +8 ***Legendary Resistance (4/Day).*** If Tasha fails a saving throw, she can choose to succeed instead. ***Magic Resistance.*** Tasha has advantage on saving throws against spells and other magical effects. ***Dream-Loom Connection.*** Tasha's magic draws from the **Great Dreamer's logic** rather than the Weave. She can cast spells in antimagic fields, dead magic zones, and the Null-Thread Field of the 32 Chambers—*but only if she can introduce a "variable" (see Void of No-Variables)*. Her spells have no verbal/somatic components; they are "edits" to reality's code. ***Null-Thread Adaptation (Partial).*** Within the 32 Chambers, Tasha's magic is *suppressed* by the Void of No-Variables. She cannot cast spells or use magical abilities unless she or an ally introduces a "variable" (a strong emotion, a chaotic act, a dream, a lie spoken aloud, a memory relived). Each variable introduced restores her spellcasting for 1 round. ***Innate Spellcasting (Psionics/Dream-Logic).*** Tasha's spellcasting ability is Charisma (spell save saving throw, +18 to hit with spell attacks). She can innately cast the following spells, requiring no components (but requiring a "variable" in the 32 Chambers):
-
-* **At will:**: *detect magic, disguise self, mage hand, minor illusion, thaumaturgy, vicious mockery*.
-* **3/day each:**: *alter self, charm person, detect thoughts, dream, faerie fire, hideous laughter, sleep, suggestion*.
-* **1/day each:**: *confusion, dominate person, modify memory, nightmare, scrying, seeming, synapse static (homebrew), weird*.
-* **Cantrips (at will):**: *booming blade, chill touch, eldritch blast, green-flame blade, mage hand, message, minor illusion, poison spray, prestidigitation, ray of frost, shocking grasp, spare the dying, thunderclap, toll the dead*.
-* **1st level (4 slots):**: *arms of Hadar, bane, charm person, command, dissonant whispers, expedite retreat, false life, feather fall, find familiar, hex, hideous laughter, illusionary script, protection from evil and good, sleep, Tasha's caustic brew, Tasha's hideous laughter*.
-* **2nd level (3 slots):**: *blindness/deafness, cloud of daggers, crown of madness, detect thoughts, enlarge/reduce, hold person, invisibility, knock, mind spike, misty step, phantasmal force, ray of enfeeblement, shadow blade, shatter, suggestion, web*.
-* **3rd level (3 slots):**: *bestow curse, counterspell, dispel magic, fear, feign death, fly, gaseous form, hypnotic pattern, hunger of Hadar, major image, nondetection, phantom steed, sending, slow, vampiric touch*.
-* **4th level (3 slots):**: *banishment, blight, confusion, dimension door, dominate beast, Evard's black tentacles, greater invisibility, hallucinatory terrain, Mordenkainen's private sanctum, phantasmal killer, polymorph*.
-* **5th level (3 slots):**: *animate objects, Bigby's hand, cone of cold, creation, dominate person, dream, geas, hold monster, mislead, modify memory, planar binding, scrying, seeming, synapse static, telekinesis, wall of force*.
-* **6th level (2 slots):**: *circle of death, create homunculus, disintegrate, eyebite, feeblemind, globe of invulnerability, mass suggestion, move earth, Otiluke's freezing sphere, true seeing*.
-* **7th level (2 slots):**: *crown of stars, etherealness, finger of death, forcecage, mirage arcane, plane shift, power word pain, reverse gravity, symbol*.
-* **8th level (1 slot):**: *antimagic field, dominate monster, feeblemind, mind blank, power word stun, demiplane*.
-* **9th level (1 slot):**: *foresight, gate, imprismment, power word kill, true polymorph, wish*.
-* **Gravity Reversal:**: Gravity points in a direction Tasha chooses.
-* **Time Dilation:**: Creatures of Tasha's choice act at half or double speed (alternating initiative counts).
-* **Damage Transmutation:**: All damage of one type becomes another type (e.g., fire → psychic).
-* **Narrative Causality:**: Creatures that speak a lie take 14 (4d6) psychic; creatures that speak a truth gain 14 temp HP.
-* **Dream Logic:**: Creatures can move through solid objects (difficult terrain), but take 10 (3d6) force if they end turn inside an object.
-* **Cantrip**: Tasha casts a cantrip.
-* **Dream-Stitch**: Tasha makes one Dream-Stitch attack.
-* **Cackling Escape (Costs 2 Actions)**: Tasha uses Cackling Escape.
-* **Minor Rewrite (Costs 2 Actions)**: Tasha uses *Rewriting the Weave* on a 10-foot cube (no Concentration, lasts 1 round).
-* **Demonomicon's Gift (Costs 3 Actions)**: Tasha targets one willing or restrained creature. The target gains a **Warlock Patron Boon** (Pact of the Tome/Chain/Blade/Star, 1st-level feature) but gains a level of exhaustion and a permanent **Demonic Corruption**. Tasha can revoke the boon at any time (no action).
 
 ---
 

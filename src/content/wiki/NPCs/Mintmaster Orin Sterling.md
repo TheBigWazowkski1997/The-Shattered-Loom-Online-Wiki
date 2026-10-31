@@ -15,18 +15,12 @@ dg-publish: true
 ---
 ---
 
-## Known Abilities & Combat Style
+## Tactical Profile & Combat Demeanor
+
+> [!NOTE]
+> **Dungeon Master Directive**: Complete numeric statistics, Armor Class, Hit Points, spell slots, and action mechanics are restricted to the Dungeon Master's Master Vault.
 
 Orin is a formidable combatant who excels in subterranean defense and anti-spectral warfare, wielding pure alchemical silver against undead and planar thieves.
-
-* **Dwarven Resilience**: Orin has advantage on saving throws against poison, and resistance against poison damage.
-* **Ghost-Bane Master**: Orin's weapon attacks are considered magical and silvered, and ignore an incorporeal creature's damage resistances.
-* **Anchor of the Vault**: Orin has advantage on ability checks and saving throws against being knocked prone, shoved, or moved against his will.
-* **Multiattack**: Orin makes three melee attacks with *Silver-Sunder* or two ranged attacks with his *Alchemical Silver Sprayer*.
-* **Silver-Sunder (Warhammer)**: one target. If the target is undead or an incorporeal creature, it takes an extra significant damage.
-* **Alchemical Silver Sprayer**: *Ranged Weapon Attack:* +7 to hit, range 30 ft. line, 5 ft. wide. Each creature in the line must make a saving throw, taking 18 (4d8) acid and radiant damage on a failed save, or half as much on a successful one. Incorporeal creatures make this save with disadvantage.
-* **Quench Blast (Recharge 5–6)**: Orin vents pressurized superheated silver steam in a 15-foot cone. Each creature in that area must make a saving throw or take significant damage and be blinded until the end of its next turn.
-* **Vault Clamp**: Orin slams his magnetic boots into the stone, granting himself advantage on all Strength saving throws and +2 to AC until the start of his next turn.
 
 ---
 

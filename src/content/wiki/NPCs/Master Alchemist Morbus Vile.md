@@ -15,17 +15,12 @@ dg-publish: true
 ---
 ---
 
-## Known Abilities & Combat Style
+## Tactical Profile & Combat Demeanor
+
+> [!NOTE]
+> **Dungeon Master Directive**: Complete numeric statistics, Armor Class, Hit Points, spell slots, and action mechanics are restricted to the Dungeon Master's Master Vault.
 
 Morbus is a formidable alchemical spellcaster who manipulates acids, digestive enzymes, and necrotic life-siphoning fields.
-
-* **Alchemical Infusions**: Morbus's spell attacks deal an extra 7 (2d6) acid or necrotic damage (included in the attacks).
-* **Internal Catalyst**: When Morbus takes damage from an attack, his torso apparatus flashes; he can use his reaction to gain 15 temporary hit points and spray caustic digestive vapor in a 10-foot sphere around him (saving throw or take significant damage).
-* **Spellcasting**: Morbus is a 9th-level spellcaster. His spellcasting ability is Intelligence (spell save saving throw, +9 to hit with spell attacks). He has the following wizard spells prepared:.
-* **Multiattack**: Morbus makes two attacks with his *Vitriolic Cane* or casts a spell and makes one attack.
-* **Vitriolic Cane**: Notable combat maneuver and signature technique.
-* **Hunger Syringe**: *Melee Spell Attack:* +9 to hit, reach 5 ft., one creature. The target must succeed on a saving throw or gain 1 level of exhaustion.
-* **Alchemical Bomb (3/Day)**: Morbus throws an unstable flask of concentrated digestive acid up to 40 feet. It explodes in a 15-foot radius. Each creature in that area must make a saving throw, taking significant damage on a failed save, or half as much on a successful one.
 
 ---
 

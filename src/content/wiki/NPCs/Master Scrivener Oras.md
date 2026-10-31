@@ -15,16 +15,12 @@ dg-publish: true
 ---
 ---
 
-## Known Abilities & Combat Style
+## Tactical Profile & Combat Demeanor
+
+> [!NOTE]
+> **Dungeon Master Directive**: Complete numeric statistics, Armor Class, Hit Points, spell slots, and action mechanics are restricted to the Dungeon Master's Master Vault.
 
 Oras is a formidable defensive spellcaster who specializes in abjuration, illusion, and silence-inducing psychic wards. |8 (-1)|14 (+2)|12 (+1)|20 (+5)|16 (+3)|14 (+2)|
-
-* **Vow of Silence**: Oras cannot speak. He ignores verbal components for all spells he casts.
-* **Mnemonic Ward**: Oras's thoughts cannot be read by telepathy or magic unless he allows it. Creatures attempting to scry on him or his archives automatically fail.
-* **Spellcasting**: Oras is an 8th-level spellcaster. His spellcasting ability is Intelligence (spell save saving throw, +8 to hit with spell attacks). He has the following wizard spells prepared:.
-* **Silver Script Strike**: *Ranged Spell Attack:* +8 to hit, range 60 ft., one target. If the target is a creature, it is blinded by glowing spectral letters until the start of Oras's next turn.
-* **Seal of Silence (Recharge 5–6)**: Oras traces a radiant glyph in the air. A 20-foot radius sphere centered on a point within 60 feet is silenced and engulfed in psychic static for 1 minute. Creatures inside cannot speak or cast spells with verbal components, and take significant damage when entering the area or starting their turn there.
-* **Cipher Redirection**: When a spell attack targets Oras, he can force the attacker to make a saving throw. On a failed save, the spell is redirected to another valid target of Oras's choice within 30 feet.
 
 ---
 

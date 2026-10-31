@@ -13,18 +13,12 @@ dg-publish: true
 * **Personality**: Cautious, ruthless, and opportunistic. Kallian regards the surface worlds and celestial planes as naive, fragile toys that inevitably sink into his domain. He respects only leverage, secrets, and raw survival instinct.
 
 ---
-## Known Abilities & Combat Style
+## Tactical Profile & Combat Demeanor
+
+> [!NOTE]
+> **Dungeon Master Directive**: Complete numeric statistics, Armor Class, Hit Points, spell slots, and action mechanics are restricted to the Dungeon Master's Master Vault.
 
 Kallian is a formidable deep-sea skirmisher who weaponizes the crushing pressure of the deep, bioluminescent blind-bursts, and tactical harpoon pulls.
-
-* **Amphibious**: Kallian can breathe air and water.
-* **Abyssal Hunter**: Kallian does not suffer disadvantage on attack rolls with weapons while underwater, and can see through magical darkness out to 60 feet.
-* **Innate Spellcasting**: Kallian’s spellcasting ability is Charisma (spell save saving throw). He can cast the following spells without material components:.
-* **Multiattack**: Kallian makes three attacks with *Drowned-Bite* or two ranged harpoon throws.
-* **Drowned-Bite**: one target. If the target is a Medium or smaller creature, it is impaled and grappled (strength check to escape). While grappled, the target takes significant damage at the start of each of its turns.
-* **Abyssal Harpoon Throw**: *Ranged Weapon Attack:* +7 to hit, range 30/90 ft., one target.
-* **Bioluminescent Flare (Recharge 5–6)**: Kallian discharges a blinding burst of light from his crest. Each creature within 15 feet of him must succeed on a saving throw or be blinded for 1 minute. A blinded creature can repeat the saving throw at the end of each of its turns, ending the effect on a success.
-* **Ink-Slip**: When hit by a melee attack, Kallian emits a 10-foot cloud of black ink and swims up to 20 feet away without provoking opportunity attacks.
 
 ---
 

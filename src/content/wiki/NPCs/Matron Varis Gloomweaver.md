@@ -19,20 +19,12 @@ dg-publish: true
 
 ---
 
-## Known Abilities & Combat Style
+## Tactical Profile & Combat Demeanor
+
+> [!NOTE]
+> **Dungeon Master Directive**: Complete numeric statistics, Armor Class, Hit Points, spell slots, and action mechanics are restricted to the Dungeon Master's Master Vault.
 
 Matron Varis is a deadly gloom-arcanist and skirmisher who slips through shadow as easily as air. She uses necrotic spells, memory-severing daggers, and teleportation to flank foes, plucking the memories of spells and abilities straight from their minds in mid-combat.
-* **Damage Resistances**: Necrotic.
-* **Condition Immunities**: Charmed, Frightened.
-* **Senses**: Darkvision 120 ft., Passive Perception 18.
-* **Languages**: Common, Elvish, Sylvan, Undercommon.
-* **Blessing of the Raven Queen (3/Day)**: As a bonus action, Varis magically teleports up to 30 feet to an unoccupied space she can see. Along with the teleportation, she gains resistance to all damage until the start of her next turn. During this time, she appears ghostly and translucent.
-* **Fey Ancestry**: Varis has advantage on saving throws against being charmed, and magic can't put her to sleep.
-* **Memory Shield**: When Varis is targeted by a spell attack or forced to make an Intelligence, Wisdom, or Charisma save, she can project a memory phantom to impose disadvantage on the attack or grant herself advantage on the save.
-* **Multiattack**: Varis makes three attacks with her Spindle Blade or casts a spell and makes one attack.
-* **Silver Spindle Blade**: *Melee Weapon Attack*: expert accuracy, reach 5 ft., one target. piercing damage plus significant damage. If the target is a spellcaster, it must succeed on a saving throw or lose one unexpended spell slot of its lowest available level.
-* **Siphon Memory (Recharge 5–6)**: Varis targets one creature she can see within 30 feet. The target must make a saving throw. On a failure, the creature takes significant damage and forgets one critical memory, tactical training, or spell for 1 minute (cannot cast that spell or use a designated feature). On a success, the target takes half damage and suffers no memory loss.
-* **Gloom Eruption (1/Day)**: Varis summons a whirlwind of shadow and spectral raven wings in a 20-foot radius centered on herself. Each enemy in that area must make a saving throw, taking significant damage on a failed save and becoming blinded for 1 minute, or half as much on a successful save.
 
 ---
 

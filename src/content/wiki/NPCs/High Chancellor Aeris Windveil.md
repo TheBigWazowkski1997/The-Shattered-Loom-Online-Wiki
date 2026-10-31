@@ -15,26 +15,12 @@ dg-publish: true
 ---
 ---
 
-## Known Abilities & Combat Style
+## Tactical Profile & Combat Demeanor
+
+> [!NOTE]
+> **Dungeon Master Directive**: Complete numeric statistics, Armor Class, Hit Points, spell slots, and action mechanics are restricted to the Dungeon Master's Master Vault.
 
 Aeris is a 13th-level aeromantic sorcerer/evoker (formidable) who manipulates wind currents to evade attacks, deflect projectiles, and displace enemies with sonic concussions.
-
-* **Unending Breath**: Aeris can hold her breath indefinitely while she's not incapacitated.
-* **Wind Shroud**: Ranged weapon attacks against Aeris have disadvantage as howling updrafts deflect incoming projectiles.
-* **Innate Spellcasting**: Aeris can innately cast *Levitate* at will and *Feather Fall* at will without components.
-* **Staff of the Zephyr**: Notable combat maneuver and signature technique.
-* **Gale Bolt (Cantrip)**: *Ranged Spell Attack:* +9 to hit, range 120 ft., one target.
-* **Sirocco Blast (Recharge 5–6)**: Aeris releases a 60-foot cone of hurricane-force wind and lightning. Each creature in that area must make a saving throw. On a failure, a creature takes 36 (8d8) lightning and thunder damage and is hurled 20 feet backward and knocked prone. On a success, the creature takes half damage and is not pushed or knocked prone.
-* **Spellcasting**: Aeris is a 13th-level spellcaster. Her spellcasting ability is Charisma (spell save saving throw, +9 to hit with spell attacks). She has the following spells prepared:.
-* **Cantrips (at will):**: *Gust*, *Shocking Grasp*, *Message*, *Mage Hand*, *Thunderclap*.
-* **1st level (4 slots):**: *Shield*, *Thunderwave*, *Absorb Elements*, *Detect Magic*.
-* **2nd level (3 slots):**: *Misty Step*, *Gust of Wind*, *Mirror Image*.
-* **3rd level (3 slots):**: *Counterspell*, *Lightning Bolt*, *Wind Wall*, *Fly*.
-* **4th level (3 slots):**: *Storm Sphere*, *Dimension Door*.
-* **5th level (2 slots):**: *Control Winds*, *Cone of Cold*.
-* **6th level (1 slot):**: *Chain Lightning*, *Investiture of Wind*.
-* **7th level (1 slot):**: *Whirlwind*.
-* **Buffet**: When hit by a melee attack, Aeris can unleash a sudden pressurized shockwave. The attacker must make a saving throw or be pushed 10 feet away.
 
 ---
 

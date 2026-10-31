@@ -15,18 +15,12 @@ dg-publish: true
 ---
 ---
 
-## Known Abilities & Combat Style
+## Tactical Profile & Combat Demeanor
+
+> [!NOTE]
+> **Dungeon Master Directive**: Complete numeric statistics, Armor Class, Hit Points, spell slots, and action mechanics are restricted to the Dungeon Master's Master Vault.
 
 Grash is a formidable frontline juggernaut who combines crushing bludgeoning damage from his mechanical claw with corrosive emerald acid bursts and relentless half-orc endurance.
-
-* **Relentless Endurance (1/Long Rest)**: When Grash is reduced to 0 hit points but not killed outright, he drops to 1 hit point instead.
-* **Savage Attacks**: When Grash scores a critical hit with a melee weapon attack, he can roll one of the weapon's damage dice one additional time and add it to the extra damage.
-* **Core-Vented Fury**: Grash's weapon attacks deal an extra significant damage (included in attacks).
-* **Multiattack**: Grash makes three melee attacks: two with his *Drake-Bone Cleaver* and one with his *Hydraulic Emerald Claw*.
-* **Drake-Bone Cleaver (Greataxe)**: Strikes with devastating cleaving attacks using masterwork runic weaponry.
-* **Hydraulic Emerald Claw**: one target. If the target is a Medium or smaller creature, it is grappled (strength check to escape). Until this grapple ends, the target is restrained and takes significant damage at the start of each of Grash's turns.
-* **Core-Flame Discharge (Recharge 5–6)**: Grash opens the exhaust vents on his mechanical arm, spraying superheated corrosive gas in a 20-foot cone. Each creature in that area must make a saving throw, taking 28 (8d6) acid and fire damage on a failed save, or half as much on a successful one.
-* **Hydraulic Crush**: Grash tightens his mechanical claw around a creature he is grappling, dealing 14 (2d8 + 5) bludgeoning damage.
 
 ---
 

@@ -19,18 +19,12 @@ The Gilded Hands
 
 ---
 
-## Known Abilities & Combat Style
+## Tactical Profile & Combat Demeanor
+
+> [!NOTE]
+> **Dungeon Master Directive**: Complete numeric statistics, Armor Class, Hit Points, spell slots, and action mechanics are restricted to the Dungeon Master's Master Vault.
 
 Grelthor is the ultimate merchant — even in combat, he calculates the value of every action. His avatar is a dragon of living treasure, breathing molten gold and dealing in souls. He prefers to negotiate, but when forced to fight, he buys victory with overwhelming force.
-
-* **Price of Everything**: At the start of combat, Grelthor identifies the single thing each creature values most (automatically, no roll). He can use this knowledge as a bonus action to impose disadvantage on that creature's attack rolls for 1 round as he threatens what they value.
-* **Legendary Resistance (3/Day)**: If Grelthor fails a saving throw, he can choose to succeed instead.
-* **Multiattack**: Grelthor makes two Claw attacks and one Bite attack.
-* **Claw**: Notable combat maneuver and signature technique.
-* **Bite**: Notable combat maneuver and signature technique.
-* **Gold Breath (Recharge 5–6)**: Grelthor breathes a torrent of molten gold in a 60-foot cone. Each creature must succeed on a saving throw, taking significant damage on a failure, or half on a success. On a failure, the creature is also encased in rapidly cooling gold — restrained until a effort (action) breaks free.
-* **Appraise (1 Action)**: Grelthor names a price for one creature's soul. The creature must make a saving throw or be charmed for 1 minute, unable to attack Grelthor.
-* **Coin Storm (2 Actions)**: Grelthor flings golden coins in a 30-foot radius. Each creature must succeed on saving throw or take significant damage.
 
 ---
 

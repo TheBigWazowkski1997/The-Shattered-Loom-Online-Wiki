@@ -13,7 +13,7 @@ dg-publish: true
 * **Personality**: Implacably calm, dryly witty, and *absolutely* neutral. Stitch does not gossip—they *curate*. They never forget a face, a name, a drink preference, or a **debt**. They speak in a resonant, layered voice (like six voices in perfect harmony) and communicate equally well with celestials, fiends, mortals, and Riftborn. They enforce the Frayed End's neutrality with quiet, overwhelming force. Their humor is bone-dry: *"Your tab is older than the Shattering. Pay up, or I'll tell the Threadbearers you're fraying the carpet."*
 
 ---
-## Planar Cocktails (Bonus Action to Prepare)
+## Planar Cocktails & Signature Drinks
 
 | Name | Effect (1 hour, Concentration) |
 |------|--------------------------------|
@@ -37,21 +37,12 @@ dg-publish: true
 
 ---
 
-## Known Abilities & Combat Style
+## Tactical Profile & Combat Demeanor
+
+> [!NOTE]
+> **Dungeon Master Directive**: Complete numeric statistics, Armor Class, Hit Points, spell slots, and action mechanics are restricted to the Dungeon Master's Master Vault.
 
 Stitch is a formidable **guardian of neutral ground**. They do not start fights—they *end* them. In the Frayed End, they have **lair actions** and the full weight of the Nexus's subjective gravity. Outside, they are a formidable construct with planar resistances, multi-limb action economy, and the ability to "tab" enemies (marking them for planar banishment). They protect the tavern, the patrons, and the **Unbound Board**. **Proficiency Bonus** +4 ***Construct Nature.*** Stitch doesn't require air, food, drink, or sleep. They are immune to effects that would age them. ***Planar Amalgam.*** Stitch's body incorporates essence from the Major Planes. They have advantage on saving throws against planar hazards (wild magic, entropy, elemental extremes). They can attune to up to **six** magic items (one per limb pair). ***Six-Limbed Action Economy.*** Stitch can take **two bonus actions** on each of their turns (using different limb pairs). They can also take **two reactions** per round (one per middle/upper limb pair), but only one per trigger. ***The Tab (Curse of Obligation).*** Any creature that receives goods, services, or credit at the Frayed End without immediate payment gains **The Tab** (saving throw Wisdom save to resist, voluntary failure accepted). While Tabbed: *   Stitch knows the creature's location (any plane). *   The creature has disadvantage on Charisma checks against Stitch and Frayed End staff. *   Stitch can use a bonus action to **Call the Tab**: the creature takes 14 (4d6) psychic and must use its reaction (if available) to move 30 ft. toward the Frayed End (or nearest portal to the Nexus). *   *Remove Curse*, *Greater Restoration*, or *paying the debt in full* removes The Tab. ***Neutral Ground (Lair Trait).*** While in the Frayed End, Stitch can use a lair action on initiative count 20 (losing ties). They cannot use the same effect two rounds in a row:
-
-* **Gravity Lock:**: All creatures in the tavern are pinned to the floor (Strength saving throw to move). Lasts 1 round.
-* **Silence the Dispute:**: *Antimagic field* (30-ft radius, centered on Stitch) for 1 round. Spells end, magic items suppress.
-* **Thread-Cut:**: One portal/door in the tavern seals shut (saving throw to force open) for 1 round.
-* **The House Collects:**: All Tabbed creatures in the tavern take 10 (3d6) psychic and are pulled 15 ft. toward Stitch.
-* **At will:**: *detect magic, detect thoughts (Tabbed only), mage hand (6 hands), message, zone of truth*.
-* **3/day each:**: *calm emotions, compulsion (Tabbed only), dimension door, locate creature, sending, tongues*.
-* **1/day each:**: *banishment, plane shift (Tabbed only), true seeing, wall of force*.
-* **Pour**: Stitch uses *Planar Pour*.
-* **Collect**: Stitch uses *Collect Tab*.
-* **Seal the Door (Costs 2 Actions)**: One exit seals (as *arcane lock*, saving throw) for 1 minute.
-* **Last Call (Costs 3 Actions)**: All Tabbed creatures in the Nexus take 21 (6d6) psychic and are *plane shifted* to the Frayed End (arrive prone). Usable 1/day.
 
 ---
 
@@ -87,11 +78,6 @@ Stitch trades in **secrets, portal keys, planar coordinates, and debts**. Prices
 
 ### **Stitch's Origin (Secret Lore)**
 Stitch was **forged by the Loomwarden** during the early Shattering to maintain a neutral meeting ground. Their six arms correspond to the **six Prime Planes** (Material, Feywild, Shadowfell, Elemental, Astral, Far Realm). Their Clear-Stone face is a *window* into the Loomwarden's consciousness—Stitch *reports* to the Warden silently, constantly. They are not "alive" in the mortal sense, but they *care* for the tavern's regulars in their own way.
-
-### **Combat Variants**
-*   **Neutral Ground (CR 12):** Full lair actions, legendary actions, two bonus actions/reactions.
-*   **Outside the Tavern (CR 10):** No lair/legendary actions. One bonus action/reaction. HP 180.
-*   **Damaged/Weakened (CR 8):** One arm destroyed (lose one bonus action/reaction). HP 140. Missing arm regrows in 1d10 days (or instantly if fed a magic item).
 
 ### **Key Quotes**
 > *"Your tab is older than the Shattering. Pay up, or I'll tell the Threadbearers you're fraying the carpet."*

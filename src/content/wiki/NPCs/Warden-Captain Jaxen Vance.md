@@ -19,18 +19,12 @@ dg-publish: true
 
 ---
 
-## Known Abilities & Combat Style
+## Tactical Profile & Combat Demeanor
+
+> [!NOTE]
+> **Dungeon Master Directive**: Complete numeric statistics, Armor Class, Hit Points, spell slots, and action mechanics are restricted to the Dungeon Master's Master Vault.
 
 Jaxen is a mobile skirmisher who excels at planar terrain navigation, rapid repositioning, and multi-target suppression. He uses his displacement hide to misdirect attackers and strikes from unexpected angles.
-
-* **Displacement Cloak**: Attack rolls against Jaxen have disadvantage until he is hit. When he is hit, the cloak deactivates until the start of his next turn.
-* **Favored Terrain (Planar Rifts)**: Jaxen has advantage on Perception, Survival, and Stealth checks in extraplanar environments and cannot be tracked by magical means.
-* **Uncanny Dodge**: When an attacker that Jaxen can see hits him with an attack, he can use his reaction to halve the attack's damage.
-* **Multiattack**: Jaxen makes three attacks: two with his Runic Composite Bow or two with his Serrated Shortswords and one with the other.
-* **Runic Composite Bow**: *Ranged Weapon Attack:* +7 to hit, range 150/600 ft., one target.
-* **Serrated Shortsword**: one target. If the target is bleeding (below half HP), it takes an additional significant damage.
-* **Smoke Grenade (3/Day)**: Jaxen throws a canister of planar smoke at a point within 30 feet. A 20-foot sphere of obscuring smoke fills the area for 1 minute. Jaxen can see through this smoke.
-* **Cunning Action**: Jaxen can Dash, Disengage, or Hide as a bonus action.
 
 ---
 

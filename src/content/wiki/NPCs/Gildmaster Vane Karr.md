@@ -15,18 +15,12 @@ dg-publish: true
 ---
 ---
 
-## Known Abilities & Combat Style
+## Tactical Profile & Combat Demeanor
+
+> [!NOTE]
+> **Dungeon Master Directive**: Complete numeric statistics, Armor Class, Hit Points, spell slots, and action mechanics are restricted to the Dungeon Master's Master Vault.
 
 Vane Karr is a formidable frontline juggernaut with petrifying golden strikes, high armor class, and defensive runic wards.
-
-* **Dwarven Resilience**: Vane has advantage on saving throws against poison.
-* **Aura of Avarice**: Any creature hostile to Vane that starts its turn within 20 feet of him must succeed on a saving throw or become distracted by illusions of showering gold coins, suffering disadvantage on attack rolls until the start of its next turn.
-* **Master of Bullion**: Critical hits against Vane become normal hits.
-* **Multiattack**: Vane makes three melee attacks with his *Bullion Maul* or his *Gold-Flame Hammer*.
-* **Bullion Maul**: one target. If the target is a creature, it must succeed on a saving throw or begin turning into solid gold and be restrained. It must repeat the saving throw at the end of its next turn; on success, the effect ends; on failure, it is petrified into solid gold for 24 hours.
-* **Gold-Flame Hammer (Warhammer)**: Wields a legendary hammer wreathed in elemental force, capable of shattering fortifications and planar stone.
-* **Molten Spray (Recharge 5–6)**: Vane vents a spray of superheated liquid gold in a 20-foot cone. Each creature in that area must make a saving throw, taking significant damage on a failed save, or half as much damage on a successful one. Ground in that area becomes difficult terrain until scraped clean.
-* **Coin Shield**: When hit by a ranged weapon attack, Vane can summon a floating barrier of animated coins, granting him a +4 bonus to AC against the triggering attack.
 
 ---
 

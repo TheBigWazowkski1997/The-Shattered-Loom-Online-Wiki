@@ -13,18 +13,18 @@ dg-publish: true
 
 ## **The Master Directory of the Demon Lords**
 
-| NPC Name | Title & Epithet | Primary Seat | Challenge Rating | Loom Metaphysical Role |
+| NPC Name | Title & Epithet | Primary Seat | Threat Classification | Loom Metaphysical Role |
 | :--- | :--- | :--- | :---: | :--- |
-| **[[Demogorgon, Prince of Demons\|Demogorgon]]** | Prince of Demons, Sunder-King | Layer 88 (Gaping Maw) | **CR 26** | **Duality as Logic Error**: The Living Contradiction splitting reality into competing truths. |
-| **[[Orcus, Lord of the Undead\|Orcus]]** | The Tatter-King, Prince of Undeath | Layer 113 (Thanatos) | **CR 26** | **Stagnation as End-State**: Freezes soul-threads into immutable, lifeless stasis. |
-| **[[Graz'zt, Dark Prince of Pleasure\|Graz'zt]]** | The Dark Prince, Master of Azzagrat | Layers 45–47 (Azzagrat) | **CR 24** | **Hedonistic Dissolution**: Seduces mortals into willingly shredding their destinies for pleasure. |
-| **[[Lolth, Queen of the Demonweb Pits\|Lolth]]** | The Spider Queen, The False Weaver | Layer 66 (Demonweb Pits) | **CR 24** | **The Corrupted Weave**: Snares astral shards in blackened silk to construct a dark counterfeit loom. |
-| **[[Baphomet, the Horned King\|Baphomet]]** | The Horned King, Lord of the Maze | Layer 600 (Endless Maze) | **CR 23** | **Recursive Complexity**: Traps the multiverse in non-Euclidean, insoluble loop-knots. |
-| **Yeenoghu** | The Beast of Carnage, Gnashing Maw | Layer 422 (Seeping Woods) | **CR 24** | **Primal Shredding**: Bites through reality's threads in mindless, ravening bloodshed. |
-| **Juiblex** | The Faceless Hunger, Lord of Sludge | Layer 222 (Shedaklah) | **CR 20** | **Total Dissolution**: Liquefies form, memory, and identity into a uniform entropic soup. |
-| **Zuggtmoy** | Lady of Rot and Spores | Layer 222 (Shedaklah) | **CR 23** | **Mycelial Decay**: Parasitic fungal mold consuming the rotting threads of the broken weave. |
-| **Malcanthet** | Queen of the Succubi | Layer 570 (Shendilavri) | **CR 21** | **Velvet Espionage**: Intoxicating perfumes and deceptive beauty that rot mortal oaths. |
-| **Pazuzu** | Prince of the Lower Aerial Kingdoms | Layer 1 (Pazunia) | **CR 22** | **Temptation of the Fallen**: Whispers corruption into the minds of desperate planar wanderers. |
+| **[[Demogorgon, Prince of Demons\|Demogorgon]]** | Prince of Demons, Sunder-King | Layer 88 (Gaping Maw) | Abyssal Sovereign | **Duality as Logic Error**: The Living Contradiction splitting reality into competing truths. |
+| **[[Orcus, Lord of the Undead\|Orcus]]** | The Tatter-King, Prince of Undeath | Layer 113 (Thanatos) | Abyssal Sovereign | **Stagnation as End-State**: Freezes soul-threads into immutable, lifeless stasis. |
+| **[[Graz'zt, Dark Prince of Pleasure\|Graz'zt]]** | The Dark Prince, Master of Azzagrat | Layers 45–47 (Azzagrat) | Abyssal Sovereign | **Hedonistic Dissolution**: Seduces mortals into willingly shredding their destinies for pleasure. |
+| **[[Lolth, Queen of the Demonweb Pits\|Lolth]]** | The Spider Queen, The False Weaver | Layer 66 (Demonweb Pits) | Abyssal Sovereign | **The Corrupted Weave**: Snares astral shards in blackened silk to construct a dark counterfeit loom. |
+| **[[Baphomet, the Horned King\|Baphomet]]** | The Horned King, Lord of the Maze | Layer 600 (Endless Maze) | Abyssal Sovereign | **Recursive Complexity**: Traps the multiverse in non-Euclidean, insoluble loop-knots. |
+| **Yeenoghu** | The Beast of Carnage, Gnashing Maw | Layer 422 (Seeping Woods) | Abyssal Sovereign | **Primal Shredding**: Bites through reality's threads in mindless, ravening bloodshed. |
+| **Juiblex** | The Faceless Hunger, Lord of Sludge | Layer 222 (Shedaklah) | Abyssal Sovereign | **Total Dissolution**: Liquefies form, memory, and identity into a uniform entropic soup. |
+| **Zuggtmoy** | Lady of Rot and Spores | Layer 222 (Shedaklah) | Abyssal Sovereign | **Mycelial Decay**: Parasitic fungal mold consuming the rotting threads of the broken weave. |
+| **Malcanthet** | Queen of the Succubi | Layer 570 (Shendilavri) | Abyssal Sovereign | **Velvet Espionage**: Intoxicating perfumes and deceptive beauty that rot mortal oaths. |
+| **Pazuzu** | Prince of the Lower Aerial Kingdoms | Layer 1 (Pazunia) | Abyssal Sovereign | **Temptation of the Fallen**: Whispers corruption into the minds of desperate planar wanderers. |
 
 ***
 

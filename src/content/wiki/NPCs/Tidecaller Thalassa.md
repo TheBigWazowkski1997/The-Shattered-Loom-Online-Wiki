@@ -15,18 +15,12 @@ dg-publish: true
 ---
 ---
 
-## Known Abilities & Combat Style
+## Tactical Profile & Combat Demeanor
+
+> [!NOTE]
+> **Dungeon Master Directive**: Complete numeric statistics, Armor Class, Hit Points, spell slots, and action mechanics are restricted to the Dungeon Master's Master Vault.
 
 Thalassa is a potent master of water and marine life. She commands ocean currents, summons whirlpools, shapes living coral into lethal spikes, and can transform into a living water elemental.
-
-* **Amphibious**: Thalassa can breathe air and water effortlessly.
-* **Child of the Tide**: While submerged in water, Thalassa cannot be knocked prone, grappled, or restrained, and her spell attack rolls and DCs have a +1 bonus.
-* **Call to the Deep (1/Day)**: As a bonus action, Thalassa summons a loyal Water Elemental (*MM p. 125*) to fight alongside her for 1 hour or until dismissed.
-* **Multiattack**: Thalassa makes two attacks with her *Spire-Conch* or casts one spell and makes one staff attack.
-* **Spire-Conch**: Notable combat maneuver and signature technique.
-* **Tidal Surge (Recharge 5–6)**: Thalassa unleashes a crushing wave of pressurized seawater in a 30-foot cone. Each creature in that area must make a saving throw. On a failure, a creature takes significant damage, is pushed 20 feet away, and is knocked prone. On a success, it takes half damage and is neither pushed nor knocked prone.
-* **Spellcasting**: Thalassa is a 12th-level spellcaster. Her spellcasting ability is Wisdom (spell save saving throw, +9 to hit with spell attacks). She has the following druid spells prepared:.
-* **Undertow**: When a creature misses Thalassa with a melee attack, she can force the attacker to make a saving throw or be dragged 10 feet into the nearest body of water and knocked prone.
 
 ---
 

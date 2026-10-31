@@ -15,16 +15,12 @@ dg-publish: true
 ---
 ---
 
-## Known Abilities & Combat Style
+## Tactical Profile & Combat Demeanor
+
+> [!NOTE]
+> **Dungeon Master Directive**: Complete numeric statistics, Armor Class, Hit Points, spell slots, and action mechanics are restricted to the Dungeon Master's Master Vault.
 
 Rhydian is a formidable resonance combatant who wields sound, psychic reverberation, and razor-sharp crystal shards.
-
-* **Resonant Body**: When Rhydian takes damage from a melee weapon attack, the attacking creature takes 5 (1d10) thunder or radiant damage as his crystalline flesh chimes violently.
-* **Mnemonic Weapon Master**: Rhydian's weapon attacks are magical and deal an extra significant damage on a hit (included in the attack).
-* **Multiattack**: Rhydian makes two attacks with his *Prismatic Glass Greatsword* or his *Sonic Shard Burst*.
-* **Prismatic Glass Greatsword**: one target. If the target is a creature concentrating on a spell, it makes the concentration check with disadvantage.
-* **Sonic Shard Burst (Recharge 5–6)**: Rhydian claps his crystalline hands together, discharging a 30-foot cone of ultrasonic sound and flying razor glass. Each creature in that area must make a saving throw. On a failure, a creature takes 21 (6d6) piercing and thunder damage and is deafened for 1 minute. On a success, it takes half damage and is not deafened.
-* **Mirror Deflection**: When targeted by a ranged spell attack, Rhydian can raise his crystalline forearm to impose disadvantage on the attack roll. If the attack misses, he reflects the beam harmlessly into the sky.
 
 ---
 

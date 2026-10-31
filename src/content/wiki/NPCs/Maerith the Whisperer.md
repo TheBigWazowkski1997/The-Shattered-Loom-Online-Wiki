@@ -13,35 +13,12 @@ dg-publish: true
 * **Personality**: Charismatic, fanatical, and deeply reverent of the Great Dreamer. She speaks with the quiet confidence of someone who has seen the truth and pities those who haven't. She is not cruel — she genuinely believes awakening the Dreamer will end all mortal suffering by dissolving it.
 
 ---
-## Spellcasting
+## Tactical Profile & Combat Demeanor
 
-Maerith is a 9th-level Cleric (Twilight Domain). Spell Save saving throw, +7 to hit.
-
-* **Cantrips (at will):** *Toll the Dead*, *Thaumaturgy*, *Guidance*
-* **1st Level (4 slots):** *Sleep*, *Bless*, *Inflict Wounds*
-* **2nd Level (3 slots):** *Blindness/Deafness*, *Silence*
-* **3rd Level (3 slots):** *Counterspell*, *Sending*
-* **4th Level (3 slots):** *Banishment*, *Confusion*
-* **5th Level (1 slot):** *Dream*, *Dominate Person*
-
----
-[[Key NPCs - Dreambound|Key NPCs - Dreambound]]
-[[Xelthar|Xelthar]]
-[[Arvix, the Dreambound Wanderer|Arvix, the Dreambound Wanderer]]
-[[../Cosmology/Beings of Power/The Great Dreamer|The Great Dreamer]]
-
----
-
-## Known Abilities & Combat Style
+> [!NOTE]
+> **Dungeon Master Directive**: Complete numeric statistics, Armor Class, Hit Points, spell slots, and action mechanics are restricted to the Dungeon Master's Master Vault.
 
 Maerith fights with divine shadow power, blending cleric channeling with dream-inflicted madness. She uses *Dominate Person* and *Dream* to turn enemies against each other before committing her own power. In close combat, her shadow tendrils strike with chilling necrotic energy.
-
-* **Dreamtouched**: Maerith has advantage on saving throws against being charmed or frightened. She also has advantage on Insight checks when trying to detect lies.
-* **Shadow Mantle**: At the start of each of Maerith's turns, she may move up to 10 feet without triggering opportunity attacks if she moves through an area of dim light or darkness.
-* **Voice of the Dreamer**: When Maerith speaks directly to a creature for at least 1 minute, it must succeed on a saving throw or be charmed by her for 1 hour. During this time it is helpful and will not take hostile actions against her.
-* **Multiattack**: Maerith makes two Shadow Tendril attacks or casts one spell and makes one Shadow Tendril attack.
-* **Shadow Tendril**: *Melee Spell Attack:* +7 to hit, reach 10 ft., one target. The target must succeed on a saving throw or have its speed halved until the end of its next turn.
-* **Invoke the Dreamer (3/Day)**: Maerith channels the Great Dreamer. One creature she can see within 60 feet must succeed on a saving throw or take significant damage and be frightened until the end of its next turn.
 
 ---
 

@@ -19,18 +19,12 @@ dg-publish: true
 
 ---
 
-## Known Abilities & Combat Style
+## Tactical Profile & Combat Demeanor
+
+> [!NOTE]
+> **Dungeon Master Directive**: Complete numeric statistics, Armor Class, Hit Points, spell slots, and action mechanics are restricted to the Dungeon Master's Master Vault.
 
 Hesperus does not lower himself to physical combat if avoidable, but is a formidable tactician who deploys clockwork constructs, lightning capacitors, and precise mechanical strikes. If cornered, his prosthetic hand can extend hidden blades and release electrical discharges.
-
-* **Clockwork Eye**: Hesperus has advantage on Perception checks and cannot be surprised while his monocle is active. Once per day, the monocle can cast *Identify* as a bonus action.
-* **Overcharge Prosthetic**: Hesperus can use his clockwork hand to deliver a melee touch attack as a bonus action, dealing significant damage. Recharge 5–6.
-* **Schematic Mind**: Hesperus has advantage on Intelligence saving throws and cannot be charmed or frightened.
-* **Multiattack**: Hesperus makes two attacks: one with his Clockwork Blade and one with his Overcharge Prosthetic (if available), or casts one spell and makes one weapon attack.
-* **Clockwork Blade**: Unleashes swift, precision strikes infused with psychic or elemental energy.
-* **Deploy Clockwork Sentinel (1/Day)**: Hesperus activates a CR 5 clockwork construct that acts on his initiative, obeys his commands, and has 52 HP and 15 AC.
-* **Lightning Capacitor (Recharge 5–6)**: Hesperus fires a targeted bolt from his chest brace. *Ranged Spell Attack:* +9 to hit, range 60 ft. The target must succeed on a saving throw or be stunned until the end of its next turn.
-* **Reactive Override**: When a creature moves within 5 feet of Hesperus, he can make a Clockwork Blade attack against it as a reaction.
 
 ---
 

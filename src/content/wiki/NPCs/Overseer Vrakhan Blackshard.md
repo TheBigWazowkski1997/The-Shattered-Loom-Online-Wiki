@@ -15,17 +15,12 @@ dg-publish: true
 ---
 ---
 
-## Known Abilities & Combat Style
+## Tactical Profile & Combat Demeanor
+
+> [!NOTE]
+> **Dungeon Master Directive**: Complete numeric statistics, Armor Class, Hit Points, spell slots, and action mechanics are restricted to the Dungeon Master's Master Vault.
 
 Vrakhan is a formidable earth-shattering juggernaut. He commands stone-meld movement, tremors that knock entire parties prone, and punishing bludgeoning strikes.
-
-* **Earth Glide**: Vrakhan can burrow through nonmagical, unworked earth and stone. While doing so, he doesn't disturb the material he moves through.
-* **Siege Monster**: Vrakhan deals double damage to objects and structures.
-* **Stone Camouflage**: Vrakhan has advantage on Dexterity (Stealth) checks made to hide in rocky terrain.
-* **Multiattack**: Vrakhan makes three melee attacks with *Earth-Splitter*.
-* **Earth-Splitter (Warhammer)**: one target. If the target is a creature, it must succeed on a saving throw or be pushed 10 feet and knocked prone.
-* **Seismic Slam (Recharge 5–6)**: Vrakhan slams his hammer into the stone floor, creating a localized earthquake in a 30-foot cone. Each creature on the ground in that area must make a saving throw. On a failure, a creature takes significant damage, is knocked prone, and is stunned until the end of its next turn. On a success, the creature takes half damage and is not knocked prone or stunned.
-* **Stone Shield**: When a creature hits Vrakhan with an attack, he can summon a jagged slab of stone from the ground to grant himself a +4 bonus to AC against that attack.
 
 ---
 

@@ -20,22 +20,12 @@ dg-publish: true
 
 ---
 
-## Known Abilities & Combat Style
+## Tactical Profile & Combat Demeanor
+
+> [!NOTE]
+> **Dungeon Master Directive**: Complete numeric statistics, Armor Class, Hit Points, spell slots, and action mechanics are restricted to the Dungeon Master's Master Vault.
 
 Urdakael is a peerless frontline commander and juggernaut. He fights at the head of his Shard-Hosts, radiating divine forgefire and anchoring reality against Vorzath's entropic decay. He cannot be broken, cowed, or moved against his will.
-
-* **Living Masterwork**: Urdakael has advantage on saving throws against spells and other magical effects.
-* **Unbroken Resolve (3/Day)**: If Urdakael would be reduced to 0 hit points, he drops to 1 hit point instead and his Soulcore releases a burst of radiant forgefire. Each enemy within 15 feet must make a saving throw, taking severe damage on a failed save, or half on a successful one.
-* **Aura of the Vigil Flame**: Friendly constructs and allies within 30 feet of Urdakael are immune to fear and have resistance to necrotic damage and entropic effects. In addition, when an ally within the aura makes a saving throw, they gain a +4 bonus.
-* **Siege Monster**: Urdakael deals double damage to objects and structures.
-* **Multiattack**: Urdakael makes three attacks with *Aethelforged* or uses *Forge-Herald's Wrath* once and makes two *Aethelforged* attacks.
-* **Forge-Herald's Wrath (Recharge 5–6)**: Urdakael thrusts *Aethelforged* into the earth or swings it in a wide arc, loosing a 60-foot cone of searing divine flame. Each creature in that area must make a saving throw, taking severe damage on a failed save, or half as much on a successful one.
-* **Command the Mandate (Recharge 4–6)**: Urdakael targets up to three allied constructs he can see within 60 feet. Each target can immediately use its reaction to make one weapon attack or move up to its speed without provoking opportunity attacks.
-* **Adamantine Interception**: When an attacker hits an ally within 5 feet of Urdakael, Urdakael interposes his reinforced forearm or blade. The damage taken by the ally is halved, and Urdakael takes the remaining half.
-* **Retaliatory Smite**: When a creature within 5 feet hits Urdakael with an attack, Urdakael can make one melee attack with *Aethelforged* against the attacker.
-* **Advance**: Urdakael moves up to his speed without provoking opportunity attacks.
-* **Strike**: Urdakael makes one attack with *Aethelforged*.
-* **Kindle the Soulcore (Costs 2 Actions)**: Urdakael flares his divine ember. He regains 25 (3d10 + 10) hit points and cleanses any ongoing curse or spell effect affecting him.
 
 ---
 

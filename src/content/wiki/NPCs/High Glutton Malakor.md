@@ -15,18 +15,12 @@ dg-publish: true
 ---
 ---
 
-## Known Abilities & Combat Style
+## Tactical Profile & Combat Demeanor
+
+> [!NOTE]
+> **Dungeon Master Directive**: Complete numeric statistics, Armor Class, Hit Points, spell slots, and action mechanics are restricted to the Dungeon Master's Master Vault.
 
 Malakor commands grotesque biomantic magic, altering flesh, expelling caustic bile, and siphoning the life energy of any who defy the hunger of the Spire. He is rarely encountered without several devoted Flesh Servitors acting as a living wall of meat around him.
-
-* **Aura of Voracity**: Any hostile creature that starts its turn within 15 feet of Malakor must succeed on a saving throw or take significant damage as its vitality is drawn away. Malakor regains hit points equal to half the necrotic damage dealt.
-* **Insatiable Feast**: When Malakor reduces a creature to 0 hit points, he gains 20 temporary hit points and has advantage on attack rolls until the end of his next turn.
-* **Flesh-Warp Regeneration**: Malakor regains 10 hit points at the start of his turn if he has at least 1 hit point and has not taken radiant damage since his last turn.
-* **Multiattack**: Malakor makes two attacks with the *Crozius of Devouring* or casts one spell and makes one staff attack.
-* **Crozius of Devouring**: one target. The target must succeed on a saving throw or be grappled (strength check to escape) by the snapping jaws atop the staff.
-* **Bile Cascade (Recharge 5–6)**: Malakor exhales a 30-foot cone of boiling acidic digestive fluid. Each creature in that area must make a saving throw, taking significant damage on a failed save, or half as much on a successful one. Flammable objects not being worn or carried ignite.
-* **Spellcasting**: Malakor casts one of the following spells, using Wisdom as his spellcasting ability (spell save saving throw, +8 to hit with spell attacks):.
-* **Flesh Barrier**: When Malakor is targeted by an attack roll, he can mentally command a Flesh Servitor within 5 feet of him to interpose itself. The attack targets the Flesh Servitor instead.
 
 ---
 

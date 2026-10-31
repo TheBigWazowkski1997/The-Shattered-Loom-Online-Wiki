@@ -13,18 +13,12 @@ dg-publish: true
 * **Personality**: Grim, authoritarian, and fiercely pragmatic. Unlike the decadent Efreet or reckless fire elementals, Vekthar believes true power is forged at the collision of stone and magma. He values unwavering loyalty, unyielding discipline, and brutal battlefield efficiency.
 
 ---
-## Known Abilities & Combat Style
+## Tactical Profile & Combat Demeanor
+
+> [!NOTE]
+> **Dungeon Master Directive**: Complete numeric statistics, Armor Class, Hit Points, spell slots, and action mechanics are restricted to the Dungeon Master's Master Vault.
 
 Vekthar is a formidable frontline commander who excels at crowd control, cleaving through armor with obsidian blades, and anchoring allies with tectonic battle commands.
-
-* **Heated Carapace**: A creature that touches Vekthar or hits him with a melee attack while within 5 feet of him takes significant damage.
-* **Tectonic Anchor**: Vekthar cannot be pushed, pulled, or knocked prone against his will while standing on solid stone or earth.
-* **Brutal Cleave**: When Vekthar hits a creature with his glaive, the attack deals an extra 1d10 damage on critical hits and ignores the damage threshold of objects and constructs.
-* **Multiattack**: Vekthar makes three attacks: two with his *Obsidian Sunder-Glaive* and one with his Tail.
-* **Obsidian Sunder-Glaive**: one target. If the target is wearing nonmagical armor, the armor is damaged and takes a permanent −1 penalty to the AC it offers on a critical hit.
-* **Tail Slam**: Notable combat maneuver and signature technique.
-* **Tectonic Shockwave (Recharge 5–6)**: Vekthar slams his glaive into the stone floor, discharging a seismic shockwave in a 20-foot radius. Each creature on the ground in that area must make a saving throw, taking severe damage on a failed save, or half as much on a successful one. On a failure, the creature is also knocked prone.
-* **Magma Retaliation**: When struck by an enemy within 10 feet, Vekthar vents molten slag at the attacker, dealing significant damage.
 
 ---
 

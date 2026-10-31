@@ -18,20 +18,12 @@ dg-publish: true
 
 ---
 
-## Known Abilities & Combat Style
+## Tactical Profile & Combat Demeanor
+
+> [!NOTE]
+> **Dungeon Master Directive**: Complete numeric statistics, Armor Class, Hit Points, spell slots, and action mechanics are restricted to the Dungeon Master's Master Vault.
 
 Dr. Mordenheim rarely fights with bare hands; she commands hulking, lightning-powered flesh golems, constructs with integrated galvanic cannons, and automated surgical apparatus. In personal combat, she wields conductive scalpels, galvanic shockers, and pressurized chemical hypos delivering paralyzing neurotoxins.
-* **Damage Resistances**: Lightning, Poison.
-* **Condition Immunities**: Charmed, Poisoned.
-* **Senses**: Passive Perception 15.
-* **Languages**: Common, Gnomish, Undercommon.
-* **Galvanic Infusion**: Dr. Mordenheim can overload any construct or flesh golem under her command within 30 feet as a bonus action, causing its melee attacks to deal an extra significant damage for 1 minute.
-* **Master Anatomist**: Dr. Mordenheim's weapon attacks score a critical hit on a roll of 19 or 20. When she scores a critical hit against a living creature, the target must make a saving throw or be stunned until the end of its next turn.
-* **Alchemical Preparedness**: Dr. Mordenheim carries 4 doses of *Galvanic Adrenaline* (as a bonus action, she or an adjacent construct gains 20 temporary hit points and +10 ft. movement for 1 minute) and 3 doses of *Neuro-Paralytic Tincture*.
-* **Multiattack**: Dr. Mordenheim makes three attacks: two with her Galvanic Scalpel and one with her Pressure Injector.
-* **Galvanic Scalpel**: *Melee Weapon Attack*: expert accuracy, reach 5 ft., one target. piercing damage plus significant damage.
-* **Pressure Injector**: *Melee or Ranged Weapon Attack*: expert accuracy, reach 5 ft. or range 20/60 ft., one target. piercing damage plus significant damage, and the target must succeed on a saving throw or be paralyzed for 1 minute (save ends at end of turn).
-* **Galvanic Discharge (Recharge 5–6)**: Dr. Mordenheim releases a 30-foot cone of superheated electrical arc from her gauntlet. Each creature in that area must make a saving throw, taking significant damage on a failed save, or half as much on a successful one.
 
 ---
 

@@ -15,18 +15,12 @@ dg-publish: true
 ---
 ---
 
-## Known Abilities & Combat Style
+## Tactical Profile & Combat Demeanor
+
+> [!NOTE]
+> **Dungeon Master Directive**: Complete numeric statistics, Armor Class, Hit Points, spell slots, and action mechanics are restricted to the Dungeon Master's Master Vault.
 
 Lyra channels the boundless vitality of the Heartbloom Tree, conjuring grasping briars, commanding awakened wildlife, and healing mortal wounds with radiant life energy.
-
-* **Firbolg Magic**: Lyra can cast *Detect Magic* and *Disguise Self* at will, using Wisdom as her spellcasting ability.
-* **Hidden Step (3/Day)**: As a bonus action, Lyra can turn magically invisible until the start of her next turn or until she attacks, makes a damage roll, or forces someone to make a saving throw.
-* **Aura of Vitality**: Friendly creatures that start their turn within 20 feet of Lyra regain 5 hit points if they have at least 1 hit point, and have advantage on saving throws against poison and disease.
-* **Multiattack**: Lyra makes two attacks with the *Heartwood Scepter* or casts one spell and makes one staff attack.
-* **Heartwood Scepter**: one target. If the target is an aberration or fiend, it takes an extra significant damage.
-* **Briar Burst (Recharge 5–6)**: Living briars erupt from the ground in a 20-foot radius centered on a point within 60 feet. Each creature in that area must make a saving throw. On a failure, a creature takes significant damage and is restrained. On a success, it takes half damage and isn't restrained. A restrained creature can use an action to make a effort to free itself.
-* **Spellcasting**: Lyra is a 12th-level spellcaster. Her spellcasting ability is Wisdom (spell save saving throw, +9 to hit with spell attacks). She has the following druid spells prepared:.
-* **Nature's Ward**: When an ally within 30 feet takes damage, Lyra can invoke living roots to interpose, reducing the damage by 20.
 
 ---
 

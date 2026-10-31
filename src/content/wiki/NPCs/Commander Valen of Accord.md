@@ -15,19 +15,12 @@ dg-publish: true
 ---
 ---
 
-## Known Abilities & Combat Style
+## Tactical Profile & Combat Demeanor
+
+> [!NOTE]
+> **Dungeon Master Directive**: Complete numeric statistics, Armor Class, Hit Points, spell slots, and action mechanics are restricted to the Dungeon Master's Master Vault.
 
 Valen is an indomitable paladin and tactical commander. He bolsters allies with radiant auras, smites chaotic fiends with blinding sunlight, and can fly across the battlefield to shield endangered comrades.
-
-* **Aura of Protection**: Valen and all friendly creatures within 20 feet of him add +4 to all saving throws (included in his profile).
-* **Radiant Soul (1/Day)**: As a bonus action, Valen unfurls his wings of light for 1 minute. He gains a flying speed of 60 ft., and once on each of his turns, he can deal an extra 10 radiant damage to one target he hits with an attack.
-* **Aura of Courage**: Valen and friendly creatures within 20 feet cannot be frightened while he is conscious.
-* **Lay on Hands**: Valen has a pool of 60 hit points of healing that he can distribute as an action, or cure diseases and poisons (expending 5 points each).
-* **Multiattack**: Valen makes three melee attacks with the *Sun-Cleaver*.
-* **Sun-Cleaver (Greatsword)**: one target. If the target is an aberration, fiend, or undead, it takes an additional significant damage.
-* **Radiant Smite (Recharge 4–6)**: When Valen hits a creature with his greatsword, he channels divine power through the blade. The attack deals an extra significant damage, and the target must succeed on a saving throw or be blinded until the end of its next turn.
-* **Command Accord (3/Day)**: Valen shouts a tactical edict. Up to three allies within 30 feet who can hear him can immediately use their reaction to make one weapon attack or move up to their full speed without provoking opportunity attacks.
-* **Shielding Interposition**: When a creature within 10 feet of Valen is hit by an attack, Valen can interpose his wings of light, granting that creature a +4 bonus to AC against that attack and taking half of any damage dealt.
 
 ---
 

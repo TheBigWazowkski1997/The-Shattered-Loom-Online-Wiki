@@ -18,20 +18,12 @@ dg-publish: true
 
 ---
 
-## Known Abilities & Combat Style
+## Tactical Profile & Combat Demeanor
+
+> [!NOTE]
+> **Dungeon Master Directive**: Complete numeric statistics, Armor Class, Hit Points, spell slots, and action mechanics are restricted to the Dungeon Master's Master Vault.
 
 Ivana avoids physical combat whenever possible, relying on poisoned darts, enchanted perfume atomizers, and charmed noble bodyguards. Her body is saturated with centuries of rare planar poisons; weapons coated in her blood deal catastrophic toxic damage, and anyone who makes contact with her skin risks immediate paralysis.
-* **Damage Immunities**: Poison.
-* **Condition Immunities**: Charmed, Poisoned.
-* **Senses**: Passive Perception 15.
-* **Languages**: Common, Elvish, Halfling.
-* **Poisonous Touch**: Any creature that touches Ivana with bare skin, kisses her, or hits her with an unarmed strike must succeed on a saving throw or take significant damage and be poisoned for 1 hour.
-* **Sneak Attack (1/Turn)**: Ivana deals an extra 14 (4d6) damage when she hits a target with a weapon attack and has advantage on the roll, or when the target is within 5 feet of an ally of Ivana that isn't incapacitated.
-* **Tainted Blood**: When Ivana takes piercing or slashing damage, acidic poison sprays in a 5-foot radius. Adjacent creatures take significant damage.
-* **Multiattack**: Ivana makes two attacks with her Venomous Rapier or her Concealed Blowgun.
-* **Venomous Rapier**: *Melee Weapon Attack*: expert accuracy, reach 5 ft., one target. piercing damage plus significant damage. Target must succeed on a saving throw or be poisoned for 1 minute.
-* **Concealed Blowgun**: *Ranged Weapon Attack*: expert accuracy, range 25/100 ft., one target. *Hit*: 5 piercing damage plus significant damage. Target must succeed on a saving throw or fall unconscious for 1 hour.
-* **Atomizer of Sweet Ruin (Recharge 5–6)**: Ivana sprays an aerosol cloud of enchanted belladonna perfume in a 15-foot cone. Each creature in that area must make a saving throw. On a failure, the creature is charmed by Ivana for 1 minute and compelled to protect her.
 
 ---
 

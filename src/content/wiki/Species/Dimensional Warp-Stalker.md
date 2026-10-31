@@ -1,6 +1,6 @@
 ---
 title: "Dimensional Warp-Stalker"
-description: "Comprehensive species profile, lore, ecology, full 5e statblock, harvesting yields, and lodge crafting for Dimensional Warp-Stalker across the Shattered Loom multiverse."
+description: "Comprehensive species profile, lore, ecology, harvesting yields, and lodge crafting for Dimensional Warp-Stalker across the Shattered Loom multiverse."
 category: Species
 tags:
   - species
@@ -9,7 +9,6 @@ tags:
   - aberration
   - hunting
   - harvesting
-  - statblock
 dg-publish: true
 ---
 
@@ -33,41 +32,14 @@ Native to the unstable periphery of the Far Realm and the tears of the Fractured
 
 ---
 
-## ⚔️ Combat Statistics (D&D 5e)
+## ⚔️ Tactical Overview & Threat Assessment
 
-*Large Aberration, Chaotic Evil*
-___
-* **Armor Class**: 17 (chitin plate)
-* **Hit Points**: 136 (16d10 + 48)
-* **Speed**: 40 ft., climb 40 ft., teleport 30 ft.
+> [!NOTE]
+> **Dungeon Master Directive**: Complete numeric combat statistics, Armor Class, Hit Points, saving throws, and attack modifiers are restricted to the Dungeon Master's Master Bestiary.
 
-| STR | DEX | CON | INT | WIS | CHA |
-|:---:|:---:|:---:|:---:|:---:|:---:|
-| 18 (+4) | 20 (+5) | 16 (+3) | 14 (+2) | 15 (+2) | 11 (+0) |
-
-* **Saving Throws**: Dex +9, Con +7, Wis +6
-* **Skills**: Stealth +13, Perception +6, Acrobatics +9
-* **Damage Resistances**: acid, cold, lightning; bludgeoning, piercing, and slashing from nonmagical attacks
-* **Damage Immunities**: psychic
-* **Condition Immunities**: charmed, frightened, grappled, restrained
-* **Senses**: truesight 60 ft., blindsight 120 ft., passive Perception 16
-* **Languages**: Deep Speech, telepathy 60 ft.
-* **Challenge**: 10 (5,900 XP) | **Proficiency Bonus**: +4
-
-#### Traits
-* **Blink Stalker**: At start of turn, the stalker can teleport up to 30 feet to an unoccupied space it sees without provoking opportunity attacks.
-* **Dimensional Camouflage**: In dim light or darkness, attacks against the stalker have disadvantage, and it has advantage on Dexterity (Stealth) checks.
-* **Spatial Disruption Aura**: Ranged weapon attacks passing through a 15-foot radius around the stalker suffer disadvantage. Teleportation spells targeting or originating here require a DC 15 Arcana check or fail.
-
-#### Actions
-* **Multiattack**: The stalker makes three attacks: two with its Warp-Scythes and one with its Void-Maw.
-* **Warp-Scythe**: *Melee Weapon Attack*: +9 to hit, reach 10 ft., one target. *Hit*: 16 (2d10 + 5) slashing damage plus 7 (2d6) force damage. If stalker moved or teleported at least 15 feet before hitting, deals an extra 9 (2d8) force damage.
-* **Void-Maw**: *Melee Weapon Attack*: +9 to hit, reach 5 ft., one target. *Hit*: 14 (2d8 + 5) piercing damage plus 10 (3d6) psychic damage. Target must succeed on DC 15 Con save or be banished to a demiplane until end of stalker's next turn.
-* **Dimensional Shear (Recharge 5–6)**: Unleashes a 30-foot cone of fractured spacetime. DC 16 Dex save: 36 (8d8) force damage, knocked prone, and lose 1d6 Lucidity (half on success).
-
-#### Reactions
-* **Spatial Flicker**: When hit by a melee attack, the stalker teleports 15 feet away, halving the damage taken.
-
+* **Combat Overview**: A terrifying planar apex predator known for devastating ambushes, lethal multi-strikes, and environmental manipulation.
+* **Combat Behavior & Tactics**: Engages targets with predatory cunning, leveraging its native planar affinity to resist spells and overwhelm hunters before retreating into the planar terrain.
+* **Hunter's Warning**: Direct confrontation without specialized planar warding and lodge-grade gear is heavily discouraged.
 ---
 
 ## 🔪 Harvesting & Salvage Materials

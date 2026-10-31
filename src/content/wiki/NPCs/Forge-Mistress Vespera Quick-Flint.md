@@ -1,6 +1,6 @@
 ---
 title: "Forge-Mistress Vespera Quick-Flint"
-description: "Dramatis Personae profile and CR 12 statblock for Forge-Mistress Vespera Quick-Flint, supreme trophy-smith of the Grand Guild of the Iron Spoor."
+description: "Dramatis Personae profile and lore profile for Forge-Mistress Vespera Quick-Flint, supreme trophy-smith of the Grand Guild of the Iron Spoor."
 category: NPCs
 tags:
   - npc
@@ -30,34 +30,12 @@ dg-publish: true
 
 ---
 
-## ⚔️ Combat Profile & Statblock
+## Tactical Profile & Combat Demeanor
 
-```
-Forge-Mistress Vespera Quick-Flint
-Medium Humanoid (Dwarf), Lawful Neutral
-Armor Class: 18 (Crucible Breastplate + Shield)
-Hit Points: 153 (18d8 + 72)
-Speed: 25 ft.
-```
+> [!NOTE]
+> **Dungeon Master Directive**: Complete numeric statistics, Armor Class, Hit Points, spell slots, and action mechanics are restricted to the Dungeon Master's Master Vault.
 
-| STR | DEX | CON | INT | WIS | CHA |
-|:---:|:---:|:---:|:---:|:---:|:---:|
-| 20 (+5) | 14 (+2) | 18 (+4) | 20 (+5) | 16 (+3) | 12 (+1) |
-
-* **Saving Throws**: Str +9, Con +8, Int +9
-* **Skills**: Athletics +9, Arcana +9, Nature +9, Perception +7
-* **Damage Immunities**: Fire, Poison
-* **Condition Immunities**: Poisoned
-* **Senses**: Darkvision 60 ft., Passive Perception 17
-* **Languages**: Common, Dwarvish, Ignan, Terran
-* **Challenge**: 12 (8,400 XP) | **Proficiency Bonus**: +4
-
-### Actions
-
-* **Multiattack**: Vespera makes two attacks with her **Crucible Sledge** or two with her **Steam-Quench Blunderbuss**.
-* **Crucible Sledge (+2 Warhammer)**: *Melee Weapon Attack*: +11 to hit, reach 5 ft., one target. *Hit*: 11 (1d8 + 7) bludgeoning damage plus 9 (2d8) fire damage. If the target is wearing metal armor, its AC is reduced by 1 until repaired.
-* **Steam-Quench Blunderbuss**: *Ranged Weapon Attack*: +8 to hit, range 30/90 ft., one target. *Hit*: 16 (3d8 + 3) piercing damage plus 9 (2d8) fire damage.
-* **Quench-Tank Flash (Recharge 5–6)**: Vespera smashes a pressurized tank of alchemical quench-oil. A 20-foot cone of blinding superheated steam erupts from her anvil. Each creature in that area must make a DC 17 Dexterity save, taking 36 (8d8) fire damage and becoming blinded for 1 minute on a failed save, or half on a success.
+Forge-Mistress Vespera is a legendary master artisan and lodge weaponsmith who commands intense planar forge-heat, masterwork firearms, and explosive defensive barriers in personal defense.
 
 ---
 

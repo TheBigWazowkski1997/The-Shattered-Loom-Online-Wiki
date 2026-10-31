@@ -15,21 +15,12 @@ dg-publish: true
 ---
 ---
 
-## Known Abilities & Combat Style
+## Tactical Profile & Combat Demeanor
+
+> [!NOTE]
+> **Dungeon Master Directive**: Complete numeric statistics, Armor Class, Hit Points, spell slots, and action mechanics are restricted to the Dungeon Master's Master Vault.
 
 Jazeel is a Noble Efreeti archmage (formidable) capable of innate wish-magic, destructive pyromancy, and planar command. He floats above the fray, hurling searing rays while commanding bound fire elementals to crush his enemies.
-
-* **Elemental Demise**: If Jazeel dies, his body disintegrates into a flash of fire and a puff of smoke, leaving behind only equipment he was wearing or carrying.
-* **Innate Spellcasting**: Jazeel’s innate spellcasting ability is Charisma (spell save saving throw, +10 to hit with spell attacks). He can innately cast the following spells, requiring no material components:.
-* **At will:**: *Detect Magic*, *Produce Flame*, *Tongues*.
-* **3/day each:**: *Dispel Magic*, *Fireball*, *Major Image*, *Wall of Fire*.
-* **1/day each:**: *Conjure Elemental* (fire elemental only), *Plane Shift*, *Gaseous Form*, *Hallow*.
-* **Noble Wish-Granting (1/Year)**: Jazeel can grant up to three *Wishes* to a mortal creature, but binds the wish with strict legalistic and ironic twists per classical genie lore.
-* **Multiattack**: Jazeel makes two Scimitar attacks or two Hurl Flame attacks.
-* **Scimitar of the Cinder Sovereign**: Notable combat maneuver and signature technique.
-* **Hurl Flame**: *Ranged Spell Attack:* +10 to hit, range 120 ft., one target.
-* **Cinder Burst (Recharge 5–6)**: Jazeel releases an explosion of white-hot slag in a 20-foot radius centered on himself. Each creature in that area must make a saving throw, taking significant damage on a failure, or half on a success.
-* **Smoke Shroud**: When attacked, Jazeel can dissolve into a cloud of dense, choking black smoke as a reaction, imposing disadvantage on the attack roll and teleporting up to 30 feet to an unoccupied space.
 
 ---
 

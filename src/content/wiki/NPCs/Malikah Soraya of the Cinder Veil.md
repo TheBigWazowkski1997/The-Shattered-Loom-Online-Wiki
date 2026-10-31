@@ -15,19 +15,12 @@ dg-publish: true
 ---
 ---
 
-## Known Abilities & Combat Style
+## Tactical Profile & Combat Demeanor
+
+> [!NOTE]
+> **Dungeon Master Directive**: Complete numeric statistics, Armor Class, Hit Points, spell slots, and action mechanics are restricted to the Dungeon Master's Master Vault.
 
 Soraya is an 11th-level rogue/bard multiclass archetype (formidable) who fights with fluid acrobatics, flaming daggers, and sharp psychological misdirection.
-
-* **Cunning Action**: On each of her turns, Soraya can use a bonus action to take the Dash, Disengage, or Hide action.
-* **Sneak Attack (1/Turn)**: Soraya deals an extra 14 (4d6) damage when she hits a target with a weapon attack and has advantage on the attack roll.
-* **Silver Tongue**: When Soraya makes a Charisma (Persuasion) or Charisma (Deception) check, she can treat a d20 roll of 9 or lower as a 10.
-* **Innate Fire Magic**: Soraya can innately cast *Produce Flame* at will and *Burning Hands* (1st-level, saving throw) once per day.
-* **Multiattack**: Soraya makes three melee attacks with her *Flame-Tempered Jambiyas* or two ranged attacks.
-* **Flame-Tempered Jambiya (Dagger)**: *Melee or Ranged Weapon Attack:* +8 to hit, reach 5 ft. or range 20/60 ft., one target.
-* **Distracting Flourish (Recharge 4–6)**: Soraya unfurls her shifting cinder-silk veil in a blinding flash of hypnotic sparks. Each creature of her choice within 15 feet must make a saving throw or be charmed and incapacitated until the start of Soraya's next turn.
-* **Uncanny Dodge**: Soraya halves the damage she takes from an attack that hits her. She must be able to see the attacker.
-* **Bribe of Fate**: When a creature makes an attack roll against Soraya, she can toss an enchanted golden coin toward the attacker, forcing them to make a saving throw. On a failure, the attack misses as the creature is momentarily distracted by the shimmering wealth.
 
 ---
 

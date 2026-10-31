@@ -1,6 +1,6 @@
 ---
 title: "The Aurum-Gilded Basilisk"
-description: "Comprehensive species dossier, planar ecology, full 5e statblock, harvesting component yields, and lodge trophy-crafting for The Aurum-Gilded Basilisk across the Shattered Loom multiverse."
+description: "Comprehensive species dossier, planar ecology, harvesting component yields, and lodge trophy-crafting for The Aurum-Gilded Basilisk across the Shattered Loom multiverse."
 category: Species
 tags:
   - species
@@ -9,12 +9,11 @@ tags:
   - hunting
   - harvesting
   - crafting
-  - statblock
 dg-publish: true
 ---
 
 # 🦁 The Aurum-Gilded Basilisk
-### *Multiversal Species & Planar Apex Predator Dossier (Challenge Rating 11)*
+### *Multiversal Species & Planar Apex Predator Dossier*
 
 > “A beast whose scales are pure molten gold will tempt any mortal fool. But touch its hide and your hands will turn to heavy, frozen bullion.”
 — Merchant-Baron Vane
@@ -38,25 +37,14 @@ An eight-legged reptilian beast whose scales have absorbed centuries of pure aur
 
 ---
 
-## ⚔️ Combat Statistics (D&D 5e)
+## ⚔️ Tactical Overview & Threat Assessment
 
-* **Combat Statistics**:
-  * **Armor Class**: 15 (natural armor)
-  * **Hit Points**: 120 (15d10 + 45)
-  * **Speed**: 40 ft.
-  * **Abilities**: STR 18 (+4) | DEX 18 (+4) | CON 16 (+3) | INT 8 (-1) | WIS 14 (+2) | CHA 10 (+0)
-  * **Saving Throws**: Con +7, Wis +6
-  * **Senses**: darkvision 60 ft., passive Perception 16
-  * **Languages**: Understands native planar dialect; telepathy 60 ft. (or unaligned)
-  * **Challenge**: 11 (11,000 XP) | **Proficiency Bonus**: +4
-* **Signature Combat Traits**:
-  * **Planar Apex Resilience**: The Aurum-Gilded Basilisk has advantage on saving throws against spells and magical effects native to its home plane.
-  * **Predatory Instinct**: Adds its proficiency bonus (+4) to initiative rolls and cannot be surprised while conscious.
-* **Combat Actions & Multiattack**:
-  * **Multiattack**: The Aurum-Gilded Basilisk makes three attacks: two with its primary natural weapons and one crushing strike.
-  * **Primary Strike**: *Melee Weapon Attack*: +8 to hit, reach 10 ft., one target. *Hit*: 13 (2d10 + 4) slashing/piercing damage plus 7 (2d6) elemental/force damage.
-  * **Crushing Surge (Recharge 5–6)**: The Aurum-Gilded Basilisk unleashes a planar surge in a 30-foot cone/line. Targets must make a DC 15 Dexterity or Constitution save, taking 38 (11d6) damage on a failed save, or half as much on a success.
+> [!NOTE]
+> **Dungeon Master Directive**: Complete numeric combat statistics, Armor Class, Hit Points, saving throws, and attack modifiers are restricted to the Dungeon Master's Master Bestiary.
 
+* **Combat Overview**: A terrifying planar apex predator known for devastating ambushes, lethal multi-strikes, and environmental manipulation.
+* **Combat Behavior & Tactics**: Engages targets with predatory cunning, leveraging its native planar affinity to resist spells and overwhelm hunters before retreating into the planar terrain.
+* **Hunter's Warning**: Direct confrontation without specialized planar warding and lodge-grade gear is heavily discouraged.
 ---
 
 ## 🔪 Harvesting & Salvage Materials

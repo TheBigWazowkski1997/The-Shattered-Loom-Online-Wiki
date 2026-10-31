@@ -19,17 +19,12 @@ The Deep Keepers
 
 ---
 
-## Known Abilities & Combat Style
+## Tactical Profile & Combat Demeanor
+
+> [!NOTE]
+> **Dungeon Master Directive**: Complete numeric statistics, Armor Class, Hit Points, spell slots, and action mechanics are restricted to the Dungeon Master's Master Vault.
 
 Terridon is one of the oldest beings in the multiverse — possibly predating the Loom itself. He is the principle of *persistence*: the idea that matter, pressed hard enough and long enough, becomes permanent. His avatar manifests only when his plane is directly threatened, and when it does, it is an unstoppable force of geological inevitability. |30 (+10)|6 (-2)|24 (+7)|14 (+2)|20 (+5)|12 (+1)|
-
-* **Immovable**: Terridon cannot be moved, teleported, or banished by any means unless the effect deals more than 100 damage in a single turn.
-* **Seismic Presence**: Any creature that starts its turn within 30 feet of Terridon must succeed on a saving throw or be knocked prone by the ground trembling around him.
-* **Legendary Resistance (3/Day)**: If Terridon fails a saving throw, he can choose to succeed instead.
-* **Multiattack**: Terridon makes two Stone-Fist attacks.
-* **Stone-Fist**: The target must succeed on saving throw or be buried (restrained and suffocating underground).
-* **Earthshatter (Recharge 5–6)**: Terridon slams both fists into the ground. A 120-foot radius earthquake erupts — all creatures must saving throw or fall prone and take significant damage.
-* **Petrify (1/Day)**: Terridon gazes at one creature. It must make saving throw or be permanently petrified (reversed by *Greater Restoration*).
 
 ---
 

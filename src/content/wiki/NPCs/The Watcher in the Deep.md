@@ -1,6 +1,6 @@
 ---
 title: "The Watcher in the Deep"
-description: "Dramatis Personae entry and CR 18 Elder Aberration Matriarch profile for The Watcher in the Deep, High Oracle of the Submerged Ziggurat in Ry'leh."
+description: "Dramatis Personae entry and  Elder Aberration Matriarch profile for The Watcher in the Deep, High Oracle of the Submerged Ziggurat in Ry'leh."
 category: NPCs
 tags:
   - npc
@@ -39,51 +39,12 @@ A perpetual cloud of sparkling **Starlight Brine** surrounds her, refracting lig
 
 ---
 
-## ⚔️ Combat Profile & Statblock
+## Tactical Profile & Combat Demeanor
 
-```
-The Watcher in the Deep
-Huge Aberration, Neutral Evil
-Armor Class: 18 (Natural Armor / Psionic Ward)
-Hit Points: 253 (22d12 + 110)
-Speed: 10 ft., swim 60 ft., fly 40 ft. (hover)
-```
+> [!NOTE]
+> **Dungeon Master Directive**: Complete numeric statistics, Armor Class, Hit Points, spell slots, and action mechanics are restricted to the Dungeon Master's Master Vault.
 
-| STR | DEX | CON | INT | WIS | CHA |
-|:---:|:---:|:---:|:---:|:---:|:---:|
-| 22 (+6) | 16 (+3) | 20 (+5) | 24 (+7) | 22 (+6) | 18 (+4) |
-
-* **Saving Throws**: Con +11, Int +13, Wis +12, Cha +10
-* **Skills**: Arcana +13, Perception +12, Insight +12, History +13
-* **Damage Resistances**: Cold, Lightning; Bludgeoning, Piercing, and Slashing from Nonmagical Attacks
-* **Damage Immunities**: Psychic, Poison
-* **Condition Immunities**: Charmed, Frightened, Paralyzed, Poisoned, Prone
-* **Senses**: Truesight 120 ft., Passive Perception 22
-* **Languages**: Deep Speech, Telepathy 120 ft.
-* **Challenge**: 18 (20,000 XP) | **Proficiency Bonus**: +6
-
-### Traits
-
-* **Amphibious**: The Watcher can breathe both air and water.
-* **Aura of the Many-Eyed**: Any hostile creature that starts its turn within 30 feet of the Watcher must make a DC 19 Wisdom saving throw. On a failure, the creature takes 16 (3d10) psychic damage and suffers disadvantage on attack rolls against the Watcher until the start of its next turn.
-* **Legendary Resistance (3/Day)**: If the Watcher fails a saving throw, she can choose to succeed instead.
-* **Psionic Mastery**: The Watcher's spellcasting ability is Intelligence (spell save DC 21, +13 to hit with spell attacks). She can innately cast the following spells, requiring no material components:
-  * At will: *detect thoughts*, *levitate*, *mage hand* (invisible), *mind sliver* (4d6)
-  * 3/day each: *synaptic static*, *telekinesis*, *hold monster*, *counterspell* (at 5th level)
-  * 1/day each: *feeblemind*, *plane shift* (self and 4 willing allies only)
-
-### Actions
-
-* **Multiattack**: The Watcher uses *Mind Lash* and makes three Tentacle strikes.
-* **Tentacle**: *Melee Weapon Attack*: +12 to hit, reach 20 ft., one target. *Hit*: 19 (3d8 + 6) bludgeoning damage plus 11 (2d10) psychic damage. The target is grappled (escape DC 18). The Watcher can grapple up to four targets simultaneously.
-* **Mind Lash**: *Ranged Spell Attack*: +13 to hit, range 120 ft., one creature. *Hit*: 29 (4d10 + 7) psychic damage, and the target must succeed on a DC 21 Intelligence saving throw or lose **10 Lucidity** (under [[Custom Rules/The Eldritch Madness & Dream-Fracture Ruleset|Dream-Fracture Rules]]) and be stunned until the end of its next turn.
-* **Bile of the Dream (Recharge 5–6)**: The Watcher expels a 60-foot cone of bioluminescent psionic brine. Each creature in that area must make a DC 19 Dexterity saving throw. On a failed save, a creature takes 54 (12d8) acid plus psychic damage, is blinded for 1 minute, and loses **15 Lucidity**. On a successful save, it takes half damage and is not blinded.
-
-### Legendary Actions (3 Actions/Round)
-
-* **Tentacle Swipe**: The Watcher makes one Tentacle attack.
-* **Psionic Jaunt (Costs 2 Actions)**: The Watcher teleports up to 40 feet to an unoccupied space she can see, releasing a psychic burst. Each creature within 10 feet of her destination must succeed on a DC 19 Wisdom save or take 14 (4d6) psychic damage.
-* **Gaze of the Oracle (Costs 2 Actions)**: One creature within 60 feet must make a DC 21 Wisdom saving throw or reveal its innermost thoughts and vulnerabilities to the Watcher, granting all Dreambound cultists advantage on attack rolls against it for 1 minute.
+The Watcher in the Deep is an ancient aberrant psion that commands abyssal ocean depths and psionic crushing wards. It immobilizes prey with overwhelming telepathic pressure, commands crushing water currents, and probes mortal minds for cosmic secrets.
 
 ---
 

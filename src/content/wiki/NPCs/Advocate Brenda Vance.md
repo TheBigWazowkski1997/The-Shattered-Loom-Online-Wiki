@@ -15,17 +15,12 @@ dg-publish: true
 ---
 ---
 
-## Known Abilities & Combat Style
+## Tactical Profile & Combat Demeanor
+
+> [!NOTE]
+> **Dungeon Master Directive**: Complete numeric statistics, Armor Class, Hit Points, spell slots, and action mechanics are restricted to the Dungeon Master's Master Vault.
 
 Brenda is a formidable enchantment and abjuration specialist who weaponizes binding geas commands, legal counter-spells, and contractual curses.
-
-* **Contractual Immunity**: Brenda cannot be compelled to speak an untruth, nor can she be subjected to *Zone of Truth* or mind-reading against her will.
-* **Fine Print**: When a creature within 30 feet of Brenda makes an attack roll or ability check, Brenda can use a reaction to impose disadvantage on that roll by reciting an obscure cosmic exemption.
-* **Spellcasting**: Brenda is an 8th-level spellcaster. Her spellcasting ability is Charisma (spell save saving throw, +7 to hit with spell attacks). She has the following bard/warlock spells prepared:.
-* **Multiattack**: Brenda makes two attacks with her *Eldritch Injunction* or her *Pact-Breaker’s Scalpel*.
-* **Eldritch Injunction (Ray)**: *Ranged Spell Attack:* +7 to hit, range 90 ft., one target. If the target is a creature, it must succeed on a saving throw or be unable to take reactions until the start of Brenda's next turn.
-* **Pact-Breaker’s Scalpel**: one target. If the target is under the effect of a contract, geas, or planar bond, the effect is instantly dispelled.
-* **Subpoena of Damnation (Recharge 5–6)**: Brenda reads from a glowing legal parchment. Each hostile creature within 30 feet that can hear her must make a saving throw. On a failure, a creature takes significant damage and is paralyzed by crushing bureaucratic guilt until the end of its next turn.
 
 ---
 

@@ -1,6 +1,6 @@
 ---
 title: "Mind-Leviathan Harbinger"
-description: "Comprehensive species profile, lore, ecology, full 5e statblock, harvesting yields, and lodge crafting for Mind-Leviathan Harbinger across the Shattered Loom multiverse."
+description: "Comprehensive species profile, lore, ecology, harvesting yields, and lodge crafting for Mind-Leviathan Harbinger across the Shattered Loom multiverse."
 category: Species
 tags:
   - species
@@ -9,7 +9,6 @@ tags:
   - aberration
   - hunting
   - harvesting
-  - statblock
 dg-publish: true
 ---
 
@@ -33,43 +32,14 @@ Harbingers act as heralds for Elder Evils and Primordial Sleepers. They drift al
 
 ---
 
-## ⚔️ Combat Statistics (D&D 5e)
+## ⚔️ Tactical Overview & Threat Assessment
 
-*Huge Aberration, Neutral Evil*
-___
-* **Armor Class**: 18 (psionic deflection barrier)
-* **Hit Points**: 225 (18d12 + 108)
-* **Speed**: 10 ft., fly 50 ft. (hover)
+> [!NOTE]
+> **Dungeon Master Directive**: Complete numeric combat statistics, Armor Class, Hit Points, saving throws, and attack modifiers are restricted to the Dungeon Master's Master Bestiary.
 
-| STR | DEX | CON | INT | WIS | CHA |
-|:---:|:---:|:---:|:---:|:---:|:---:|
-| 22 (+6) | 12 (+1) | 22 (+6) | 22 (+6) | 20 (+5) | 18 (+4) |
-
-* **Saving Throws**: Con +11, Int +11, Wis +10, Cha +9
-* **Skills**: Arcana +16, Insight +10, Perception +10
-* **Damage Resistances**: acid, cold, fire; bludgeoning, piercing, and slashing from nonmagical attacks
-* **Damage Immunities**: psychic, poison
-* **Condition Immunities**: charmed, frightened, poisoned, prone, stunned
-* **Senses**: truesight 120 ft., telepathy 500 ft., passive Perception 20
-* **Languages**: Deep Speech, all planar tongues via telepathy
-* **Challenge**: 14 (11,500 XP) | **Proficiency Bonus**: +5
-
-#### Traits
-* **Aura of Cognitive Collapse**: Creatures starting their turn within 30 feet must make DC 18 Int save. Failed save: 14 (4d6) psychic damage, lose 1d8 Lucidity, and cannot cast spells of 1st level or higher for 1 round.
-* **Prescient Gaze**: Cannot be surprised; adds +6 (Int) to initiative checks and AC (included above).
-* **Magic Resistance**: Advantage on saving throws against spells and magical effects.
-
-#### Actions
-* **Multiattack**: The harbinger uses Mind-Fracture Pulse, then makes three Neural Cable attacks.
-* **Neural Cable**: *Melee Weapon Attack*: +11 to hit, reach 20 ft., one target. *Hit*: 19 (3d8 + 6) bludgeoning + 14 (4d6) psychic damage. Target grappled (escape DC 19, up to 8 targets).
-* **Mind-Fracture Pulse**: Targets up to three creatures within 90 feet. DC 19 Int save: 27 (6d8) psychic damage, stunned for 1 minute, lose 2d6 Lucidity.
-* **Synaptic Overload (Recharge 5–6)**: 60-foot sphere. DC 19 Wis save: 54 (12d8) psychic damage, incapacitated for 1 minute, lose 3d8 Lucidity (half on success).
-
-#### Legendary Actions (3/Turn)
-* **Detect**: Makes Perception or Insight check.
-* **Cable Lash**: Makes one Neural Cable attack.
-* **Warp Thought (Costs 2 Actions)**: Forces one grappled target (DC 18 Wis save) to use reaction to make weapon attack against an ally.
-
+* **Combat Overview**: A terrifying planar apex predator known for devastating ambushes, lethal multi-strikes, and environmental manipulation.
+* **Combat Behavior & Tactics**: Engages targets with predatory cunning, leveraging its native planar affinity to resist spells and overwhelm hunters before retreating into the planar terrain.
+* **Hunter's Warning**: Direct confrontation without specialized planar warding and lodge-grade gear is heavily discouraged.
 ---
 
 ## 🔪 Harvesting & Salvage Materials

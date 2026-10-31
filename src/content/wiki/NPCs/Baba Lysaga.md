@@ -20,20 +20,12 @@ dg-publish: true
 
 ---
 
-## Known Abilities & Combat Style
+## Tactical Profile & Combat Demeanor
+
+> [!NOTE]
+> **Dungeon Master Directive**: Complete numeric statistics, Armor Class, Hit Points, spell slots, and action mechanics are restricted to the Dungeon Master's Master Vault.
 
 Baba Lysaga is a devastating arch-witch and master of fey-tainted chronal magic. In battle, she flies high above her enemies in her floating giant dragon skull, raining down swarms of insects, chain lightning, and blight spells while commanding her terrifying animated construct, the **Creeping Hut**. She orchestrated the **Chronal Link** that bound Barovia's three ancient Fanes to three young [[../Species/Hag Dragon|Hag Dragons]] (Vervain the Spindle, Morrigan, and Gryla). By drawing upon the corrupted Loom Fragment—the **Crimson Weave**—she channeled world-altering 9th-level coven rituals to sustain Strahd's absolute immortality.
-* **Damage Resistances**: Acid, Necrotic, Poison.
-* **Condition Immunities**: Charmed, Frightened, Poisoned.
-* **Senses**: Truesight 60 ft., Passive Perception 17.
-* **Languages**: Abyssal, Common, Draconic, Sylvan.
-* **Shapechanger**: Baba Lysaga can use an action to polymorph into a swarm of insects (flies or mosquitoes) or back into her true form.
-* **Blessing of Mother Night**: Baba Lysaga is shielded from divination magic. She can't be targeted by such magic or perceived through scrying sensors.
-* **Master of the Creeping Hut**: As long as Baba Lysaga is conscious, she can telepathically command the Creeping Hut to attack, move, or use root-spikes as a bonus action.
-* **Spellcasting**: Baba Lysaga is a 16th-level spellcaster (high spell save difficulty, expert accuracy with spell attacks). Prepared spells:.
-* **Multiattack**: Baba Lysaga makes two quarterstaff attacks or casts a spell and makes one attack.
-* **Rusted Spindle-Staff**: *Melee Weapon Attack*: expert accuracy, reach 5 ft., one target. bludgeoning damage plus significant damage.
-* **Summon Swarms of Insects (Recharge 5–6)**: Baba Lysaga summons 1d4 swarms of biting swamp flies or rot grubs in unoccupied spaces she can see within 60 feet.
 
 ---
 

@@ -19,16 +19,12 @@ The Ironscribes
 
 ---
 
-## Known Abilities & Combat Style
+## Tactical Profile & Combat Demeanor
+
+> [!NOTE]
+> **Dungeon Master Directive**: Complete numeric statistics, Armor Class, Hit Points, spell slots, and action mechanics are restricted to the Dungeon Master's Master Vault.
 
 Before the Shattering, Regnath's plane was the perfect engine of cosmic law — a realm where every interaction had defined rules and consequences. The Shattering broke the plane's central structure, leaving it a fragmented maze of contradictory laws. His avatar manifests to impose order on chaos, whether that chaos is a planar invasion or a legal dispute.
-
-* **Law Mandate**: Regnath can impose a single rule on the battlefield as a bonus action (e.g., "No creature may move more than 10 feet on their turn," or "No creature may cast a spell of 3rd level or higher"). Each creature that violates the rule takes significant damage. The rule lasts 1 minute or until Regnath creates a new one.
-* **Legendary Resistance (3/Day)**: If Regnath fails a saving throw, he can choose to succeed instead.
-* **Multiattack**: Regnath makes three Shard-Fist attacks.
-* **Shard-Fist**: Notable combat maneuver and signature technique.
-* **Judgment (Recharge 5–6)**: Regnath points at one creature. That creature must make a saving throw. On failure, it is banished to a pocket dimension of pure white law for 1 minute (no concentration required). While there, it cannot act or be acted upon. It is returned at the start of Regnath's next turn after 1 minute.
-* **Edict of Stillness (1/Day)**: All creatures in a 120-foot radius must succeed on a saving throw or be paralyzed for 1 minute as Regnath imposes absolute stillness.
 
 ---
 

@@ -21,32 +21,12 @@ dg-publish: true
 
 ---
 
-## Known Abilities & Combat Style
+## Tactical Profile & Combat Demeanor
+
+> [!NOTE]
+> **Dungeon Master Directive**: Complete numeric statistics, Armor Class, Hit Points, spell slots, and action mechanics are restricted to the Dungeon Master's Master Vault.
 
 Halaster is a formidable archmage-tier threat whose power lies in battlefield control, planar manipulation, and recursive spellcasting. In his chamber, the "Workshop of Recursive Logic," the environment itself is his weapon—he can rewrite the local laws of physics mid-combat. **Proficiency Bonus** +8 ***Legendary Resistance (4/Day).*** If Halaster fails a saving throw, he can choose to succeed instead. ***Magic Resistance.*** Halaster has advantage on saving throws against spells and other magical effects. ***Planar Adaptation.*** Halaster is immune to the detrimental environmental effects of any plane (extreme heat, cold, pressure, gravity, void, etc.). He can breathe in any medium. ***The Undermountain Knot (Lair Trait).*** While in Chamber 13 (or any area he has "braided"), Halaster can use a bonus action to alter one environmental property within 120 ft.: gravity direction/strength, time flow (half/double speed), planar trait (e.g., Feywild wild magic, Shadowfell despair), or connectivity (create/close a temporary portal to a known plane). The change lasts until he uses this trait again or leaves the area. ***Null-Thread Adaptation.*** Within the 32 Chambers, Halaster's magic functions normally despite the Null-Thread Field. He can cast spells without Thread-Anchors. ***Innate Spellcasting (Psionics).*** Halaster's spellcasting ability is Intelligence (spell save saving throw, +18 to hit with spell attacks). He can innately cast the following spells, requiring no components:
-
-* **At will:**: *detect magic, mage hand, minor illusion, prestidigitation, true strike*.
-* **3/day each:**: *blink, dimension door, misty step, rope trick, see invisibility, spider climb*.
-* **1/day each:**: *astral projection, banishment, etherealness, gate, plane shift, teleport*.
-* **Cantrips (at will):**: *booming blade, control flames, fire bolt, gust, light, mage hand, mending, message, minor illusion, ray of frost, shape water, sword burst, thunderclap*.
-* **1st level (4 slots):**: *absorb elements, alarm, chromatic orb, detect magic, expeditious retreat, feather fall, find familiar, identify, shield, silent image, Tasha's hideous laughter*.
-* **2nd level (3 slots):**: *blindness/deafness, blur, detect thoughts, invisibility, knock, levitate, misty step, rope trick, see invisibility, shatter, web*.
-* **3rd level (3 slots):**: *blink, counterspell, dispel magic, fear, fly, gaseous form, haste, hypnotic pattern, Leomund's tiny hut, major image, nondetection, slowing time (homebrew), thunder step*.
-* **4th level (3 slots):**: *banishment, dimension door, fabricate, greater invisibility, hallucinatory terrain, Mordenkainen's faithful hound, Mordenkainen's private sanctum, Otiluke's resilient sphere, stone shape, wall of fire*.
-* **5th level (3 slots):**: *animate objects, Bigby's hand, cone of cold, creation, dominate person, geas, hold monster, mislead, modify memory, passwall, planar binding, scrying, seeming, telekinesis, teleportation circle, wall of force*.
-* **6th level (2 slots):**: *chain lightning, circle of death, contingency, create homunculus, disintegrate, eyebite, globe of invulnerability, mass suggestion, move earth, Otiluke's freezing sphere, true seeing, wall of ice*.
-* **7th level (2 slots):**: *etherealness, finger of death, forcecage, mirage arcane, plane shift, power word pain, reverse gravity, symbol, teleport*.
-* **8th level (1 slot):**: *antimagic field, demiplane, dominate monster, feeblemind, mind blank, power word stun*.
-* **9th level (1 slot):**: *foresight, gate, imprismment, power word kill, time stop, true polymorph, wish*.
-* **Feywild Bloom:**: The area becomes difficult terrain, blooming with explosive flowers. Creatures take 22 (4d10) radiant at start of turn.
-* **Shadowfell Rot:**: The area becomes magical darkness. Creatures take 22 (4d10) necrotic at start of turn and are blinded while in it.
-* **Astral Clarity:**: The area becomes zero-gravity. Creatures float, have advantage on Dexterity saves, disadvantage on Strength saves.
-* **Elemental Chaos:**: Random damage type (acid, cold, fire, lightning, thunder) each round, 18 (4d8).
-* **Cantrip**: Halaster casts a cantrip.
-* **Braided Bolt**: Halaster makes one Braided Bolt attack.
-* **Shift the Knot (Costs 2 Actions)**: Halaster uses *Thread-Snip* or *Knot-Tighten*.
-* **Rewrite the Pattern (Costs 3 Actions)**: Halaster uses *Weave Reality* (recharge resets).
-* **Perfect Braid (Costs 3 Actions)**: Halaster casts *teleport*, *plane shift*, or *gate* without expending a spell slot.
 
 ---
 

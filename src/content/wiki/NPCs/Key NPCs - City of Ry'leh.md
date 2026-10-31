@@ -21,11 +21,11 @@ The extradimensional city of **Ry'leh** is populated not by ordinary mortal citi
 
 | NPC Name | Title / Archetype | District / Location | Primary Role & Significance | Dossier Link |
 | :--- | :--- | :--- | :--- | :---: |
-| **The Great Dreamer** | The Somnolent Colossus (CR 30) | Sanctum of the Sleeper (Ziggurat Tier 5) | The primordial entity whose dream-state sustains the city's existence. | [[NPCs/The Great Dreamer|Dossier]] |
-| **The Watcher in the Deep** | High Oracle of the Ziggurat (CR 18) | Chamber of Eyes (Ziggurat Tier 2) | Supreme prophet of the Dreambound cult; controls brine rites. | [[NPCs/The Watcher in the Deep|Dossier]] |
-| **Archivist Mauren Coldsteel** | Displaced Loom Scholar (CR 9) | The Fractured District | Cartographer tracking reality-leakage; provides grounding anchors. | *Below* |
-| **Scribe Kath'un** | Cephaloid Lore-Broker (CR 7) | Starlight Harbor (*The Scribed Nautilus*) | Sells non-Euclidean charts and buys suppressed planar memories. | *Below* |
-| **Captain Vaelen Dreadtide** | Drowned Ghost Corsair (CR 11) | Starlight Harbor (*The Drowned Reflection*) | Commands an astral galleon; ferries adventurers across thought-currents. | *Below* |
+| **The Great Dreamer** | The Somnolent Colossus | Sanctum of the Sleeper (Ziggurat Tier 5) | The primordial entity whose dream-state sustains the city's existence. | [[NPCs/The Great Dreamer|Dossier]] |
+| **The Watcher in the Deep** | High Oracle of the Ziggurat | Chamber of Eyes (Ziggurat Tier 2) | Supreme prophet of the Dreambound cult; controls brine rites. | [[NPCs/The Watcher in the Deep|Dossier]] |
+| **Archivist Mauren Coldsteel** | Displaced Loom Scholar | The Fractured District | Cartographer tracking reality-leakage; provides grounding anchors. | *Below* |
+| **Scribe Kath'un** | Cephaloid Lore-Broker | Starlight Harbor (*The Scribed Nautilus*) | Sells non-Euclidean charts and buys suppressed planar memories. | *Below* |
+| **Captain Vaelen Dreadtide** | Drowned Ghost Corsair | Starlight Harbor (*The Drowned Reflection*) | Commands an astral galleon; ferries adventurers across thought-currents. | *Below* |
 
 ---
 

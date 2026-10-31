@@ -15,17 +15,12 @@ dg-publish: true
 ---
 ---
 
-## Known Abilities & Combat Style
+## Tactical Profile & Combat Demeanor
+
+> [!NOTE]
+> **Dungeon Master Directive**: Complete numeric statistics, Armor Class, Hit Points, spell slots, and action mechanics are restricted to the Dungeon Master's Master Vault.
 
 Selvan is a formidable primal spellcaster and shapeshifter who commands plant growth, elemental healing, and transforms into colossal apex predators.
-
-* **Firbolg Magic**: Selvan can cast *Detect Magic* and *Disguise Self* at will. As a bonus action, he can turn invisible until the start of his next turn (1/short rest).
-* **Primal Rejuvenation**: Whenever Selvan casts a druid spell of 1st level or higher that restores hit points, the target also gains 10 temporary hit points.
-* **Spellcasting**: Selvan is an 11th-level spellcaster. His spellcasting ability is Wisdom (spell save saving throw, +9 to hit with spell attacks). He has the following druid spells prepared:.
-* **Bough-Heart Strike**: Notable combat maneuver and signature technique.
-* **Wild Shape (2/Day)**: Selvan magically transforms into an **Apex Cave Bear** (CR 7 beast with 120 HP, AC 15, multiattack with bite and claws dealing 2d8 + 6 damage), retaining his mental ability scores and spellcasting capabilities.
-* **Wrath of the Elderbough (Recharge 5–6)**: Living roots erupt in a 30-foot radius centered on a point within 60 feet. Each creature in that area must make a saving throw. On a failure, a creature takes 35 (10d6) bludgeoning and piercing damage and is restrained. On a success, it takes half damage and is not restrained.
-* **Canopy Blessing**: When an ally within 30 feet takes damage, Selvan can cause protective thorny vines to sprout, reducing the damage by 15 (1d10 + 10) and dealing 10 piercing damage to the attacker if it is within 10 feet.
 
 ---
 

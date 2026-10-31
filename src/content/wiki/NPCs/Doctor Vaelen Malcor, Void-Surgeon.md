@@ -1,6 +1,6 @@
 ---
 title: "Doctor Vaelen Malcor, Void-Surgeon"
-description: "Dramatis Personae profile and CR 13 statblock for Doctor Vaelen Malcor, Chief Void-Surgeon and master aberration anatomist of the Order of the Severed Eye."
+description: "Dramatis Personae profile and lore profile for Doctor Vaelen Malcor, Chief Void-Surgeon and master aberration anatomist of the Order of the Severed Eye."
 category: NPCs
 tags:
   - npc
@@ -30,34 +30,12 @@ dg-publish: true
 
 ---
 
-## ⚔️ Combat Profile & Statblock
+## Tactical Profile & Combat Demeanor
 
-```
-Doctor Vaelen Malcor
-Medium Humanoid (Tiefling), Neutral Good
-Armor Class: 17 (Lead-Lined Leather + Buckler)
-Hit Points: 162 (18d8 + 72)
-Speed: 30 ft.
-```
+> [!NOTE]
+> **Dungeon Master Directive**: Complete numeric statistics, Armor Class, Hit Points, spell slots, and action mechanics are restricted to the Dungeon Master's Master Vault.
 
-| STR | DEX | CON | INT | WIS | CHA |
-|:---:|:---:|:---:|:---:|:---:|:---:|
-| 12 (+1) | 18 (+4) | 18 (+4) | 22 (+6) | 18 (+4) | 14 (+2) |
-
-* **Saving Throws**: Dex +9, Con +9, Int +11
-* **Skills**: Medicine +14, Arcana +11, Nature +11, Sleight of Hand +9
-* **Damage Resistances**: Fire, Poison, Psychic
-* **Condition Immunities**: Poisoned
-* **Senses**: Darkvision 60 ft., Passive Perception 14
-* **Languages**: Common, Infernal, Deep Speech, Primordial
-* **Challenge**: 13 (10,000 XP) | **Proficiency Bonus**: +5
-
-### Actions
-
-* **Multiattack**: Malcor makes three attacks with his **Cold-Iron Bone-Scalpels** or throws two **Concentrated Void-Acid Vials**.
-* **Cold-Iron Bone-Scalpel**: *Melee Weapon Attack*: +11 to hit, reach 5 ft., one target. *Hit*: 9 (1d6 + 6) piercing damage plus 10 (3d6) acid or necrotic damage. Target must succeed on a DC 19 Constitution save or have its speed halved for 1 round.
-* **Concentrated Void-Acid Vial**: *Ranged Weapon Attack*: +9 to hit, range 30/60 ft., one target. *Hit*: 24 (7d6) acid and force damage. Acid splashes onto all creatures within 5 feet (DC 19 Dex save or take 3d6 acid).
-* **Adrenaline Shock-Suture (Recharge 5–6)**: Malcor injects an ally within 5 feet with an experimental stimulant. The ally regains 35 (6d10 + 2) hit points, recovers 15 Lucidity, and gains advantage on all saving throws for 1 round.
+Doctor Vaelen Malcor is a cold, calculating surgeon-arcanist who wields void-infused scalpel strikes and horrifying reality-stitching techniques to paralyze opponents and dissect supernatural vulnerabilities.
 
 ---
 

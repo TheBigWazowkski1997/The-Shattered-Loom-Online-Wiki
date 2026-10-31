@@ -13,32 +13,12 @@ dg-publish: true
 * **Personality**: Loyal exclusively to the Great Dreamer. It does not experience loyalty as devotion — it experiences it as physics. It speaks cryptically when it speaks at all, and "tests" intruders not out of cruelty but out of a genuine drive to determine whether they are worthy to proceed deeper into the Ziggurat.
 
 ---
-## Lair Actions (Ziggurat of Ry'leh)
+## Tactical Profile & Combat Demeanor
 
-While Xelthar is inside the Ziggurat, it can use the following lair actions (Initiative count 20, losing ties):
-1. **Dream Seep.** All creatures within the Ziggurat who are not servants of the Dreamer must make a saving throw Wisdom saving throw or suffer short-term madness for 1d10 minutes.
-2. **Reality Shift.** One room of the Ziggurat connects to a different room, potentially separating the party (saving throw Dexterity save to avoid being teleported to the new location).
-3. **Eyes in the Walls.** Xelthar gains advantage on all Perception and Insight checks until the start of the next round.
-
----
-[[Key NPCs - Dreambound|Key NPCs - Dreambound]]
-[[Maerith the Whisperer|Maerith the Whisperer]]
-[[Arvix, the Dreambound Wanderer|Arvix, the Dreambound Wanderer]]
-[[../Cosmology/Beings of Power/The Great Dreamer|The Great Dreamer]]
-
----
-
-## Known Abilities & Combat Style
+> [!NOTE]
+> **Dungeon Master Directive**: Complete numeric statistics, Armor Class, Hit Points, spell slots, and action mechanics are restricted to the Dungeon Master's Master Vault.
 
 Xelthar is a powerful aberrant guardian based on a Mind Flayer chassis, enhanced by legendary resistances and tied to the Ziggurat's lair actions. It combines mind blasts with chitinous strikes, using its many eyes to track multiple targets simultaneously.
-
-* **Legendary Resistance (1/Day)**: If Xelthar fails a saving throw, it can choose to succeed instead.
-* **All-Seeing**: Xelthar cannot be flanked and does not grant advantage to attackers from any direction due to its distributed eyes.
-* **Innate Spellcasting**: Xelthar can cast *Detect Thoughts* (saving throw) and *Levitate* at will.
-* **Multiattack**: Xelthar makes two Chitin Claw attacks and uses Mind Blast if available.
-* **Chitin Claw**: one target. The target must succeed on a saving throw or be stunned until the end of its next turn.
-* **Mind Blast (Recharge 5–6)**: Xelthar emits psychic energy in a 60-foot cone. Each creature in the area must succeed on a saving throw, taking significant damage and being stunned for 1 minute on a failure, or taking half damage and not being stunned on a success. A stunned creature can repeat the save at the end of each of its turns.
-* **Extract Brain**: one incapacitated humanoid. If this reduces the target to 0 hit points, Xelthar kills it by extracting and devouring its brain.
 
 ---
 

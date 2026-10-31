@@ -15,19 +15,12 @@ dg-publish: true
 ---
 ---
 
-## Known Abilities & Combat Style
+## Tactical Profile & Combat Demeanor
+
+> [!NOTE]
+> **Dungeon Master Directive**: Complete numeric statistics, Armor Class, Hit Points, spell slots, and action mechanics are restricted to the Dungeon Master's Master Vault.
 
 Morwen is an elusive shadow-dancer and master skirmisher who uses shadows as physical barriers, weapons, and portals. She can vanish into darkness in the blink of an eye and blind attackers with cloaking gloom.
-
-* **Fey Ancestry**: Morwen has advantage on saving throws against being charmed, and magic can't put her to sleep.
-* **Shadow Veil**: While in dim light or darkness, Morwen is invisible to creatures that rely on darkvision to see her.
-* **Shadow Step**: As a bonus action, Morwen teleports up to 40 feet to an unoccupied space in dim light or darkness. She then has advantage on the first melee attack roll she makes before the end of the turn.
-* **Weaver's Needle**: Morwen deals an extra significant damage when she hits a target with a finesse weapon.
-* **Multiattack**: Morwen makes three attacks: two with her *Umbral Stiletto* and one with her *Shadow-Thread Snare*.
-* **Umbral Stiletto**: Notable combat maneuver and signature technique.
-* **Shadow-Thread Snare**: *Ranged Spell Attack:* +8 to hit, range 40 ft., one target.
-* **Shroud of Night (Recharge 5–6)**: Morwen releases an expanding wave of magical darkness in a 20-foot radius centered on herself. The darkness lasts for 1 minute and turns nonmagical light into pitch darkness. Darkvision cannot penetrate it. Morwen can see through this darkness normally.
-* **Umbral Shift**: When a creature hits Morwen with an attack roll, Morwen swaps places with an unoccupied shadow within 15 feet, reducing the attack's damage to 0.
 
 ---
 

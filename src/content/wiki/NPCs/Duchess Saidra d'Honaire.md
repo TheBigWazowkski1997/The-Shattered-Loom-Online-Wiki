@@ -18,20 +18,12 @@ dg-publish: true
 
 ---
 
-## Known Abilities & Combat Style
+## Tactical Profile & Combat Demeanor
+
+> [!NOTE]
+> **Dungeon Master Directive**: Complete numeric statistics, Armor Class, Hit Points, spell slots, and action mechanics are restricted to the Dungeon Master's Master Vault.
 
 Saidra fights through psychic glamour, animated glass, and devastating illusions. She manipulates the grand mirrors of the Grand Masquerade, stepping through reflective surfaces to evade harm, turning her enemies' own delusions and social insecurities into lethal psychic trauma, and transforming those who commit faux pas into lifeless mannequins.
-* **Damage Resistances**: Psychic; Bludgeoning, Piercing, and Slashing from Nonmagical Attacks.
-* **Condition Immunities**: Charmed, Frightened, Poisoned.
-* **Senses**: Darkvision 120 ft., Passive Perception 16.
-* **Languages**: Common, Elvish, Sylvan.
-* **Mirror Step**: As a bonus action while adjacent to a mirror, polished glass, or reflective surface, Saidra can teleport up to 60 feet to an unoccupied space adjacent to another reflective surface.
-* **False Elegance**: Attack rolls against Saidra have disadvantage unless the attacker can see through illusions (such as with *True Seeing* or blindsight).
-* **Social Ruin**: Any creature charmed by Saidra automatically regards her commands as unquestionable edicts of high society.
-* **Multiattack**: Saidra makes three attacks: two with her Glass Rapier and one with her Whispers of Scorn, or casts a spell.
-* **Spun-Glass Rapier**: *Melee Weapon Attack*: expert accuracy, reach 5 ft., one target. piercing damage plus significant damage. On a hit, shards of mirror embed in the target; until removed (action), the creature takes significant damage if it takes an action.
-* **Whispers of Scorn**: *Ranged Spell Attack*: expert accuracy, range 60 ft., one creature. *Hit*: significant damage, and the target must succeed on a saving throw or be incapacitated until the end of its next turn as it is overcome with acute social shame.
-* **Porcelain Transmutation (Recharge 5–6)**: Saidra targets a creature within 30 feet. The target must succeed on a saving throw or begin calcifying into brittle porcelain, being restrained. The restrained creature must repeat the save at the end of its next turn. On a success, the effect ends; on a failure, the creature is petrified into a delicate porcelain doll until restored by *Greater Restoration*.
 
 ---
 

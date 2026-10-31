@@ -1,6 +1,6 @@
 ---
 title: "The Hellfire Brimstone Juggernaut"
-description: "Comprehensive species dossier, planar ecology, full 5e statblock, harvesting component yields, and lodge trophy-crafting for The Hellfire Brimstone Juggernaut across the Shattered Loom multiverse."
+description: "Comprehensive species dossier, planar ecology, harvesting component yields, and lodge trophy-crafting for The Hellfire Brimstone Juggernaut across the Shattered Loom multiverse."
 category: Species
 tags:
   - species
@@ -9,12 +9,11 @@ tags:
   - hunting
   - harvesting
   - crafting
-  - statblock
 dg-publish: true
 ---
 
 # 🦁 The Hellfire Brimstone Juggernaut
-### *Multiversal Species & Planar Apex Predator Dossier (Challenge Rating 15)*
+### *Multiversal Species & Planar Apex Predator Dossier*
 
 > “Every beast here has a contract stamped into its hide and brimstone in its lungs. Kill it cleanly, or the debt passes to your descendants.”
 — Inquisitor Sylas the Blind
@@ -38,25 +37,14 @@ A terrifying war-beast bred in the armories of Dis. It resembles a quadrupedal r
 
 ---
 
-## ⚔️ Combat Statistics (D&D 5e)
+## ⚔️ Tactical Overview & Threat Assessment
 
-* **Combat Statistics**:
-  * **Armor Class**: 17 (natural armor)
-  * **Hit Points**: 190 (19d12 + 95)
-  * **Speed**: 40 ft.
-  * **Abilities**: STR 22 (+6) | DEX 16 (+3) | CON 20 (+5) | INT 10 (+0) | WIS 16 (+3) | CHA 10 (+0)
-  * **Saving Throws**: Con +10, Wis +8
-  * **Senses**: truesight 60 ft., darkvision 120 ft., passive Perception 18
-  * **Languages**: Understands native planar dialect; telepathy 60 ft. (or unaligned)
-  * **Challenge**: 15 (15,000 XP) | **Proficiency Bonus**: +5
-* **Signature Combat Traits**:
-  * **Planar Apex Resilience**: The Hellfire Brimstone Juggernaut has advantage on saving throws against spells and magical effects native to its home plane.
-  * **Predatory Instinct**: Adds its proficiency bonus (+5) to initiative rolls and cannot be surprised while conscious.
-* **Combat Actions & Multiattack**:
-  * **Multiattack**: The Hellfire Brimstone Juggernaut makes three attacks: two with its primary natural weapons and one crushing strike.
-  * **Primary Strike**: *Melee Weapon Attack*: +11 to hit, reach 10 ft., one target. *Hit*: 15 (3d10 + 6) slashing/piercing damage plus 7 (2d6) elemental/force damage.
-  * **Crushing Surge (Recharge 5–6)**: The Hellfire Brimstone Juggernaut unleashes a planar surge in a 30-foot cone/line. Targets must make a DC 17 Dexterity or Constitution save, taking 52 (15d6) damage on a failed save, or half as much on a success.
+> [!NOTE]
+> **Dungeon Master Directive**: Complete numeric combat statistics, Armor Class, Hit Points, saving throws, and attack modifiers are restricted to the Dungeon Master's Master Bestiary.
 
+* **Combat Overview**: A terrifying planar apex predator known for devastating ambushes, lethal multi-strikes, and environmental manipulation.
+* **Combat Behavior & Tactics**: Engages targets with predatory cunning, leveraging its native planar affinity to resist spells and overwhelm hunters before retreating into the planar terrain.
+* **Hunter's Warning**: Direct confrontation without specialized planar warding and lodge-grade gear is heavily discouraged.
 ---
 
 ## 🔪 Harvesting & Salvage Materials

@@ -20,18 +20,12 @@ dg-publish: true
 
 ---
 
-## Known Abilities & Combat Style
+## Tactical Profile & Combat Demeanor
+
+> [!NOTE]
+> **Dungeon Master Directive**: Complete numeric statistics, Armor Class, Hit Points, spell slots, and action mechanics are restricted to the Dungeon Master's Master Vault.
 
 Kaelthar is a shadow-warlock/fighter hybrid who combines devastating melee strikes with necrotic shadow magic. He uses his independent shadow as a flanking partner and can teleport through darkness as a reaction. He fights with military precision — every move has a tactical purpose.
-
-* **Shadow Clone**: Kaelthar's shadow acts as an independent entity. As a bonus action, he can direct it to make one melee attack (+10 to hit, significant damage). The shadow is destroyed if it takes 15 or more radiant damage in a single turn.
-* **Shadar-kai Resilience**: Kaelthar has advantage on death saving throws and has resistance to all damage while at 0 HP until his first death save resolves.
-* **Legendary Resistance (2/Day)**: If Kaelthar fails a saving throw, he can choose to succeed instead.
-* **Multiattack**: Kaelthar makes three attacks with his Silver Blade.
-* **Silver Blade**: Unleashes swift, precision strikes infused with psychic or elemental energy.
-* **Shadow Step (Recharge 5–6)**: Kaelthar teleports from one area of dim light or darkness to another within 60 feet. Each creature within 5 feet of his departure point takes significant damage (saving throw for half).
-* **Severance Command (1/Day)**: Kaelthar issues a battlefield command. Each ally within 60 feet can immediately make one additional weapon attack as a reaction. Each enemy within 60 feet must succeed on a saving throw or be frightened for 1 minute.
-* **Parry of Shadows**: When hit by a melee attack, Kaelthar can redirect his shadow to intercept. He takes half damage and his shadow takes the other half (and is destroyed if it exceeds its threshold).
 
 ---
 

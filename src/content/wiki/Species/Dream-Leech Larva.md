@@ -1,6 +1,6 @@
 ---
 title: "Dream-Leech Larva"
-description: "Comprehensive species profile, lore, ecology, full 5e statblock, harvesting yields, and lodge crafting for Dream-Leech Larva across the Shattered Loom multiverse."
+description: "Comprehensive species profile, lore, ecology, harvesting yields, and lodge crafting for Dream-Leech Larva across the Shattered Loom multiverse."
 category: Species
 tags:
   - species
@@ -9,7 +9,6 @@ tags:
   - aberration
   - hunting
   - harvesting
-  - statblock
 dg-publish: true
 ---
 
@@ -33,39 +32,14 @@ Dream-Leech larvae cannot survive long in mundane three-dimensional atmosphere w
 
 ---
 
-## ⚔️ Combat Statistics (D&D 5e)
+## ⚔️ Tactical Overview & Threat Assessment
 
-*Medium Aberration, Neutral Evil*
-___
-* **Armor Class**: 14 (natural armor)
-* **Hit Points**: 52 (8d8 + 16)
-* **Speed**: 20 ft., burrow 20 ft., swim 30 ft.
+> [!NOTE]
+> **Dungeon Master Directive**: Complete numeric combat statistics, Armor Class, Hit Points, saving throws, and attack modifiers are restricted to the Dungeon Master's Master Bestiary.
 
-| STR | DEX | CON | INT | WIS | CHA |
-|:---:|:---:|:---:|:---:|:---:|:---:|
-| 12 (+1) | 16 (+3) | 14 (+2) | 13 (+1) | 14 (+2) | 8 (-1) |
-
-* **Saving Throws**: Dex +5, Wis +4
-* **Skills**: Stealth +7, Perception +4
-* **Damage Resistances**: cold, psychic; bludgeoning and piercing from nonmagical attacks
-* **Condition Immunities**: charmed, frightened, prone
-* **Senses**: blindsight 60 ft. (blind beyond), passive Perception 14
-* **Languages**: understands Deep Speech but can't speak; telepathy 30 ft.
-* **Challenge**: 6 (2,300 XP) | **Proficiency Bonus**: +3
-
-#### Traits
-* **Oneiric Parasite**: The larva can inhabit the dream of any sleeping creature within 120 feet. While feeding, the victim suffers terrifying night terrors, regains no hit points or spell slots from long rests, and loses 1d6 Lucidity per night.
-* **Slippery Geometry**: The larva can move through spaces as narrow as 1 inch without squeezing. It has advantage on checks and saving throws to escape grapples.
-* **Psychic Static**: Creatures starting their turn within 10 feet must succeed on a DC 13 Wisdom saving throw or take 7 (2d6) psychic damage and suffer disadvantage on concentration checks until the start of their next turn.
-
-#### Actions
-* **Multiattack**: The larva makes two attacks: one with its Barbed Proboscis and one with its Psychic Siphon.
-* **Barbed Proboscis**: *Melee Weapon Attack*: +6 to hit, reach 5 ft., one target. *Hit*: 8 (1d10 + 3) piercing damage plus 9 (2d8) psychic damage. If target is Medium or smaller, larva attaches to the target's neck. While attached, it moves with the target and has advantage on attack rolls against it.
-* **Psychic Siphon**: *Melee Spell Attack*: +5 to hit, reach 5 ft., one attached or grappled target. *Hit*: 14 (4d6) psychic damage, and the larva regains hit points equal to half the psychic damage dealt. The target must succeed on a DC 13 Intelligence saving throw or lose 1d4 Lucidity.
-
-#### Reactions
-* **Phase Shift**: When targeted by an attack, the larva shifts between dimensional folds, adding +3 to its AC against that attack.
-
+* **Combat Overview**: A terrifying planar apex predator known for devastating ambushes, lethal multi-strikes, and environmental manipulation.
+* **Combat Behavior & Tactics**: Engages targets with predatory cunning, leveraging its native planar affinity to resist spells and overwhelm hunters before retreating into the planar terrain.
+* **Hunter's Warning**: Direct confrontation without specialized planar warding and lodge-grade gear is heavily discouraged.
 ---
 
 ## 🔪 Harvesting & Salvage Materials

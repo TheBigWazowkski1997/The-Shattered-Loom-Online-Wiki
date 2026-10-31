@@ -13,38 +13,12 @@ dg-publish: true
 * **Personality**: Warmly maternal, compassionate, and eloquent. She presents herself as the Lodge's beating heart. In truth, she is the most dangerous of the three Spindle Lords — because she is utterly convinced she is right.
 
 ---
-## Spellcasting
+## Tactical Profile & Combat Demeanor
 
-Aelira is a 15th-level Enchanter/Diviner. Spell Save saving throw, +12 to hit with spell attacks.
-
-* **Cantrips (at will):** *Guidance*, *Thaumaturgy*, *Message*
-* **3rd Level (3 slots):** *Hypnotic Pattern*, *Sending*, *Tongues*
-* **4th Level (3 slots):** *Compulsion*, *Banishment*
-* **5th Level (2 slots):** *Dominate Person*, *Geas*
-* **7th Level (1 slot):** *Forcecage*
-* **8th Level (1 slot):** *Dominate Monster*
-* **9th Level (1 slot):** *Wish* (used only to preserve the "Master Weave")
-
----
-[[Key NPCs - Pale Lodge|Key NPCs - Pale Lodge]]
-[[../Factions/The Pale Lodge/The Pale Lodge|The Pale Lodge]]
-[[The Silent Spool|The Silent Spool]]
-[[Kaelthar, the Threadwarden|Kaelthar, the Threadwarden]]
-
----
-
-## Known Abilities & Combat Style
+> [!NOTE]
+> **Dungeon Master Directive**: Complete numeric statistics, Armor Class, Hit Points, spell slots, and action mechanics are restricted to the Dungeon Master's Master Vault.
 
 Aelira fights through enchantment, radiant weaving, and spatial manipulation. She does not raise her voice or her hands — her spells flow from her like a natural extension of her speech. She is devastating in prolonged encounters where she can charm, redirect, and outlast her enemies.
-
-* **Harmonic Presence**: Creatures that start their turn within 30 feet of Aelira must succeed on a saving throw or be unable to take hostile actions against her until the start of their next turn. A creature that succeeds is immune to this effect for 24 hours.
-* **Thread Reading**: Aelira can sense the presence of Loom marks within 1 mile. When touching a marked creature, she can read fragments of their destiny (DM's discretion on what is revealed).
-* **The Harvest Agenda (Hidden)**: Creatures with Marks of Telara within 10 feet of Aelira gain 1 level of Exhaustion per hour spent in her presence (saving throw to resist), though they feel only warm and calm.
-* **Multiattack**: Aelira casts one spell and uses Thread Weave.
-* **Thread Weave**: *Ranged Spell Attack:* +12 to hit, range 90 ft., one target.
-* **Loom Pulse (Recharge 5–6)**: Aelira releases a pulse of harmonic energy in a 30-foot radius. Each creature of her choice must succeed on a saving throw or be charmed for 1 minute and compelled to move toward her on their next turn.
-* **Spatial Stitch (2/Day)**: Aelira weaves a hole in space. She and up to 5 willing creatures teleport to a location within 1 mile that she has visited before.
-* **Thread Intercept**: When a creature within 60 feet targets an ally with an attack, Aelira can force a saving throw on the attacker. On failure, the attack redirects to a random creature within range.
 
 ---
 

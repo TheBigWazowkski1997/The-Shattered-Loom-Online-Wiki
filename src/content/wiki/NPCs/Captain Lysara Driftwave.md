@@ -15,21 +15,12 @@ dg-publish: true
 ---
 ---
 
-## Known Abilities & Combat Style
+## Tactical Profile & Combat Demeanor
+
+> [!NOTE]
+> **Dungeon Master Directive**: Complete numeric statistics, Armor Class, Hit Points, spell slots, and action mechanics are restricted to the Dungeon Master's Master Vault.
 
 Captain Lysara is a master swashbuckler who uses the water itself as her ally. She is exceptionally agile, slipping past frontline defenders to duel enemy leaders while commanding ocean currents to displace her foes.
-
-* **Amphibious**: Lysara can breathe air and water.
-* **Fancy Footwork**: During her turn, if Lysara makes a melee attack against a creature, that creature cannot make opportunity attacks against her for the rest of her turn.
-* **Rakish Audacity**: Lysara adds her Charisma modifier to her initiative checks (+9 total). She doesn't need advantage on the attack roll to use Sneak Attack if she is within 5 feet of the target, no other creatures are within 5 feet of her, and she doesn't have disadvantage.
-* **Sneak Attack (1/Turn)**: Lysara deals an extra 14 (4d6) damage when she hits a target with a weapon attack and has advantage on the attack roll, or meets the conditions of Rakish Audacity.
-* **Multiattack**: Lysara makes three attacks with *Tide-Cleaver* (rapier) or two attacks with her *Wave-Spit Pistol*.
-* **Tide-Cleaver (Rapier)**: one target. On a critical hit, the target is pushed up to 10 feet away by a burst of pressurized brine.
-* **Wave-Spit Pistol**: *Ranged Weapon Attack:* +9 to hit, range 30/90 ft., one target. Operates underwater without range penalties.
-* **Call the Maelstrom (Recharge 5–6)**: Lysara summons a localized vortex of churning water or pressurized air in a 20-foot cube centered on a point within 60 feet. Each creature in that area must make a saving throw. On a failure, a creature takes significant damage and is pulled 15 feet toward the center of the cube and knocked prone. On a success, the creature takes half damage and isn't pulled or knocked prone.
-* **Cunning Action**: Lysara can take the Dash, Disengage, or Hide action as a bonus action on each of her turns.
-* **Inspire the Crew**: Lysara shouts encouragement to an ally within 30 feet that can hear her. That creature gains 1d8 to their next attack roll, saving throw, or ability check made within 1 minute.
-* **Uncanny Dodge**: Lysara halves the damage that she takes from an attack that hits her. She must be able to see the attacker.
 
 ---
 

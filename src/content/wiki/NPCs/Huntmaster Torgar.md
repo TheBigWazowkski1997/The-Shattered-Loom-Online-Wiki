@@ -15,18 +15,12 @@ dg-publish: true
 ---
 ---
 
-## Known Abilities & Combat Style
+## Tactical Profile & Combat Demeanor
+
+> [!NOTE]
+> **Dungeon Master Directive**: Complete numeric statistics, Armor Class, Hit Points, spell slots, and action mechanics are restricted to the Dungeon Master's Master Vault.
 
 Torgar is a formidable apex ranger and tracker who commands ambush tactics, feral shifting, and lethal precision archery.
-
-* **Shifting (Bonus Action, 1/Short Rest)**: Torgar shifts for 1 minute, gaining 12 temporary hit points. While shifted, he can make a bite attack as a bonus action (dealing 1d6 + 3 piercing damage).
-* **Canopy Ambush**: During his first turn in combat, Torgar has advantage on attack rolls against any creature that hasn't acted yet. If he hits, the attack deals an extra 14 (4d6) damage.
-* **Woodland Stride**: Moving through nonmagical difficult terrain costs Torgar no extra movement.
-* **Multiattack**: Torgar makes three attacks with his *Manticore Sinew Longbow* or three melee attacks with his *Hunting Machete*.
-* **Manticore Sinew Longbow**: *Ranged Weapon Attack:* +8 to hit, range 150/600 ft., one target.
-* **Hunting Machete (Shortsword)**: Unleashes swift, precision strikes infused with psychic or elemental energy.
-* **Volley (Recharge 5–6)**: Torgar fires a hail of arrows at all creatures in a 20-foot-radius sphere within 120 feet. Each creature in that area must make a saving throw, taking significant damage on a failed save, or half as much on a successful one.
-* **Predator's Evasion**: When targeted by an area effect that allows a Dexterity saving throw to take only half damage, Torgar instead takes no damage on a success, and only half damage on a failure.
 
 ---
 

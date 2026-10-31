@@ -21,27 +21,12 @@ dg-publish: true
 
 ---
 
-## Known Abilities & Combat Style
+## Tactical Profile & Combat Demeanor
+
+> [!NOTE]
+> **Dungeon Master Directive**: Complete numeric statistics, Armor Class, Hit Points, spell slots, and action mechanics are restricted to the Dungeon Master's Master Vault.
 
 Vecna is a formidable deity-tier threat. Even as a "prisoner," his connection to the Mother-Thread grants him reality-warping power within his chamber. He avoids direct combat, preferring to manipulate, corrupt, and erase. If forced to fight, he alters the battlefield's fundamental laws. **Proficiency Bonus** +8 ***Legendary Resistance (5/Day).*** If Vecna fails a saving throw, he can choose to succeed instead. ***Rejuvenation.*** If Vecna's body is destroyed, his essence returns to the Hand of Vecna (or the Eye of Vecna if the Hand is unavailable). He gains a new body in 1d10 days, appearing within 5 feet of the artifact. Only destroying both artifacts simultaneously while casting *wish* to sever his link to the Mother-Thread can permanently kill him. ***Turn Immunity.*** Vecna is immune to effects that turn undead. ***Mother-Thread Awareness.*** Vecna knows the location of any creature that has ever spoken a secret, written a hidden truth, or deliberately concealed knowledge within 10 miles. He can scry on any such creature without components (save saving throw). ***Null-Thread Adaptation.*** Within the 32 Chambers, Vecna's magic functions normally despite the Null-Thread Field. He can cast spells without Thread-Anchors. ***Innate Spellcasting (Psionics).*** Vecna's spellcasting ability is Intelligence (spell save saving throw, +18 to hit with spell attacks). He can innately cast the following spells, requiring no components:
-
-* **At will:**: *detect magic, detect thoughts, disguise self, mage hand, message, nondetection, silent image, thaumaturgy*.
-* **3/day each:**: *arcane eye, clairvoyance, counterspell, dominate person, modify memory, scrying, seeming, telekinesis, tongue of the sun and moon*.
-* **1/day each:**: *antimagic field, foresight, mind blank, plane shift (self only), power word stun, true seeing, weird*.
-* **Cantrips (at will):**: *chill touch, mage hand, minor illusion, poison spray, ray of frost, toll the dead, vicious mockery*.
-* **1st level (4 slots):**: *comprehend languages, detect magic, identify, shield, silent image, sleep*.
-* **2nd level (3 slots):**: *detect thoughts, invisibility, knock, misty step, suggestion*.
-* **3rd level (3 slots):**: *counterspell, dispel magic, fear, hypnotic pattern, nondetection*.
-* **4th level (3 slots):**: *arcane eye, banishment, dimension door, greater invisibility, Mordenkainen's private sanctum*.
-* **5th level (3 slots):**: *dominate person, modify memory, scrying, seeming, telekinesis, wall of force*.
-* **6th level (2 slots):**: *chain lightning, circle of death, disintegrate, globe of invulnerability, true seeing*.
-* **7th level (2 slots):**: *finger of death, forcecage, plane shift, symbol, teleport*.
-* **8th level (1 slot):**: *antimagic field, mind blank, power word stun*.
-* **9th level (1 slot):**: *foresight, power word kill, true polymorph, wish*.
-* **Whispered Insight**: Vecna targets one creature within 120 ft. The target must succeed on a saving throw or reveal its true intentions, current hit points, and one secret it is keeping to Vecna.
-* **Necrotic Bolt**: Vecna makes one Hand of Vecna attack.
-* **Rewrite Reality (Costs 2 Actions)**: Vecna casts *counterspell*, *dispel magic*, or *telekinesis* without expending a spell slot.
-* **Sever Destiny (Costs 3 Actions)**: Vecna uses *Sever the Thread* if available, or casts *power word kill* (save saving throw).
 
 ---
 

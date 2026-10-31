@@ -13,17 +13,12 @@ dg-publish: true
 * **Personality**: Fierce, uncompromising, and strictly martial. Unlike many of her chaotic kin, Sariss respects military discipline, duty, and honor above all else. She despises cowardice and tests outsiders through tests of physical grit.
 
 ---
-## Known Abilities & Combat Style
+## Tactical Profile & Combat Demeanor
+
+> [!NOTE]
+> **Dungeon Master Directive**: Complete numeric statistics, Armor Class, Hit Points, spell slots, and action mechanics are restricted to the Dungeon Master's Master Vault.
 
 Sariss is a formidable combat powerhouse specializing in reach control, fiery grapples with her serpentine tail, and sweeping polearm cleaves.
-
-* **Heated Body**: A creature that touches Sariss or hits her with a melee attack while within 5 feet of her takes significant damage.
-* **Heated Weapons**: Any metal weapon Sariss wields deals an extra significant damage on a hit (included in attacks).
-* **Multiattack**: Sariss makes two attacks: one with her Hellfire Glaive and one with her Tail.
-* **Hellfire Glaive**: Notable combat maneuver and signature technique.
-* **Tail**: one target. Until this grapple ends, the target is restrained, and Sariss can't use her tail on another target.
-* **Sweeping Cleave (Recharge 5–6)**: Sariss spins her glaive in a 10-foot radius. Each creature in that area must make a saving throw, taking 22 (4d8 + 4) slashing damage plus significant damage on a failed save, or half as much on a successful one.
-* **Vanguard Counter**: When an enemy within 10 feet of Sariss misses her with a melee attack, Sariss can make a Tail attack against that enemy.
 
 ---
 

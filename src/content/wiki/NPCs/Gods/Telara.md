@@ -20,24 +20,12 @@ Mark of Telara
 
 ---
 
-## Known Abilities & Combat Style
+## Tactical Profile & Combat Demeanor
+
+> [!NOTE]
+> **Dungeon Master Directive**: Complete numeric statistics, Armor Class, Hit Points, spell slots, and action mechanics are restricted to the Dungeon Master's Master Vault.
 
 Telara does not manifest physically in the mortal realm—her essence is distributed across the Loom Threads. If forced to manifest an avatar (such as to prevent the total unraveling of reality), she appears as the **Prime Weaver**, a being of such power that her presence alone begins to mend the fraying edges of existence.
-
-* **Loom Authority**: Telara can rewrite reality within 1 mile. As an action, she can end any spell of 9th level or lower, restore any creature to full hit points and remove all conditions, or reshape terrain and structures as if by *Wish*. She can use this 3/day.
-* **Thread Sight**: Telara perceives the destiny threads of all creatures within 1 mile. She has advantage on all attack rolls and saving throws, and cannot be surprised.
-* **Weaver's Grace**: Any creature that attacks Telara must succeed on a saving throw or be unable to take hostile actions against her for 1 round, overwhelmed by the vision of their place in the Loom.
-* **Legendary Resistance (4/Day)**: If Telara fails a saving throw, she can choose to succeed instead.
-* **Divine Regeneration**: Telara regains 30 hit points at the start of her turn if she has at least 1 hit point.
-* **Multiattack**: Telara makes three Thread-Weave attacks and uses Mend the Loom if available.
-* **Thread-Weave**: *Ranged Spell Attack:* +19 to hit, range 150 ft., one target. The target is bound by golden threads—its speed is reduced to 0 until the end of its next turn (saving throw to avoid).
-* **Mend the Loom (Recharge 5–6)**: Telara weaves a pulse of restoration in a 120-foot radius. All allies regain 50 hit points, all conditions end, and all magical effects of 8th level or lower created by hostile creatures are dispelled.
-* **Severance (1/Day)**: Telara targets one creature she can see within 300 feet. That creature must make a saving throw. On a failure, it is banished to a pocket dimension outside the Loom (as *Maze*, but permanent until freed by a *Wish* spell or Telara's will). On a success, it takes significant damage and is stunned for 1 round.
-* **Loom's Judgment (1/Day)**: Telara unravels a creature's thread entirely. One creature within 120 feet must succeed on a saving throw or be erased from existence—its body, soul, and all memory of it fade (as *True Resurrection* cannot restore it; only a *Wish* cast by a deity can). On a success, the creature takes significant damage and is frightened for 1 minute.
-* **Thread Strike (1 Action)**: Telara makes one Thread-Weave attack.
-* **Rewind (2 Actions)**: Telara reverses time for one creature within 120 feet. That creature's turn is replayed—it returns to its position, hit points, and conditions at the start of its turn, with full knowledge of what occurred.
-* **Weave Barrier (2 Actions)**: Telara creates a shimmering wall of golden threads in a 60-foot line, 20 feet high. The wall grants total cover, and any creature attempting to pass through takes significant damage.
-* **Gift of the Weaver (3 Actions)**: Telara touches one willing creature. That creature gains the benefits of a *Wish* spell (limited to duplicating a spell of 8th level or lower, or granting a boon Telara deems appropriate). The creature also receives a **Mark of Telara** if it does not already have one.
 
 ---
 

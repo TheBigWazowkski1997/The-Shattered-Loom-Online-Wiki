@@ -1,6 +1,6 @@
 ---
 title: "Primordial Sleeper Scion"
-description: "Comprehensive species profile, lore, ecology, full 5e statblock, harvesting yields, and lodge crafting for Primordial Sleeper Scion across the Shattered Loom multiverse."
+description: "Comprehensive species profile, lore, ecology, harvesting yields, and lodge crafting for Primordial Sleeper Scion across the Shattered Loom multiverse."
 category: Species
 tags:
   - species
@@ -9,7 +9,6 @@ tags:
   - aberration
   - hunting
   - harvesting
-  - statblock
 dg-publish: true
 ---
 
@@ -33,44 +32,14 @@ Awakening only when cosmic alignments or shatterpoints tear wide open, the Sleep
 
 ---
 
-## ⚔️ Combat Statistics (D&D 5e)
+## ⚔️ Tactical Overview & Threat Assessment
 
-*Gargantuan Aberration (Titan), Chaotic Evil*
-___
-* **Armor Class**: 20 (cosmic obsidian plate)
-* **Hit Points**: 370 (20d20 + 160)
-* **Speed**: 40 ft., swim 60 ft., burrow 30 ft.
+> [!NOTE]
+> **Dungeon Master Directive**: Complete numeric combat statistics, Armor Class, Hit Points, saving throws, and attack modifiers are restricted to the Dungeon Master's Master Bestiary.
 
-| STR | DEX | CON | INT | WIS | CHA |
-|:---:|:---:|:---:|:---:|:---:|:---:|
-| 28 (+9) | 10 (+0) | 26 (+8) | 24 (+7) | 22 (+6) | 20 (+5) |
-
-* **Saving Throws**: Str +15, Con +14, Int +13, Wis +12
-* **Skills**: Athletics +15, Arcana +19, Perception +12, History +13
-* **Damage Resistances**: acid, cold, fire, lightning; bludgeoning, piercing, and slashing from nonmagical attacks
-* **Damage Immunities**: psychic, poison
-* **Condition Immunities**: blinded, charmed, deafened, frightened, paralyzed, petrified, poisoned, prone, stunned
-* **Senses**: truesight 120 ft., blindsight 300 ft., passive Perception 22
-* **Languages**: Deep Speech, telepathy 1 mile
-* **Challenge**: 18 (20,000 XP) | **Proficiency Bonus**: +6
-
-#### Traits
-* **Legendary Resistance (3/Day)**: Can choose to succeed on failed saving throw.
-* **The Living Void (Aura of Madness)**: Creatures starting turn within 60 feet must make DC 20 Wis save. Failed save: 22 (4d10) psychic damage, lose 2d8 Lucidity; failure by 5+ inflicts Long-Term Madness.
-* **Non-Euclidean Mass**: Immune to critical hits (treated as normal hits). Radiant damage suspends its resistances for 1 round.
-* **Siege Monster**: Deals double damage to objects and structures.
-
-#### Actions
-* **Multiattack**: Four attacks: three with Titanic Tentacles and one Reality-Crushing Slam.
-* **Titanic Tentacle**: *Melee Weapon Attack*: +15 to hit, reach 30 ft. *Hit*: 27 (4d8 + 9) bludgeoning + 14 (4d6) psychic damage. Target grappled (escape DC 21).
-* **Reality-Crushing Slam**: *Melee Weapon Attack*: +15 to hit, reach 15 ft. *Hit*: 35 (4d12 + 9) bludgeoning + 18 (4d8) force damage. Target pushed 30 ft and knocked prone (DC 21 Str save).
-* **Cataclysmic Somnolence Beam (Recharge 5–6)**: 90-foot line, 10 ft wide. DC 21 Dex save: 66 (12d10) psychic + 33 (6d10) force damage, lose 3d10 Lucidity, and fall unconscious into waking nightmare for 1 minute.
-
-#### Legendary Actions (3/Turn)
-* **Tentacle Sweep**: Makes one Titanic Tentacle attack.
-* **Psychic Static Burst (Costs 2 Actions)**: 30-foot radius burst. DC 20 Int save: 21 (6d6) psychic damage, blinded and deafened for 1 round.
-* **Rift Fold (Costs 3 Actions)**: Teleports up to 90 feet. Creatures within 15 ft of departure point take 18 (4d8) force damage.
-
+* **Combat Overview**: A terrifying planar apex predator known for devastating ambushes, lethal multi-strikes, and environmental manipulation.
+* **Combat Behavior & Tactics**: Engages targets with predatory cunning, leveraging its native planar affinity to resist spells and overwhelm hunters before retreating into the planar terrain.
+* **Hunter's Warning**: Direct confrontation without specialized planar warding and lodge-grade gear is heavily discouraged.
 ---
 
 ## 🔪 Harvesting & Salvage Materials

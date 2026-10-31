@@ -15,18 +15,12 @@ dg-publish: true
 ---
 ---
 
-## Known Abilities & Combat Style
+## Tactical Profile & Combat Demeanor
+
+> [!NOTE]
+> **Dungeon Master Directive**: Complete numeric statistics, Armor Class, Hit Points, spell slots, and action mechanics are restricted to the Dungeon Master's Master Vault.
 
 Kaelen is a master abjurer and chronomancer. He controls the battlefield by altering temporal flow, reversing hostile spells, and summoning hard-light force barriers to protect his archival relics.
-
-* **Fey Ancestry**: Kaelen has advantage on saving throws against being charmed, and magic can't put him to sleep.
-* **Mnemonic Aegis**: Whenever Kaelen casts an abjuration spell of 1st level or higher, he gains a magical ward with 25 hit points. Whenever he takes damage, the ward takes the damage instead.
-* **Temporal Stutter (Recharge 5–6)**: When Kaelen is hit by an attack, he can shift momentarily out of time, causing the attack to miss completely and teleporting up to 15 feet to an unoccupied space he can see.
-* **Multiattack**: Kaelen makes two attacks with his *Chronometer Staff* or casts one spell and makes one staff attack.
-* **Chronometer Staff**: one target. If the target is a creature, its movement speed is halved until the start of Kaelen's next turn.
-* **Temporal Burst**: *Ranged Spell Attack:* +9 to hit, range 90 ft., one target.
-* **Spellcasting**: Kaelen is a 12th-level spellcaster. His spellcasting ability is Intelligence (spell save saving throw, +9 to hit with spell attacks). He has the following wizard spells prepared:.
-* **Counter-Glyph**: When a creature casts a spell within 60 feet of Kaelen, Kaelen can expend a spell slot to cast *Counterspell* without verbal or somatic components.
 
 ---
 

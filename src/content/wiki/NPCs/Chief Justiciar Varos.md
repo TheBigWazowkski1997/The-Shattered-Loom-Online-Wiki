@@ -15,17 +15,12 @@ dg-publish: true
 ---
 ---
 
-## Known Abilities & Combat Style
+## Tactical Profile & Combat Demeanor
+
+> [!NOTE]
+> **Dungeon Master Directive**: Complete numeric statistics, Armor Class, Hit Points, spell slots, and action mechanics are restricted to the Dungeon Master's Master Vault.
 
 Varos is a formidable martial powerhouse who eliminates randomness, commands gravitational anchors, and strikes with devastating radiant law-force.
-
-* **Axiomatic Certainty**: Damage rolls made by Varos always deal maximum damage instead of rolling dice.
-* **Immovable Presence**: Varos cannot be moved, knocked prone, or teleported against his will.
-* **Psychic Defense**: While Varos is wearing armor, his AC includes his Wisdom modifier (already calculated).
-* **Multiattack**: Varos makes three melee attacks with *Equation's Edge*.
-* **Equation's Edge (Greatsword)**: one target. If the target is a creature, its speed is reduced to 0 until the end of its next turn.
-* **Gravitational Decree (Recharge 5–6)**: Varos points his gauntlet at a point within 60 feet. Gravity in a 20-foot radius sphere increases tenfold. Each creature in that area must make a saving throw. On a failure, a creature takes significant damage, is pinned to the ground (prone), and is restrained for 1 minute. On a success, it takes half damage and is neither prone nor restrained. A creature can repeat the save at the end of each of its turns.
-* **Parry of Order**: Varos adds +4 to his AC against one melee attack that would hit him. To do so, Varos must see the attacker and be wielding a melee weapon.
 
 ---
 

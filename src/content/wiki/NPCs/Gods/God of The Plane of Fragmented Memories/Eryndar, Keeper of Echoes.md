@@ -21,23 +21,12 @@ Loom Shards
 
 ---
 
-## Known Abilities & Combat Style
+## Tactical Profile & Combat Demeanor
+
+> [!NOTE]
+> **Dungeon Master Directive**: Complete numeric statistics, Armor Class, Hit Points, spell slots, and action mechanics are restricted to the Dungeon Master's Master Vault.
 
 Eryndar does not fight in the traditional sense—his plane *is* his defense, a labyrinth of crystallized memories where intruders lose themselves in echoes of the past. When forced to manifest an avatar to protect a vital memory or prevent a truth from being erased entirely, he becomes the **Keeper of Echoes**, a being who rewrites the present with the weight of the past.
-
-* **Echo Archive**: Eryndar has perfect recall of every event that has ever occurred within 1 mile of his avatar, and can access the memories of any creature he can see. He has advantage on all Intelligence, Wisdom, and Charisma checks.
-* **Memory Mirror**: Any creature that hits Eryndar with a melee attack is flooded with a fragment of a traumatic memory (not its own). The attacker must succeed on a saving throw or be stunned until the end of its next turn.
-* **Fragmented Form**: Eryndar can move through spaces as narrow as 1 inch wide. He has resistance to all damage from attacks that target a single creature (area effects deal full damage).
-* **Legendary Resistance (4/Day)**: If Eryndar fails a saving throw, he can choose to succeed instead.
-* **Multiattack**: Eryndar makes three Shard Strike attacks and uses Memory Surge if available.
-* **Shard Strike**: *Melee Spell Attack:* +17 to hit, reach 15 ft., one target. The target must succeed on a saving throw or lose access to one memory, skill proficiency, or class feature (DM's choice) until it completes a long rest.
-* **Memory Surge (Recharge 5–6)**: Eryndar releases a wave of crystallized memories in a 60-foot radius. Each creature in the area must succeed on a saving throw or be overwhelmed by foreign memories—taking significant damage and being incapacitated for 1 round as their mind processes the flood. On a success, half damage and not incapacitated.
-* **Recall the Past (Recharge 6)**: Eryndar targets one creature within 120 feet and forces it to relive a pivotal moment from its past. The target must make a saving throw. On a failure, it is banished into a memory-demiplane for 1 minute (as *Maze*), reliving the moment with perfect clarity. On a success, it takes significant damage and gains advantage on its next attack roll or saving throw (the memory strengthens it).
-* **Erase (1/Day)**: Eryndar can permanently erase one memory, piece of knowledge, or magical effect from a creature or object within 120 feet. This can remove a *Geas*, *Modify Memory*, a known spell, a class feature, or even a Loom Shard's location from a creature's mind. The target can resist with a saving throw. A *Wish* spell can restore what was erased.
-* **Shard Flurry (1 Action)**: Eryndar makes one Shard Strike attack.
-* **Echo Step (2 Actions)**: Eryndar teleports up to 60 feet to a space he can see, leaving behind a crystalline echo. The echo has AC 15, 50 HP, and mimics Eryndar's actions on the next turn (attacks from the echo use Eryndar's bonuses).
-* **Whispered Truth (2 Actions)**: Eryndar projects a secret into the mind of one creature within 120 feet. The target learns one truth it desperately needed (or desperately feared). This can grant inspiration, remove a condition, or impose a level of exhaustion (DM's choice based on the truth).
-* **Archive Defense (3 Actions)**: Eryndar seals a 60-foot radius in crystallized memory. For 1 minute, no creature in the area can take reactions, cast spells of 5th level or higher, or use legendary actions. Eryndar and his allies are immune.
 
 ---
 

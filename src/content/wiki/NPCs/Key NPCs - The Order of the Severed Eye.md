@@ -21,9 +21,9 @@ The **Order of the Severed Eye** operates across the planes, tracking and dissec
 
 | NPC Name | Title & Specialty | Location | Key Significance | Dossier Link |
 | :--- | :--- | :--- | :--- | :---: |
-| **Grand Inquisitor Sylas the Blind** | Supreme Commander (CR 16) | Sanctorum of the Blind Needle (Nexus) | Master of blind psionic tracking; wielder of *Severance*. | [[NPCs/Grand Inquisitor Sylas the Blind|Dossier]] |
-| **Doctor Vaelen Malcor** | Chief Void-Surgeon (CR 13) | Dissection Vaults (Nexus) | Master of non-Euclidean autopsy and anti-psionic sutures. | [[NPCs/Doctor Vaelen Malcor, Void-Surgeon|Dossier]] |
-| **Sister Morwenna of the Pale Thread** | Seer of the Three Needles (CR 11) | Sanctorum Observatory | Predicts Far Realm dimensional breaches through astral thread vibrations. | *Below* |
+| **Grand Inquisitor Sylas the Blind** | Supreme Commander | Sanctorum of the Blind Needle (Nexus) | Master of blind psionic tracking; wielder of *Severance*. | [[NPCs/Grand Inquisitor Sylas the Blind|Dossier]] |
+| **Doctor Vaelen Malcor** | Chief Void-Surgeon | Dissection Vaults (Nexus) | Master of non-Euclidean autopsy and anti-psionic sutures. | [[NPCs/Doctor Vaelen Malcor, Void-Surgeon|Dossier]] |
+| **Sister Morwenna of the Pale Thread** | Seer of the Three Needles | Sanctorum Observatory | Predicts Far Realm dimensional breaches through astral thread vibrations. | *Below* |
 
 ---
 

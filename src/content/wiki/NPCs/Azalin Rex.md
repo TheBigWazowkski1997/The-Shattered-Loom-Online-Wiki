@@ -19,24 +19,12 @@ dg-publish: true
 
 ---
 
-## Known Abilities & Combat Style
+## Tactical Profile & Combat Demeanor
+
+> [!NOTE]
+> **Dungeon Master Directive**: Complete numeric statistics, Armor Class, Hit Points, spell slots, and action mechanics are restricted to the Dungeon Master's Master Vault.
 
 Azalin is an arch-mage of world-shattering potency who commands legions of undead, wields forbidden necromantic spells, and bends the geography of Castle Avernus itself. He avoids direct melee, preferring to annihilate opposition from afar while shielding himself behind prismatic wards, wall of force barriers, and summoned wraiths.
-* **Damage Resistances**: Cold, Lightning, Necrotic.
-* **Damage Immunities**: Poison; Bludgeoning, Piercing, and Slashing from Nonmagical Attacks.
-* **Condition Immunities**: Charmed, Exhaustion, Frightened, Paralyzed, Poisoned.
-* **Senses**: Truesight 120 ft., Passive Perception 20.
-* **Languages**: Abyssal, Celestial, Common, Draconic, Infernal, Undercommon.
-* **Legendary Resistance (3/Day)**: If Azalin fails a saving throw, he can choose to succeed instead.
-* **Master of the Undead**: Any undead creature created by Azalin or under his command gains a +4 bonus to attack and damage rolls and has advantage on saving throws against turn undead.
-* **Rejuvenation**: If Azalin is destroyed, his spirit returns to his phylactery—hidden within the shifting vaults of Castle Avernus—reforming his body in 1d10 days.
-* **Turn Resistance**: Azalin has advantage on saving throws against any effect that turns undead.
-* **Spellcasting**: Azalin is an 18th-level spellcaster (high spell save difficulty, expert accuracy with spell attacks). Prepared spells:.
-* **Paralyzing Touch**: *Melee Spell Attack*: expert accuracy, reach 5 ft., one creature. *Hit*: significant damage plus significant damage. The target must succeed on a saving throw or be paralyzed for 1 minute.
-* **Disrupt Life (Costs 3 Legendary Actions)**: Each non-undead creature within 20 feet of Azalin must make a saving throw, taking significant damage on a failed save, or half as much on a successful one.
-* **Cantrip**: Azalin casts a cantrip.
-* **Paralyzing Touch (Costs 2 Actions)**: Azalin uses his Paralyzing Touch.
-* **Frightening Gaze (Costs 2 Actions)**: Azalin fixes his gaze on one creature within 10 feet. saving throw or frightened for 1 minute.
 
 ---
 

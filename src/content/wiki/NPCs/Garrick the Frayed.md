@@ -13,30 +13,12 @@ h
 * **Personality**: Tormented, fanatical, and obsessive. He once sought perfection in metal and craft, but the Cult of the Broken Thread convinced him that the Loom is a cage holding back true creation. He now views unraveling the Loom as the ultimate act of forging.
 
 ---
-## Spellcasting
+## Tactical Profile & Combat Demeanor
 
-Garrick is a 12th-level Architect of Ruin spellcaster. His spellcasting ability is Charisma (Spell Save saving throw, +8 to hit with spell attacks). He has the following spells prepared:
-
-* **Cantrips (at will):** *Chill Touch*, *Fire Bolt*, *Thaumaturgy*
-* **1st Level (4 slots):** *Shield*, *Hellish Rebuke*
-* **2nd Level (3 slots):** *Blur*, *Mirror Image*, *Hold Person*, *Heat Metal*, *Suggestion*, *Silence*, *Darkness*
-
----
-## Known Abilities & Combat Style
+> [!NOTE]
+> **Dungeon Master Directive**: Complete numeric statistics, Armor Class, Hit Points, spell slots, and action mechanics are restricted to the Dungeon Master's Master Vault.
 
 Garrick is a powerful corrupted spellcaster and martial hybrid (an MCDM Illrigger) who uses baleful seals to lock down opponents, siphons health with infernal conduits, and casts disruptive magic to control the battlefield. In Session 5, he is found sabotaging the Molten Veins.
-
-* **Bravado**: While Garrick is not wearing armor, his AC is 17.
-* **Infernal Conduit (6/Day)**: As an action, Garrick can touch a creature and expend a Conduit Die (d10) up to a maximum of three dice:.
-* **Enervating Spells**: When Garrick deals damage to a creature with an Illrigger spell, he can expend one of his active seals on that creature to give it vulnerability to that spell's damage type until the end of the turn.
-* **Spellblade (Multiattack)**: Garrick makes one melee weapon attack and casts one Illrigger spell of 1st or 2nd level with a casting time of 1 action.
-* **Serrated Saber**: Notable combat maneuver and signature technique.
-* **Chill Touch (Cantrip)**: *Ranged Spell Attack:* +8 to hit, range 120 ft., one target.
-* **Fire Bolt (Cantrip)**: *Ranged Spell Attack:* +8 to hit, range 120 ft., one target.
-* **Shield (4/Day)**: When Garrick is hit by an attack or targeted by *Magic Missile*, he can gain a +5 bonus to AC (including against the triggering attack) and take no damage from *Magic Missile* until the start of his next turn.
-* **Spellbreaker**: When a creature within 60 feet of Garrick that is marked by his *Baleful Interdict* casts a spell, Garrick can consume the seal to cast *Counterspell* (effort if the spell is 4th level or higher) without expending a spell slot.
-* **Baleful Interdict (5/Day)**: Garrick places a burning seal on a creature he can see within 30 feet. While the seal is active, when Garrick or his allies hit the target with a weapon attack, Garrick can consume the seal to deal an extra 14 (4d6) fire or necrotic damage (Garrick's choice). Up to five seals can be active at once.
-* **Acheron's Chain**: Garrick targets a creature within 30 feet that is marked by his *Baleful Interdict*. The target must succeed on a saving throw or be pulled 10 feet directly toward Garrick and become grappled (strength check to escape).
 
 ---
 

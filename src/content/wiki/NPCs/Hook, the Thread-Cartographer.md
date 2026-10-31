@@ -21,14 +21,12 @@ dg-publish: true
 
 ---
 
-## Known Abilities & Combat Style
+## Tactical Profile & Combat Demeanor
+
+> [!NOTE]
+> **Dungeon Master Directive**: Complete numeric statistics, Armor Class, Hit Points, spell slots, and action mechanics are restricted to the Dungeon Master's Master Vault.
 
 Hook is a formidable support and utility scholar. They avoid direct combat, using illusions, mobility, and their **Thread-Sense** to reposition. If forced to fight, they fight *dirty*—using environmental hazards, alchemical concoctions, and their shapechanging abilities to escape. Their true value is **navigation and lore**: they can track Loom fragments, identify planar bleeds, and stabilize wild magic surges.
-
-* **Shapechanger**: Hook can alter their appearance and voice at will, mimicking any humanoid they have seen with uncanny accuracy.
-* **Thread-Sense**: Hook can instinctively sense the tension of Loom-threads, detecting planar boundaries, portals, Shatterpoints, and Loom fragments, and can produce detailed Thread-Maps of surveyed regions.
-* **Evasive & Slippery**: Skilled at dodging danger and turning lethal planar bursts into glancing blows.
-* **Innate Talents & Magic**: Hook casts magic intuitively to assist in survival and research, frequently employing utility illusions and divination spells such as *detect magic*, *identify*, *comprehend languages*, *locate object*, *scrying*, *misty step*, *invisibility*, and *nondetection*.
 
 ---
 
@@ -57,11 +55,6 @@ Hook is *unaffiliated* but does extensive work for the Pale Lodge (mapping plana
 | **Survives & Fails** | Obsession deepens. Starts taking *risks*—hiring shadier crews, entering unstable rifts alone. May become a **rival** or **tragic figure** the party must save again. |
 | **Dies Heroically** | Their Journal becomes a **Relic** (*Tome of the Thread-Cartographer*). Telara *does* notice—granting the party a vision/boon, but the Journal whispers Hook's final thoughts. |
 | **Dies Pointlessly** | The Journal is just a book. The Pale Lodge files a report. A quiet tragedy. |
-
-### **Hook's Stat Block Variants**
-*   **Level 1–4 Party:** Use as-is (CR 3).
-*   **Level 5–8 Party:** Increase to 7th-level wizard (CR 5). Add *counterspell*, *dimension door*, *arcane eye*. HP 82.
-*   **Level 9+ Party:** Hook has found a **Loom Fragment Shard** embedded in their stylus. Gains *legendary actions* (1/round: *misty step*, *shield*, or *thread-sense pulse*). CR 7.
 
 ### **Key Quotes**
 > *"These currents don't move like magic. They **tug**. Like thread under tension."*

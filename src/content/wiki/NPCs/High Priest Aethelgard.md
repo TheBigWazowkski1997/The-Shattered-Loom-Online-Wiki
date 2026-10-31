@@ -15,17 +15,12 @@ dg-publish: true
 ---
 ---
 
-## Known Abilities & Combat Style
+## Tactical Profile & Combat Demeanor
+
+> [!NOTE]
+> **Dungeon Master Directive**: Complete numeric statistics, Armor Class, Hit Points, spell slots, and action mechanics are restricted to the Dungeon Master's Master Vault.
 
 Aethelgard is a formidable holy warrior and radiant spellcaster who purges corruption, shields allies, and smites darkness with blinding celestial power.
-
-* **Divine Eminence**: As a bonus action, Aethelgard can expend a spell slot to cause his melee weapon attacks to magically deal an extra significant damage to a target on a hit.
-* **Sunlit Aura**: Hostile creatures within 10 feet of Aethelgard cannot benefit from invisibility or obscurement, and take 5 radiant damage when entering the aura or starting their turn there.
-* **Spellcasting**: Aethelgard is a 9th-level spellcaster. His spellcasting ability is Wisdom (spell save saving throw, +9 to hit with spell attacks). He has the following cleric spells prepared:.
-* **Multiattack**: Aethelgard makes two melee attacks with *Solar Aegis*.
-* **Solar Aegis (Mace)**: one target. If the target is a fiend or undead, it takes an extra significant damage.
-* **Radiant Cleansing (Recharge 5–6)**: Aethelgard unleashes a 30-foot burst of divine light centered on himself. Hostile creatures in the area must make a saving throw, taking significant damage on a failed save, or half as much on a successful one. Friendly creatures in the area regain 22 (4d8 + 4) hit points and are cleansed of all poisons and diseases.
-* **Shield of Accord**: When an attacker hits an ally within 30 feet of Aethelgard, Aethelgard can summon an illusory barrier of golden light, granting the ally a +4 bonus to AC against that attack.
 
 ---
 

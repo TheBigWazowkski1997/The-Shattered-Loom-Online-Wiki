@@ -15,18 +15,12 @@ dg-publish: true
 ---
 ---
 
-## Known Abilities & Combat Style
+## Tactical Profile & Combat Demeanor
+
+> [!NOTE]
+> **Dungeon Master Directive**: Complete numeric statistics, Armor Class, Hit Points, spell slots, and action mechanics are restricted to the Dungeon Master's Master Vault.
 
 Vael is a formidable temporal skirmisher who phases through solid obstacles, teleports across dimensional fissures, and strikes with force-shearing blades.
-
-* **Blessing of the Raven Queen (3/Day)**: As a bonus action, Vael magically teleports up to 30 feet to an unoccupied space he can see. He appears in a flurry of black feathers and gains resistance to all damage until the start of his next turn.
-* **Phase Step**: Vael can move through other creatures and solid objects up to 5 feet thick as if they were difficult terrain. If he ends his turn inside an object, he takes significant damage and is shunted to the nearest unoccupied space.
-* **Temporal Flank**: Vael has advantage on attack rolls against any creature that has taken damage from a temporal anomaly or force spell within the last round.
-* **Multiattack**: Vael makes three attacks: two with his *Phase-Glass Shortsword* and one with his *Temporal Cleaver*.
-* **Phase-Glass Shortsword**: one target. Hits ignore physical armor bonuses (+2 to hit against targets wearing nonmagical metal armor).
-* **Temporal Cleaver**: one target. If the target is concentrating on a spell, it makes the concentration check with disadvantage.
-* **Spatial Tear Javelin**: *Ranged Weapon Attack:* +7 to hit, range 30/120 ft., one target. The target must succeed on a saving throw or be pushed 15 feet into a temporal pocket and knocked prone.
-* **Slip Through Time**: When targeted by a ranged spell or weapon attack, Vael flickers half a second into the past; the attack automatically misses, and Vael can teleport up to 10 feet.
 
 ---
 

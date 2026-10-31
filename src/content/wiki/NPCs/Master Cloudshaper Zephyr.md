@@ -15,18 +15,12 @@ dg-publish: true
 ---
 ---
 
-## Known Abilities & Combat Style
+## Tactical Profile & Combat Demeanor
+
+> [!NOTE]
+> **Dungeon Master Directive**: Complete numeric statistics, Armor Class, Hit Points, spell slots, and action mechanics are restricted to the Dungeon Master's Master Vault.
 
 Zephyr is a formidable aerial skirmisher and battlefield controller who weaves fog to blind foes, manipulates wind shears, and strikes with concussive sonic thunder.
-
-* **Unending Breath**: Zephyr can hold his breath indefinitely while not incapacitated.
-* **Mistsight**: Magical fog, clouds, and vapor do not obscure Zephyr's vision.
-* **Wind Stride**: Ranged weapon attacks against Zephyr have disadvantage while he is flying.
-* **Multiattack**: Zephyr makes three attacks with his *Vapor Lash* or uses *Mist Barrage*.
-* **Vapor Lash**: *Melee Spell Attack:* +7 to hit, reach 15 ft., one target. If the target is a Medium or smaller creature, it must succeed on a saving throw or be pushed 10 feet and knocked prone.
-* **Mist Barrage**: *Ranged Spell Attack:* +7 to hit, range 90 ft., one target.
-* **Vortex of Solid Fog (Recharge 5–6)**: Zephyr creates a 20-foot radius sphere of dense, solidifying memory fog centered on a point within 60 feet. The area is heavily obscured. The fog is difficult terrain, and each foot of movement through it costs 4 feet of movement. Each creature in that area when it appears must succeed on a saving throw or be restrained until the start of Zephyr's next turn.
-* **Cloud Shift**: When an attacker hits Zephyr with a melee attack, Zephyr turns into pure vapor and teleports up to 30 feet to an unoccupied space he can see, halving the triggering attack's damage.
 
 ---
 

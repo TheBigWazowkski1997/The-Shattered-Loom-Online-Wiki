@@ -18,21 +18,16 @@ tags:
 
 ---
 
-## Combat Profile
+## Tactical Profile & Combat Demeanor
+
+> [!NOTE]
+> **Dungeon Master Directive**: Complete numeric statistics, Armor Class, Hit Points, spell slots, and action mechanics are restricted to the Dungeon Master's Master Vault.
 
 Belial and Fierna fight as a synchronized team. Fierna enchants and blinds foes with radiant charm, while Belial locks them down with obsidian chains and crushing hammer-strikes.
 
-### **Belial, The Old Sculptor**
-*Medium Fiend (Archdevil), Lawful Evil*
-* **Armor Class**: 20 (Obsidian Plate) | **Hit Points**: 310 (24d8 + 192) | **Challenge**: 23
-
-### **Fierna, The Seductive Flame**
-*Medium Fiend (Archdevil), Lawful Evil*
-* **Armor Class**: 20 (Flame Ward) | **Hit Points**: 280 (22d8 + 176) | **Challenge**: 22
-
 ---
 
-## Roleplay & DM Notes
+## Roleplay & Lore Notes
 
 * **The Smelter’s Deal**: Mortals seeking unbreakable weapons or legal immunity can bargain at Abriymoch. Fierna appeals to their vanity, while Belial ensures the contract binds them forever.
 

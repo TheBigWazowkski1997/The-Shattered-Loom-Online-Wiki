@@ -15,19 +15,12 @@ dg-publish: true
 ---
 ---
 
-## Known Abilities & Combat Style
+## Tactical Profile & Combat Demeanor
+
+> [!NOTE]
+> **Dungeon Master Directive**: Complete numeric statistics, Armor Class, Hit Points, spell slots, and action mechanics are restricted to the Dungeon Master's Master Vault.
 
 Kael is an unstoppable frontline juggernaut who dominates melee combat through pure physical power, radiant fire damage, and ground-shattering shockwaves that knock foes prone.
-
-* **Mountain's Born**: Kael is acclimated to high altitude, extreme heat, and volcanic environments.
-* **Stone's Endurance (3/Day)**: When Kael takes damage, he can use his reaction to roll a d12 + 5 and reduce the damage by that total.
-* **Smelted Decree**: Any weapon Kael wields is treated as magical and deals an additional 2d8 fire damage on a hit (included in the attack).
-* **Unyielding Law**: Kael cannot be knocked prone, pushed, or moved against his will by physical effects or nonmagical spells.
-* **Multiattack**: Kael makes three attacks with his *Gavel of Smelted Decree*.
-* **Gavel of Smelted Decree**: one target. If the target is a creature, it must succeed on a saving throw or be knocked prone.
-* **Edict of the Crucible (Recharge 5–6)**: Kael strikes his hammer into the ground, sending a volcanic shockwave out in a 30-foot cone. Each creature on the ground in that area must make a saving throw. On a failure, a creature takes 36 (8d8) fire and bludgeoning damage and is knocked prone. On a success, the creature takes half damage and is not knocked prone. The ground in the area becomes difficult terrain until cleared.
-* **Incite the Flame (1/Day)**: Kael ignites his volcanic blood, cloaking himself in a 10-foot aura of intense radiant heat for 1 minute. Any hostile creature that starts its turn in the aura takes significant damage.
-* **Judge's Rebuke**: When an adjacent creature hits Kael with a melee attack, Kael can make one melee attack with his hammer against that creature.
 
 ---
 

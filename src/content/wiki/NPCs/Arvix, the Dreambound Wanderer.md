@@ -20,17 +20,12 @@ dg-publish: true
 
 ---
 
-## Known Abilities & Combat Style
+## Tactical Profile & Combat Demeanor
+
+> [!NOTE]
+> **Dungeon Master Directive**: Complete numeric statistics, Armor Class, Hit Points, spell slots, and action mechanics are restricted to the Dungeon Master's Master Vault.
 
 Arvix is a devastating frontline fighter who channels residual psychic energy through Dreamrender. He fights with the focused aggression of someone who has nothing left to lose — but holds back just enough to stay alive for his goal. His biggest weakness is his vendetta: if he sees an opportunity to damage the Dreamer directly, he will take it regardless of tactical consequences.
-
-* **Dream Corruption**: Arvix has been psychically touched by the Great Dreamer. He has advantage on saving throws against enchantment and illusion spells but has disadvantage on Wisdom saving throws against fear effects tied to the Dreamer.
-* **Astral Armor**: While wearing his armor, Arvix can use his reaction to reduce the damage of any single attack by 7 (2d6) once per short rest.
-* **Bitter Purpose**: Arvix has advantage on all attack rolls against creatures directly serving the Great Dreamer (Dreambound, Dreamspawn, Xelthar, etc.).
-* **Multiattack**: Arvix makes three attacks with Dreamrender.
-* **Dreamrender**: one target. On a critical hit, the target must succeed on a saving throw or be stunned until the end of its next turn as psychic energy overloads its mind.
-* **Psychic Sundering (Recharge 5–6)**: Arvix plunges Dreamrender into the ground. A wave of psychic force erupts in a 20-foot radius. Each creature of his choice must succeed on a saving throw, taking significant damage on a failure, or half on a success.
-* **Vendetta Rush**: If Arvix can see a creature linked to the Great Dreamer, he can move up to 30 feet toward it without triggering opportunity attacks from other creatures.
 
 ---
 

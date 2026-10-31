@@ -21,9 +21,9 @@ The **Grand Guild of the Iron Spoor** spans twenty-two planar lodges across the 
 
 | NPC Name | Title & Specialty | Primary Location | Key Significance | Dossier Link |
 | :--- | :--- | :--- | :--- | :---: |
-| **Grand Huntmaster Torvald Blood-Tracer** | Supreme Commander (CR 16) | The Hearth of the Spoor (Nexus) | Unifier of the 22 lodges; master of the greatbow *Thread-Splitter*. | [[NPCs/Grand Huntmaster Torvald Blood-Tracer|Dossier]] |
-| **Forge-Mistress Vespera Quick-Flint** | Supreme Trophy-Smith (CR 12) | High Master Forge (Nexus) | Master of exotic planar metallurgy, chitin tempering, and beast relics. | [[NPCs/Forge-Mistress Vespera Quick-Flint|Dossier]] |
-| **Alchemist Kaelen the Venom-Taster** | Master Monster Anatomist (CR 10) | The Hearth of the Spoor (Nexus) | Formulator of the *Planar Salting Salt* and master anti-toxin brewer. | *Below* |
+| **Grand Huntmaster Torvald Blood-Tracer** | Supreme Commander | The Hearth of the Spoor (Nexus) | Unifier of the 22 lodges; master of the greatbow *Thread-Splitter*. | [[NPCs/Grand Huntmaster Torvald Blood-Tracer|Dossier]] |
+| **Forge-Mistress Vespera Quick-Flint** | Supreme Trophy-Smith | High Master Forge (Nexus) | Master of exotic planar metallurgy, chitin tempering, and beast relics. | [[NPCs/Forge-Mistress Vespera Quick-Flint|Dossier]] |
+| **Alchemist Kaelen the Venom-Taster** | Master Monster Anatomist | The Hearth of the Spoor (Nexus) | Formulator of the *Planar Salting Salt* and master anti-toxin brewer. | *Below* |
 
 ---
 

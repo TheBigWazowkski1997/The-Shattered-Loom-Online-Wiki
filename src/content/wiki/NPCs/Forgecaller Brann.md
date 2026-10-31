@@ -15,19 +15,12 @@ dg-publish: true
 ---
 ---
 
-## Known Abilities & Combat Style
+## Tactical Profile & Combat Demeanor
+
+> [!NOTE]
+> **Dungeon Master Directive**: Complete numeric statistics, Armor Class, Hit Points, spell slots, and action mechanics are restricted to the Dungeon Master's Master Vault.
 
 Brann combines traditional dwarven martial grit with primal elemental magic. He channels magma through his strikes, summons earthquakes that stagger entire groups of enemies, and commands stone walls to erupt around his foes.
-
-* **Dwarven Resilience**: Brann has advantage on saving throws against poison and resistance against poison damage.
-* **Stonecunning**: Brann adds double his proficiency bonus to History and Investigation checks related to the origin of stonework.
-* **Molten Imbument**: Any melee weapon Brann wields is considered magical and deals an extra 1d8 fire damage and 1d8 bludgeoning damage (included in the attack).
-* **Tremorsense Affinity**: Brann can detect and pinpoint the origin of any vibration within 30 feet if both he and the source are in contact with the ground.
-* **Multiattack**: Brann makes three attacks with *Earth-Shatterer*.
-* **Earth-Shatterer (Warhammer)**: one target. If the target is a creature, it must succeed on a saving throw or be pushed 10 feet and knocked prone.
-* **Tectonic Quake (Recharge 5–6)**: Brann slams his hammer into the stone floor, triggering a violent localized earthquake in a 20-foot radius centered on himself. Each creature on the ground in that area must make a saving throw. On a failure, a creature takes significant damage and is knocked prone. On a success, it takes half damage and is not knocked prone. The ground becomes difficult terrain until cleared.
-* **Magma Eruption (1/Day)**: Brann causes a geyser of molten rock to erupt from a point on the ground within 60 feet. The eruption fills a 15-foot cube. Each creature in that area must make a saving throw, taking significant damage on a failed save, or half as much on a successful one.
-* **Basalt Shield**: When Brann is hit by a weapon attack, he can cause a slab of solid basalt to erupt from the ground, adding +4 to his AC against that attack.
 
 ---
 

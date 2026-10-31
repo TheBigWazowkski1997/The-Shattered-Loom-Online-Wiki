@@ -19,17 +19,12 @@ dg-publish: true
 
 ---
 
-## Known Abilities & Combat Style
+## Tactical Profile & Combat Demeanor
+
+> [!NOTE]
+> **Dungeon Master Directive**: Complete numeric statistics, Armor Class, Hit Points, spell slots, and action mechanics are restricted to the Dungeon Master's Master Vault.
 
 Seris is a master of the silver greatsword, combining psychic bursts with devastating melee combos. On her ship, she fights with the added advantage of controlling the terrain — she can vent the deck atmosphere, adjust artificial gravity, and maneuver in combat. On foot, she is a formidable powerhouse with psionic support.
-
-* **Psychic Strike**: Once per turn, when Seris hits with her Silver Greatsword, the attack deals an extra significant damage.
-* **Psionic Resistance**: Seris has advantage on saving throws against spells and other magical effects.
-* **Astral Stride (3/Day)**: As a bonus action, Seris teleports up to 30 feet to an unoccupied space she can see.
-* **Multiattack**: Seris makes two attacks with her Silver Greatsword.
-* **Silver Greatsword**: Unleashes swift, precision strikes infused with psychic or elemental energy.
-* **Psionic Shockwave (Recharge 5–6)**: Seris releases a psychic burst in a 30-foot cone. Each creature in the area must succeed on a saving throw, taking significant damage on a failure, or half on a success. Creatures that fail are pushed back 10 feet.
-* **Redirect**: When a creature misses Seris with a melee attack, she can make one Silver Greatsword attack against that creature as a reaction.
 
 ---
 

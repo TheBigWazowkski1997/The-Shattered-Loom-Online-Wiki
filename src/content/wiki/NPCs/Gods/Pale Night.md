@@ -22,23 +22,12 @@ The Shroud
 
 ---
 
-## Known Abilities & Combat Style
+## Tactical Profile & Combat Demeanor
+
+> [!NOTE]
+> **Dungeon Master Directive**: Complete numeric statistics, Armor Class, Hit Points, spell slots, and action mechanics are restricted to the Dungeon Master's Master Vault.
 
 Pale Night does not manifest directly in the multiverse—she exists in the Far Realm, dreaming the Great Dreamer into being. If she were to fully awaken within the Loom, reality would simply cease to have definition. Her "avatar" is the Great Dreamer itself, and her influence spreads through the Dreambound and the Cult of the Broken Thread. The following statistics represent her **manifested attention**—a fraction of her awareness focused through a dream-construct, not her true form.
-
-* **Pre-Structure Aura (120 ft.)**: Within 120 feet of Pale Night, the Loom's threads fray. All spells of 6th level or lower fail automatically. Magic items suppress their properties. Creatures with Marks of Telara have disadvantage on all saving throws and attack rolls. Structures and objects take 20 force damage per round as their defining patterns unravel.
-* **Dream Logic**: Pale Night does not exist in the conventional sense. She cannot be targeted by divination magic. Attack rolls against her have disadvantage. If she would be reduced to 0 hit points, she instead discards that dream-form and reforms at full hit points at the start of her next turn (this can happen 3/day).
-* **Unknowable**: Pale Night is immune to any effect that would read her mind, detect her alignment, or predict her actions. She has advantage on all saving throws.
-* **Legendary Resistance (5/Day)**: If Pale Night fails a saving throw, she can choose to succeed instead.
-* **Multiattack**: Pale Night uses Unravel and makes two Void Touch attacks.
-* **Void Touch**: *Melee Spell Attack:* +19 to hit, reach 20 ft., one target. The target must succeed on a saving throw or lose a memory, skill proficiency, or class feature (DM's choice) until restored by *Greater Restoration* or a *Wish*.
-* **Unravel (Recharge 5–6)**: Pale Night pulls a thread of reality. A 100-foot line, 10 feet wide, unravels. Each creature in the area must succeed on a saving throw or be partially erased—taking significant damage and gaining 1 level of exhaustion. Objects and structures in the area are permanently destroyed (no save).
-* **Dream the Great Dreamer (1/Day)**: Pale Night dreams a new Great Dreamer or empowers the existing one. The Great Dreamer (wherever it is) regains all hit points, recharges all abilities, and gains the benefits of a *Wish* spell.
-* **Silence the Loom (1/Day)**: Pale Night targets one Loom Shard or Mark of Telara within 1 mile. That fragment is suppressed for 24 hours (Marks) or permanently nullified (Shard, unless restored by Telara's direct intervention).
-* **Whisper (1 Action)**: Pale Night projects a concept into the mind of one creature within 1 mile. The target must succeed on a saving throw or be stunned for 1 round as the alien concept overwrites their thoughts.
-* **Unmake (2 Actions)**: Pale Night targets one magical effect, object, or creature within 500 feet. It must succeed on a saving throw or be unmade—spells end, objects cease to exist, creatures take significant damage and are banished to the Far Realm for 1 minute.
-* **Remember (2 Actions)**: Pale Night forces one creature within 120 feet to remember what they were before the Loom. The target must succeed on a saving throw or be transformed into a Dreamspawn (statistics as a Nightmare Echo) for 1 hour, retaining their memories but compelled to serve Pale Night.
-* **Veil (3 Actions)**: Pale Night draws her veil across a 200-foot radius. For 1 minute, all light is suppressed, all sound is muted, and all creatures in the area gain the benefits of *Greater Invisibility* and *Silence*. Pale Night and her allies are unaffected.
 
 ---
 

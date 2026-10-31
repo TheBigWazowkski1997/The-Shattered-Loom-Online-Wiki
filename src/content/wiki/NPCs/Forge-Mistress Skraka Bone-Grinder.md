@@ -15,17 +15,12 @@ dg-publish: true
 ---
 ---
 
-## Known Abilities & Combat Style
+## Tactical Profile & Combat Demeanor
+
+> [!NOTE]
+> **Dungeon Master Directive**: Complete numeric statistics, Armor Class, Hit Points, spell slots, and action mechanics are restricted to the Dungeon Master's Master Vault.
 
 Skraka is a formidable bruiser who combines crushing bludgeoning damage with acidic bone-shrapnel and relentless endurance.
-
-* **Brute**: A melee weapon deals one extra die of its damage when Skraka hits with it (included in the attack).
-* **Acidic Retaliation**: When a creature within 5 feet of Skraka hits her with a melee attack, jagged shards of acidic carapace burst from her armor, dealing 7 (2d6) acid and piercing damage to the attacker.
-* **Surprise Attack**: If Skraka surprises a creature and hits it with an attack during the first round of combat, the target takes an extra 10 (3d6) damage from the attack.
-* **Multiattack**: Skraka makes three melee attacks with *Marrow-Sunder* or two ranged attacks with *Acid Bile Javelins*.
-* **Marrow-Sunder (Maul)**: one target. If the target is a Medium or smaller creature, it must succeed on a saving throw or be knocked prone.
-* **Acid Bile Javelin**: *Ranged Weapon Attack:* +8 to hit, range 30/120 ft., one target.
-* **Bone-Shrapnel Roar (Recharge 5–6)**: Skraka vents superheated marrow steam and pulverized bone from her armor vents in a 20-foot radius. Each creature in that area must make a saving throw, taking 24 (7d6) piercing and acid damage on a failed save, or half as much damage on a successful one.
 
 ---
 

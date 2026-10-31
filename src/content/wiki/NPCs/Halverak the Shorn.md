@@ -20,18 +20,12 @@ dg-publish: true
 
 ---
 
-## Known Abilities & Combat Style
+## Tactical Profile & Combat Demeanor
+
+> [!NOTE]
+> **Dungeon Master Directive**: Complete numeric statistics, Armor Class, Hit Points, spell slots, and action mechanics are restricted to the Dungeon Master's Master Vault.
 
 Halverak is an unstoppable shock-trooper and unarmed brawler. He utilizes explosive hydraulic bursts from his mechanical arms to shatter armor, crush bone and stone, and discharge concussive kinetic shockwaves that pulverize multiple foes simultaneously.
-
-* **Siege Engine**: Halverak deals double damage to objects and structures. His unarmed strikes count as adamantine magical weapons.
-* **Relentless Anchor**: Halverak cannot be moved against his will, shoved, or knocked prone by any physical or magical effect unless he chooses to be.
-* **Meteoric Kinetic Reservoir**: Whenever Halverak takes 20 or more damage in a single turn, his hydraulic arm coils charge with kinetic energy, giving him advantage on his next attack roll and adding significant damage to the hit.
-* **Multiattack**: Halverak makes three unarmed strikes with his *Piston-Forged Fists*, or makes two unarmed strikes and uses *Sunder Ground*.
-* **Sunder Ground (Recharge 5–6)**: Halverak slams both hydraulic gauntlets into the ground with catastrophic force. A tremor erupts in a 20-foot radius centered on him. Each creature on the ground in that area must make a saving throw. On a failure, a creature takes significant damage and is knocked prone. On a success, it takes half damage and is not knocked prone. The ground within the area becomes difficult terrain.
-* **Hydraulic Crush**: one creature grappled by Halverak. The target must succeed on a saving throw or be incapacitated until the end of its next turn.
-* **Piston Overdrive (3/Day)**: Halverak releases safety limiters on his arms. For the next minute, his movement speed increases by 10 feet, and his unarmed strikes deal an additional significant damage from superheated exhaust vents.
-* **Ironclad Intercept**: When a hostile creature moves within 5 feet of Halverak, he can make one unarmed opportunity attack. If the attack hits, the target's speed becomes 0 for the remainder of the turn.
 
 ---
 
