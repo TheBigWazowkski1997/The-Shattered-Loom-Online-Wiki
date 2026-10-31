@@ -86,7 +86,7 @@ Fragments of crystallized ideology and divinity scattered across the Astral Sea.
 
 ---
 
-## 🏛️ The Great Factions (15 Major Factions)
+## 🏛️ The Great Factions (19 Major Factions)
 
 | Faction | Philosophy | Core Agenda | Dossier Link |
 | :--- | :--- | :--- | :--- |
@@ -108,7 +108,7 @@ Fragments of crystallized ideology and divinity scattered across the Astral Sea.
 
 ---
 
-## 👥 Dramatis Personae (101 Notable NPCs)
+## 👥 Dramatis Personae (106 Notable NPCs)
 
 ### 1. Deities & Primordials
 * **[[NPCs/Gods/Telara|Telara]]** — The Prime Weaver, creator of the Loom of Creation.
@@ -131,6 +131,7 @@ Fragments of crystallized ideology and divinity scattered across the Astral Sea.
 * **The Ironbound Covenant**: [[NPCs/Warden-Captain Jaxen Vance|Warden-Captain Jaxen Vance]], [[NPCs/Warmaster Grash|Warmaster Grash]], [[NPCs/Key NPCs - The Ironbound Covenant|Key NPCs - The Ironbound Covenant]]
 * **Lords & Darklords of the Mists**: [[NPCs/The Raven Queen|The Raven Queen]], [[NPCs/Count Strahd von Zarovich|Count Strahd von Zarovich]], [[NPCs/Azalin Rex|Azalin Rex]], [[NPCs/Pharaoh Ankhtepot|Pharaoh Ankhtepot]], [[NPCs/General Vladeska Drakov|General Vladeska Drakov]], [[NPCs/Dr. Viktra Mordenheim|Dr. Viktra Mordenheim]], [[NPCs/Duchess Saidra d'Honaire|Duchess Saidra d'Honaire]], [[NPCs/Lady Ivana Boritsi|Lady Ivana Boritsi]], [[NPCs/Ivan Dilisnya|Ivan Dilisnya]], [[NPCs/Chakuna|Chakuna]]
 * **Shadowfell Investigators & Figures**: [[NPCs/Alanik Ray|Alanik Ray]], [[NPCs/Elise, the Living Core|Elise, the Living Core]], [[NPCs/Baba Lysaga|Baba Lysaga]], [[NPCs/Key NPCs - Shadowfell|Key NPCs - Shadowfell]]
+* * **Archfey & Sovereigns of Faerie**: [[NPCs/Queen Titania|Queen Titania]], [[NPCs/King Oberon|King Oberon]], [[NPCs/The Queen of Air and Darkness|The Queen of Air and Darkness]], [[NPCs/Prince Varyl, the Night Stalker|Prince Varyl, the Night Stalker]], [[NPCs/Cernunnos, Master of the Wild Hunt|Cernunnos, Master of the Wild Hunt]], [[NPCs/Key NPCs - Feywild|Key NPCs - Feywild]]
 * **Shard & Planar Commanders**: [[NPCs/Arch-Curator Kaelen|Arch-Curator Kaelen]], [[NPCs/Commander Valen of Accord|Commander Valen of Accord]], [[NPCs/Chainlord Vane Shadow-Drift|Chainlord Vane Shadow-Drift]], [[NPCs/Grand Storm-Marshal Vaelen Gale|Grand Storm-Marshal Vaelen Gale]], [[NPCs/High Druid Lyra Heartbloom|High Druid Lyra Heartbloom]], [[NPCs/High Glutton Malakor|High Glutton Malakor]], [[NPCs/Kallian the Abyssal|Kallian the Abyssal]], [[NPCs/Lord Magistrate Ralvax Firemane|Lord Magistrate Ralvax Firemane]], [[NPCs/Prime Cogwright Torin|Prime Cogwright Torin]], [[NPCs/Shade-Mistress Morwen|Shade-Mistress Morwen]], [[NPCs/Tidecaller Thalassa|Tidecaller Thalassa]], [[NPCs/Warlord Vekthar Flamebound|Warlord Vekthar Flamebound]], [[NPCs/Forgecaller Brann|Forgecaller Brann]], [[NPCs/Forge-Judge Kael|Forge-Judge Kael]], [[NPCs/Matron Varis Gloomweaver|Matron Varis Gloomweaver]]
 * **City Masters & Guild Leaders**: [[NPCs/Grand Vizier Jazeel al-Zahr|Grand Vizier Jazeel al-Zahr]], [[NPCs/Malikah Soraya of the Cinder Veil|Malikah Soraya of the Cinder Veil]], [[NPCs/High Chancellor Aeris Windveil|High Chancellor Aeris Windveil]], [[NPCs/High Priestess Nylaris Waveborn|High Priestess Nylaris Waveborn]], [[NPCs/Master Arcanist Tolaris Shellsong|Master Arcanist Tolaris Shellsong]], [[NPCs/Overseer Vrakhan Blackshard|Overseer Vrakhan Blackshard]], [[NPCs/Khanum Zoraya of the Seven Veins|Khanum Zoraya of the Seven Veins]], [[NPCs/Sky Captain Kaelor Stormwing|Sky Captain Kaelor Stormwing]], [[NPCs/Chief Justiciar Varos|Chief Justiciar Varos]], [[NPCs/Advocate Brenda Vance|Advocate Brenda Vance]], [[NPCs/Master Weaver Seraphina Loom-Singer|Master Weaver Seraphina Loom-Singer]], [[NPCs/Gildmaster Vane Karr|Gildmaster Vane Karr]], [[NPCs/Vorath Greedeater|Vorath Greedeater]], [[NPCs/Master Rhydian Glasscarver|Master Rhydian Glasscarver]], [[NPCs/Archivist Selene Pale|Archivist Selene Pale]], [[NPCs/Forge-Mistress Skraka Bone-Grinder|Forge-Mistress Skraka Bone-Grinder]], [[NPCs/Master Alchemist Morbus Vile|Master Alchemist Morbus Vile]], [[NPCs/Master Scrivener Oras|Master Scrivener Oras]], [[NPCs/Chimera Veil|Chimera Veil]], [[NPCs/High Priest Aethelgard|High Priest Aethelgard]], [[NPCs/Huntmaster Torgar|Huntmaster Torgar]], [[NPCs/Archdruid Selvan|Archdruid Selvan]], [[NPCs/Master Cloudshaper Zephyr|Master Cloudshaper Zephyr]], [[NPCs/Riftwalker Vael|Riftwalker Vael]], [[NPCs/Captain Lysara Driftwave|Captain Lysara Driftwave]]
 * **Legendary Mages & Scholars**: [[NPCs/Tasha (Iggwilv), the Mother of Witches|Tasha (Iggwilv), the Mother of Witches]], [[NPCs/Halaster Blackcloak, the Mad Weaver|Halaster Blackcloak, the Mad Weaver]], [[NPCs/Vecna, the Whispered Secret|Vecna, the Whispered Secret]], [[NPCs/Hook, the Thread-Cartographer|Hook, the Thread-Cartographer]], [[NPCs/Archivist Mauren Coldsteel|Archivist Mauren Coldsteel]]
