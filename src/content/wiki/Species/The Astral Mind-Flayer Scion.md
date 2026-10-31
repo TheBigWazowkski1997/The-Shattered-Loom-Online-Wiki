@@ -1,91 +1,93 @@
 ---
-title: "The Astral Mind-Flayer Scion"
-description: "Comprehensive species profile, lore, ecology, full 5e statblock, harvesting yields, and lodge crafting for The Astral Mind-Flayer Scion across the Shattered Loom multiverse."
+title: "The Astral Mind-Flayer Scion (Ulc-Behemoth)"
+description: "Comprehensive species dossier, planar ecology, full 5e statblock, harvesting component yields, and lodge trophy-crafting for The Astral Mind-Flayer Scion (Ulc-Behemoth) across the Shattered Loom multiverse."
 category: Species
 tags:
   - species
   - bestiary
   - monsters
-  - aberration
   - hunting
   - harvesting
+  - crafting
   - statblock
 dg-publish: true
 ---
 
-# 🧬 The Astral Mind-Flayer Scion
-### *Multiversal Species & Apex Predator Dossier*
+# 🦁 The Astral Mind-Flayer Scion (Ulc-Behemoth)
+### *Multiversal Species & Planar Apex Predator Dossier (Challenge Rating 14)*
 
-> “Its tentacles do not merely grasp your skull; they unpack your thoughts like books on a library shelf.”
-— Lady Vaelen Sylph-Treader
+> “It is not a beast that walks upon the earth; it is a tumor of living thought that has breached the Loom to unravel existence itself.”
+— Grand Inquisitor Sylas the Blind
 
 ---
 
 ## 📖 Overview & Anatomical Classification
 
-A titanic, twelve-foot-tall mutated illithid scion whose elongated cranial crest pulsates with exposed brain tissue bathed in violet psionic lightning. Ten bifurcated tentacles trail from its face, capable of psychic extraction across great distances.
+A **The Astral Mind-Flayer Scion (Ulc-Behemoth)** (Huge Aberration, Lawful Evil) is an apex quarry monster native to **The Far Realm**, cataloged by the **Grand Guild of the Iron Spoor** and hunted through **The Edge of Sanity Outpost**.
+
+A mutated elder illithid war-beast spanning 25 feet, bred in the dark between planes. Its four facial tentacles can crush stone pillars, and its telepathic mind-blast can liquify the brain matter of an entire platoon.
 
 ---
 
 ## 🌲 Lore, Nature & Planar Ecology
 
-Bred in Far Realm astral nurseries, these scions hunt high-level planar spellcasters and scholars, absorbing their memories to fuel their vast psionic calculations for the conquest of the Astral Sea.
+* **Native Plane**: [[Planes of Existence/The Far Realm|The Far Realm]]
+* **Regional Hunting Lodge**: [[Custom Rules/Planar Bestiary & Hunting Lodges Compendium|The Edge of Sanity Outpost]]
+* **Predatory Behavior**: As an apex creature of its realm, the The Astral Mind-Flayer Scion (Ulc-Behemoth) establishes vast territorial hunting grounds. It exerts immense ecological pressure on local planar fauna, utilizing ambient planar energies to ambush prey and defend its nesting lair.
+* **Harvest Window & Planar Decay**: Due to ambient planar radiation, a slain The Astral Mind-Flayer Scion (Ulc-Behemoth) decays within 1 hour unless preserved with a *Lodge Salting Barrel* or alchemical stasis canisters.
 
 ---
 
 ## ⚔️ Combat Statistics (D&D 5e)
 
-*Large Aberration, Lawful Evil*
-___
-* **Armor Class**: 17 (psionic shield)
-* **Hit Points**: 190 (20d10 + 80)
-* **Speed**: 30 ft., fly 40 ft. (hover)
-
-| STR | DEX | CON | INT | WIS | CHA |
-|:---:|:---:|:---:|:---:|:---:|:---:|
-| 16 (+3) | 18 (+4) | 18 (+4) | 22 (+6) | 18 (+4) | 18 (+4) |
-
-* **Saving Throws**: Dex +9, Int +11, Wis +9, Cha +9
-* **Damage Resistances**: cold, lightning; bludgeoning, piercing, and slashing from nonmagical attacks
-* **Damage Immunities**: psychic
-* **Senses**: truesight 90 ft., telepathy 250 ft., passive Perception 19
-* **Challenge**: 14 (11,500 XP)
-
-#### Actions
-* **Multiattack**: Four Tentacle attacks.
-* **Tentacle**: *Melee Weapon Attack*: +11 to hit, reach 15 ft. *Hit*: 15 (2d8 + 6) bludgeoning + 14 (4d6) psychic damage. Target grappled (escape DC 19).
-* **Extract Brain**: *Melee Weapon Attack*: +11 to hit, one incapacitated humanoid grappled. *Hit*: 55 (10d10) piercing damage. If target reduced to 0 HP, its brain is devoured, killing it instantly.
-* **Mind Blast (Recharge 5–6)**: 60-foot cone. DC 19 Int save: 42 (8d8 + 6) psychic damage, stunned for 1 minute, lose 2d6 Lucidity.
+* **Combat Statistics**:
+  * **Armor Class**: 17 (natural armor)
+  * **Hit Points**: 180 (18d12 + 90)
+  * **Speed**: 40 ft.
+  * **Abilities**: STR 22 (+6) | DEX 16 (+3) | CON 20 (+5) | INT 20 (+5) | WIS 16 (+3) | CHA 16 (+3)
+  * **Saving Throws**: Con +10, Wis +8
+  * **Senses**: truesight 60 ft., darkvision 120 ft., passive Perception 18
+  * **Languages**: Understands native planar dialect; telepathy 60 ft. (or unaligned)
+  * **Challenge**: 14 (14,000 XP) | **Proficiency Bonus**: +5
+* **Signature Combat Traits**:
+  * **Planar Apex Resilience**: The Astral Mind-Flayer Scion (Ulc-Behemoth) has advantage on saving throws against spells and magical effects native to its home plane.
+  * **Predatory Instinct**: Adds its proficiency bonus (+5) to initiative rolls and cannot be surprised while conscious.
+* **Combat Actions & Multiattack**:
+  * **Multiattack**: The Astral Mind-Flayer Scion (Ulc-Behemoth) makes three attacks: two with its primary natural weapons and one crushing strike.
+  * **Primary Strike**: *Melee Weapon Attack*: +11 to hit, reach 10 ft., one target. *Hit*: 15 (3d10 + 6) slashing/piercing damage plus 7 (2d6) elemental/force damage.
+  * **Crushing Surge (Recharge 5–6)**: The Astral Mind-Flayer Scion (Ulc-Behemoth) unleashes a planar surge in a 30-foot cone/line. Targets must make a DC 17 Dexterity or Constitution save, taking 49 (14d6) damage on a failed save, or half as much on a success.
 
 ---
 
 ## 🔪 Harvesting & Salvage Materials
 
-Hunters skilled in **Survival**, **Arcana**, or **Leatherworking** can harvest the following biological components:
+Hunters skilled in **Survival**, **Arcana**, **Nature**, or **Leatherworking** can harvest the following biological components from a fresh carcass:
 
-| Component | Classification | Harvest DC | Yield & Estimated Base Value |
-| :--- | :--- | :---: | :--- |
-| **Translucent Brain Hide** | Defensive Layer | **DC 20 Arcana** | 1 Psionic Hide (value 700 gp) |
-| **Bifurcated Tentacles** | Offensive Matrix | **DC 19 Survival** | 4 Bifurcated Tentacles (value 300 gp each) |
-| **Psionic Neuro-Ichor** | Alchemical Gland | **DC 20 Nature** | 2 Vials of Neuro-Ichor (value 400 gp each) |
-| **Astral Scion Cerebrum** | Essence Core | **DC 23 Arcana** | 1 Flawless Cerebrum (value 2,000 gp) |
+#### **Harvestable Materials Table**
+| Component | Classification | Yield & Estimated Base Value |
+| :--- | :--- | :--- |
+| **Psionic Tentacle Filaments** | Offensive Matrix | 4 Heavy Psionic Tendrils (value 350 gp each) |
+| **Brain-Sucking Beak** | Offensive Matrix | 1 Adamantine-Tough Beak (value 500 gp) |
+| **Void-Membrane Cloak** | Defensive Layer | 1 Leathery Telepathic Skin (value 700 gp) |
+| **Mind-Blast Organ** | Essence Core | 1 Pulsing Neural Core (value 900 gp) |
 
 ---
 
 ## 🔨 Lodge Trophy-Forging & Relic Crafting
 
-Master trophy-smiths at Guild Lodges can forge these components into unique items:
+Master trophy-smiths at **The Edge of Sanity Outpost** can forge harvested components into specialized weapons, armor, and wondrous planar relics:
 
-| Crafted Item | Category & Rarity | Tactical Properties & 5e Mechanics |
+#### **Lodge Trophy-Forge Recipes**
+| Crafted Item | Category & Rarity | Mechanical Properties (D&D 5e) |
 | :--- | :---: | :--- |
-| **Rod of the Elder Mind (+2)** | Rod (Arcane Focus) | Grants advantage on Intelligence saving throws and 3 charges/day to cast Mind Whip (DC 18). |
+| **Crown of the Domineering Will** | Wondrous Item (Very Rare) | Advantage on saving throws against psychic, charm, and frightened conditions. Can cast Dominate Monster (DC 17) 1/day. |
+| **Wand of the Neural Shatter (+2)** | Wand (Arcane Focus) | Contains 7 charges. Can expend charges to cast Mind Sliver (1 charge), Synaptic Static (5 charges, DC 17). |
 
 ---
 
 ## 🗺️ Cross-Vault Links & References
 
-* **Eldritch Bestiary**: [[Custom Rules/Eldritch Horror Bestiary - Creature Entries|Eldritch Horror Bestiary - Creature Entries]]
-* **Eldritch Hunting Ruleset**: [[Custom Rules/The Eldritch Horror Hunting & Sanity-Harvesting Ruleset|Module IV: The Eldritch Horror Hunting Ruleset]]
-* **Planar Compendium**: [[Custom Rules/Planar Bestiary & Hunting Lodges Compendium|Planar Bestiary & Hunting Lodges Compendium]]
-* **Hunting Guild Faction**: [[Factions/The Order of the Severed Eye|The Order of the Severed Eye]]
-* **Species Directory**: [[Species/Species|Multiversal Species Directory]]
+* **Master Compendium**: [[Custom Rules/Planar Bestiary & Hunting Lodges Compendium|Planar Bestiary & Hunting Lodges Compendium (All 66 Apex Monsters)]]
+* **Hunting Ruleset**: [[Custom Rules/The Interplanar Hunting, Harvesting & Trophy-Crafting Ruleset|Module III: The Interplanar Hunting Ruleset]]
+* **Guild Faction**: [[Factions/The Grand Guild of the Iron Spoor|The Grand Guild of the Iron Spoor]]
+* **Species Directory**: [[Species/Species|The Multiversal Species & Bestiary Directory]]

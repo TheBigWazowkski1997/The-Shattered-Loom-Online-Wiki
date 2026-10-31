@@ -1,95 +1,93 @@
 ---
 title: "The Void-Folded Polyhedral Horror"
-description: "Comprehensive species profile, lore, ecology, full 5e statblock, harvesting yields, and lodge crafting for The Void-Folded Polyhedral Horror across the Shattered Loom multiverse."
+description: "Comprehensive species dossier, planar ecology, full 5e statblock, harvesting component yields, and lodge trophy-crafting for The Void-Folded Polyhedral Horror across the Shattered Loom multiverse."
 category: Species
 tags:
   - species
   - bestiary
   - monsters
-  - aberration
   - hunting
   - harvesting
+  - crafting
   - statblock
 dg-publish: true
 ---
 
-# 🧬 The Void-Folded Polyhedral Horror
-### *Multiversal Species & Apex Predator Dossier*
+# 🦁 The Void-Folded Polyhedral Horror
+### *Multiversal Species & Planar Apex Predator Dossier (Challenge Rating 16)*
 
-> “Its body is an obsidian gem that unfolds into teeth, screams, and shattered timelines.”
-— Huntsman Roderic Reed
+> “It is not a beast that walks upon the earth; it is a tumor of living thought that has breached the Loom to unravel existence itself.”
+— Grand Inquisitor Sylas the Blind
 
 ---
 
 ## 📖 Overview & Anatomical Classification
 
-A geometric nightmare native to the deep vacuum of the Far Realm. Composed of interlocking black obsidian facets, it hovers silently, unfolding into concentric polyhedral rings that reflect spells and disintegrate matter into psychic dust.
+A **The Void-Folded Polyhedral Horror** (Huge Aberration, Chaotic Evil) is an apex quarry monster native to **The Far Realm**, cataloged by the **Grand Guild of the Iron Spoor** and hunted through **The Edge of Sanity Outpost**.
+
+An entity with twelve angular facets that rotate through non-existent fourth-dimensional directions. It attacks by unfolding its surfaces, trapping victims in localized geometric paradoxes that invert anatomy.
 
 ---
 
 ## 🌲 Lore, Nature & Planar Ecology
 
-Polyhedral Horrors originate in regions where the Loom's threads were completely annihilated. They act as cosmic phagocytes, consuming matter to transform it into pure geometric entropy.
+* **Native Plane**: [[Planes of Existence/The Far Realm|The Far Realm]]
+* **Regional Hunting Lodge**: [[Custom Rules/Planar Bestiary & Hunting Lodges Compendium|The Edge of Sanity Outpost]]
+* **Predatory Behavior**: As an apex creature of its realm, the The Void-Folded Polyhedral Horror establishes vast territorial hunting grounds. It exerts immense ecological pressure on local planar fauna, utilizing ambient planar energies to ambush prey and defend its nesting lair.
+* **Harvest Window & Planar Decay**: Due to ambient planar radiation, a slain The Void-Folded Polyhedral Horror decays within 1 hour unless preserved with a *Lodge Salting Barrel* or alchemical stasis canisters.
 
 ---
 
 ## ⚔️ Combat Statistics (D&D 5e)
 
-*Huge Aberration, Chaotic Evil*
-___
-* **Armor Class**: 19 (crystallized void-facets)
-* **Hit Points**: 253 (22d12 + 110)
-* **Speed**: 0 ft., fly 50 ft. (hover)
-
-| STR | DEX | CON | INT | WIS | CHA |
-|:---:|:---:|:---:|:---:|:---:|:---:|
-| 20 (+5) | 16 (+3) | 20 (+5) | 24 (+7) | 18 (+4) | 18 (+4) |
-
-* **Saving Throws**: Dex +8, Int +12, Wis +9, Cha +9
-* **Damage Immunities**: psychic, poison, force
-* **Condition Immunities**: blinded, charmed, deafened, frightened, petrified, poisoned, prone
-* **Senses**: truesight 120 ft., passive Perception 19
-* **Languages**: Deep Speech, telepathy 1,000 ft.
-* **Challenge**: 16 (15,000 XP) | **Proficiency Bonus**: +5
-
-#### Traits
-* **Reflective Facets**: On successful saving throw against a spell, reflects the spell back at caster.
-* **Aura of Geometric Dissolution**: Non-aberrations starting turn within 30 ft take 10 (3d6) force damage and lose 1d6 Lucidity.
-
-#### Actions
-* **Multiattack**: Four Crystalline Shard attacks.
-* **Crystalline Shard**: *Ranged Spell Attack*: +12 to hit, range 120 ft. *Hit*: 18 (2d10 + 7) force + 10 (3d6) psychic damage.
-* **Facet Collapse (Recharge 5–6)**: 40-foot cube. DC 20 Int save: 55 (10d10) psychic damage, stunned for 1 minute, lose 3d8 Lucidity.
+* **Combat Statistics**:
+  * **Armor Class**: 18 (natural armor)
+  * **Hit Points**: 220 (20d12 + 120)
+  * **Speed**: 40 ft.
+  * **Abilities**: STR 24 (+7) | DEX 16 (+3) | CON 22 (+6) | INT 22 (+6) | WIS 16 (+3) | CHA 16 (+3)
+  * **Saving Throws**: Con +11, Wis +8
+  * **Senses**: truesight 60 ft., darkvision 120 ft., passive Perception 18
+  * **Languages**: Understands native planar dialect; telepathy 60 ft. (or unaligned)
+  * **Challenge**: 16 (16,000 XP) | **Proficiency Bonus**: +5
+* **Signature Combat Traits**:
+  * **Planar Apex Resilience**: The Void-Folded Polyhedral Horror has advantage on saving throws against spells and magical effects native to its home plane.
+  * **Predatory Instinct**: Adds its proficiency bonus (+5) to initiative rolls and cannot be surprised while conscious.
+* **Combat Actions & Multiattack**:
+  * **Multiattack**: The Void-Folded Polyhedral Horror makes three attacks: two with its primary natural weapons and one crushing strike.
+  * **Primary Strike**: *Melee Weapon Attack*: +12 to hit, reach 10 ft., one target. *Hit*: 16 (3d10 + 7) slashing/piercing damage plus 7 (2d6) elemental/force damage.
+  * **Crushing Surge (Recharge 5–6)**: The Void-Folded Polyhedral Horror unleashes a planar surge in a 30-foot cone/line. Targets must make a DC 18 Dexterity or Constitution save, taking 56 (16d6) damage on a failed save, or half as much on a success.
 
 ---
 
 ## 🔪 Harvesting & Salvage Materials
 
-Hunters skilled in **Survival**, **Arcana**, or **Leatherworking** can harvest the following biological components:
+Hunters skilled in **Survival**, **Arcana**, **Nature**, or **Leatherworking** can harvest the following biological components from a fresh carcass:
 
-| Component | Classification | Harvest DC | Yield & Estimated Base Value |
-| :--- | :--- | :---: | :--- |
-| **Obsidian Void Facets** | Defensive Layer | **DC 22 Arcana** | 4 Crystalline Facets (value 800 gp each) |
-| **Screaming Crystal Prisms** | Offensive Matrix | **DC 21 Survival** | 2 Sound-Prisms (value 600 gp each) |
-| **Quantum Dust Jars** | Alchemical Gland | **DC 22 Nature** | 2 Jars of Singularity Dust (value 450 gp each) |
-| **Polyhedral Geometry Core** | Essence Core | **DC 24 Arcana** | 1 Pulsing Polyhedral Heart (value 2,800 gp) |
+#### **Harvestable Materials Table**
+| Component | Classification | Yield & Estimated Base Value |
+| :--- | :--- | :--- |
+| **Impossible Angle Shards** | Offensive Matrix | 4 Geometrically Unstable Spikes (value 450 gp each) |
+| **Non-Euclidean Flesh-Gel** | Defensive Layer | 1 Jar of Self-Healing Void Flesh (value 800 gp) |
+| **Paradox Core** | Essence Core | 1 Folding Dimensional Engine (value 1,200 gp) |
+| **Void-Sight Vitreous** | Alchemical Secretion | 2 Flasks of Inverted Sight Liquid (value 350 gp each) |
 
 ---
 
 ## 🔨 Lodge Trophy-Forging & Relic Crafting
 
-Master trophy-smiths at Guild Lodges can forge these components into unique items:
+Master trophy-smiths at **The Edge of Sanity Outpost** can forge harvested components into specialized weapons, armor, and wondrous planar relics:
 
-| Crafted Item | Category & Rarity | Tactical Properties & 5e Mechanics |
+#### **Lodge Trophy-Forge Recipes**
+| Crafted Item | Category & Rarity | Mechanical Properties (D&D 5e) |
 | :--- | :---: | :--- |
-| **Aegis of the Broken Facet (+3)** | Armor (Shield) | Reflects incoming ranged spell attacks back at the caster on a d20 roll of 16+. |
+| **Blade of Warped Dimensions (+3)** | Weapon (Any Sword) | Ignores all armor and shield bonuses (hits against target's touch AC: 10 + Dex). Can strike targets through solid walls up to 10 feet thick. |
+| **Amulet of Inverted Probability** | Wondrous Item (Very Rare) | When wearer rolls a 1 on any d20 roll, it is treated as a natural 20 instead (1/day). Wearer is immune to spatial distortion effects. |
 
 ---
 
 ## 🗺️ Cross-Vault Links & References
 
-* **Eldritch Bestiary**: [[Custom Rules/Eldritch Horror Bestiary - Creature Entries|Eldritch Horror Bestiary - Creature Entries]]
-* **Eldritch Hunting Ruleset**: [[Custom Rules/The Eldritch Horror Hunting & Sanity-Harvesting Ruleset|Module IV: The Eldritch Horror Hunting Ruleset]]
-* **Planar Compendium**: [[Custom Rules/Planar Bestiary & Hunting Lodges Compendium|Planar Bestiary & Hunting Lodges Compendium]]
-* **Hunting Guild Faction**: [[Factions/The Order of the Severed Eye|The Order of the Severed Eye]]
-* **Species Directory**: [[Species/Species|Multiversal Species Directory]]
+* **Master Compendium**: [[Custom Rules/Planar Bestiary & Hunting Lodges Compendium|Planar Bestiary & Hunting Lodges Compendium (All 66 Apex Monsters)]]
+* **Hunting Ruleset**: [[Custom Rules/The Interplanar Hunting, Harvesting & Trophy-Crafting Ruleset|Module III: The Interplanar Hunting Ruleset]]
+* **Guild Faction**: [[Factions/The Grand Guild of the Iron Spoor|The Grand Guild of the Iron Spoor]]
+* **Species Directory**: [[Species/Species|The Multiversal Species & Bestiary Directory]]

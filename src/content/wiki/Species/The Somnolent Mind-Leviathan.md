@@ -1,96 +1,93 @@
 ---
 title: "The Somnolent Mind-Leviathan"
-description: "Comprehensive species profile, lore, ecology, full 5e statblock, harvesting yields, and lodge crafting for The Somnolent Mind-Leviathan across the Shattered Loom multiverse."
+description: "Comprehensive species dossier, planar ecology, full 5e statblock, harvesting component yields, and lodge trophy-crafting for The Somnolent Mind-Leviathan across the Shattered Loom multiverse."
 category: Species
 tags:
   - species
   - bestiary
   - monsters
-  - aberration
   - hunting
   - harvesting
+  - crafting
   - statblock
 dg-publish: true
 ---
 
-# 🧬 The Somnolent Mind-Leviathan
-### *Multiversal Species & Apex Predator Dossier*
+# 🦁 The Somnolent Mind-Leviathan
+### *Multiversal Species & Planar Apex Predator Dossier (Challenge Rating 14)*
 
-> “It swims through the sunken plazas of Ry'leh, trailing tendrils that taste the memories of drowned kings.”
-— Captain Seris Vael
+> “Do not look into the angles of its skull. The geometry here does not conform to three dimensions, and your sanity will spill into the brine.”
+— Doctor Vaelen Malcor, Void-Surgeon
 
 ---
 
 ## 📖 Overview & Anatomical Classification
 
-The **Somnolent Mind-Leviathan** is the undisputed master of Ry'leh's sunken oceanic ruins. Spanning over eighty feet in length, this eel-like cephalopod behemoth exudes a continuous psychic aura known as the Drowned Dreamfield, causing dry-land explorers to suffocate on their own breath as their minds are submerged in psychic brine.
+A **The Somnolent Mind-Leviathan** (Huge Aberration, Chaotic Neutral) is an apex quarry monster native to **City of Ry'leh**, cataloged by the **Grand Guild of the Iron Spoor** and hunted through **The Drowned Lantern Lodge**.
+
+A colossal, semi-translucent eel-like entity whose scales reflect sleeping dreams like mirrors. It swims through the thought-sea of Ry'leh, stunning targets with waves of psychic vertigo and feeding on forgotten memories.
 
 ---
 
 ## 🌲 Lore, Nature & Planar Ecology
 
-Dwelling near the sunken ziggurats of the City of Ry'leh, the Mind-Leviathan feeds upon psychic runoff from the Great Dreamer. Its flesh absorbs ambient sound and light, making it virtually undetectable by mundane sight or sonar until its glowing blue tentacles envelop a vessel's hull.
+* **Native Plane**: [[Planes of Existence/City of Ry'leh|City of Ry'leh]]
+* **Regional Hunting Lodge**: [[Custom Rules/Planar Bestiary & Hunting Lodges Compendium|The Drowned Lantern Lodge]]
+* **Predatory Behavior**: As an apex creature of its realm, the The Somnolent Mind-Leviathan establishes vast territorial hunting grounds. It exerts immense ecological pressure on local planar fauna, utilizing ambient planar energies to ambush prey and defend its nesting lair.
+* **Harvest Window & Planar Decay**: Due to ambient planar radiation, a slain The Somnolent Mind-Leviathan decays within 1 hour unless preserved with a *Lodge Salting Barrel* or alchemical stasis canisters.
 
 ---
 
 ## ⚔️ Combat Statistics (D&D 5e)
 
-*Gargantuan Aberration, Chaotic Evil*
-___
-* **Armor Class**: 17 (abyssal mucus hide)
-* **Hit Points**: 232 (16d20 + 64)
-* **Speed**: 10 ft., swim 60 ft.
-
-| STR | DEX | CON | INT | WIS | CHA |
-|:---:|:---:|:---:|:---:|:---:|:---:|
-| 24 (+7) | 14 (+2) | 18 (+4) | 20 (+5) | 18 (+4) | 16 (+3) |
-
-* **Saving Throws**: Con +9, Int +10, Wis +9
-* **Damage Resistances**: cold, acid; bludgeoning, piercing, and slashing from nonmagical attacks
-* **Damage Immunities**: psychic
-* **Senses**: blindsight 120 ft., truesight 60 ft., passive Perception 19
-* **Languages**: Deep Speech, telepathy 300 ft.
-* **Challenge**: 14 (11,500 XP)
-
-#### Traits
-* **Drowned Dreamfield**: Water within 60 feet is saturated with psychic brine. Air-breathing creatures cannot hold breath, must make DC 18 Con save each round or suffocate, and lose 1d6 Lucidity.
-* **Amphibious**: Can breathe air and water.
-
-#### Actions
-* **Multiattack**: Two Tentacle Sweeps and one Maw-Crush.
-* **Tentacle Sweep**: *Melee Weapon Attack*: +12 to hit, reach 25 ft. *Hit*: 20 (3d8 + 7) bludgeoning + 9 (2d8) psychic damage. Target is grappled (escape DC 19).
-* **Maw-Crush**: *Melee Weapon Attack*: +12 to hit, reach 15 ft. *Hit*: 26 (3d12 + 7) piercing + 14 (4d6) acid damage.
-* **Oneiric Drown-Shriek (Recharge 5–6)**: 60 ft radius. DC 18 Wis save: 45 (10d8) psychic damage, paralyzed for 1 minute, lose 2d8 Lucidity.
+* **Combat Statistics**:
+  * **Armor Class**: 17 (natural armor)
+  * **Hit Points**: 180 (18d12 + 90)
+  * **Speed**: 40 ft., swim 50 ft.
+  * **Abilities**: STR 22 (+6) | DEX 16 (+3) | CON 20 (+5) | INT 20 (+5) | WIS 16 (+3) | CHA 16 (+3)
+  * **Saving Throws**: Con +10, Wis +8
+  * **Senses**: truesight 60 ft., darkvision 120 ft., passive Perception 18
+  * **Languages**: Understands native planar dialect; telepathy 60 ft. (or unaligned)
+  * **Challenge**: 14 (14,000 XP) | **Proficiency Bonus**: +5
+* **Signature Combat Traits**:
+  * **Planar Apex Resilience**: The Somnolent Mind-Leviathan has advantage on saving throws against spells and magical effects native to its home plane.
+  * **Predatory Instinct**: Adds its proficiency bonus (+5) to initiative rolls and cannot be surprised while conscious.
+* **Combat Actions & Multiattack**:
+  * **Multiattack**: The Somnolent Mind-Leviathan makes three attacks: two with its primary natural weapons and one crushing strike.
+  * **Primary Strike**: *Melee Weapon Attack*: +11 to hit, reach 10 ft., one target. *Hit*: 15 (3d10 + 6) slashing/piercing damage plus 7 (2d6) elemental/force damage.
+  * **Crushing Surge (Recharge 5–6)**: The Somnolent Mind-Leviathan unleashes a planar surge in a 30-foot cone/line. Targets must make a DC 17 Dexterity or Constitution save, taking 49 (14d6) damage on a failed save, or half as much on a success.
 
 ---
 
 ## 🔪 Harvesting & Salvage Materials
 
-Hunters skilled in **Survival**, **Arcana**, or **Leatherworking** can harvest the following biological components:
+Hunters skilled in **Survival**, **Arcana**, **Nature**, or **Leatherworking** can harvest the following biological components from a fresh carcass:
 
-| Component | Classification | Harvest DC | Yield & Estimated Base Value |
-| :--- | :--- | :---: | :--- |
-| **Abyssal Slime Pelts** | Defensive Layer | **DC 20 Arcana** | 2 Heavy Mucus Pelts (value 500 gp each) |
-| **Mind-Crushing Mandibles** | Offensive Matrix | **DC 19 Survival** | 2 Serrated Mandible Plates (value 350 gp each) |
-| **Drowned-Dream Bile** | Alchemical Gland | **DC 21 Nature** | 3 Vials of Psychic Brine (value 300 gp each) |
-| **Somnolent Leviathan Brain** | Essence Core | **DC 23 Arcana** | 1 Preserved Cerebrum (value 1,800 gp) |
+#### **Harvestable Materials Table**
+| Component | Classification | Yield & Estimated Base Value |
+| :--- | :--- | :--- |
+| **Translucent Jelly-Pelt** | Defensive Layer | 1 Large Memory-Draped Skin (value 700 gp) |
+| **Neural Filament Webbing** | Offensive Matrix | 2 Psionic Tendrils (value 400 gp each) |
+| **Starlight Brine Glands** | Alchemical Secretion | 3 Flasks of Concentrated Lucidity Oil (value 250 gp each) |
+| **Eye of the Dream-Wake** | Essence Core | 1 Shimmering Opal Eye (value 900 gp) |
 
 ---
 
 ## 🔨 Lodge Trophy-Forging & Relic Crafting
 
-Master trophy-smiths at Guild Lodges can forge these components into unique items:
+Master trophy-smiths at **The Drowned Lantern Lodge** can forge harvested components into specialized weapons, armor, and wondrous planar relics:
 
-| Crafted Item | Category & Rarity | Tactical Properties & 5e Mechanics |
+#### **Lodge Trophy-Forge Recipes**
+| Crafted Item | Category & Rarity | Mechanical Properties (D&D 5e) |
 | :--- | :---: | :--- |
-| **Mantle of the Deep Sleeper (+2)** | Armor (Leather/Hide) | Grants swim speed 60 ft., water breathing, immunity to pressure and cold damage. |
+| **Cloak of the Dream-Fracture** | Wondrous Item (Very Rare) | AC +1. Wearer has resistance to psychic damage and cannot be surprised. When subjected to an attack, wearer can force attacker to make a DC 16 Wis save or suffer disadvantage on all attacks for 1 round. |
+| **Staff of the Somnolent Eye (+2)** | Staff (Arcane Focus) | +2 to spell attacks and save DCs. As an action, emit a wave of psychic vertigo in a 30-foot cone (4d8 psychic damage and stunned for 1 round, DC 16 Int save, 2/day). |
 
 ---
 
 ## 🗺️ Cross-Vault Links & References
 
-* **Eldritch Bestiary**: [[Custom Rules/Eldritch Horror Bestiary - Creature Entries|Eldritch Horror Bestiary - Creature Entries]]
-* **Eldritch Hunting Ruleset**: [[Custom Rules/The Eldritch Horror Hunting & Sanity-Harvesting Ruleset|Module IV: The Eldritch Horror Hunting Ruleset]]
-* **Planar Compendium**: [[Custom Rules/Planar Bestiary & Hunting Lodges Compendium|Planar Bestiary & Hunting Lodges Compendium]]
-* **Hunting Guild Faction**: [[Factions/The Order of the Severed Eye|The Order of the Severed Eye]]
-* **Species Directory**: [[Species/Species|Multiversal Species Directory]]
+* **Master Compendium**: [[Custom Rules/Planar Bestiary & Hunting Lodges Compendium|Planar Bestiary & Hunting Lodges Compendium (All 66 Apex Monsters)]]
+* **Hunting Ruleset**: [[Custom Rules/The Interplanar Hunting, Harvesting & Trophy-Crafting Ruleset|Module III: The Interplanar Hunting Ruleset]]
+* **Guild Faction**: [[Factions/The Grand Guild of the Iron Spoor|The Grand Guild of the Iron Spoor]]
+* **Species Directory**: [[Species/Species|The Multiversal Species & Bestiary Directory]]

@@ -1,94 +1,93 @@
 ---
 title: "The Void-Thread Stalker Panther"
-description: "Comprehensive species profile, lore, ecology, full 5e statblock, harvesting yields, and lodge crafting for The Void-Thread Stalker Panther across the Shattered Loom multiverse."
+description: "Comprehensive species dossier, planar ecology, full 5e statblock, harvesting component yields, and lodge trophy-crafting for The Void-Thread Stalker Panther across the Shattered Loom multiverse."
 category: Species
 tags:
   - species
   - bestiary
   - monsters
-  - aberration
   - hunting
   - harvesting
+  - crafting
   - statblock
 dg-publish: true
 ---
 
-# 🧬 The Void-Thread Stalker Panther
-### *Multiversal Species & Apex Predator Dossier*
+# 🦁 The Void-Thread Stalker Panther
+### *Multiversal Species & Planar Apex Predator Dossier (Challenge Rating 9)*
 
-> “Six tails that slice through stone and shadow alike. You will never hear it coming until its quills are through your ribcage.”
-— Grand Huntmaster Torvald Blood-Tracer
+> “Where the tapestry broke, predators learned to eat the threads. If a beast severs your soul-thread, no resurrection spell in the multiverse will find you.”
+— Kaelthar the Threadwarden
 
 ---
 
 ## 📖 Overview & Anatomical Classification
 
-A predatory feline horror formed from coalesced void matter. Six prehensile tails crowned with adamantine quills trail behind it, allowing it to slice through planar fabric and turn invisible at will.
+A **The Void-Thread Stalker Panther** (Large Monstrosity, Unaligned) is an apex quarry monster native to **The Fractured Nexus**, cataloged by the **Grand Guild of the Iron Spoor** and hunted through **The Hearth of the Spoor (Grand Central Lodge)**.
+
+A six-legged feline predator with fur like the night sky between planar shards. It stalks the golden filaments connecting drifting islands, phasing between dimensional frequencies to ambush couriers.
 
 ---
 
 ## 🌲 Lore, Nature & Planar Ecology
 
-Stalking the shadows of drifting nexus fragments, this predator hunts solitary travelers and planar scouts, dragging carcasses into pocket dimensions to feed in peace.
+* **Native Plane**: [[Planes of Existence/The Fractured Nexus|The Fractured Nexus]]
+* **Regional Hunting Lodge**: [[Custom Rules/Planar Bestiary & Hunting Lodges Compendium|The Hearth of the Spoor (Grand Central Lodge)]]
+* **Predatory Behavior**: As an apex creature of its realm, the The Void-Thread Stalker Panther establishes vast territorial hunting grounds. It exerts immense ecological pressure on local planar fauna, utilizing ambient planar energies to ambush prey and defend its nesting lair.
+* **Harvest Window & Planar Decay**: Due to ambient planar radiation, a slain The Void-Thread Stalker Panther decays within 1 hour unless preserved with a *Lodge Salting Barrel* or alchemical stasis canisters.
 
 ---
 
 ## ⚔️ Combat Statistics (D&D 5e)
 
-*Large Aberration, Chaotic Neutral*
-___
-* **Armor Class**: 16 (natural armor)
-* **Hit Points**: 123 (13d10 + 52)
-* **Speed**: 50 ft., climb 40 ft.
-
-| STR | DEX | CON | INT | WIS | CHA |
-|:---:|:---:|:---:|:---:|:---:|:---:|
-| 18 (+4) | 20 (+5) | 18 (+4) | 10 (+0) | 15 (+2) | 12 (+1) |
-
-* **Saving Throws**: Dex +9, Wis +6
-* **Skills**: Stealth +13, Perception +6, Acrobatics +9
-* **Damage Immunities**: psychic
-* **Challenge**: 9 (5,000 XP)
-
-#### Traits
-* **Pounce**: If moves 20 ft straight toward target and hits with claw, target makes DC 16 Str save or falls prone.
-* **Shadow Phase**: As a bonus action, becomes invisible until end of turn or until it attacks.
-
-#### Actions
-* **Multiattack**: One Bite, two Claws, and one Tail-Whip.
-* **Bite**: *Melee Weapon Attack*: +9 to hit, reach 5 ft. *Hit*: 14 (2d8 + 5) piercing damage.
-* **Claw**: *Melee Weapon Attack*: +9 to hit, reach 5 ft. *Hit*: 10 (1d10 + 5) slashing damage.
-* **Tail-Whip**: *Melee Weapon Attack*: +9 to hit, reach 10 ft. *Hit*: 12 (2d6 + 5) slashing + 7 (2d6) psychic damage.
+* **Combat Statistics**:
+  * **Armor Class**: 14 (natural armor)
+  * **Hit Points**: 91 (13d10 + 26)
+  * **Speed**: 40 ft., climb 40 ft.
+  * **Abilities**: STR 16 (+3) | DEX 16 (+3) | CON 14 (+2) | INT 8 (-1) | WIS 14 (+2) | CHA 10 (+0)
+  * **Saving Throws**: Con +6, Wis +6
+  * **Senses**: darkvision 60 ft., passive Perception 16
+  * **Languages**: Understands native planar dialect; telepathy 60 ft. (or unaligned)
+  * **Challenge**: 9 (9,000 XP) | **Proficiency Bonus**: +4
+* **Signature Combat Traits**:
+  * **Planar Apex Resilience**: The Void-Thread Stalker Panther has advantage on saving throws against spells and magical effects native to its home plane.
+  * **Predatory Instinct**: Adds its proficiency bonus (+4) to initiative rolls and cannot be surprised while conscious.
+* **Combat Actions & Multiattack**:
+  * **Multiattack**: The Void-Thread Stalker Panther makes three attacks: two with its primary natural weapons and one crushing strike.
+  * **Primary Strike**: *Melee Weapon Attack*: +7 to hit, reach 10 ft., one target. *Hit*: 12 (2d10 + 3) slashing/piercing damage plus 7 (2d6) elemental/force damage.
+  * **Crushing Surge (Recharge 5–6)**: The Void-Thread Stalker Panther unleashes a planar surge in a 30-foot cone/line. Targets must make a DC 14 Dexterity or Constitution save, taking 31 (9d6) damage on a failed save, or half as much on a success.
 
 ---
 
 ## 🔪 Harvesting & Salvage Materials
 
-Hunters skilled in **Survival**, **Arcana**, or **Leatherworking** can harvest the following biological components:
+Hunters skilled in **Survival**, **Arcana**, **Nature**, or **Leatherworking** can harvest the following biological components from a fresh carcass:
 
-| Component | Classification | Harvest DC | Yield & Estimated Base Value |
-| :--- | :--- | :---: | :--- |
-| **Void-Panther Shadow Pelt** | Defensive Layer | **DC 16 Survival** | 1 Shadow Hide (value 450 gp) |
-| **Adamantine Tail-Quills** | Offensive Matrix | **DC 16 Smithing** | 6 Tail-Quills (value 80 gp each) |
-| **Stalker Adrenaline Flasks** | Alchemical Gland | **DC 16 Nature** | 2 Flasks of Adrenaline (value 150 gp each) |
-| **Phase Heart** | Essence Core | **DC 18 Arcana** | 1 Shifting Heart (value 700 gp) |
+#### **Harvestable Materials Table**
+| Component | Classification | Yield & Estimated Base Value |
+| :--- | :--- | :--- |
+| **Phase-Shifting Pelt** | Defensive Layer | 1 Twilight Fur Pelt (value 350 gp) |
+| **Tether-Claws** | Offensive Matrix | 4 Dimensional Talons (value 150 gp each) |
+| **Dimensional Lung-Sac** | Alchemical Secretion | 2 Vials of Phase Fluid (value 200 gp each) |
+| **Golden Spool Tendril** | Essence Core | 1 Resonant Sinew Cord (value 450 gp) |
 
 ---
 
 ## 🔨 Lodge Trophy-Forging & Relic Crafting
 
-Master trophy-smiths at Guild Lodges can forge these components into unique items:
+Master trophy-smiths at **The Hearth of the Spoor (Grand Central Lodge)** can forge harvested components into specialized weapons, armor, and wondrous planar relics:
 
-| Crafted Item | Category & Rarity | Tactical Properties & 5e Mechanics |
+#### **Lodge Trophy-Forge Recipes**
+| Crafted Item | Category & Rarity | Mechanical Properties (D&D 5e) |
 | :--- | :---: | :--- |
-| **Boots of the Void-Stalker** | Wondrous Item (Rare) | Wearer leaves no tracks or scent, gains +10 ft speed, and can cast Invisibility 1/day. |
+| **Prowler's Phase-Cloak** | Wondrous Item (Rare) | Grants advantage on Stealth checks. As a bonus action, phase out of reality until start of your next turn (can move through creatures and objects, 2/day). |
+| **Daggers of the Severed Step (+2 Pair)** | Weapons (Daggers) | When dual-wielding, landing hits with both daggers in a single turn allows wielder to teleport 20 feet without provoking opportunity attacks. |
 
 ---
 
 ## 🗺️ Cross-Vault Links & References
 
-* **Eldritch Bestiary**: [[Custom Rules/Eldritch Horror Bestiary - Creature Entries|Eldritch Horror Bestiary - Creature Entries]]
-* **Eldritch Hunting Ruleset**: [[Custom Rules/The Eldritch Horror Hunting & Sanity-Harvesting Ruleset|Module IV: The Eldritch Horror Hunting Ruleset]]
-* **Planar Compendium**: [[Custom Rules/Planar Bestiary & Hunting Lodges Compendium|Planar Bestiary & Hunting Lodges Compendium]]
-* **Hunting Guild Faction**: [[Factions/The Order of the Severed Eye|The Order of the Severed Eye]]
-* **Species Directory**: [[Species/Species|Multiversal Species Directory]]
+* **Master Compendium**: [[Custom Rules/Planar Bestiary & Hunting Lodges Compendium|Planar Bestiary & Hunting Lodges Compendium (All 66 Apex Monsters)]]
+* **Hunting Ruleset**: [[Custom Rules/The Interplanar Hunting, Harvesting & Trophy-Crafting Ruleset|Module III: The Interplanar Hunting Ruleset]]
+* **Guild Faction**: [[Factions/The Grand Guild of the Iron Spoor|The Grand Guild of the Iron Spoor]]
+* **Species Directory**: [[Species/Species|The Multiversal Species & Bestiary Directory]]
