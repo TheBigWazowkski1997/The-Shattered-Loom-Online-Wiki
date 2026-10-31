@@ -1466,6 +1466,7 @@ Below is the complete regional breakdown of all **22 Planar Lodges**, each featu
 
 * **Hunting & Crafting Rules**: [[Custom Rules/The Interplanar Hunting, Harvesting & Trophy-Crafting Ruleset|The Interplanar Hunting, Harvesting & Trophy-Crafting Ruleset]]
 * **Eldritch Horror Hunting**: [[Custom Rules/The Eldritch Horror Hunting & Sanity-Harvesting Ruleset|The Eldritch Horror Hunting & Sanity-Harvesting Ruleset]]
+* **Eldritch Bestiary (Statblocks)**: [[Custom Rules/Eldritch Horror Bestiary - Creature Entries|Eldritch Horror Bestiary - Creature Entries]]
 * **Guild Faction**: [[Factions/The Grand Guild of the Iron Spoor|The Grand Guild of the Iron Spoor]]
 * **Guild Leadership**: [[NPCs/Key NPCs - The Grand Guild of the Iron Spoor|Key NPCs: The Grand Guild of the Iron Spoor]]
 * **Custom Rules Hub**: [[Custom Rules/Custom Rules|Custom Rules & Mechanics Hub]]

@@ -132,6 +132,7 @@ The **Order of the Severed Eye** rewards hunters who bring in verified eldritch 
 
 * **Parent Ruleset**: [[Custom Rules/The Eldritch Madness & Dream-Fracture Ruleset|Module II: The Eldritch Madness & Dream-Fracture Ruleset]]
 * **Planar Lodges Compendium**: [[Custom Rules/Planar Bestiary & Hunting Lodges Compendium|Planar Bestiary & Hunting Lodges Compendium]]
+* **Creature Entries Bestiary**: [[Custom Rules/Eldritch Horror Bestiary - Creature Entries|Eldritch Horror Bestiary: Comprehensive Creature Entries]]
 * **Dedicated Faction**: [[Factions/The Order of the Severed Eye|The Order of the Severed Eye]]
 * **Leadership Profiles**: [[NPCs/Key NPCs - The Order of the Severed Eye|Key NPCs: The Order of the Severed Eye]]
 * **Central Rules Hub**: [[Custom Rules/Custom Rules|Custom Rules & Mechanics Hub]]

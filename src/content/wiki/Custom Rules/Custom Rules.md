@@ -42,6 +42,7 @@ All custom rules in this compendium are designed for player use, providing trans
 | **Module III** | **The Interplanar Hunting, Harvesting & Trophy-Crafting Ruleset** | Planar Spoor Tracking, Carcass Decay Clocks, Component Extraction Yields, Lodge Trophy-Forges, Spoor Marks Currency, and 22 Planar Lodges. | [[Custom Rules/The Interplanar Hunting, Harvesting & Trophy-Crafting Ruleset|The Interplanar Hunting, Harvesting & Trophy-Crafting Ruleset]] |
 | **Module IV** | **The Eldritch Horror Hunting & Sanity-Harvesting Ruleset** | Psionic & Oneiric Tracking, The Reciprocal Gaze, Lucidity-Risk Dissections, Forbidden Void-Crafting, and The Severed Mark Bounty System. | [[Custom Rules/The Eldritch Horror Hunting & Sanity-Harvesting Ruleset|The Eldritch Horror Hunting & Sanity-Harvesting Ruleset]] |
 | **Compendium** | **Planar Bestiary & Hunting Lodges Compendium** | Comprehensive directory of all 22 branch lodges across every plane, lodge masters, barter facilities, and 66 apex quarry monsters. | [[Custom Rules/Planar Bestiary & Hunting Lodges Compendium|Planar Bestiary & Hunting Lodges Compendium]] |
+| **Bestiary** | **Eldritch Horror Bestiary - Creature Entries** | Complete 5e statblocks, combat traits, Lucidity hazards, harvesting yields, and void-relic crafting recipes for 13 eldritch horrors. | [[Custom Rules/Eldritch Horror Bestiary - Creature Entries|Eldritch Horror Bestiary - Creature Entries]] |
 
 ---
 
