@@ -80,13 +80,14 @@ Fragments of crystallized ideology and divinity scattered across the Astral Sea.
 * **[[Planes of Existence/The Nine Hells/The Nine Hells|The Nine Hells]]** & **[[Planes of Existence/The Nine Hells/Map of the Nine Hells|Map of the Nine Hells]]** — Nine tiers of tyrannical order; devils harvesting soul-threads to forge the Iron Spindle.
 * **[[Planes of Existence/The Abyss/The Abyss|The Abyss]]** & **[[Planes of Existence/The Abyss/Map of the Abyss|Map of the Abyss]]** — Bottomless chasm of infinite chaos, fracture-zones, and the entropic static of the un-woven.
 * **[[Planes of Existence/The Prison Plane/The 32 Chambers|The 32 Chambers]]** — The Silent Spindle's inescapable prison for concepts and entities deemed too dangerous to exist.
-* **[[Planes of Existence/City Of Ry'leh/City Of Ry'leh|City Of Ry'leh]]** & **[[Planes of Existence/City Of Ry'leh/The Submerged Ziggurat|The Submerged Ziggurat]]** — The sunken cyclopean necropolis where the Great Dreamer slumbers.
+* **[[Planes of Existence/City Of Ry'leh/City Of Ry'leh|City Of Ry'leh]]**, **[[Planes of Existence/City Of Ry'leh/The Submerged Ziggurat|The Submerged Ziggurat]]** & **[[Planes of Existence/City Of Ry'leh/Map of the City of Ry'leh|Map of the City of Ry'leh]]** — The sunken cyclopean necropolis where the Great Dreamer slumbers.
 * **[[Planes of Existence/The Far Realm/The Far Realm|The Far Realm]]** — Madness beyond reality's borders where the geometry of thought unravels.
-* **[[Planes of Existence/The Interplanar Black Market & Smuggling Ruleset|The Interplanar Black Market & Smuggling Ruleset]]** — The Shadow Weft, Shatterpoint Bazaars, and illicit contraband networks.
+* **[[Custom Rules/The Interplanar Black Market & Smuggling Ruleset|The Interplanar Black Market & Smuggling Ruleset]]** — The Shadow Weft, Shatterpoint Bazaars, and illicit contraband networks.
+* **[[Custom Rules/The Eldritch Madness & Dream-Fracture Ruleset|The Eldritch Madness & Dream-Fracture Ruleset]]** — The Lucidity Index (0–100), mental grounding, and double-edged forbidden insights.
 
 ---
 
-## 🏛️ The Great Factions (25 Major Factions)
+## 🏛️ The Great Factions (26 Major Factions)
 
 | Faction | Philosophy | Core Agenda | Dossier Link |
 | :--- | :--- | :--- | :--- |
@@ -111,7 +112,7 @@ Fragments of crystallized ideology and divinity scattered across the Astral Sea.
 
 ---
 
-## 👥 Dramatis Personae (116 Notable NPCs)
+## 👥 Dramatis Personae (118 Notable NPCs)
 
 ### 1. Deities & Primordials
 * **[[NPCs/Gods/Telara|Telara]]** — The Prime Weaver, creator of the Loom of Creation.
