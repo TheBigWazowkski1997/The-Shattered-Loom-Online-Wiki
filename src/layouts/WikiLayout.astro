@@ -194,38 +194,75 @@ const baseUrl = import.meta.env.BASE_URL.replace(/\/$/, '');
   setupScrollProgress();
   document.addEventListener('astro:after-swap', setupScrollProgress);
 
-  // Dynamic Mermaid Diagram Renderer
+  // Resilient Mermaid Diagram Renderer
   async function renderMermaidDiagrams() {
-    const mermaidNodes = document.querySelectorAll(
-      'pre[data-language="mermaid"], pre.astro-code[data-language="mermaid"], pre > code.language-mermaid'
-    );
+    // Find all potential Mermaid code blocks across different highlighting outputs
+    const rawNodes = Array.from(document.querySelectorAll(
+      'pre[data-language="mermaid"], pre.astro-code[data-language="mermaid"], pre > code.language-mermaid, pre.astro-code'
+    ));
+
+    const mermaidNodes = rawNodes.filter(node => {
+      const pre = (node.tagName === 'PRE' ? node : node.closest('pre')) as HTMLElement | null;
+      if (!pre) return false;
+      if (pre.getAttribute('data-language') === 'mermaid') return true;
+      const text = pre.textContent?.trim() || '';
+      return /^(graph|flowchart|sequenceDiagram|stateDiagram|classDiagram|erDiagram|gantt|pie|gitGraph)\b/.test(text);
+    });
+
     if (!mermaidNodes.length) return;
 
     try {
-      // Import mermaid dynamically from fast CDN
-      const { default: mermaid } = await import('https://cdn.jsdelivr.net/npm/mermaid@11/dist/mermaid.esm.min.mjs');
+      // Multi-CDN fallback loader with @vite-ignore to prevent Vite preload wrapping
+      let mermaidMod: any = null;
+      const cdnUrls = [
+        'https://cdn.jsdelivr.net/npm/mermaid@11/dist/mermaid.esm.min.mjs',
+        'https://cdnjs.cloudflare.com/ajax/libs/mermaid/11.4.1/mermaid.esm.min.mjs',
+        'https://unpkg.com/mermaid@11/dist/mermaid.esm.min.mjs',
+        'https://esm.sh/mermaid@11'
+      ];
 
+      for (const url of cdnUrls) {
+        try {
+          const mod = await import(/* @vite-ignore */ url);
+          if (mod && (mod.default || mod.render)) {
+            mermaidMod = mod.default || mod;
+            break;
+          }
+        } catch {
+          // Try next CDN fallback
+        }
+      }
+
+      if (!mermaidMod) {
+        console.warn('Failed to load Mermaid module from all CDN sources.');
+        return;
+      }
+
+      const mermaid = mermaidMod;
       const isDark = document.documentElement.getAttribute('data-theme') !== 'light';
 
       mermaid.initialize({
         startOnLoad: false,
-        theme: isDark ? 'dark' : 'default',
-        fontFamily: "'Cinzel', 'Alegreya', Georgia, serif",
+        securityLevel: 'loose',
+        theme: 'base',
+        fontFamily: "'Alegreya', Georgia, serif",
         themeVariables: {
           darkMode: isDark,
-          fontFamily: "'Cinzel', 'Alegreya', Georgia, serif",
-          primaryColor: isDark ? '#231826' : '#f5eee6',
-          primaryTextColor: isDark ? '#f0ede6' : '#1c1712',
+          fontFamily: "'Alegreya', Georgia, serif",
+          fontSize: '15px',
+          primaryColor: isDark ? '#1f1726' : '#fdfaf3',
+          primaryTextColor: isDark ? '#fdfaf2' : '#1c1712',
           primaryBorderColor: isDark ? '#e5b85a' : '#8c6b23',
           lineColor: isDark ? '#e5b85a' : '#8c6b23',
-          secondaryColor: isDark ? '#1a1420' : '#ece4d8',
-          tertiaryColor: isDark ? '#100c14' : '#faf7f2',
-          mainBkg: isDark ? '#1a1420' : '#fdfbf7',
+          secondaryColor: isDark ? '#261b30' : '#f5efe4',
+          tertiaryColor: isDark ? '#16101c' : '#eae1d3',
+          mainBkg: isDark ? '#1f1726' : '#fdfaf3',
           nodeBorder: isDark ? '#e5b85a' : '#8c6b23',
-          clusterBkg: isDark ? 'rgba(30, 22, 36, 0.6)' : 'rgba(235, 225, 212, 0.6)',
+          nodeTextColor: isDark ? '#fdfaf2' : '#1c1712',
+          clusterBkg: isDark ? 'rgba(31, 23, 38, 0.7)' : 'rgba(245, 239, 228, 0.7)',
           clusterBorder: isDark ? '#e5b85a' : '#8c6b23',
           titleColor: isDark ? '#e5b85a' : '#8c6b23',
-          edgeLabelBackground: isDark ? '#1a1420' : '#fdfbf7',
+          edgeLabelBackground: isDark ? '#16101c' : '#fdfaf3',
         }
       });
 
@@ -253,6 +290,22 @@ const baseUrl = import.meta.env.BASE_URL.replace(/\/$/, '');
 
           container.innerHTML = svg;
           pre.style.display = 'none';
+
+          // Prevent narrow diagrams from squishing
+          const svgEl = container.querySelector('svg');
+          if (svgEl) {
+            const vb = svgEl.getAttribute('viewBox');
+            if (vb) {
+              const parts = vb.split(' ').map(Number);
+              const w = parts[2];
+              if (w && w < 480) {
+                svgEl.style.maxWidth = `${Math.max(w * 1.45, 400)}px`;
+                svgEl.style.width = '100%';
+              } else {
+                svgEl.style.maxWidth = '100%';
+              }
+            }
+          }
         } catch (err) {
           console.warn('Mermaid rendering error for node:', err);
           pre.style.display = 'block';
@@ -264,7 +317,11 @@ const baseUrl = import.meta.env.BASE_URL.replace(/\/$/, '');
   }
 
   renderMermaidDiagrams();
+  if (document.readyState === 'loading') {
+    document.addEventListener('DOMContentLoaded', renderMermaidDiagrams);
+  }
   document.addEventListener('astro:after-swap', renderMermaidDiagrams);
+  window.addEventListener('load', renderMermaidDiagrams);
 
   // Re-render with matching palette whenever user toggles light/dark theme
   const themeObserver = new MutationObserver((mutations) => {

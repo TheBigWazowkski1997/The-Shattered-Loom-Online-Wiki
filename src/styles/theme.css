@@ -448,7 +448,7 @@ li::marker {
    Mermaid Diagrams
    ========================================================================== */
 .wiki-mermaid-container {
-  margin: 2.2rem 0;
+  margin: 2.2rem auto;
   padding: 1.75rem 1.25rem;
   background: rgba(14, 10, 18, 0.75);
   border: 1px solid var(--border-subtle);
@@ -470,23 +470,105 @@ li::marker {
 }
 
 .wiki-mermaid-container svg {
-  max-width: 100%;
-  height: auto;
   display: block;
+  margin: 0 auto;
+  height: auto;
+  max-width: 100%;
 }
 
+/* Reset any global paragraph styles inside Mermaid diagrams */
+.wiki-mermaid-container svg p {
+  margin: 0 !important;
+  padding: 0 !important;
+  font-family: var(--font-body), 'Alegreya', Georgia, serif !important;
+  font-size: 0.95rem !important;
+  line-height: 1.35 !important;
+}
+
+/* High contrast D&D parchment / obsidian styling for nodes */
 .wiki-mermaid-container svg .node rect,
+.wiki-mermaid-container svg .node polygon,
 .wiki-mermaid-container svg .node circle,
-.wiki-mermaid-container svg .node ellipse,
-.wiki-mermaid-container svg .node polygon {
+.wiki-mermaid-container svg .node path {
+  fill: #1f1726 !important;
+  stroke: #e5b85a !important;
+  stroke-width: 1.5px !important;
   transition: filter 0.2s ease;
 }
 
 .wiki-mermaid-container svg .node:hover rect,
-.wiki-mermaid-container svg .node:hover circle,
-.wiki-mermaid-container svg .node:hover ellipse,
-.wiki-mermaid-container svg .node:hover polygon {
-  filter: brightness(1.2);
+.wiki-mermaid-container svg .node:hover polygon,
+.wiki-mermaid-container svg .node:hover circle {
+  filter: brightness(1.25);
 }
+
+.wiki-mermaid-container svg .node .label,
+.wiki-mermaid-container svg .node .label p,
+.wiki-mermaid-container svg .node .label span,
+.wiki-mermaid-container svg .node .label div {
+  color: #fdfaf2 !important;
+  fill: #fdfaf2 !important;
+  font-family: var(--font-body), 'Alegreya', Georgia, serif !important;
+  font-size: 0.95rem !important;
+  line-height: 1.35 !important;
+  text-align: center !important;
+}
+
+.wiki-mermaid-container svg .edgePaths path,
+.wiki-mermaid-container svg .flowchart-link {
+  stroke: #e5b85a !important;
+  stroke-width: 1.5px !important;
+}
+
+.wiki-mermaid-container svg .marker,
+.wiki-mermaid-container svg .arrowheadPath {
+  fill: #e5b85a !important;
+  stroke: #e5b85a !important;
+}
+
+.wiki-mermaid-container svg .edgeLabel,
+.wiki-mermaid-container svg .edgeLabel span {
+  background-color: #17111c !important;
+  color: #e5b85a !important;
+  fill: #e5b85a !important;
+  font-family: var(--font-body), 'Alegreya', Georgia, serif !important;
+  font-size: 0.85rem !important;
+}
+
+/* Light Mode Overrides */
+[data-theme="light"] .wiki-mermaid-container svg .node rect,
+[data-theme="light"] .wiki-mermaid-container svg .node polygon,
+[data-theme="light"] .wiki-mermaid-container svg .node circle,
+[data-theme="light"] .wiki-mermaid-container svg .node path {
+  fill: #fdfaf3 !important;
+  stroke: #8c6b23 !important;
+}
+
+[data-theme="light"] .wiki-mermaid-container svg .node .label,
+[data-theme="light"] .wiki-mermaid-container svg .node .label p,
+[data-theme="light"] .wiki-mermaid-container svg .node .label span,
+[data-theme="light"] .wiki-mermaid-container svg .node .label div {
+  color: #1c1712 !important;
+  fill: #1c1712 !important;
+}
+
+[data-theme="light"] .wiki-mermaid-container svg .edgePaths path,
+[data-theme="light"] .wiki-mermaid-container svg .flowchart-link {
+  stroke: #8c6b23 !important;
+}
+
+[data-theme="light"] .wiki-mermaid-container svg .marker,
+[data-theme="light"] .wiki-mermaid-container svg .arrowheadPath {
+  fill: #8c6b23 !important;
+  stroke: #8c6b23 !important;
+}
+
+[data-theme="light"] .wiki-mermaid-container svg .edgeLabel,
+[data-theme="light"] .wiki-mermaid-container svg .edgeLabel span {
+  background-color: #fdfaf3 !important;
+  color: #8c6b23 !important;
+  fill: #8c6b23 !important;
+}
+
 
 
