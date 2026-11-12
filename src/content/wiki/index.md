@@ -114,7 +114,7 @@ Fragments of crystallized ideology and divinity scattered across the Astral Sea.
 
 ---
 
-## 👥 Dramatis Personae (122 Notable NPCs)
+## 👥 NPCs (122 Notable Characters)
 
 ### 1. Deities & Primordials
 * **[[NPCs/Gods/Telara|Telara]]** — The Prime Weaver, creator of the Loom of Creation.

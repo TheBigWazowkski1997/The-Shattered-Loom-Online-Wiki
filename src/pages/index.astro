@@ -46,7 +46,7 @@ const realmCards = [
     color: '#eab308'
   },
   {
-    title: 'Dramatis Personae',
+    title: 'NPCs',
     icon: '👥',
     desc: "122 documented entities: Demogorgon, Orcus, Graz'zt, Asmodeus, Archfey of the Feywild, Darklords, and planar sovereigns.",
     href: `${baseUrl}/wiki/npcs`,
@@ -130,7 +130,7 @@ const commonKnowledge = [
             <span>Search Multiverse (⌘K)</span>
           </button>
           <a href={`${baseUrl}/wiki/npcs`} class="btn-outline">
-            <span>Dramatis Personae (122 NPCs)</span>
+            <span>NPCs (122 Directory)</span>
           </a>
         </div>
       </div>
@@ -375,16 +375,27 @@ const commonKnowledge = [
   .btn-outline {
     display: inline-flex;
     align-items: center;
-    padding: 0.85rem 1.4rem;
-    color: var(--text-muted);
+    gap: 0.6rem;
+    background: var(--bg-surface);
+    border: 1px solid var(--border-strong);
+    color: var(--gold-light);
     font-family: var(--font-heading);
+    font-weight: 600;
     font-size: 0.95rem;
+    padding: 0.85rem 1.6rem;
+    border-radius: 8px;
     text-decoration: none;
-    transition: color 0.2s ease;
+    cursor: pointer;
+    backdrop-filter: blur(8px);
+    transition: all 0.25s ease;
   }
 
   .btn-outline:hover {
+    background: var(--bg-surface-hover);
+    border-color: var(--gold-primary);
     color: var(--gold-primary);
+    transform: translateY(-2px);
+    box-shadow: 0 4px 15px rgba(229, 184, 90, 0.25);
   }
 
   .stats-ribbon {
