@@ -39,22 +39,22 @@ A hollowed, living redwood tree that has been shaped over centuries. Rather than
 
 ```mermaid
 graph TD
-    GrandCaliper[The Grand Calipers <br> Triumvirate Council]
+    GrandCaliper["The Grand Calipers<br/>Triumvirate Council"]
     
-    Sub1[High Caliper Hesperus Vane <br> Iron & Gear - Metallos] --> GrandCaliper
-    Sub2[High Caliper Lady Seraphina Aurum <br> Light & Prism - Crystalis] --> GrandCaliper
-    Sub3[High Caliper Elder Oakhaven <br> Sap & Sinew - Timberforge] --> GrandCaliper
+    Sub1["High Caliper Hesperus Vane<br/>Iron & Gear - Metallos"] --> GrandCaliper
+    Sub2["High Caliper Lady Seraphina Aurum<br/>Light & Prism - Crystalis"] --> GrandCaliper
+    Sub3["High Caliper Elder Oakhaven<br/>Sap & Sinew - Timberforge"] --> GrandCaliper
 
-    GrandCaliper --> HighArbiters[The High Arbiters <br> City Chapter Heads]
+    GrandCaliper --> HighArbiters["The High Arbiters<br/>City Chapter Heads"]
     
-    HighArbiters --> Arbiter1[Arbiter of the Brass Gavel <br> Metallos Chapter]
-    HighArbiters --> Arbiter2[Arbiter of the Refracted Lens <br> Crystalis Chapter]
-    HighArbiters --> Arbiter3[Arbiter of the Growing Knot <br> Timberforge Chapter]
+    HighArbiters --> Arbiter1["Arbiter of the Brass Gavel<br/>Metallos Chapter"]
+    HighArbiters --> Arbiter2["Arbiter of the Refracted Lens<br/>Crystalis Chapter"]
+    HighArbiters --> Arbiter3["Arbiter of the Growing Knot<br/>Timberforge Chapter"]
 
-    HighArbiters --> Ledgers[The Ledger-Keepers <br> Trade & Logistics]
-    HighArbiters --> Wardens[The Caliper Wardens <br> Security & Patent Enforcers]
+    HighArbiters --> Ledgers["The Ledger-Keepers<br/>Trade & Logistics"]
+    HighArbiters --> Wardens["The Caliper Wardens<br/>Security & Patent Enforcers"]
     
-    Ledgers --> Journeymen[Journeymen & Guild-Sworn]
+    Ledgers --> Journeymen["Journeymen & Guild-Sworn"]
     Wardens --> Journeymen
 ```
 

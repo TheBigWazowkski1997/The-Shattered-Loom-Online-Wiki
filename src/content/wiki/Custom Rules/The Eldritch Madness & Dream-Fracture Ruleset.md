@@ -100,10 +100,10 @@ Lucidity does **not** passively regenerate upon completing a rest within the Cit
 
 ```mermaid
 graph LR
-    A[Cold-Logic Debrief<br/>+1d10 Lucidity] --> E[Restored Lucidity Score]
-    B[Loom-Thread Meditation<br/>+2d10 Lucidity] --> E
-    C[Iron-Salt Grounding Draught<br/>+3d6 Lucidity] --> E
-    D[Restorative Spellcraft<br/>+1d8 to +3d10 Lucidity] --> E
+    A["Cold-Logic Debrief<br/>+1d10 Lucidity"] --> E["Restored Lucidity Score"]
+    B["Loom-Thread Meditation<br/>+2d10 Lucidity"] --> E
+    C["Iron-Salt Grounding Draught<br/>+3d6 Lucidity"] --> E
+    D["Restorative Spellcraft<br/>+1d8 to +3d10 Lucidity"] --> E
 ```
 
 ### **1. Grounding Procedures & Actions**

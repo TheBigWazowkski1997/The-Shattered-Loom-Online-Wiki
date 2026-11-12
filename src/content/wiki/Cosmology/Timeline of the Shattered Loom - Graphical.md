@@ -8,7 +8,7 @@ dg-publish: true
 > **Viewing Tip:** In Obsidian, toggle **Reading Mode** (Ctrl/Cmd+E) to render diagrams at full width.
 
 ---
-````mermaid
+```mermaid
 %%{init: {'theme': 'base', 'themeVariables': { 'fontSize': '12px', 'fontFamily': 'Georgia, serif' }}}%%
 flowchart TB
     %% ===== NODES =====
@@ -27,11 +27,11 @@ flowchart TB
 
     subgraph TRIAL[Trial of Asmodeus — Centuries Pre-Shattering]
         T1[Cosmic litigation at Pinnacle of Order]
-        T2[Charges: Corruption, Harvesting, Usurpation]
-        T3[Asmodeus Defense: Necessity of Tension]
-        T4[Verdict: Methods ruled 'metaphysically legal']
+        T2["Charges: Corruption, Harvesting, Usurpation"]
+        T3["Asmodeus Defense: Necessity of Tension"]
+        T4["Verdict: Methods ruled 'metaphysically legal'"]
         T5[Pact Primeval ratified — Iron Spindle mandated]
-        T6[Debate: Preservation vs. Sabotage Theory]
+        T6["Debate: Preservation vs. Sabotage Theory"]
     end
 
     subgraph SHATTERING[The Shattering — Year 0]
@@ -49,7 +49,7 @@ flowchart TB
         A2[Shatterpoints appear — unpredictable planar rifts]
         A3[Chaos rises — elemental instability, Far Realm footholds]
         A4[Nine Hells harden — Scar of Absolute Order]
-        A5[Avernus = Shattered Frontier / planar junkyard]
+        A5["Avernus = Shattered Frontier / planar junkyard"]
         A6[Blood War intensifies — Hells bind vs. Abyss unravel]
         A7[Grand Archive founded by The Librarian]
         A8[Hall of Memories preserves Shattering record]
@@ -76,7 +76,7 @@ flowchart TB
     class T1,T2,T3,T4,T5,T6 trial
     class S1,S2,S3,S4,S5,S6,S7 shattering
     class A1,A2,A3,A4,A5,A6,A7,A8 aftermath
-````
+```
 
 ---
 
@@ -126,24 +126,24 @@ flowchart TB
 ```mermaid
 %%{init: {'theme': 'base', 'themeVariables': { 'fontSize': '14px' }}}%%
 graph TD
-    A[THE SHATTERED LOOM<br/>Year 0 - Present] --> B[PALE LODGE: RESTORE]
-    A --> C[NINE HELLS / ASMODEUS: REPLACE]
-    A --> D[CULT / GREAT DREAMER: RELEASE]
+    A["THE SHATTERED LOOM<br/>Year 0 - Present"] --> B["PALE LODGE: RESTORE"]
+    A --> C["NINE HELLS / ASMODEUS: REPLACE"]
+    A --> D["CULT / GREAT DREAMER: RELEASE"]
     
     B --> B1[Recover ALL fragments]
     B --> B2[Reweave original design]
-    B --> B3[Telara's vision: Balance through connection]
-    B --> B4[Cost: Requires sacrifice; may be impossible]
+    B --> B3["Telara's vision: Balance through connection"]
+    B --> B4["Cost: Requires sacrifice; may be impossible"]
     
     C --> C1[Complete Iron Spindle]
-    C --> C2[Enforce Absolute Law / Tyranny]
-    C --> C3[Asmodeus's vision: Order through control]
-    C --> C4[Cost: Free will extinguished; multiverse frozen]
+    C --> C2["Enforce Absolute Law / Tyranny"]
+    C --> C3["Asmodeus's vision: Order through control"]
+    C --> C4["Cost: Free will extinguished; multiverse frozen"]
     
     D --> D1[Destroy remaining fragments]
-    D --> D2[Embrace fragmentation/entropy]
-    D --> D3[Pale Night/Dreamer vision: Freedom through unmaking]
-    D --> D4[Cost: Reality dissolves; meaning ceases]
+    D --> D2["Embrace fragmentation/entropy"]
+    D --> D3["Pale Night/Dreamer vision: Freedom through unmaking"]
+    D --> D4["Cost: Reality dissolves; meaning ceases"]
     
     style B fill:#27ae60,color:#fff,stroke:#2ecc71,stroke-width:2px
     style C fill:#8e44ad,color:#fff,stroke:#9b59b6,stroke-width:2px

@@ -444,3 +444,49 @@ li::marker {
   border-radius: 2px;
 }
 
+/* ==========================================================================
+   Mermaid Diagrams
+   ========================================================================== */
+.wiki-mermaid-container {
+  margin: 2.2rem 0;
+  padding: 1.75rem 1.25rem;
+  background: rgba(14, 10, 18, 0.75);
+  border: 1px solid var(--border-subtle);
+  border-radius: 12px;
+  box-shadow: 0 4px 20px rgba(0, 0, 0, 0.45);
+  overflow-x: auto;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  backdrop-filter: blur(8px);
+  -webkit-backdrop-filter: blur(8px);
+  transition: all 0.3s ease;
+}
+
+[data-theme="light"] .wiki-mermaid-container {
+  background: rgba(253, 250, 243, 0.9);
+  box-shadow: 0 4px 16px rgba(0, 0, 0, 0.08);
+  border-color: rgba(140, 107, 35, 0.25);
+}
+
+.wiki-mermaid-container svg {
+  max-width: 100%;
+  height: auto;
+  display: block;
+}
+
+.wiki-mermaid-container svg .node rect,
+.wiki-mermaid-container svg .node circle,
+.wiki-mermaid-container svg .node ellipse,
+.wiki-mermaid-container svg .node polygon {
+  transition: filter 0.2s ease;
+}
+
+.wiki-mermaid-container svg .node:hover rect,
+.wiki-mermaid-container svg .node:hover circle,
+.wiki-mermaid-container svg .node:hover ellipse,
+.wiki-mermaid-container svg .node:hover polygon {
+  filter: brightness(1.2);
+}
+
+

@@ -33,21 +33,21 @@ Running parallel to legitimate cosmic commerce is **The Shadow Weft** (also call
 
 ```mermaid
 graph TD
-    Nexus[The Silken Undercroft <br> Fractured Nexus Central Hub]
+    Nexus["The Silken Undercroft<br/>Fractured Nexus Central Hub"]
     
-    Avarice[The Obsidian Bazaar & Siphon Sump <br> Plane of Avarice]
-    Craft[The Slag-Gutter Markets <br> Plane of Eternal Craft]
-    Hells[The Cold Wake Flotilla <br> River Styx / Dis]
-    Shadow[The Gloom-Weft Caches <br> Shadowfell]
-    Material[The Shatter-Coves <br> Material Plane Borderlands]
-    Memories[The Amnesia Vaults <br> Plane of Fragmented Memories]
+    Avarice["The Obsidian Bazaar & Siphon Sump<br/>Plane of Avarice"]
+    Craft["The Slag-Gutter Markets<br/>Plane of Eternal Craft"]
+    Hells["The Cold Wake Flotilla<br/>River Styx / Dis"]
+    Shadow["The Gloom-Weft Caches<br/>Shadowfell"]
+    Material["The Shatter-Coves<br/>Material Plane Borderlands"]
+    Memories["The Amnesia Vaults<br/>Plane of Fragmented Memories"]
 
-    Nexus <-->|Shatterpoint Drifts| Avarice
-    Nexus <-->|Illicit Flues| Craft
-    Nexus <-->|Astral Siphons| Hells
-    Nexus <-->|Thin Veil Tears| Shadow
-    Nexus <-->|Wild Rifts| Material
-    Nexus <-->|Memory Conduits| Memories
+    Nexus ---|"Shatterpoint Drifts"| Avarice
+    Nexus ---|"Illicit Flues"| Craft
+    Nexus ---|"Astral Siphons"| Hells
+    Nexus ---|"Thin Veil Tears"| Shadow
+    Nexus ---|"Wild Rifts"| Material
+    Nexus ---|"Memory Conduits"| Memories
 ```
 
 ### 1. The Silken Undercroft ([[The Fractured Nexus]])
@@ -151,12 +151,12 @@ Smugglers must choose how they cross planar boundaries:
 
 ```mermaid
 graph LR
-    Origin[Origin Plane] --> RouteA[Route A: The Legitimate Toll-Gate]
-    Origin --> RouteB[Route B: The Shatterpoint Drift]
-    Origin --> RouteC[Route C: Spelljammer Astral Slipstream]
-    Origin --> RouteD[Route D: The Stygian / Bleed Bypass]
+    Origin["Origin Plane"] --> RouteA["Route A: The Legitimate Toll-Gate"]
+    Origin --> RouteB["Route B: The Shatterpoint Drift"]
+    Origin --> RouteC["Route C: Spelljammer Astral Slipstream"]
+    Origin --> RouteD["Route D: The Stygian / Bleed Bypass"]
     
-    RouteA --> Destination[Destination Plane]
+    RouteA --> Destination["Destination Plane"]
     RouteB --> Destination
     RouteC --> Destination
     RouteD --> Destination

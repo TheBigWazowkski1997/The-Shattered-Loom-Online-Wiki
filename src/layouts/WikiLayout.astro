@@ -193,4 +193,86 @@ const baseUrl = import.meta.env.BASE_URL.replace(/\/$/, '');
 
   setupScrollProgress();
   document.addEventListener('astro:after-swap', setupScrollProgress);
+
+  // Dynamic Mermaid Diagram Renderer
+  async function renderMermaidDiagrams() {
+    const mermaidNodes = document.querySelectorAll(
+      'pre[data-language="mermaid"], pre.astro-code[data-language="mermaid"], pre > code.language-mermaid'
+    );
+    if (!mermaidNodes.length) return;
+
+    try {
+      // Import mermaid dynamically from fast CDN
+      const { default: mermaid } = await import('https://cdn.jsdelivr.net/npm/mermaid@11/dist/mermaid.esm.min.mjs');
+
+      const isDark = document.documentElement.getAttribute('data-theme') !== 'light';
+
+      mermaid.initialize({
+        startOnLoad: false,
+        theme: isDark ? 'dark' : 'default',
+        fontFamily: "'Cinzel', 'Alegreya', Georgia, serif",
+        themeVariables: {
+          darkMode: isDark,
+          fontFamily: "'Cinzel', 'Alegreya', Georgia, serif",
+          primaryColor: isDark ? '#231826' : '#f5eee6',
+          primaryTextColor: isDark ? '#f0ede6' : '#1c1712',
+          primaryBorderColor: isDark ? '#e5b85a' : '#8c6b23',
+          lineColor: isDark ? '#e5b85a' : '#8c6b23',
+          secondaryColor: isDark ? '#1a1420' : '#ece4d8',
+          tertiaryColor: isDark ? '#100c14' : '#faf7f2',
+          mainBkg: isDark ? '#1a1420' : '#fdfbf7',
+          nodeBorder: isDark ? '#e5b85a' : '#8c6b23',
+          clusterBkg: isDark ? 'rgba(30, 22, 36, 0.6)' : 'rgba(235, 225, 212, 0.6)',
+          clusterBorder: isDark ? '#e5b85a' : '#8c6b23',
+          titleColor: isDark ? '#e5b85a' : '#8c6b23',
+          edgeLabelBackground: isDark ? '#1a1420' : '#fdfbf7',
+        }
+      });
+
+      let idx = 0;
+      for (const node of mermaidNodes) {
+        const pre = (node.tagName === 'PRE' ? node : node.closest('pre')) as HTMLElement | null;
+        if (!pre) continue;
+
+        let rawCode = pre.dataset.rawMermaid;
+        if (!rawCode) {
+          rawCode = pre.textContent?.trim() || '';
+          pre.dataset.rawMermaid = rawCode;
+        }
+
+        const id = `mermaid-svg-${Date.now()}-${idx++}`;
+        try {
+          const { svg } = await mermaid.render(id, rawCode);
+
+          let container = pre.previousElementSibling as HTMLElement | null;
+          if (!container || !container.classList.contains('wiki-mermaid-container')) {
+            container = document.createElement('div');
+            container.className = 'wiki-mermaid-container';
+            pre.parentNode?.insertBefore(container, pre);
+          }
+
+          container.innerHTML = svg;
+          pre.style.display = 'none';
+        } catch (err) {
+          console.warn('Mermaid rendering error for node:', err);
+          pre.style.display = 'block';
+        }
+      }
+    } catch (err) {
+      console.warn('Failed to load Mermaid module:', err);
+    }
+  }
+
+  renderMermaidDiagrams();
+  document.addEventListener('astro:after-swap', renderMermaidDiagrams);
+
+  // Re-render with matching palette whenever user toggles light/dark theme
+  const themeObserver = new MutationObserver((mutations) => {
+    for (const m of mutations) {
+      if (m.attributeName === 'data-theme') {
+        renderMermaidDiagrams();
+      }
+    }
+  });
+  themeObserver.observe(document.documentElement, { attributes: true, attributeFilter: ['data-theme'] });
 </script>
