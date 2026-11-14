@@ -26,7 +26,7 @@ The **Order of the Severed Eye** is a secretive, highly disciplined holy order a
 
 Unlike the rugged trackers of the [[Factions/The Grand Guild of the Iron Spoor|Grand Guild of the Iron Spoor]], who hunt biological beasts for pelts and horns, the Severed Eye operates as an esoteric surgical inquisition. They view aberrations not as game, but as malignant cosmic tumors upon the body of the Loom that must be cleanly excised and neutralised.
 
-* **Faction Headquarters**: The Sanctorum of the Blind Needle, deep lead-vaults beneath the Fractured Nexus.
+* **Faction Headquarters & Supreme Lodge**: [[Project Shattered Loom/Project Shattered Loom/Planes of Existence/The Fractured Nexus/The Sanctorum of the Blind Needle (Grand Chapterhouse Lodge)|The Sanctorum of the Blind Needle (Grand Chapterhouse Lodge)]], deep lead-vaults beneath the Fractured Nexus.
 * **Supreme Leader**: [[NPCs/Grand Inquisitor Sylas the Blind|Grand Inquisitor Sylas the Blind]] (CR 16).
 * **Chief Anatomist**: [[NPCs/Doctor Vaelen Malcor, Void-Surgeon|Doctor Vaelen Malcor, Void-Surgeon]] (CR 13).
 * **Affiliated Rules**: [[Custom Rules/The Eldritch Horror Hunting & Sanity-Harvesting Ruleset|Eldritch Horror Hunting Ruleset]] & [[Custom Rules/The Eldritch Madness & Dream-Fracture Ruleset|Eldritch Madness Ruleset]].
@@ -89,7 +89,8 @@ graph TD
 
 ## 🗺️ Cross-Vault Links
 
-* **Custom Ruleset**: [[Custom Rules/The Eldritch Horror Hunting & Sanity-Harvesting Ruleset|The Eldritch Horror Hunting & Sanity-Harvesting Ruleset]]
-* **Madness Rules**: [[Custom Rules/The Eldritch Madness & Dream-Fracture Ruleset|The Eldritch Madness & Dream-Fracture Ruleset]]
-* **Order Leadership**: [[NPCs/Key NPCs - The Order of the Severed Eye|Key NPCs: The Order of the Severed Eye]]
-* **Headquarters**: [[Planes of Existence/The Fractured Nexus/The Fractured Nexus|The Fractured Nexus (Sanctorum Vaults)]]
+* **Custom Ruleset**: [[Project Shattered Loom/Project Shattered Loom/Custom Rules/The Eldritch Horror Hunting & Sanity-Harvesting Ruleset|The Eldritch Horror Hunting & Sanity-Harvesting Ruleset]]
+* **Madness Rules**: [[Project Shattered Loom/Project Shattered Loom/Custom Rules/The Eldritch Madness & Dream-Fracture Ruleset|The Eldritch Madness & Dream-Fracture Ruleset]]
+* **Order Leadership**: [[Project Shattered Loom/Project Shattered Loom/NPC's/Key NPCs - The Order of the Severed Eye|Key NPCs: The Order of the Severed Eye]]
+* **Supreme Hunting Lodge**: [[Project Shattered Loom/Project Shattered Loom/Planes of Existence/The Fractured Nexus/The Sanctorum of the Blind Needle (Grand Chapterhouse Lodge)|The Sanctorum of the Blind Needle (Grand Chapterhouse Lodge)]]
+* **Regional Realm Dossier**: [[Project Shattered Loom/Project Shattered Loom/Planes of Existence/The Fractured Nexus/The Fractured Nexus|The Fractured Nexus (Sanctorum Vaults)]]

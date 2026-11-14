@@ -129,8 +129,12 @@ Hunters can redeem their **Spoor Marks** or trade gold and monster components fo
 
 ## 🗺️ Cross-Vault Links
 
-* **Regional Realm Dossier**: [[Planes of Existence/The Fractured Nexus/The Fractured Nexus|The Fractured Nexus]]
-* **Full Multiverse Lodges Atlas**: [[Custom Rules/Planar Bestiary & Hunting Lodges Compendium|Planar Bestiary & Hunting Lodges Compendium]]
-* **Master Hunting Rules**: [[Custom Rules/The Interplanar Hunting, Harvesting & Trophy-Crafting Ruleset|The Interplanar Hunting, Harvesting & Trophy-Crafting Ruleset]]
-* **Eldritch Hunting Rules**: [[Custom Rules/The Eldritch Horror Hunting & Sanity-Harvesting Ruleset|The Eldritch Horror Hunting & Sanity-Harvesting Ruleset]]
-* **Parent Faction**: [[Factions/The Grand Guild of the Iron Spoor|The Grand Guild of the Iron Spoor]]
+* **Regional Realm Dossier**: [[Project Shattered Loom/Project Shattered Loom/Planes of Existence/The Fractured Nexus/The Fractured Nexus|The Fractured Nexus]]
+* **Cartographic Atlas**: [[Project Shattered Loom/Project Shattered Loom/Planes of Existence/The Fractured Nexus/Map of the Fractured Nexus|Map & Geography of the Fractured Nexus]]
+* **Sister Lodge (Eldritch Horrors)**: [[Project Shattered Loom/Project Shattered Loom/Planes of Existence/The Fractured Nexus/The Sanctorum of the Blind Needle (Grand Chapterhouse Lodge)|The Sanctorum of the Blind Needle (Order of the Severed Eye)]]
+* **Key Dramatis Personae**: [[Project Shattered Loom/Project Shattered Loom/NPC's/Key NPCs - The Fractured Nexus|Key NPCs - The Fractured Nexus]]
+* **Lodge Commander**: [[Project Shattered Loom/Project Shattered Loom/NPC's/Grand Huntmaster Torvald Blood-Tracer|Grand Huntmaster Torvald Blood-Tracer]]
+* **Full Multiverse Lodges Atlas**: [[Project Shattered Loom/Project Shattered Loom/Custom Rules/Planar Bestiary & Hunting Lodges Compendium|Planar Bestiary & Hunting Lodges Compendium]]
+* **Master Hunting Rules**: [[Project Shattered Loom/Project Shattered Loom/Custom Rules/The Interplanar Hunting, Harvesting & Trophy-Crafting Ruleset|The Interplanar Hunting, Harvesting & Trophy-Crafting Ruleset]]
+* **Eldritch Hunting Rules**: [[Project Shattered Loom/Project Shattered Loom/Custom Rules/The Eldritch Horror Hunting & Sanity-Harvesting Ruleset|The Eldritch Horror Hunting & Sanity-Harvesting Ruleset]]
+* **Parent Faction**: [[Project Shattered Loom/Project Shattered Loom/Factions/The Grand Guild of the Iron Spoor|The Grand Guild of the Iron Spoor]]

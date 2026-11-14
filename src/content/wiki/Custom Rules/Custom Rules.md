@@ -37,10 +37,10 @@ All custom rules in this compendium are designed for player use, providing trans
 
 | Module | System Focus | Key Mechanics | Ruleset Link |
 | :--- | :--- | :--- | :--- |
-| **Module I** | **The Interplanar Black Market & Smuggling Ruleset** | Contraband Classification (Class I–IV), Planar Anathema, Harmonic Detection & Heat, Smuggling Run Resolution, Bribes & Interception. | [[Custom Rules/The Interplanar Black Market & Smuggling Ruleset|The Interplanar Black Market & Smuggling Ruleset]] |
+| **Module I** | **The Interplanar Black Market & Smuggling Ruleset** | Contraband Classification (Class I–IV), 7 Shadow Bazaars, The Five-Phase Smuggling Run, Concealment Apparatuses, Planar Drift Hazards, Customs Gambits, and Multi-Planar Heat. | [[Custom Rules/The Interplanar Black Market & Smuggling Ruleset|The Interplanar Black Market & Smuggling Ruleset]] |
 | **Module II** | **The Eldritch Madness & Dream-Fracture Ruleset** | The Lucidity Index (0–100), Thresholds of Dream-Fracture, Double-Edged Forbidden Insights, Grounding Mechanics, and d20 Afflictions Table. | [[Custom Rules/The Eldritch Madness & Dream-Fracture Ruleset|The Eldritch Madness & Dream-Fracture Ruleset]] |
-| **Module III** | **The Interplanar Hunting, Harvesting & Trophy-Crafting Ruleset** | Planar Spoor Tracking, Carcass Decay Clocks, Component Extraction Yields, Lodge Trophy-Forges, Spoor Marks Currency, and 22 Planar Lodges. | [[Custom Rules/The Interplanar Hunting, Harvesting & Trophy-Crafting Ruleset|The Interplanar Hunting, Harvesting & Trophy-Crafting Ruleset]] |
-| **Module IV** | **The Eldritch Horror Hunting & Sanity-Harvesting Ruleset** | Psionic & Oneiric Tracking, The Reciprocal Gaze, Lucidity-Risk Dissections, Forbidden Void-Crafting, and The Severed Mark Bounty System. | [[Custom Rules/The Eldritch Horror Hunting & Sanity-Harvesting Ruleset|The Eldritch Horror Hunting & Sanity-Harvesting Ruleset]] |
+| **Module III** | **The Interplanar Hunting, Harvesting & Trophy-Crafting Ruleset** | Planar Spoor Stalking, Carcass Decay Clocks, Extraction Mishaps, Field Butchery Apparatuses, Master Trophy-Smithing, Spoor Marks Currency, and 22 Planar Lodges. | [[Custom Rules/The Interplanar Hunting, Harvesting & Trophy-Crafting Ruleset|The Interplanar Hunting, Harvesting & Trophy-Crafting Ruleset]] |
+| **Module IV** | **The Eldritch Horror Hunting & Sanity-Harvesting Ruleset** | Psionic & Oneiric Tracking, Reality Decay Hazards, The Reciprocal Gaze, Cognitive Fortification & Lucidity Shielding, Lucidity-Risk Dissections, Forbidden Void-Crafting, and The Severed Mark Bounty System. | [[Custom Rules/The Eldritch Horror Hunting & Sanity-Harvesting Ruleset|The Eldritch Horror Hunting & Sanity-Harvesting Ruleset]] |
 | **Compendium** | **Planar Bestiary & Hunting Lodges Compendium** | Comprehensive directory of all 22 branch lodges across every plane, lodge masters, barter facilities, and 66 apex quarry monsters. | [[Custom Rules/Planar Bestiary & Hunting Lodges Compendium|Planar Bestiary & Hunting Lodges Compendium]] |
 | **Bestiary** | **Eldritch Horror Bestiary - Creature Entries** | Complete 5e statblocks, combat traits, Lucidity hazards, harvesting yields, and void-relic crafting recipes for 13 eldritch horrors. | [[Custom Rules/Eldritch Horror Bestiary - Creature Entries|Eldritch Horror Bestiary - Creature Entries]] |
 
@@ -91,14 +91,14 @@ graph LR
 
 ---
 
-## 👁️ Module IV Highlight: Eldritch Horror Dissection
+## 👁️ Module IV Highlight: Eldritch Horror Dissection & Cognitive Shielding
 
-### 1. The Sanity Toll
-Hunting cosmic abominations requires confronting non-Euclidean organs and screaming neural lobes. Field dissections risk **Lucidity Drain** under Module II, requiring specialized lead-lined gauntlets, silver-filament blindfolds, and cold-iron preservation kegs.
+### 1. The Sanity Toll & Cognitive Defense
+Hunting cosmic abominations requires confronting non-Euclidean organs, reality decay hazards, and screaming neural lobes. Field autopsies directly risk **Lucidity Drain** under Module II, requiring specialized cognitive anchors (Axiomatic Pendulums, Mortal Mementos), alchemical prophylactics (Gray Poppy Tinctures, Aegis-Mercury Salves), axiomatic Euclidean salt circles, anchor assistants, and lead-lined surgical gear.
 
 ```mermaid
 graph LR
-    A["Psychic Spoor Stalking"] --> B["The Reciprocal Gaze"]
+    A["Psychic Spoor & Reality Decay"] --> B["Cognitive Fortification & Wards"]
     B --> C["Sanity-Toll Harvest Check"]
     C --> D["Forbidden Void-Crafting"]
     D --> E["Severed Marks & Sanctorum Relics"]

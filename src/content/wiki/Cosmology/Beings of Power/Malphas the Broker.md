@@ -2,51 +2,50 @@
 dg-publish: true
 ---
 
-# **Malphas, the Broker of Marrow**
+# Malphas, the Broker of Marrow (The Infernal Architect)
+
+![[malphas_broker.jpg]]
 
 *“Your threads are so... frayed, little Weaver-Touched. Why settle for a life that unravels when you can have a legacy of iron?”*
 
----
-
-### **Overview**
-**Malphas** is a high-ranking **Contract Devil** (or Pit Fiend, depending on the desired threat level) who operates the **Ossuary of Rebirth** in the **Fractured Nexus**. In a multiverse where death is no longer a certainty and souls are the raw currency of existence, Malphas has positioned himself as the premier "Technical Architect" of the physical form. He doesn't just heal; he **upgrades**, replacing the "failing" organic matter of the Loom's design with the "Hardened Law" of the Nine Hells.
-
----
-
-### **Appearance**
-Malphas manifests as a towering, impeccably dressed figure in robes of deep crimson and obsidian silk. His skin has the texture of polished copper, etched with fine, glowing lines of infernal legalese—a fragment of the **Pact Primeval** itself.
-*   **The Surgical Hands**: He has six arms. Two are organic-looking, though his fingers are too long; the other four are intricate constructs of infernal iron and soul-crystals, ending in various surgical tools, needles, and glowing scalpels.
-*   **The Eye of Valuation**: Instead of a left eye, he has a rotating multi-lens construct of black glass that can "see" the structural integrity of a creature's soul-threads.
-*   **The Scent**: He carries the faint, sterile scent of ozone and freshly forged iron, masking the underlying smell of scorched sulfur.
+* **Race**: Fiend (Contract Devil / Infernal Arch-Surgeon)
+* **Faction**: [[The Fractured Nexus#2. The Ossuary of Rebirth|The Ossuary of Rebirth]] / The Nine Hells of Baator
+* **Role**: Proprietor of the Ossuary of Rebirth / Master of Grafts & Prosthetics / Soul-Contract Broker
+* **Appearance**: A towering, impeccably groomed fiendish gentleman standing seven feet tall, dressed in high-collared robes of tailored crimson and obsidian spider-silk. His skin has the burnished texture of polished copper, etched with razor-thin glowing lines of golden infernal script representing clauses of the **Pact Primeval**. He possesses six arms: two upper arms with long, manicured fingers for signing scrolls, and four lower limbs formed from clockwork infernal iron and soul-crystals, tipped with spinning bone-saws, cauterizing needles, and razor-sharp scalpels. His left eye is a multi-lens apparatus of black glass that rotates to inspect the structural integrity of soul-threads.
+* **Personality**: Supremely polite, professional, and chillingly transactional. Malphas is never cruel for cruelty's sake—he is an architect of law and physical efficiency. He views the organic mortal form as "sentimental garbage" full of brittle bones and unstable destinies, offering upgrades that replace weak flesh with hardened infernal law. He speaks in a velvet baritone, addressing clients as "honored patients" even while having them sign clauses that forfeit their souls upon default.
 
 ---
 
-### **The Ossuary of Rebirth (The Clinic)**
-Located in the **White Ribs** district, the Ossuary is a masterpiece of infernal efficiency.
-*   **The Waiting Room**: A luxurious, silent chamber where planar travelers sit in velvet chairs, waiting to be "assessed." The walls are lined with jars containing "Legacy Parts"—limbs and organs of legendary heroes preserved in stasis.
-*   **The Operating Theater**: A clean, white chamber dominated by the **Anvil of Alignment**. Here, Malphas "hammers" souls into new shapes or "stitches" iron prosthetics onto those who can afford his prices.
-*   **The Ledger of Souls**: A massive, chained book that records every "Favor" owed to the Ossuary. It hums with a low, metallic frequency.
+## Tactical Profile & Combat Demeanor
+
+> [!NOTE]
+> **Dungeon Master Directive**: Complete numeric statistics, Armor Class, Hit Points, spell slots, and action mechanics are restricted to the Dungeon Master's Master Vault.
+
+Malphas is a lethal battlefield surgeon who controls encounters through positioning, precision cuts, and manipulating the artificial grafts of his enemies. If combat breaks out in his clinic, he uses his six-armed action economy to sever tendons, cauterize wounds, and enforce the binding weight of infernal contracts. Furthermore, any creature bearing a prosthetic or graft installed by his clinic is subject to his immediate override.
 
 ---
 
-### **Personality & Philosophy**
-*   **Professional & Polite**: Malphas is never cruel for the sake of it. He is a businessman. He treats his "patients" with the utmost respect, even as he systematically prepares them for infernal ownership.
-*   **The Critic of the Loom**: He views Telara’s design as "sentimental garbage." He will often point out "flaws" in a player’s anatomy, calling their bones "brittle" or their destiny "dangerously unstable."
-*   **Loyalty to the Pact**: He is a devout believer in the **Pact Primeval**. He truly believes that by "Hardening" the residents of the Nexus, he is saving them from the inevitable consumption by the **Great Dreamer**.
+## The Ossuary of Rebirth (The Clinic)
+
+Located in the Frayed Undercroft (White Ribs district), the Ossuary is a masterpiece of infernal efficiency:
+* **The Waiting Room**: A luxurious, silent chamber where planar travelers sit in velvet chairs, waiting to be assessed. The walls are lined with jars containing preserved limbs and organs of legendary heroes.
+* **The Operating Theater**: A pristine chamber dominated by the **Anvil of Alignment**, where Malphas hammers souls into new shapes and fits infernal prosthetics onto paying clients.
+* **The Ledger of Souls**: A massive, chained book that records every favor and future debt owed to the Ossuary.
 
 ---
 
-### **Plot Hooks**
-1.  **The Debt Collection**: A member of the **Pale Lodge** has disappeared after failing to pay a "Future-Thread" to Malphas. The players are sent to "negotiate" (or pay the debt).
-2.  **The Prototype**: Malphas offers a player a revolutionary new "Soul-Engine" prosthetic for free—provided they let him monitor its performance in the **Far Realm**.
-3.  **The Rivalry**: **Master Khellek** (if he still exists in your world as a rival or former partner) is spreading rumors that Malphas’s iron prosthetics contain "Surveillance Threads" that allow Asmodeus to see through the user's eyes.
+## Lore & Roleplay Notes
+
+* **The Soul-Pact Line of Credit:** Malphas is never eager to fight clients. When adventurers seek high-end prosthetics (like the *Phase-Shift Arm* or *Thread-Sensing Spine*) but lack gold, he graciously offers an infernal contract. The terms are always clear, legally airtight, and seductive—providing immediate power in exchange for a "future favor" or forfeiting their soul upon default.
+* **The Surveillance Threads:** Every piece of hardware forged in the Ossuary of Rebirth is subtly laced with microscopic golden-iron surveillance threads. Malphas can look through the lenses of the *Echo-Eye* or listen through the nerves of the *Weave-Laced Nervous System* from anywhere in the multiverse, feeding valuable intelligence to Asmodeus in Nessus.
+* **Defeat & Spared:** If brought to 0 HP, Malphas does not panic or beg. He adjusts his lapels, chuckles smoothly, and reminds the party that his death breaches Clause 74 of the multiversal neutral treaty, alerting an entire legion of Phistophilus devils to collect the party’s soul-collateral. If spared, he honors all contracts scrupulously and gifts the party an *Astral-Strider Leg* as an "apology for the misunderstanding."
 
 ---
 
-*“Why be a victim of a broken world when you can be a citizen of a perfect one? Just sign here, and we can begin the upgrade.”*
+## Related Links
 
----
-
-[[../../Magic/The Pact Primeval|The Pact Primeval]]
-[[../../Planes of Existence/The Fractured Nexus/The Fractured Nexus|Fractured Nexus]]
-[[../../Planes of Existence/The Nine Hells/The Nine Hells|The Nine Hells]]
+* [[The Fractured Nexus]]
+* [[Map of the Fractured Nexus]]
+* [[The Loom Warden]]
+* [[Stitch, the Frayed End Barkeep]]
+* [[Dorrim Ashvein]]
