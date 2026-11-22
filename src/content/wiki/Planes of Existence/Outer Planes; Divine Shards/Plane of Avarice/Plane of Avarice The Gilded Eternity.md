@@ -2,8 +2,14 @@
 dg-publish: true
 ---
 
-﻿---
----
+# The Plane of Avarice (The Gilded Eternity)
+
+![[plane_of_avarice_map.jpg]]
+
+> **Cartographic Atlas**: See full geography, travel routes, villages, and regional details in [[Planes of Existence/Outer Planes; Divine Shards/Plane of Avarice/Map of the Plane of Avarice|Map & Geography of The Plane of Avarice]].
+
+### **General Overview**
+
 **Description:** A plane of endless wealth, where mountains of gold, rivers of molten silver, and glittering palaces stretch into the horizon. However, every treasure comes at a cost, as greed consumes all who stay too long.The **Plane of Avarice** is a glittering, perilous realm where the insatiable hunger for wealth, power, and possession manifests in physical form. It is a realm of gilded decay, where every surface glimmers with treasures, but beneath the shine lies rot and ruin. The plane feeds on the greed of those who enter, luring them deeper with promises of unimaginable riches while slowly consuming their souls.
 Here, **desire rules supreme**, and those who cannot resist the plane’s temptations are doomed to become part of its ever-growing hoard. The Plane of Avarice is both paradise and prison, a place where mortals and immortals alike are tested by their desires and ambitions.
 

@@ -2,6 +2,14 @@
 dg-publish: true
 ---
 
+# The Plane of Fragmented Memories (The Shardlands)
+
+![[plane_of_fragmented_memories_map.jpg]]
+
+> **Cartographic Atlas**: See full geography, travel routes, villages, and regional details in [[Planes of Existence/Outer Planes; Divine Shards/Plane of Fragmented memories/Map of the Plane of Fragmented Memories|Map & Geography of The Plane of Fragmented Memories]].
+
+### **General Overview**
+
 **Description**: The Shardlands is a surreal and eerie plane composed of jagged crystalline landscapes. The plane stores broken and forgotten memories, fragments of lost gods, and pieces of unfulfilled destinies. Time flows strangely, with the past, present, and future overlapping.The **Plane of Fragmented Memories** is a hauntingly beautiful and disorienting realm where the remnants of forgotten thoughts, broken dreams, and lost knowledge drift endlessly through a vast, surreal landscape. This plane is a repository of everything discarded, forgotten, or splintered across time and existence. Here, memories take on physical forms, forming the environment itself, and travelers often find themselves wandering through visions of the past, echoes of the present, or unrealized possibilities.
 
 #### **1\. The Sea of Shards**

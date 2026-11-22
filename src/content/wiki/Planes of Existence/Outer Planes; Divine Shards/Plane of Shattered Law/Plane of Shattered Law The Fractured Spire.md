@@ -2,6 +2,14 @@
 dg-publish: true
 ---
 
+# The Plane of Shattered Law (The Fractured Spire)
+
+![[plane_of_shattered_law_map.jpg]]
+
+> **Cartographic Atlas**: See full geography, travel routes, villages, and regional details in [[Planes of Existence/Outer Planes; Divine Shards/Plane of Shattered Law/Map of the Plane of Shattered Law|Map & Geography of The Plane of Shattered Law]].
+
+### **General Overview**
+
 **Description:** Once the pinnacle of order, this plane was shattered during the war between Law and Chaos. Now, floating platforms of black marble and iron hover in an endless void, with rigid laws governing the movements of everything within.The **Plane of Shattered Law** is a realm of broken structure, fragmented rules, and chaotic echoes of what was once perfect order. It is a place where the universal laws of reality—gravity, time, logic, and morality—lie in ruin, fractured by some ancient calamity. The remnants of order still linger, but they are unstable, shifting, and vulnerable to further collapse. What remains is a chaotic, paradoxical plane where the very concept of structure rebels against itself, creating a surreal and dangerous environment.
 The Plane of Shattered Law is not merely a place—it is a **conceptual battlefield**, where the ideals of law and chaos are locked in perpetual conflict. Travelers who venture here often find their perceptions, morals, and even physical forms tested by the plane’s ever-changing and paradoxical nature.
 

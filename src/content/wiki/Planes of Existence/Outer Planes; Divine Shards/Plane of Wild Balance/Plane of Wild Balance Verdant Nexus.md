@@ -2,6 +2,14 @@
 dg-publish: true
 ---
 
+# The Plane of Wild Balance (Verdant Nexus)
+
+![[plane_of_wild_balance_map.jpg]]
+
+> **Cartographic Atlas**: See full geography, travel routes, villages, and regional details in [[Planes of Existence/Outer Planes; Divine Shards/Plane of Wild Balance/Map of the Plane of Wild Balance|Map & Geography of The Plane of Wild Balance]].
+
+### **General Overview**
+
 **Description:** A sprawling plane of infinite, lush wilderness where life and death cycle seamlessly. Giant trees rise to touch the stars, rivers flow with luminescent water, and creatures of all sizes live in perfect harmony. Druids and nature deities draw power from this plane.The **Plane of Wild Balance** is a realm of constant flux, where creation and destruction, life and death, and elemental forces exist in perfect harmony. Its key features embody the themes of equilibrium, renewal, and the interdependence of opposites. Each landmark within the plane serves as a focal point for its natural forces, offering adventurers and explorers both wonder and danger.
 
 #### **1\. The Verdant Cradle**

@@ -2,6 +2,14 @@
 dg-publish: true
 ---
 
+# The Plane of Secrets (Ocean of Whispers)
+
+![[plane_of_secrets_map.jpg]]
+
+> **Cartographic Atlas**: See full geography, travel routes, villages, and regional details in [[Planes of Existence/Outer Planes; Divine Shards/Plane of Secrets/Map of the Plane of Secrets|Map & Geography of The Plane of Secrets]].
+
+### **General Overview**
+
 **Description:** A dark, infinite ocean where the waters echo with the whispers of hidden truths. The plane tempts travelers with forbidden knowledge but often drives them mad with its revelations.The **Plane of Secrets** is a shadowy, enigmatic realm where hidden knowledge, unspoken truths, and forgotten memories are locked away. It is a plane defined by veils, whispers, and layers of concealment, where nothing is as it seems. The Plane of Secrets is both a sanctuary for forbidden truths and a prison for the knowledge too dangerous to exist elsewhere. Those who enter often find themselves entangled in webs of lies and illusions, lured by the promise of forbidden insight.
 The landscape of the plane is surreal and disorienting, shifting with the perspective of those who walk it. Paths vanish into shadow, doors open to impossible vistas, and the very air is thick with hushed murmurs. It is a plane of discovery and danger, where secrets have a price, and the curious must tread carefully.
 

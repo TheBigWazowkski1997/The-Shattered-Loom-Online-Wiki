@@ -2,7 +2,14 @@
 dg-publish: true
 ---
 
-1\. **The Woven Citadel (Plane of Unity)**
+# The Plane of Unity (The Woven Citadel)
+
+![[plane_of_unity_map.jpg]]
+
+> **Cartographic Atlas**: See full geography, travel routes, villages, and regional details in [[Planes of Existence/Outer Planes; Divine Shards/Plane of Unity/Map of the Plane of Unity|Map & Geography of The Plane of Unity]].
+
+### **General Overview**
+
 **Description**: The Woven Citadel is a plane of intricate design, where massive threads of golden energy stretch across the skies, tethering floating platforms of crystal, marble, and living wood. The inhabitants are known as the Weavers, enigmatic entities dedicated to restoring order to the multiverse.The **Plane of Unity** is a serene and awe-inspiring realm where all beings, elements, and concepts coexist in perfect harmony. This plane represents the ideal of cooperation, balance, and interconnectedness—every force, no matter how seemingly opposite, finds a place within the grand design. It is a place where barriers dissolve, divisions heal, and the many threads of existence are woven into one cohesive tapestry.
 The Plane of Unity is a realm of breathtaking beauty, where natural wonders and crafted marvels blend seamlessly. Cities float in skies of shimmering auroras, crystalline rivers wind through glowing forests, and the air hums with the music of harmony. Travelers to this plane often find themselves overcome by a sense of **tranquility and oneness**, but those who disrupt its balance may find its serenity turning to righteous fury.
 

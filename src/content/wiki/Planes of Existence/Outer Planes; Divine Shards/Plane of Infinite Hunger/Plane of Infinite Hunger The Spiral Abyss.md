@@ -2,8 +2,14 @@
 dg-publish: true
 ---
 
-﻿---
----
+# The Plane of Infinite Hunger (The Spiral Abyss)
+
+![[plane_of_infinite_hunger_map.jpg]]
+
+> **Cartographic Atlas**: See full geography, travel routes, villages, and regional details in [[Planes of Existence/Outer Planes; Divine Shards/Plane of Infinite Hunger/Map of the Plane of Infinite Hunger|Map & Geography of The Plane of Infinite Hunger]].
+
+### **General Overview**
+
 **Description**: Unlike the traditional Abyss, the Spiral Abyss is not layered but spirals endlessly inward toward a singularity of insatiable hunger. Every "circle" of the spiral is home to grotesque entities consumed by their endless desires—be it power, flesh, or knowledge.
 The **Plane of Infinite Hunger** is a realm of insatiable voids, ravenous landscapes, and entities obsessed with perpetual consumption. In this plane, **hunger**—physical, spiritual, or existential—is not just a metaphor but the very fabric of existence. It is an ever-shifting wasteland, where land devours itself, skies twist into mouths of shadow, and rivers of acidic bile flow through landscapes composed of gnawed bone and flesh-like stone. Beings who venture here are consumed—either by the land itself or by their own unmet desires magnified to unbearable extremes.
 Here, the concept of "balance" has shattered, leaving a twisted reflection of greed, starvation, and survival. Sentient cities, endless maws, and parasitic ecosystems cling to existence, vying to consume all around them in a futile attempt to sate the plane’s infinite hunger.
