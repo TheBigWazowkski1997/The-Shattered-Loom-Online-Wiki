@@ -13,7 +13,7 @@ A vast, seemingly endless ocean of glass-like shards stretches across much of th
 	* **Shard Pools**: Shallow areas where clusters of memory shards swirl together. Gazing into these pools can reveal forgotten truths or lost secrets, but doing so risks becoming trapped in the memory.
 	* **Shattered Isles**: Floating islands of jagged glass and stone rise from the sea, their surfaces covered with fragmented visions. These isles are often home to lingering echoes or Memory Wraiths.
 
----
+* * *
 
 #### **2\. The Veiled Archive**
 
@@ -25,7 +25,7 @@ The **Veiled Archive** is a massive, labyrinthine library composed of fragmented
 	* **Echoing Chambers**: Rooms within the Archive where memories play out like illusions, allowing visitors to experience lost histories.
 	* **The Shelf of Broken Truths**: A restricted section filled with forbidden knowledge and secrets too dangerous to reveal.
 
----
+* * *
 
 #### **3\. The Fields of Echoes**
 
@@ -37,7 +37,7 @@ The **Fields of Echoes** are rolling landscapes where memories manifest as tangi
 	* **Phantom Echoes**: Ethereal figures reenact moments from their lives, sometimes interacting with travelers or dragging them into the memory.
 	* **Memory Wells**: Pools of liquid light where particularly powerful memories are stored. Drinking from a well grants insight but risks overwhelming the drinker with visions.
 
----
+* * *
 
 #### **4\. The Dread Chasm**
 
@@ -49,7 +49,7 @@ The **Dread Chasm** is a terrifying abyss where the most painful and traumatic m
 	* **The Wailing Depths**: A constant chorus of cries and whispers emanates from the chasm, growing louder the closer one approaches.
 	* **Shadow Wraiths**: Malevolent entities born from the plane’s most painful memories, preying on the weak and lost.
 
----
+* * *
 
 #### **5\. The Thread of Remembrance**
 
@@ -65,7 +65,7 @@ A literal thread that winds through the Plane of Fragmented Memories, the **Thre
 **Mirrorglade** is a sprawling, dreamlike city built upon an endless field of mirrored glass. Each mirror reflects not just the physical form of those who walk upon it but also their memories, fears, and hopes, creating a surreal kaleidoscope of fractured reflections. The city's structures are crafted from silvery glass and crystalline memory shards, which pulse faintly with the memories trapped within them.
 The inhabitants of Mirrorglade live amidst their reflections, constantly confronted with fragments of their own pasts or glimpses of alternate realities. Many travelers come to the city to uncover forgotten memories, face unresolved trauma, or retrieve pieces of themselves that were lost to time. However, not all who enter Mirrorglade leave whole—some fall into the mirrorfields, swallowed by the memories they cannot escape.
 
----
+* * *
 
 #### **Key Features**
 
@@ -78,7 +78,7 @@ The inhabitants of Mirrorglade live amidst their reflections, constantly confron
 3. **The Reflection Bazaar**
 	* A marketplace where merchants trade in crystallized memories, dreams, and echoes of past lives. Adventurers often come here seeking fragments of lost knowledge or forgotten treasures from their own pasts. However, the cost of such trades is rarely measured in gold—it often involves giving up a cherished memory of one’s own.
 
----
+* * *
 
 #### **Inhabitants**
 
@@ -86,13 +86,16 @@ The inhabitants of Mirrorglade live amidst their reflections, constantly confron
 * **The Echobound**: Individuals who have been partially consumed by the plane and now exist as walking memories, their forms shimmering like mirages.
 * **The Mirrorborn**: Strange constructs made of reflective glass, acting as both guides and enforcers of the city's laws.
 
----
+* * *
+
+* * *
+
 ### **2\. Reminaria: The City of Whispers**
 
 **Reminaria** is a floating city constructed upon a network of **memory clouds** that drift endlessly through the sky. The city’s buildings are crafted from ephemeral mist, dreamlike shapes, and solidified thoughts, giving them an otherworldly and intangible quality. Whispers echo constantly through the city’s streets, carrying snippets of conversations, secrets, and forgotten words.
 The city serves as a haven for those seeking to piece together fragmented knowledge or delve into the collective subconscious of the multiverse. Its streets are filled with scholars, dreamwalkers, and memory seekers who gather in its libraries and archives. However, the city’s clouds occasionally break apart, casting portions of the city—and its inhabitants—into the void below.
 
----
+* * *
 
 #### **Key Features**
 
@@ -104,7 +107,7 @@ The city serves as a haven for those seeking to piece together fragmented knowle
 3. **The Echoing Plaza**
 	* A public square where memory shards rain down from the sky like shooting stars. Locals and travelers gather to catch these shards, hoping to glimpse a fragment of lost knowledge or a fleeting dream.
 
----
+* * *
 
 #### **Inhabitants**
 
@@ -112,13 +115,16 @@ The city serves as a haven for those seeking to piece together fragmented knowle
 * **The Cloudshapers**: Artisans who craft tools and structures from the memory clouds.
 * **Fugueborn Travelers**: Lost souls who drift into Reminaria after forgetting their purpose, becoming part of the city’s strange society.
 
----
+* * *
+
+* * *
+
 ### **3\. Shatterpoint: The Cracked City**
 
 **Shatterpoint** is a city built atop a massive, **cracked memory shard** that juts from the plane’s surface like a jagged mountain. The shard itself pulses with unstable energy, causing pieces of the city to phase in and out of existence. Entire districts disappear for days, only to return slightly altered or inhabited by figures from forgotten timelines.
 Shatterpoint is a city of instability and peril, but also of opportunity. Adventurers, scavengers, and planar outcasts gather here to delve into the shard’s depths, seeking rare memory fragments and lost knowledge. However, the unstable nature of the shard means that reality itself is fragile within the city, and those who linger too long risk being erased or rewritten.
 
----
+* * *
 
 #### **Key Features**
 
@@ -130,7 +136,7 @@ Shatterpoint is a city of instability and peril, but also of opportunity. Advent
 3. **The Evershifting Warrens**
 	* A labyrinth of tunnels within the shard’s depths, filled with dangerous memory echoes, unstable magic, and treasures frozen in time.
 
----
+* * *
 
 #### **Inhabitants**
 
@@ -138,7 +144,10 @@ Shatterpoint is a city of instability and peril, but also of opportunity. Advent
 * **Temporal Nomads**: Planar travelers who wander the city in search of stable timelines to call home.
 * **The Riftwalkers**: Adventurers who brave the shard’s depths, often returning with valuable fragments—or not returning at all.
 
----
+* * *
+
+* * *
+
 ## **Shops of Mirrorglade**
 
 ### **1. The Shard-Forged Glassworks**
@@ -151,7 +160,7 @@ Shatterpoint is a city of instability and peril, but also of opportunity. Advent
 **Notable Items for Sale**:
 
 * **Prismatic Glass-Plate Armor (+1 Half Plate or Full Plate)** (*Rare*, 2,800 gp): Forged from reinforced memory glass as durable as adamantine. While wearing this armor, you have resistance to psychic damage and cannot have your mind read or memories altered by spells of 5th level or lower. When a creature hits you with a critical melee strike, the armor reflects a blast of psychic trauma dealing 2d8 psychic damage to the attacker.
-* **Mnemonic Rapier (+1 Rapier)** (*Rare*, 1,900 gp): Grants a +1 bonus to attack and damage rolls. When you hit a creature with this weapon, you can choose to read a fleeting tactical thought from its mind (gaining advantage on your next attack roll against it before the end of your next turn). Once per long rest, you can cast *Detect Thoughts* (save saving throw) using the blade.
+* **Mnemonic Rapier (+1 Rapier)** (*Rare*, 1,900 gp): Grants a +1 bonus to attack and damage rolls. When you hit a creature with this weapon, you can choose to read a fleeting tactical thought from its mind (gaining advantage on your next attack roll against it before the end of your next turn). Once per long rest, you can cast *Detect Thoughts* (save DC 15) using the blade.
 * **Shield of the Glade (+1 Shield)** (*Rare*, 1,750 gp): Polished to mirror perfection. When a ranged spell attack misses you while wielding this shield, you can use your reaction to deflect the ray at another creature within 30 feet of you, making a ranged spell attack (+7 to hit).
 * **Glass-Shard Dagger** (*Uncommon*, 350 gp): Deals 1d4 piercing damage plus 1d6 psychic damage. On a natural 20, the target is afflicted with mental disorientation, suffering disadvantage on concentration checks for 1 minute.
 
@@ -213,7 +222,46 @@ Shatterpoint is a city of instability and peril, but also of opportunity. Advent
 * **Tome of Lost Tongues** (*Rare*, 1,500 gp): An ancient lexicon that allows the reader to comprehend and speak any spoken or written language after studying it for 1 hour.
 * **Bag of Memory Seeds (6 seeds)** (*Uncommon*, 600 gp): When a seed is buried in soil or crystal sand, it sprouts into an illusory tree that projects a recorded message or sensory scene lasting up to 10 minutes.
 
----
+* * *
+
+### **5. The Reflection Weave**
+
+**Specialty**: Silver-Thread Cloaks, Mirage Garments, and Echo-Damped Tunics  
+**Location**: The Crystal Promenade, overlooking the Great Mirror Lake in Mirrorglade.  
+**Owner**: **Madame Nolindra of the Looking-Glass**, an ethereal elf tailor whose gown constantly reflects the surrounding scenery like liquid quicksilver.  
+**Description**: The shop is a dazzling labyrinth of floor-to-ceiling silver mirrors and hanging fabrics of iridescent glass-silk. Mannequins made of polished crystal wear exquisite coats and dresses that shimmer with shifting reflections, making the wearer appear half-ethereal. Nolindra moves with graceful silence, weaving strands of spun memory and silver silk on a silent crystal loom.  
+
+**Notable Items for Sale**:
+* **Cloak of the Mirror-Self (+1 Defense)** (*Rare*, 2,000 gp): While worn, as a reaction when targeted by an attack, the wearer can create an illusory duplicate of themselves (as *Mirror Image*, 3 duplicates, once per long rest).
+* **Mirage Garments** (*Uncommon*, 600 gp): Allows the wearer to cast *Disguise Self* at will and grant advantage on Performance checks.
+* **Echo-Damped Tunic** (*Uncommon*, 500 gp): Dampens the wearer's physical sounds and thoughts, granting advantage on Stealth checks and resistance to psychic damage.
+* **Boots of the Glass Walker** (*Rare*, 1,400 gp): Allows the wearer to walk across vertical reflective surfaces and ceilings without falling, and leaves no footprints on glass or ice.
+
+**Unique Services**:
+* **Reflective Glamour Tailoring**: Weaves minor illusionary glamours into clothing that shift appearance based on the viewer's memories (Cost: 150 gp).
+* **Memory Fabric Restoration**: Mends damaged historical or memory-infused garments without erasing their psychic history (Cost: 100 gp).
+
+**Rumor**: Nolindra was once trapped inside a cursed mirror for three hundred years, and her reflection sometimes moves three seconds behind her physical body.
+
+* * *
+
+### **The Glass Memory Archive: Living Memory Preservation**
+
+The **Glass Memory Archive** is Mirrorglade's most revered intellectual sanctum, situated within a hollowed spire of flawless quartz crystal at the edge of the lake. Supervised by **Master Archivist Otheus**, this archive preserves the dying memories of forgotten civilizations inside cut prism crystals.
+
+#### **The Storefront & Archive Gallery**
+The gallery is a soaring hall of multi-faceted crystal walls where thousands of glowing glass memory-globes hover in gentle circular orbits. Scholars and pilgrims sit in silent contemplation, placing memory prisms to their foreheads to witness historic battles, ancient romances, and forgotten magical rites.
+
+#### **The Master Archivist: Otheus the Memory-Keeper**
+* **Appearance**: A venerable githzerai sage with translucent silver skin and eyes that glow like polished pearls. He wears robes of pale lavender silk and speaks in gentle, harmonic whispers.
+* **Personality**: Serenely contemplative, treating every memory as a sacred, irreplaceable fragment of the multiverse's history.
+
+#### **Memory Services & Prism Inscription**
+* **Memory Extraction & Crystal Sealing**: Extracts a memory from a willing subject and seals it inside a durable crystal globe for permanent preservation (Cost: 150 gp).
+* **Amnesia Cleansing**: Restores memories lost to trauma, magic, or planar memory-fade through a 24-hour crystal resonance rite (Cost: 300 gp).
+* **Historical Memory Scrying**: Allows a character to experience the firsthand memory of an ancient historical event recorded in the archive (Cost: 100 gp).
+
+* * *
 
 ## **Taverns of Mirrorglade**
 
@@ -251,7 +299,7 @@ Shatterpoint is a city of instability and peril, but also of opportunity. Advent
 * **Fog-Grog**: Heavy dark ale topped with a layer of vapor that smells of rain-soaked earth (1 sp).
 * **Spiced Scavenger Stew**: Thick stew made from subterranean fungi and smoked dried meats (2 sp).
 
----
+* * *
 
 ## **The Black Market: The Amnesia Vaults**
 
@@ -276,7 +324,7 @@ Deep within the subterranean tunnels of the Mirrored Labyrinth, past dead ends a
 * **Torpor (Ingested)** (*DMG p. 258*, 600 gp): Incapacitates the victim for 4d6 hours.
 * **Pale Tincture (Ingested)** (*DMG p. 258*, 250 gp): Inflicts 1d6 poison damage every 24 hours and prevents hit point recovery until cured.
 * **Essence of Ether (Inhaled)** (*DMG p. 258*, 300 gp): Renders target unconscious for 8 hours.
-* **Memory-Eater Dust (Inhaled/Contact)** (800 gp): A shimmering silver powder. When inhaled, the target must make a saving throw Constitution saving throw or lose all memory of the last 48 hours, treating everyone around them with complete neutrality.
+* **Memory-Eater Dust (Inhaled/Contact)** (800 gp): A shimmering silver powder. When inhaled, the target must make a DC 15 Constitution saving throw or lose all memory of the last 48 hours, treating everyone around them with complete neutrality.
 * **Mind-Leech Larva** (1,200 gp): A parasitic worm that feeds on psychic energy. When slipped into a sleeping victim's ear, it records their subconscious thoughts into an exterior pearl over 3 nights.
 
 ---
@@ -286,19 +334,19 @@ Deep within the subterranean tunnels of the Mirrored Labyrinth, past dead ends a
 **Theme**: Safehouse & Identity Reshaping Den  
 **Owner**: **Nylea the Blank**, an elf who chose to erase her entire former life after a planar catastrophe. She shelters refugees running from planar bounties, giving them new names, false memory backstories, and untraceable identities.
 
----
+* * *
 
 ## **Mirrorglade Notice Board**
 
 The Mirrorglade Notice Board is a soaring obelisk of pure selenite glass standing at the threshold of the Reflection Bazaar. Inscriptions are etched onto its surface in luminescent silver runes by the Shardkeepers and desperate citizens.
 
----
+* * *
 
 ### **Mission 1: The Mirror-Beast of the Glass Chasm**
 
 **Posted by**: High Shardkeeper Orin  
 **Reward**: 650 gp and a *Ring of Temporal Awareness*  
-**Description**: "A fracture in the eastern barrier of the Mirrored Labyrinth has allowed an apex reflection predator to escape into the suburban alleys. The entity hunts by stepping through mirrors and polished windows, severing the reflections of citizens and leaving their physical bodies catatonic husks. Track the entity into the Glass Chasm, shatter its nexus, and recover the trapped reflections before they fade."  
+**Description**: "A fracture in the eastern barrier of the Mirrored Labyrinth has allowed an apex reflection predator to escape into the suburban alleys. The entity hunts by stepping through mirrors and polished windows, severing the reflections of citizens and leaving their physical bodies catatonic husks. Track the entity into the Glass Chasm, shatter its nexus, and recover the trapped reflections before they fade."
 
 ---
 
@@ -306,11 +354,15 @@ The Mirrorglade Notice Board is a soaring obelisk of pure selenite glass standin
 
 **Posted by**: Archivist Selene Pale (Mnemosyne Apothecary)  
 **Reward**: 500 gp and 2 *Vials of Lucidity*  
-**Description**: "An ancient Shardkeeper named Vaelen suffered catastrophic resonance failure during a research expedition into the Evershifting Warrens beneath Shatterpoint. His memory core—a flawless amethyst crystal containing the lost geography of the pre-Shattered multiverse—was left behind amidst the collapsing ruins. Recover the core before temporal parasites devour its contents."  
+**Description**: "An ancient Shardkeeper named Vaelen suffered catastrophic resonance failure during a research expedition into the Evershifting Warrens beneath Shatterpoint. His memory core—a flawless amethyst crystal containing the lost geography of the pre-Shattered multiverse—was left behind amidst the collapsing ruins. Recover the core before temporal parasites devour its contents."
 
 ---
 
 ### **Mission 3: The Heist of Lost Regrets**
+
+**Posted by**: Madame Mirielle (The Gossamer Tear)  
+**Reward**: 700 gp and an *Amulet of Pure Recollection*  
+**Description**: "A stolen reliquary—the *Casket of Sovereign Regrets*—was snatched from Madame Mirielle's private salon by a gang of rogue memory thieves. The casket holds the final repentant memory of a deceased planar warlord. The thieves are holed up in the Crystal Crypts of the Shardlands. Recover the reliquary unopened and return it, or uncover its profound secret."
 
 ---
 
@@ -376,7 +428,46 @@ The Mirrorglade Notice Board is a soaring obelisk of pure selenite glass standin
 * **Vapor Harpoon** (*Uncommon*, 400 gp): Launches up to 100 feet into clouds or stone, providing an unbreakable condensed mist cable for rappelling.
 * **Cloud-Anchor Token (Pouch of 3)** (150 gp): When thrown into thin air, immediately solidifies a 10-foot floating cloud disc capable of bearing up to 1,000 lbs for 1 hour.
 
----
+* * *
+
+### **5. The Fog-Forged Armory**
+
+**Specialty**: Ethereal Daggers, Mist-Plate Armor, and Phantom Weapons  
+**Location**: The High Cloud Terrace, overlooking the whispering mists of Reminaria.  
+**Owner**: **Master Vond the Mist-Smith**, a shadowy half-elf blacksmith with translucent hands that phase through solid objects.  
+**Description**: The Armory is cold, damp, and shrouded in swirling violet mist. Weapons and shields hang from floating cloud-stone hooks, their blades shimmering with semi-ethereal light. Vond works at an anvil carved from solidified cloud-ice, quenching glowing starmetal in vaporized ectoplasm. His creations are feather-light, capable of bypassing physical armor to strike directly at a foe's spirit.  
+
+**Notable Items for Sale**:
+* **Phase-Dagger (+1 Dagger)** (*Rare*, 1,800 gp): Once per short rest as an action, can make an attack that ignores all non-magical armor and shields, targeting AC 10 + Dex modifier.
+* **Mist-Plate (+1 Plate Armor)** (*Very Rare*, 3,800 gp): Forged from solidified cloud-steel. Weighs only 20 lbs, imposes no disadvantage on Stealth, and allows the wearer to cast *Gaseous Form* once per day.
+* **Phantom Shortsword (+1 Shortsword)** (*Rare*, 1,500 gp): Deals an extra 1d6 force damage, and strikes against ethereal creatures deal double damage.
+* **Shield of the Whispering Cloud (+1 Shield)** (*Rare*, 1,400 gp): As a reaction when targeted by a ranged spell attack, can cast a 15-foot cloud of obscuring mist that imposes disadvantage on the attack roll.
+
+**Unique Services**:
+* **Phase Quenching**: Treats a weapon with ectoplasmic mist, allowing it to bypass damage resistance of incorporeal undead for 24 hours (Cost: 150 gp).
+* **Mist-Light Weight Reduction**: Reduces the weight of any heavy weapon or armor by 50% without reducing its effectiveness (Cost: 200 gp).
+
+**Rumor**: Vond's forge fire is ignited by the burning memories of dead gods that drift through the Reminaria clouds.
+
+* * *
+
+### **The Dream Codex: Nightmare Weaving & Oneiric Extraction**
+
+The **Dream Codex** is Reminaria's most mysterious institution, housed inside a floating pagoda woven from solidified dream-stuff. Directed by **Oneiromancer Selena**, this sanctuary extracts, analyzes, and weaves the dreams and nightmares of sleeping travelers.
+
+#### **The Dream Scriptorium & Sleeping Cells**
+The pagoda is lined with silk-draped sleeping alcoves where patrons rest under the influence of enchanted incense. In the central rotunda, hovering dream-globes replay sleeping visions in shimmering ethereal light, transcribed by masked oneiric scribes onto paper-thin cloud velum.
+
+#### **The Master Oneiromancer: Selena Dream-Weaver**
+* **Appearance**: A beautiful kalashtar seer whose hair floats as though underwater, with eyes that cycle through the phases of the moon. She speaks in soft, melodic rhythms that induce relaxation.
+* **Personality**: Empathetic, enigmatic, and possessing an unshakeable calm when confronting terrifying nightmares.
+
+#### **Dream & Nightmare Services**
+* **Nightmare Extraction**: Surgically extracts a recurring nightmare or phobia from a character's mind, curing long-term madness and granting immunity to fear for 7 days (Cost: 250 gp).
+* **Dream-Message Dispatch**: Sends a telepathic message into the dreams of any creature known to the client across any plane (as the *Dream* spell, cost: 150 gp).
+* **Oneiric Prophecy Interpretation**: Deciphers the symbolic meaning of prophetic dreams to reveal future threats or clues (Cost: 100 gp).
+
+* * *
 
 ## **Taverns of Reminaria**
 
@@ -413,7 +504,7 @@ The Mirrorglade Notice Board is a soaring obelisk of pure selenite glass standin
 * **Hearth-Warm Ale**: Malty, rich brown ale served warm with a dash of honey (1 sp).
 * **Mushroom & Barley Trencher**: Hearty stew served in dark rye bread (3 sp).
 
----
+* * *
 
 ## **The Black Market: The Muffled Cloud**
 
@@ -438,7 +529,7 @@ Hidden inside a localized storm cloud that crackles with silent violet lightning
 * **Essence of Ether (Inhaled)** (*DMG p. 258*, 300 gp): Renders target unconscious for 8 hours.
 * **Torpor (Ingested)** (*DMG p. 258*, 600 gp): Incapacitates target for 4d6 hours.
 * **Pale Tincture (Ingested)** (*DMG p. 258*, 250 gp): Lingering necrotic poison.
-* **Mind-Muting Mist (Inhaled)** (500 gp): A lilac gas that prevents the victim from speaking, writing, or casting spells with verbal components for 1 hour (saving throw Con save negates).
+* **Mind-Muting Mist (Inhaled)** (500 gp): A lilac gas that prevents the victim from speaking, writing, or casting spells with verbal components for 1 hour (DC 15 Con save negates).
 
 ---
 
@@ -447,11 +538,11 @@ Hidden inside a localized storm cloud that crackles with silent violet lightning
 **Theme**: Safehouse & Identity Blanking Outpost  
 **Owner**: **The Quiet Monk**, a mute githzerai who shelters fugitives running from extraplanar bounties, granting them total anonymity within the memory mists.
 
----
+* * *
 
-## **Reminaria Notice Board**
+## **Reminaria Notice Board & Tactical Encounters**
 
-The Reminaria Notice Board is an enchanted brass frame enclosing a sheet of solidified white vapor that floats in the center of the Echoing Plaza. Messages appear as glowing, self-writing condensation script.
+The Reminaria Notice Board is an enchanted brass frame enclosing a sheet of solidified white cloud-vapor that hovers in the center of the Echoing Plaza. Warrants and contracts appear as self-writing condensation glyphs that shimmer with twilight luminescence.
 
 ---
 
@@ -459,7 +550,7 @@ The Reminaria Notice Board is an enchanted brass frame enclosing a sheet of soli
 
 **Posted by**: Magister Thalia (Dreamspire Academy)  
 **Reward**: 750 gp and an *Astral Sextant*  
-**Description**: "A nightmare shard harvested from the Dread Chasm has broken its containment matrix at the Academy. It has merged with a dense thundercloud above the residential quarters, raining terrifying psychic visions upon sleeping citizens. Fly into the cloud, slay the nightmare core, and disperse the shadow-vapor."  
+**Description**: "Ascend into the black stormcloud hovering over the residential cloud wards, eliminate the rogue *Apex Nightmare Stallion* and its shadow demon escort, and disperse the terror-vapor before the citizens are driven mad."
 
 ---
 
@@ -467,7 +558,7 @@ The Reminaria Notice Board is an enchanted brass frame enclosing a sheet of soli
 
 **Posted by**: Central Sky-Dock (Diver Jax)  
 **Reward**: 650 gp and 2 *Cloud-Anchor Tokens*  
-**Description**: "The buoyancy runes anchoring the Eastern Residential Nimbus have been vandalized by rogue sky-pirates. The entire cloud district—holding over fifty homes—is sinking toward the void at 50 feet per minute. Ascend to the anchor spires, eliminate the saboteurs, and manually recalibrate the levitation vanes."  
+**Description**: "Board the falling Eastern Residential Nimbus, eliminate the air cultist elementals and gargoyles tearing through the steering machinery, and manually recalibrate the levitation vanes."
 
 ---
 
@@ -475,7 +566,7 @@ The Reminaria Notice Board is an enchanted brass frame enclosing a sheet of soli
 
 **Posted by**: Custodian Varis (The Library of Murmurs)  
 **Reward**: 800 gp and a *Globe of Ancient Secrets*  
-**Description**: "A thief infiltrated the restricted vault and made off with the 'Murmur of the Dying Star'—a sound-crystal containing the death-rattle of a primordial sun. The thief plans to sell it to abyssal agents in the Muffled Cloud within the hour. Intercept the thief, recover the sound-crystal intact, and return it to the library."  
+**Description**: "Intercept the shadow-thief *Sylas the Whisper-Thief* and his abyssal buyers in the foggy alleys of the Muffled Cloud, and recover the stolen sound-crystal *The Murmur of the Dying Star* intact."
 
 ---
 
@@ -507,7 +598,7 @@ The Reminaria Notice Board is an enchanted brass frame enclosing a sheet of soli
 
 * **Chronometer of Alternate Fates** (*Rare*, 2,000 gp): Requires attunement. Once per long rest, after you make an attack roll, saving throw, or ability check, you can choose to reroll the d20, taking the new result.
 * **Displaced Dagger (+1 Dagger)** (*Uncommon*, 500 gp): Ranged attacks with this dagger ignore cover, as the dagger phases through physical obstacles on its flight path.
-* **Hourglass of Frozen Motion** (*Rare*, 1,600 gp): When inverted, casts *Hold Monster* (saving throw save, 1 charge/day).
+* **Hourglass of Frozen Motion** (*Rare*, 1,600 gp): When inverted, casts *Hold Monster* (DC 15 save, 1 charge/day).
 
 ---
 
@@ -535,7 +626,46 @@ The Reminaria Notice Board is an enchanted brass frame enclosing a sheet of soli
 * **Dimensional Compass** (*Uncommon*, 450 gp): Points toward the nearest stable timeline anchor within 3 miles.
 * **Boots of Striding and Springing** (*Uncommon*, 500 gp): As per the DMG.
 
----
+* * *
+
+### **5. The Paradox Loom**
+
+**Specialty**: Reality-Anchored Garments, Chronal Mantles, and Distortion-Proof Leathers  
+**Location**: The Riftway Promenade, situated beside a frozen temporal anomaly in Shatterpoint.  
+**Owner**: **Master Kaelen of the Broken Hour**, a human chronomancer whose beard is half black and half snow-white.  
+**Description**: The Paradox Loom is a mind-bending tailor shop where fabric bolts hang at impossible angles due to localized gravity fractures. Mannequins slowly phase between different ages—appearing new, aged, and brand-new again in fifteen-second loops. Kaelen weaves garments using needles that exist in two places simultaneously, stitching reality-anchoring runes into hems to protect travelers from spatial distortions and timeline unraveling.  
+
+**Notable Items for Sale**:
+* **Reality-Anchored Mantle** (*Rare*, 2,200 gp): While wearing this cloak, the wearer cannot be forcefully banished, teleported, or moved to another plane against their will, and has advantage on saves against spatial warping.
+* **Distortion-Proof Leathers (+1 Studded Leather)** (*Rare*, 1,700 gp): Armor warded against dimensional tears; grants +1 to AC and resistance to force damage.
+* **Chronal Scarf of the Rewind** (*Rare*, 1,800 gp): Once per long rest as a reaction upon taking damage, the wearer can rewind their personal timeline by 3 seconds, negating up to 20 damage taken.
+* **Boots of the Temporal Anchor** (*Uncommon*, 600 gp): The wearer cannot have their movement speed reduced below their base speed by spells like *Slow* or difficult terrain.
+
+**Unique Services**:
+* **Dimensional Anchor Stitching**: Sews anchor runes into existing armor, preventing involuntary planar banishment (Cost: 250 gp).
+* **Paradox Repair**: Mends clothing or bags torn by dimensional rifts or portable hole collisions (Cost: 150 gp).
+
+**Rumor**: Kaelen accidentally stepped through a time-rift forty years ago and spent twenty years in the future before returning to Shatterpoint with blueprints for reality-anchoring looms.
+
+* * *
+
+### **The Timeline Assay Office: Temporal Paradox Scrubbing**
+
+The **Timeline Assay Office** is Shatterpoint's supreme chronal safety council, located within a heavily reinforced bunker of lead and starmetal anchored directly to the city's central fracture. Supervised by **High Chronologer Valen**, this office investigates temporal disruptions, resolves causality paradoxes, and certifies timeline integrity.
+
+#### **The Assay Office & Chronal Chamber**
+The hall is dominated by a titanic orrery of brass and glowing crystal that tracks forty-eight diverging timeline threads across the Shardlands. Chronologers with brass chronometers monitor timeline fluctuations, analyzing temporal residue recovered from the fracture.
+
+#### **The High Chronologer: Valen of the Golden Dial**
+* **Appearance**: A vedalken sage with pale azure skin, four arms, and an intricate clockwork chronometer grafted into his chest that ticks in rhythm with his heartbeat.
+* **Personality**: Rigorous, uncompromising, and dedicated to preserving the prime timeline against reality-fracturing paradoxes.
+
+#### **Temporal Services & Paradox Resolution**
+* **Chronal Paradox Scrubbing**: Removes temporal paradoxes, localized causality distortions, or aging curses from a character or magical object (Cost: 400 gp).
+* **Timeline Certification**: Inspects an artifact or historical record to determine its true origin era and timeline authenticity (Cost: 150 gp).
+* **Temporal Stasis Storage**: Safely stores volatile chronal weapons or dangerous paradox artifacts inside temporal stasis lockers (Cost: 50 gp per month).
+
+* * *
 
 ## **Taverns of Shatterpoint**
 
@@ -572,7 +702,7 @@ The Reminaria Notice Board is an enchanted brass frame enclosing a sheet of soli
 * **Déjà Vu Cordial**: Sweet, spiced liqueur that makes everything feel familiar (5 sp).
 * **Past-and-Present Pastries**: Flaky tarts baked with both fresh and dried candied fruits (4 sp).
 
----
+* * *
 
 ## **The Black Market: The Timeline Spill**
 
@@ -605,11 +735,11 @@ Deep inside a collapsed rift-chamber within the Evershifting Warrens, where real
 **Theme**: Safehouse for Temporal Refugees  
 **Owner**: **Captain Varis**, a battle-weary soldier from an alternate planar war who shelters individuals seeking to escape their own timelines.
 
----
+* * *
 
-## **Shatterpoint Notice Board**
+## **Shatterpoint Notice Board & Tactical Encounters**
 
-The Shatterpoint Notice Board is a fractured slab of purple crystal mounted in the center of the Riftmarket. Inscriptions phase in and out of view depending on the viewer's temporal attunement.
+The Shatterpoint Notice Board is a fractured monolith of deep violet crystal mounted in the center of the Riftmarket. Inscriptions phase in and out of view depending on the viewer's temporal attunement, reflecting missions that span converging and collapsing timelines.
 
 ---
 
@@ -617,7 +747,7 @@ The Shatterpoint Notice Board is a fractured slab of purple crystal mounted in t
 
 **Posted by**: High Arcanist Eliphas  
 **Reward**: 850 gp and a *Chronometer of Alternate Fates*  
-**Description**: "A dangerous temporal duplicate—a duplicate of a prominent Riftmarket merchant from a divergent timeline where he became an assassin—has slipped into the city. He is methodically eliminating his alternate counterparts to seize their assets. Hunt down the duplicate before he assassinates his final target."  
+**Description**: "Hunt down and eliminate an assassin duplicate from an alternate timeline who is methodically murdering his divergent counterparts across the Riftmarket alleyways."
 
 ---
 
@@ -625,7 +755,7 @@ The Shatterpoint Notice Board is a fractured slab of purple crystal mounted in t
 
 **Posted by**: Riftwalker Vael (The Void-Strider’s Supply)  
 **Reward**: 700 gp and a *Temporal Cleaver*  
-**Description**: "An aberrant hive of Void-Crawlers has nested in Tunnel 14 of the Evershifting Warrens, devouring temporal anchors and causing the surrounding district to phase toward collapse. Lead an expedition into the tunnel, destroy the nest, and re-anchor the foundation crystal."  
+**Description**: "Lead an assault into Tunnel 14 of the Evershifting Warrens, destroy the *Void-Crawler Hivemaster* and its chuul vanguard, and re-anchor the foundation crystal before the district phases into the void."
 
 ---
 
@@ -633,4 +763,6 @@ The Shatterpoint Notice Board is a fractured slab of purple crystal mounted in t
 
 **Posted by**: Chronomancer Vesper (Chrono-Alchemical Vats)  
 **Reward**: 650 gp and 2 *Draughts of Accelerated Time*  
-**Description**: "A prototype chronometer of immense power was left behind in a collapsed sector of the Fractured Spire that is scheduled to phase out of existence within two hours. Enter the decaying sector, recover the chronometer before the district vanishes into the void, and eliminate the spectral guardian that awoke to protect it."
+**Description**: "Enter a decaying observatory wing of the Fractured Spire, eliminate the *Clockwork Chrono-Centurion* and its specter escort, and secure the prototype chronometer before the wing phases out of existence."
+
+---

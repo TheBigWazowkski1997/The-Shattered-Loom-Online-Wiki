@@ -2,6 +2,8 @@
 dg-publish: true
 ---
 
+﻿---
+---
 **Description:** A plane of endless wealth, where mountains of gold, rivers of molten silver, and glittering palaces stretch into the horizon. However, every treasure comes at a cost, as greed consumes all who stay too long.The **Plane of Avarice** is a glittering, perilous realm where the insatiable hunger for wealth, power, and possession manifests in physical form. It is a realm of gilded decay, where every surface glimmers with treasures, but beneath the shine lies rot and ruin. The plane feeds on the greed of those who enter, luring them deeper with promises of unimaginable riches while slowly consuming their souls.
 Here, **desire rules supreme**, and those who cannot resist the plane’s temptations are doomed to become part of its ever-growing hoard. The Plane of Avarice is both paradise and prison, a place where mortals and immortals alike are tested by their desires and ambitions.
 
@@ -15,7 +17,7 @@ The **Gilded Wastes** are vast, glittering deserts made of powdered gold and cru
 	* **The Buried Vaults**: Subterranean chambers hidden beneath the sands, containing treasures of unimaginable value—but each is cursed or guarded by deadly traps.
 	* **Mirage Fortunes**: Ghostly images of palaces, vaults, and cities of gold appear on the horizon, luring travelers deeper into the wastes.
 
----
+* * *
 
 #### **2\. The Obsidian Bazaar**
 
@@ -27,7 +29,7 @@ The **Obsidian Bazaar** is a sprawling marketplace built upon greed and trade. H
 	* **The Merchant Lords**: Powerful, enigmatic figures who run the bazaar. Each controls a segment of the marketplace and has their own agenda.
 	* **The Price of Desire**: Some items in the bazaar seem tailor-made to fulfill a customer’s deepest desires, but purchasing them comes with hidden curses or obligations.
 
----
+* * *
 
 #### **3\. The Hoardspire**
 
@@ -39,7 +41,7 @@ The **Hoardspire** is the central landmark of the Plane of Avarice, a massive, g
 	* **The Gilded Guardians**: Animated constructs made of gold and gems patrol the Hoardspire, protecting its treasures from intruders.
 	* **The Vault of Eternal Wealth**: Deep within the Hoardspire lies a vault that contains the pure essence of greed itself. It is said that anyone who enters it will become part of the Hoard forever.
 
----
+* * *
 
 #### **4\. The Glimmering Mire**
 
@@ -52,14 +54,14 @@ The **Glimmering Mire** is a swamp-like region of molten gold and quicksand made
 
 ## **Three Cities of the Plane of Avarice**
 
----
+* * *
 
 ### **1\. Aurous Grasp: The City of Golden Chains**
 
 **Aurous Grasp** is a city of unmatched wealth, built atop a **vast sea of molten gold** that churns endlessly beneath its foundations. Suspended on enormous golden chains that stretch into the fiery horizon, the city appears as a cluster of glittering towers and gilded mansions, their surfaces encrusted with priceless jewels. Each building is a masterpiece of opulence, designed to flaunt the wealth and power of its owner.
 Aurous Grasp is ruled by the **Council of Chains**, a coalition of the city’s wealthiest merchants, bankers, and treasure-lords. These individuals govern with one primary law: **wealth is power**. The city's economy is entirely transactional, where even a single favor must be purchased with coin, jewels, or leverage. However, the molten gold below occasionally rises in violent waves, consuming entire sections of the city, as if to remind its inhabitants that nothing is ever truly owned.
 
----
+* * *
 
 #### **Key Features**
 
@@ -73,7 +75,7 @@ Aurous Grasp is ruled by the **Council of Chains**, a coalition of the city’s 
 	* A sprawling marketplace where merchants trade in treasures, artifacts, and contracts of servitude. Every item sold in the bazaar comes with a cost greater than its price, as many goods are cursed or imbued with the plane’s avaricious essence.
 	* **Lore**: The Bazaar is guarded by **Coinbound Enforcers**, animated constructs made of gold and iron that enforce the market’s rules with ruthless efficiency.
 
----
+* * *
 
 #### **Inhabitants**
 
@@ -81,7 +83,10 @@ Aurous Grasp is ruled by the **Council of Chains**, a coalition of the city’s 
 * **Coinbound Enforcers**: Golem-like constructs that serve as the city’s guards, enforcing laws and collecting debts.
 * **Golden Supplicants**: Mortals who have come to the city in search of wealth, only to become enslaved by their own desires, working endlessly in hopes of earning freedom.
 
----
+* * *
+
+* * *
+
 ## **Shops of Aurous Grasp**
 
 ### **1. The Midas Touch Armory**
@@ -157,7 +162,46 @@ Aurous Grasp is ruled by the **Council of Chains**, a coalition of the city’s 
 * **Surveyor's Gold-Compass** (*Uncommon*, 350 gp): Points toward the largest concentration of refined gold within 5 miles.
 * **Pardon of the Council**: Official documents erasing criminal bounties in Aurous Grasp (cost: twice the bounty amount).
 
----
+* * *
+
+### **5. The Gilded Loom**
+
+**Specialty**: Molten-Thread Cloaks, Gold-Spun Robes, and Heavy Coin-Weighted Mantles  
+**Location**: The High Chain Promenade, overlooking the Golden River in Aurous Grasp.  
+**Owner**: **Madame Midas**, a radiant tiefling modiste whose horns are electroplated in pure 24-karat gold.  
+**Description**: The Gilded Loom is an intoxicating display of pure wealth. Bolts of cloth woven from spun gold, silver thread, and platinum wire hang from gilded pillars. Mannequins made of solid brass display luxurious capes lined with ermine and weighted with polished coins along the hem. Madame Midas consults with wealthy guilders and planar aristocrats, sipping champagne from golden flutes while measuring seams with a diamond-tipped caliper.  
+
+**Notable Items for Sale**:
+* **Gold-Spun Robes of the Mogul (+1 Defense)** (*Rare*, 2,000 gp): AC equals 13 + Dex modifier. The wearer has advantage on Charisma (Persuasion and Deception) checks when negotiating financial transactions.
+* **Coin-Weighted Mantle** (*Rare*, 1,600 gp): A heavy velvet mantle lined with platinum coins. Once per short rest as a reaction when struck by a melee attack, the wearer can unleash a shower of coins, blinding the attacker until the start of its next turn (DC 15 Dex save negates).
+* **Miser's Purse (Bag of Holding Variant)** (*Uncommon*, 600 gp): An extradimensional pouch that can hold up to 50,000 coins while weighing only 1 lb; immune to pickpocketing attempts.
+* **Gilded Boots of the Opulent Step** (*Uncommon*, 550 gp): Footsteps sound like clinking gold coins, and the wearer cannot be knocked prone by shove attacks.
+
+**Unique Services**:
+* **Gold Thread Weaving**: Weaves spun-gold reinforcement into existing clothing, granting +1 to AC against slashing damage (Cost: 250 gp).
+* **Concealed Coin Pockets**: Adds extradimensional pockets to cloaks holding up to 5,000 coins undetectable to mundane searches (Cost: 100 gp).
+
+**Rumor**: Madame Midas was once a beggar on the streets of Waterdeep who made a pact with Mammon, trading her mortal heart for the ability to spin gold thread from raw fleece.
+
+* * *
+
+### **The Vault of Eternal Interest: Financial Arcana**
+
+The **Vault of Eternal Interest** is Aurous Grasp's foremost banking and contractual institution, located inside a monolithic pyramid of polished black granite and gold leaf. Supervised by **High Auditor Malakor Vance**, this vault manages the wealth, promissory notes, and soul-indentures of the multiverse's wealthiest merchants.
+
+#### **The Banking Floor & Safe-Deposit Vaults**
+The hall is entered through massive vault doors of twelve-inch solid adamantine operated by clockwork combination tumblers. Inside, tellers in velvet coats sit behind warded brass grilles, counting planar bullion on enchanted scales that never miscalculate a grain.
+
+#### **The High Auditor: Malakor Vance**
+* **Appearance**: An impeccably groomed human banker with silver-streaked hair, golden spectacles, and a pocket watch that tracks interest rates down to the second.
+* **Personality**: Cold, calculating, polite, and viewing all reality as an ongoing double-entry ledger where every debt must balance.
+
+#### **Financial & Banking Services**
+* **Planar Letter of Credit**: Issues unforgeable letters of credit recognized across all eight Outer Planes and Sigil (Cost: 1% transaction fee).
+* **Soul-Pledge Collateral**: Brokers loans secured against an adventurer's future souls or spellcasting abilities (Cost: Variable interest rates starting at 10% per month).
+* **Safe Deposit Vault Rental**: Extradimensional safe deposit boxes immune to scrying, theft, and fire (Cost: 50 gp per month).
+
+* * *
 
 ## **Taverns of Aurous Grasp**
 
@@ -195,7 +239,7 @@ Aurous Grasp is ruled by the **Council of Chains**, a coalition of the city’s 
 * **Boiler Moonshine**: Pungent distilled spirits that burn the throat and numb the senses (1 sp).
 * **Fried Sump-Eel**: Crispy, oily fish caught in the condensation drains (3 sp).
 
----
+* * *
 
 ## **The Black Market: The Sunken Vaults**
 
@@ -207,7 +251,7 @@ Deep inside the hollow interior of the central anchor chain, accessible only by 
 
 **Specialty**: Faked Bullion, Scraped Guild Seals, and Counterfeit Letters of Credit  
 **Owner**: **Silas "Fool's Gold" Finch**, a fast-talking kenku rogue who communicates through the chime of dropping coins.  
-**Description**: Silas sells counterfeit gold bars that weigh and shine like true gold but are composed of enchanted lead (saving throw Investigation to detect). He also buys stolen Council bonds and fences plundered jewelry for 60% value.  
+**Description**: Silas sells counterfeit gold bars that weigh and shine like true gold but are composed of enchanted lead (DC 16 Investigation to detect). He also buys stolen Council bonds and fences plundered jewelry for 60% value.  
 
 ---
 
@@ -219,7 +263,7 @@ Deep inside the hollow interior of the central anchor chain, accessible only by 
 
 * **Midnight Tears (Ingested)** (*DMG p. 258*, 1,500 gp): Lethal delayed-action poison.
 * **Torpor (Ingested)** (*DMG p. 258*, 600 gp): Incapacitates targets for 4d6 hours.
-* **Crawler Mucus (Contact)** (*DMG p. 257*, 200 gp): Paralyzes targets for 1 minute on saving throw Con save.
+* **Crawler Mucus (Contact)** (*DMG p. 257*, 200 gp): Paralyzes targets for 1 minute on DC 13 Con save.
 * **Golden Slag Acid** (120 gp per vial): Corrosive solvent that dissolves up to 100 gold coins into odorless liquid within 1 round; used by thieves to destroy evidence or silently melt gold locks.
 
 ---
@@ -229,19 +273,19 @@ Deep inside the hollow interior of the central anchor chain, accessible only by 
 **Theme**: Underworld Safehouse & Resistance Sanctuary  
 **Owner**: **Kaelen the Shorn**, an escaped tiefling gladiator who leads an underground cell helping indebted slaves slip past the Coinbound Enforcers and escape via planar rifts.  
 
----
+* * *
 
 ## **Aurous Grasp Notice Board**
 
 The Aurous Grasp Notice Board is a colossal slab of beaten gold standing in the center of the Gilded Bazaar. Notices are stamped onto brass plaques by order of the Council of Chains, offering bounties and dangerous salvage contracts to visiting adventurers.
 
----
+* * *
 
 ### **Mission 1: The Molten Surge**
 
 **Posted by**: The Council of Chains (Chief Engineer Vardas)  
 **Reward**: 500 gp and an *Amulet of the Hoard*  
-**Description**: "An unexpected surge in the Molten Expanse has caused the cooling wards on the Third Chain of Dominion to overheat. Without immediate recalibration, the chain will buckle, plunging the entire residential platform into the sea of gold. We require brave specialists to descend to the lower link cradle, fight off the molten scavengers, and manually activate the cold-steam valves."  
+**Description**: "An unexpected surge in the Molten Expanse has caused the cooling wards on the Third Chain of Dominion to overheat. Without immediate recalibration, the chain will buckle, plunging the entire residential platform into the sea of gold. We require brave specialists to descend to the lower link cradle, fight off the molten scavengers, and manually activate the cold-steam valves."
 
 ---
 
@@ -249,7 +293,7 @@ The Aurous Grasp Notice Board is a colossal slab of beaten gold standing in the 
 
 **Posted by**: Gildmaster Vane Karr (Midas Touch Armory)  
 **Reward**: 450 gp and a pair of *Gilded Spiked Gauntlets*  
-**Description**: "A high-security chest I purchased at the Black Auction turned out to be an apex predatory mimic. It has devoured two of my apprentices and barricaded itself in my lower vault, assimilating my gold stock into a hardened protective shell. Exterminate the beast without destroying the vault structure."  
+**Description**: "A high-security chest I purchased at the Black Auction turned out to be an apex predatory mimic. It has devoured two of my apprentices and barricaded itself in my lower vault, assimilating my gold stock into a hardened protective shell. Exterminate the beast without destroying the vault structure."
 
 ---
 
@@ -257,36 +301,10 @@ The Aurous Grasp Notice Board is a colossal slab of beaten gold standing in the 
 
 **Posted by**: Lady Lucinda Vex (The Speculator’s Vault)  
 **Reward**: 600 gp and a *Ring of Mind Shielding*  
-**Description**: "A condemned debtor named **Rennic Vance** managed to pick the lock of the High Bank archives and escaped into the Gilded Wastes carrying the Master Debt Ledger of District Four. If that ledger is destroyed, hundreds of thousands of gold in enforceable debts become void. Track Vance across the golden dunes, recover the ledger intact, and deliver him to the Coinbound Enforcers."  
+**Description**: "A condemned debtor named **Rennic Vance** managed to pick the lock of the High Bank archives and escaped into the Gilded Wastes carrying the Master Debt Ledger of District Four. If that ledger is destroyed, hundreds of thousands of gold in enforceable debts become void. Track Vance across the golden dunes, recover the ledger intact, and deliver him to the Coinbound Enforcers."
 
 ---
 
-### **2\. Emerald Maw: The Devouring City**
-
-**Emerald Maw** is a predatory city that wanders the Plane of Avarice, devouring the riches of other settlements and hoarding them within its walls. The city itself resembles a colossal beast, its buildings formed from green-hued stone and gold, and its streets lined with jagged spires that resemble teeth. When the Emerald Maw moves, it leaves a trail of devastation in its wake, consuming everything of value it encounters and leaving only barren, broken ruins behind.
-The city is ruled by **Vorath Greedeater**, a tyrannical dragon-like entity whose hunger for wealth is insatiable. Vorath controls the city’s movements, driving it from one target to the next in an endless quest for more. The inhabitants of Emerald Maw are scavengers and raiders, bound to Vorath’s will and sustained by the wealth they plunder.
-
----
-
-#### **Key Features**
-
-1. **The Devouring Core**
-	* A massive, pulsing engine at the heart of the city that absorbs treasure, magic, and even life energy to fuel Emerald Maw’s movement. The Core glows with a sickly green light, and its energy corrupts all who remain near it for too long.
-	* **Lore**: The Core is rumored to be a fragment of **Vorath’s soul**, allowing the dragon to control the city as an extension of their own body.
-2. **The Vaultspire**
-	* A towering structure at the city’s center where Vorath hoards their personal wealth. The Vaultspire is filled with traps, illusions, and guardian constructs, making it nearly impossible to penetrate.
-3. **The Maw Gates**
-	* Massive, jagged gates at the front of the city that "devour" treasures and resources, dragging them into the Devouring Core. The gates are lined with enchanted runes that disintegrate anything deemed unworthy.
-
----
-
-#### **Inhabitants**
-
-* **Vorath Greedeater**: The dragon-like ruler of Emerald Maw, a monstrous being consumed by their own hunger for wealth.
-* **Plunderborn Raiders**: Vorath’s followers, ruthless scavengers who raid and pillage in the name of their master.
-* **Corebound Constructs**: Mechanical creatures powered by the energy of the Devouring Core, acting as the city’s enforcers.
-
----
 ## **Shops of Emerald Maw**
 
 ### **1. The Drake-Tooth Armory**
@@ -298,7 +316,7 @@ The city is ruled by **Vorath Greedeater**, a tyrannical dragon-like entity whos
 
 **Notable Items for Sale**:
 
-* **Emerald Wyrm Greatsword (+2 Greatsword)** (*Very Rare*, 4,500 gp): Forged from green dragon bone and gold-leaf steel. Deals an extra 2d6 acid damage on a hit. Once per day, the wielder can release a 30-foot cone of corrosive emerald gas (saving throw Con save or take 8d6 acid damage).
+* **Emerald Wyrm Greatsword (+2 Greatsword)** (*Very Rare*, 4,500 gp): Forged from green dragon bone and gold-leaf steel. Deals an extra 2d6 acid damage on a hit. Once per day, the wielder can release a 30-foot cone of corrosive emerald gas (DC 16 Con save or take 8d6 acid damage).
 * **Core-Plated Half Plate (+1 Half Plate)** (*Rare*, 2,400 gp): Grants resistance to acid and fire damage. When a creature hits the wearer with a melee attack, the armor vents emerald sparks dealing 1d8 force damage to the attacker.
 * **Plunder-Hook Crossbow (+1 Heavy Crossbow)** (*Uncommon*, 800 gp): Fitted with a barbed harpoon; when a shot hits, the target is impaled and can be pulled up to 20 feet toward the shooter on a contested Athletics check.
 * **Emerald Fang Dagger** (*Uncommon*, 400 gp): Deals 1d4 piercing plus 1d6 acid damage; critical hits blind the target with stinging bile for 1 round.
@@ -351,7 +369,46 @@ The city is ruled by **Vorath Greedeater**, a tyrannical dragon-like entity whos
 * **Potion of Fire Resistance** (300 gp) & **Potion of Acid Resistance** (300 gp).
 * **Elixir of the Dragon's Stomach** (*Rare*, 750 gp): Grants immunity to poison, nausea, and ingested curses for 8 hours.
 
----
+* * *
+
+### **5. The Smelter's Vestments**
+
+**Specialty**: Acid-Proof Leathers, Hoard-Seeker's Cowls, and Dragon-Scale Surcoats  
+**Location**: The Smelter Gantry, overlooking the bubbling molten gold canals of Emerald Maw.  
+**Owner**: **Master Kaelen Gold-Scale**, an aging dragonborn tailor with scarred bronze scales.  
+**Description**: The shop is a workshop of heavy leather, dragonhide, and asbestos-weave cloth. Thick leather aprons, breathing respirators, and dragon-scale jerkins hang from iron hooks. Kaelen shapes heavy leather using steam presses, ensuring that prospectors and treasure divers can brave the burning gold rivers and corrosive dragon fumes of the Maw without perishing.  
+
+**Notable Items for Sale**:
+* **Acid-Proof Leathers (+1 Leather Armor)** (*Rare*, 1,700 gp): Grants +1 to AC and complete immunity to acid damage and caustic dragon breath.
+* **Hoard-Seeker's Cowl** (*Rare*, 1,500 gp): Grants darkvision out to 60 feet and allows the wearer to cast *Locate Object* (targeting gold, platinum, or gems) at will.
+* **Dragon-Scale Surcoat** (*Rare*, 2,200 gp): Worn over armor; grants resistance to fire damage and advantage on saving throws against the frightful presence of dragons.
+* **Boots of the Molten Tread** (*Uncommon*, 600 gp): Walking across molten metal or hot coals causes no damage for up to 1 minute per day.
+
+**Unique Services**:
+* **Scale Hardening**: Treats mundane leather armor with dragon scales, granting +1 AC and chosen elemental resistance (Cost: 350 gp + scales).
+* **Caustic Protection Treatment**: Treats boots and cloaks to resist melting in acid pools (Cost: 100 gp).
+
+**Rumor**: Kaelen secretly harvests scales from the sleeping Emerald Dragon Vorath when the beast is deep in torpor within the volcanic core.
+
+* * *
+
+### **The Wyrm-Heart Forge: Dragon-Essence Metallurgy**
+
+The **Wyrm-Heart Forge** is Emerald Maw's supreme industrial laboratory, situated directly above the volcanic vent where dragon-blood mingles with molten gold. Supervised by **Master Forger Durgok**, this forge fuses dragon blood and volcanic slag into terrifying weapons of avarice.
+
+#### **The Core Forge & Crucible**
+The shop sits over a churning caldera of red-hot magma. Giant steam hammers powered by volcanic pressure shape weapons of glowing green dragon-bronze, while alchemists infuse weapon quenched in liquefied dragon bile.
+
+#### **The Master Forger: Durgok the Wyrm-Bane**
+* **Appearance**: A muscular duergar covered in burn scars and dragon-tooth tattoos, wielding a two-handed forging maul.
+* **Personality**: Harsh, demanding, and respecting only strength and the raw power of tempered steel.
+
+#### **Dragon Metallurgy Services**
+* **Wyrm-Breath Infusion**: Infuses a weapon with dragon breath, causing its strikes to deal an extra 1d6 acid or fire damage (Cost: 300 gp).
+* **Dragon-Scale Shield Forging**: Forges a +1 shield from harvested dragon scales, granting resistance to the dragon's breath element (Cost: 600 gp + scales).
+* **Slag Dissolution**: Melts down cursed or broken magic items to extract their raw magical gold bullion (Cost: 15% extraction fee).
+
+* * *
 
 ## **Taverns of Emerald Maw**
 
@@ -389,7 +446,7 @@ The city is ruled by **Vorath Greedeater**, a tyrannical dragon-like entity whos
 * **Imperial Sparkling Wine**: Stolen vintages from conquered planar worlds (8 sp).
 * **Glazed Honey-Quail in Emerald Jelly**: Sweet, savory delicacy served on gold plates (12 sp).
 
----
+* * *
 
 ## **The Black Market: The Plunder-Warrens**
 
@@ -411,7 +468,7 @@ In the hollow maintenance crawledges between the outer armor plates and the inne
 **Owner**: **Lady Vess**, a yuan-ti pureblood cultist of the devouring wyrm.  
 **Notable Items for Sale (Poisons & Contraband)**:
 
-* **Wyvern Poison (Injury)** (*DMG p. 258*, 1,200 gp): saving throw Con save or take 24 (7d6) poison damage.
+* **Wyvern Poison (Injury)** (*DMG p. 258*, 1,200 gp): DC 15 Con save or take 24 (7d6) poison damage.
 * **Midnight Tears (Ingested)** (*DMG p. 258*, 1,500 gp): Lethal delayed poison.
 * **Torpor (Ingested)** (*DMG p. 258*, 600 gp): Incapacitating poison.
 * **Emerald Dissolution Acid (Contact)** (450 gp): Melts through nonmagical locks in 1 round; when coated on a weapon, deals +2d6 acid damage on the next 3 hits.
@@ -423,11 +480,11 @@ In the hollow maintenance crawledges between the outer armor plates and the inne
 **Theme**: Underbelly Smuggling Hub & Escape Outpost  
 **Owner**: **Kaelen the Shorn**, the escaped gladiator leader who runs an underground railroad saving captives destined to be fed into the Devouring Core.
 
----
+* * *
 
-## **Emerald Maw Notice Board**
+## **Emerald Maw Notice Board & Tactical Encounters**
 
-The Emerald Maw Notice Board is a massive iron plate torn from a shattered siege tower, bolted to the hull outside the Maw Gates. Bounties and salvage warrants are scratched directly into the iron with plasma torches.
+The Emerald Maw Notice Board is a massive iron plate torn from a shattered siege tower and bolted to the armored locomotive hull outside the Maw Gates. Bounties, salvage warrants, and execution decrees are gouged directly into the metal with plasma torches by order of the Plunderborn Council.
 
 ---
 
@@ -435,7 +492,7 @@ The Emerald Maw Notice Board is a massive iron plate torn from a shattered siege
 
 **Posted by**: Master Engineer Kaelen  
 **Reward**: 750 gp and a *Core-Charged Lantern*  
-**Description**: "An ancient Corebound Construct—Unit Apex—suffered cognitive feedback during yesterday's consumption cycle. It has gone berserk inside the secondary locomotive manifold, smashing coolant pipes and crushing technicians. Enter the manifold, terminate the construct, and restore coolant flow before the locomotive engine overheats."  
+**Description**: "Infiltrate the secondary locomotive manifold, destroy the berserk *Corebound Construct Unit Apex*, and manually turn the coolant valves before the city's engine melts down."
 
 ---
 
@@ -443,7 +500,7 @@ The Emerald Maw Notice Board is a massive iron plate torn from a shattered siege
 
 **Posted by**: Raider-Captain Varek (The Plunder Depot)  
 **Reward**: 650 gp and a *Winch-Gun of the Raider*  
-**Description**: "A heavily guarded treasure convoy belonging to the Argentum Syndicate has been spotted crossing the Gilded Wastes, transporting a haul of primordial platinum ingots. Intercept the convoy ahead of the Maw's main path, eliminate their mercenary escort, and secure the lead treasure wagon."  
+**Description**: "Ambush an armored convoy crossing the golden sand dunes, eliminate the mercenary defenders and their manticore, and secure the lead wagon holding primordial platinum ingots."
 
 ---
 
@@ -451,35 +508,10 @@ The Emerald Maw Notice Board is a massive iron plate torn from a shattered siege
 
 **Posted by**: Lady Vess (Toxins of the Emerald Wyrm)  
 **Reward**: 800 gp and an *Emerald Fang Dagger*  
-**Description**: "My younger sister, an initiate of the serpent mysteries, was captured by Vorath's personal Plunderborn guard and dragged into the lower holding cells of the Vaultspire. She is scheduled to be sacrificed to feed the Devouring Core at midnight. Infiltrate the Vaultspire cells, silence the guards, and extract her alive."  
+**Description**: "Infiltrate the lower sacrificial holding cells of the Vaultspire, eliminate the Plunderborn cultists and their *Emerald Spawn Wyrm*, and extract Lady Vess's sister alive."
 
 ---
 
-### **3\. Argentum Abyss: The City Beneath the Hoard**
-
-**Argentum Abyss** is a sprawling, labyrinthine city buried beneath an endless mountain of treasure. The wealth of countless worlds—gold, jewels, relics, and artifacts—forms a suffocating ceiling above the city, pressing down with a weight that reflects the greed of those who dwell here. The city is a maze of vaults, tunnels, and underground chambers, each filled with traps and wards designed to protect its hoarded riches.
-The city is ruled by **The Argentum Syndicate**, a shadowy organization of merchants, thieves, and corrupt officials who oversee the trade and protection of the plane’s greatest treasures. The Syndicate maintains strict control over the city, enforcing draconian laws to prevent theft while secretly hoarding the most valuable treasures for themselves.
-
----
-
-#### **Key Features**
-
-1. **The Vault of Ages**
-	* A massive underground chamber where the most valuable treasures of the plane are stored. The Vault is guarded by **Treasure Wraiths**, spectral entities bound to protect the wealth at all costs.
-2. **The Labyrinthine Market**
-	* An underground marketplace where treasure hunters, smugglers, and artificers trade in cursed relics, stolen artifacts, and enchanted gold.
-3. **The Crushing Ceiling**
-	* The mountain of treasure above the city grows larger with each passing day, threatening to collapse and bury Argentum Abyss. Some believe this is the plane’s way of punishing its inhabitants for their greed.
-
----
-
-#### **Inhabitants**
-
-* **The Argentum Syndicate**: A cabal of corrupt leaders who manipulate the city’s wealth for their own gain.
-* **Treasure Wraiths**: Ghostly guardians bound to protect the hoarded riches of the Vault of Ages.
-* **Desperate Scavengers**: Treasure hunters who risk their lives in the labyrinthine tunnels in search of fortune.
-
----
 ## **Shops of Argentum Abyss**
 
 ### **1. The Silver Spire Mint**
@@ -546,7 +578,46 @@ The city is ruled by **The Argentum Syndicate**, a shadowy organization of merch
 * **Salve of the Unyielding Flesh** (*Rare*, 850 gp): When applied to skin, grants immunity to petrification and paralysis for 4 hours.
 * **Potion of Superior Healing** (*Rare*, 500 gp) & **Potion of Invisibility** (*Very Rare*, 1,200 gp).
 
----
+* * *
+
+### **5. The Silver Thread Atelier**
+
+**Specialty**: Mirrored Silks, Ghost-Warded Capes, and Subterranean Camouflage  
+**Location**: The Low Vaults of Argentum Abyss, near the Subterranean Mint.  
+**Owner**: **Madame Elira of the Spindle**, a serene drow tailor whose eyes reflect like polished silver mirrors.  
+**Description**: The Atelier is a quiet, elegant grotto of dark slate and shimmering silver cloth. Bolts of cloth woven from purified silver thread and cave-spider silk drape across polished marble counters. Elira creates exquisite garments that repel spectral undead and deflect ethereal gazes, catering to tomb raiders and planar explorers delving into the ancient vaults beneath the hoard.  
+
+**Notable Items for Sale**:
+* **Silver-Thread Robes of the Ethereal (+1 Defense)** (*Rare*, 2,000 gp): AC equals 13 + Dex modifier. Spectral undead (ghosts, wraiths, specters) have disadvantage on attack rolls against the wearer.
+* **Ghost-Warded Cape** (*Rare*, 1,600 gp): Grants resistance to necrotic damage and advantage on saving throws against possession and curses.
+* **Mirrored Silk Mask** (*Uncommon*, 500 gp): Renders the wearer's face invisible to divination scrying and magical sensors.
+* **Boots of the Silver Ghost** (*Uncommon*, 550 gp): Eliminates sound from footsteps and allows the wearer to step into the Ethereal Plane for 1 round once per long rest.
+
+**Unique Services**:
+* **Silver Thread Inscription**: Sews purified silver protective runes into armor, granting resistance to necrotic damage for 30 days (Cost: 200 gp).
+* **Spectral Ward Fitting**: Customizes gear to prevent ethereal creatures from phasing through the wearer's backpack or pockets (Cost: 150 gp).
+
+**Rumor**: Elira was once the personal tailor to a spectral king whose tomb lies sealed in Sector 9 of the Collapsing Catacombs.
+
+* * *
+
+### **The Spectral Assay Office: Appraising Cursed Hoards**
+
+The **Spectral Assay Office** is Argentum Abyss's foremost authority on haunted antiquities and cursed treasures, located within a warded basalt vault beneath the Great Mint. Directed by **Arch-Assayer Vond**, this office evaluates, identifies, and un-curses ancient treasures salvaged from the depths of the Plane of Avarice.
+
+#### **The Assay Office & Containment Vault**
+The hall is lined with lead panels and glowing containment circles of salt and silver. Appraisers with magnifying glasses and cold-iron tweezers inspect glittering gems, gold chalices, and jewelry recovered from tomb-raids, testing for deadly death-curses and lingering wraith tethers.
+
+#### **The Arch-Assayer: Vond the Untouchable**
+* **Appearance**: A cloaked human scholar whose hands are encased in articulated silver gauntlets to prevent touching cursed gold. He speaks with dry, academic authority.
+* **Personality**: Skeptical, pedantic, and viewing all ancient treasure as a lethal trap until proven otherwise.
+
+#### **Assay & Cleansing Services**
+* **Curse Identification & Neutralization**: Identifies curses on recovered treasures and purges them safely without destroying the item (Cost: 100–300 gp).
+* **Treasure Valuation & Exchange**: Evaluates ancient or foreign currencies, exchanging them for standard planar gold without shortchanging (Cost: 2% fee).
+* **Wraith-Tether Severing**: Severs the supernatural connection between a treasure hoard and the vengeful spirits that guard it (Cost: 400 gp).
+
+* * *
 
 ## **Taverns of Argentum Abyss**
 
@@ -584,7 +655,7 @@ The city is ruled by **The Argentum Syndicate**, a shadowy organization of merch
 * **Shadow Brandy**: Dark plum spirit that leaves the drinker's shadow slightly separated from their body (5 sp).
 * **Pale Truffle Tart**: Pastry made with rare underground white truffles (6 sp).
 
----
+* * *
 
 ## **The Black Market: The Sump of Stolen Wills**
 
@@ -596,7 +667,7 @@ Deep in the drainage sumps beneath the city, where runoff water from the treasur
 
 **Specialty**: Fenced Vault Bonds, Forged Passkeys, and Melted Syndicate Bullion  
 **Owner**: **"Ghost-Hand" Dax**, a kenku rogue who communicates through the clink of lockpicks and coin bags.  
-**Description**: Dax buys stolen Syndicate promissory notes and vault keys for 60% face value. He can also forge pass-tokens that bypass the magical checkpoints leading to the Vault of Ages (saving throw Investigation to detect).  
+**Description**: Dax buys stolen Syndicate promissory notes and vault keys for 60% face value. He can also forge pass-tokens that bypass the magical checkpoints leading to the Vault of Ages (DC 17 Investigation to detect).  
 
 ---
 
@@ -609,7 +680,7 @@ Deep in the drainage sumps beneath the city, where runoff water from the treasur
 * **Torpor (Ingested)** (*DMG p. 258*, 600 gp): Incapacitating poison.
 * **Pale Tincture (Ingested)** (*DMG p. 258*, 250 gp): Lingering necrotic poison.
 * **Essence of Ether (Inhaled)** (*DMG p. 258*, 300 gp): Renders target unconscious for 8 hours.
-* **Treasure-Rot Dust (Contact)** (500 gp): Causes target's flesh to calcify like tarnished silver; target must make a saving throw Con save or take 3d6 necrotic damage and have disadvantage on Dexterity checks for 1 hour.
+* **Treasure-Rot Dust (Contact)** (500 gp): Causes target's flesh to calcify like tarnished silver; target must make a DC 14 Con save or take 3d6 necrotic damage and have disadvantage on Dexterity checks for 1 hour.
 
 ---
 
@@ -618,11 +689,11 @@ Deep in the drainage sumps beneath the city, where runoff water from the treasur
 **Theme**: Safehouse & Smuggler Tunnel Nexus  
 **Owner**: **Vanna the Mole**, a wererat rogue who maintains a network of secret crawlspaces bypassing all Syndicate checkpoints and leading directly into the outskirts of the Gilded Wastes.
 
----
+* * *
 
-## **Argentum Abyss Notice Board**
+## **Argentum Abyss Notice Board & Tactical Encounters**
 
-The Argentum Abyss Notice Board is a massive silver-plated door frame mounted in the center of the Labyrinthine Market. Notices are stamped onto lead foil strips by the Syndicate and desperate vault excavators.
+The Argentum Abyss Notice Board is a massive silver-plated door frame mounted in the center of the Labyrinthine Market. Notices, warrants, and bounty chits are stamped onto lead foil strips by the Argentum Syndicate and desperate vault excavators.
 
 ---
 
@@ -630,7 +701,7 @@ The Argentum Abyss Notice Board is a massive silver-plated door frame mounted in
 
 **Posted by**: Syndicate Auditor Malakar  
 **Reward**: 700 gp and an *Amulet of Structural Integrity*  
-**Description**: "An illegal excavation in Vault Sector 9 has triggered a catastrophic structural fracture. Millions of tons of ancient coin and gold statuary are pouring through the ceiling, threatening to bury the entire artisan row. Furthermore, the disturbance has awakened restless undead from the ancient catacombs below. Clear the crypt beasts and secure the emergency stone braces."  
+**Description**: "Clear restless crypt beasts and an ancient bullion-crusted earth elemental from Vault Sector 9, and brace the collapsed struts before millions of tons of ancient coin bury the artisan row."
 
 ---
 
@@ -638,7 +709,7 @@ The Argentum Abyss Notice Board is a massive silver-plated door frame mounted in
 
 **Posted by**: Mistress Selene (Crypt & Coin Apothecary)  
 **Reward**: 600 gp and a *Silvered Ghost-Bane Longsword*  
-**Description**: "A cursed funeral mask wrought from pure electrum was stolen from the deep ossuary by a scavenger who didn't know what he had. The mask has awakened a legion of Treasure Wraiths that are hunting down the thief in the low tunnels. Retrieve the mask before the wraiths multiply and slaughter the residential sectors."  
+**Description**: "Descend into the sunken siphon crypts beneath the ossuary, eliminate the *Gilded King Wraith Alpha* and his specter court, and retrieve the electrum funeral mask."
 
 ---
 
@@ -646,4 +717,6 @@ The Argentum Abyss Notice Board is a massive silver-plated door frame mounted in
 
 **Posted by**: "Ghost-Hand" Dax (The Melted Seal)  
 **Reward**: 850 gp and a *Ring of Ethereal Step*  
-**Description**: "Syndicate Auditor Malakar is planning to seal off the low warrens and starve out the independent scavengers to seize their mining claims. A coalition of free miners is launching a strike against Malakar's private audit mansion tonight. Neutralize Malakar's elite guard and force him to sign the Charter of Free Scavenging."
+**Description**: "Infiltrate Auditor Malakar's private audit mansion, eliminate his personal assassin escort and veteran bodyguards, and force Malakar to sign the Charter of Free Scavenging."
+
+---

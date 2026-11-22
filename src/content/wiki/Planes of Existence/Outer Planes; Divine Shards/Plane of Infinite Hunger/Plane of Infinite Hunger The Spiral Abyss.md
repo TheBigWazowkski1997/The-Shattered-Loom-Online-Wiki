@@ -2,6 +2,8 @@
 dg-publish: true
 ---
 
+﻿---
+---
 **Description**: Unlike the traditional Abyss, the Spiral Abyss is not layered but spirals endlessly inward toward a singularity of insatiable hunger. Every "circle" of the spiral is home to grotesque entities consumed by their endless desires—be it power, flesh, or knowledge.
 The **Plane of Infinite Hunger** is a realm of insatiable voids, ravenous landscapes, and entities obsessed with perpetual consumption. In this plane, **hunger**—physical, spiritual, or existential—is not just a metaphor but the very fabric of existence. It is an ever-shifting wasteland, where land devours itself, skies twist into mouths of shadow, and rivers of acidic bile flow through landscapes composed of gnawed bone and flesh-like stone. Beings who venture here are consumed—either by the land itself or by their own unmet desires magnified to unbearable extremes.
 Here, the concept of "balance" has shattered, leaving a twisted reflection of greed, starvation, and survival. Sentient cities, endless maws, and parasitic ecosystems cling to existence, vying to consume all around them in a futile attempt to sate the plane’s infinite hunger.
@@ -16,7 +18,7 @@ The **Devouring Wastes** are the sprawling, barren expanses that dominate much o
 	* **Hunger Pits**: Sinkholes that act as the Wastes’ “stomachs,” pulling creatures and objects in and breaking them down into raw energy to sustain the plane.
 	* **Bone Forests**: Groves of twisted, bone-like trees that feed on the ambient energy of the plane. Their roots burrow deep into the flesh-like ground, draining its vitality.
 
----
+* * *
 
 #### **2\. The Maw Eternal**
 
@@ -28,7 +30,7 @@ The **Maw Eternal** is a massive, world-sized mouth at the heart of the Plane of
 	* **The Abyssal Teeth**: Massive, grinding structures that shift unpredictably, crushing anything in their path. Some say these teeth are sentient, snapping at intruders.
 	* **The Gullet Abyss**: The Maw’s innermost chamber, said to hold the essence of the plane’s hunger. Few have ventured this far and returned.
 
----
+* * *
 
 #### **3\. The Starving Expanse**
 
@@ -40,7 +42,7 @@ The **Starving Expanse** is a desolate, predatory desert where nothing grows, an
 	* **The Starving Statues**: Giant statues of gaunt, skeletal figures scattered across the desert. These are remnants of those who were consumed by their own desires, transformed into monuments of eternal hunger.
 	* **The Hunger Storms**: Fierce, black sandstorms that erode not just flesh and armor but also memories and resolve.
 
----
+* * *
 
 #### **4\. The Hunger Wells**
 
@@ -52,18 +54,18 @@ The **Hunger Wells** are scattered, glowing pits of swirling black energy that s
 	* **Shadow Tendrils**: Sentient shadows rise from the wells, acting as guardians or extensions of the plane’s will.
 	* **Cross-Planar Links**: Some Hunger Wells serve as portals, allowing creatures and energy to flow between the Plane of Infinite Hunger and other planes.
 
----
+* * *
 
 ## **Three Cities of the Plane of Infinite Hunger**
 
----
+* * *
 
 ### **1\. Mawhollow: The City Within the Gorge**
 
 **Mawhollow** is a sprawling city carved into the sides of an endless, ever-widening canyon known as the **Chasm of Devouring**. This canyon descends infinitely into the plane’s core, its walls lined with layers of hollowed-out dwellings, tunnels, and markets that cling precariously to the stone like parasitic growths. As the Chasm itself expands—a sentient force consuming all within—it devours the lower layers of the city, forcing its inhabitants to constantly build upward in a desperate struggle for survival.
 Mawhollow is both a refuge and a death trap, its people scavenging what little the plane offers and trading in flesh, bone, and stolen moments of respite. Despite the perpetual threat, it is the closest thing to a stable society within the plane—a brutal yet intricate ecosystem where only the clever and resourceful thrive.
 
----
+* * *
 
 #### **Key Features**
 
@@ -77,7 +79,7 @@ Mawhollow is both a refuge and a death trap, its people scavenging what little t
 	* A precarious series of enchanted bridges that span the Chasm at various depths, connecting the different levels of the city. The Gorgewalk is dangerous, as hungry winds and unseen mouths sometimes open to devour unwary travelers.
 	* **Lore**: The bridges are maintained by the **Silent Masons**, an enigmatic guild that carves protective runes into the canyon walls, though they seem to withhold their secrets for unknown reasons.
 
----
+* * *
 
 #### **Inhabitants**
 
@@ -85,13 +87,16 @@ Mawhollow is both a refuge and a death trap, its people scavenging what little t
 * **The Gorgekeepers**: A brutal militia tasked with maintaining order and defending the city’s upper levels from the expanding void.
 * **The Eater's Voice**: Cultists who hear the whispers of the Chasm, believing they can appease its hunger through sacrifice and ritual.
 
----
+* * *
+
+* * *
+
 ### **2\. Fleshspire: The Tower of Endless Appetite**
 
 **Fleshspire** is a **living city**—a colossal tower composed of pulsing flesh, sinew, and chitinous bone that rises from an acidic sea of bile. It is both a city and a **being**, constantly growing, reshaping, and consuming itself as its inhabitants carve out chambers and walkways within its ever-changing walls. The city’s rulers, the **Glutton Priests**, worship the tower as an avatar of the plane’s will, offering sacrifices to keep it satiated and prevent it from devouring its own people.
 Fleshspire is a grotesque marvel, its streets paved with hardened bone and its buildings formed from membranous walls that pulse like beating hearts. The air smells of blood and acid, and faint whispers echo through the chambers—thoughts from the tower itself.
 
----
+* * *
 
 #### **Key Features**
 
@@ -103,7 +108,7 @@ Fleshspire is a grotesque marvel, its streets paved with hardened bone and its b
 3. **The Everbirth Chambers**
 	* Fleshspire’s most unsettling feature: a series of “birthing chambers” where the city itself spawns grotesque **Flesh Servitors**—mutated creatures that serve its inhabitants. Some are docile, while others turn feral and attack.
 
----
+* * *
 
 #### **Inhabitants**
 
@@ -111,13 +116,16 @@ Fleshspire is a grotesque marvel, its streets paved with hardened bone and its b
 * **Flesh Cultists**: Worshippers who offer parts of their own bodies to the city in exchange for mutations or power.
 * **The Bone Carvers**: Skilled artisans who extract bone and chitin from the walls to craft tools, weapons, and ornaments.
 
----
+* * *
+
+* * *
+
 ### **3\. The Hollow Expanse: The City of Endless Echoes**
 
 **The Hollow Expanse** is a nomadic, ever-moving city composed of drifting **voidships**—large, hollowed-out chunks of rock and bone that float across the Plane of Infinite Hunger. Suspended above a swirling vortex known as the **Endless Maw**, the city’s ships are tethered together by chains of sinew and shadow, constantly shifting position as the vortex pulls at them. The Expanse is a haven for wanderers, traders, and pirates who exploit the plane’s dangers to their advantage.
 The **Endless Maw** beneath the city is an abyssal storm of shadow and gnashing teeth that devours anything it touches. Its gravitational pull is inescapable, forcing the city to remain in constant motion lest it be swallowed whole.
 
----
+* * *
 
 #### **Key Features**
 
@@ -128,7 +136,7 @@ The **Endless Maw** beneath the city is an abyssal storm of shadow and gnashing 
 3. **The Chainspire**
 	* A central voidship repurposed as the city’s command center, ruled by pirate warlords known as the **Chainlords**.
 
----
+* * *
 
 #### **Inhabitants**
 
@@ -136,7 +144,10 @@ The **Endless Maw** beneath the city is an abyssal storm of shadow and gnashing 
 * **The Hungerbound**: Individuals cursed by the plane, constantly driven to devour whatever they touch.
 * **Void Traders**: Merchants who sell cursed goods and scavenged artifacts from the plane’s depths.
 
----
+* * *
+
+* * *
+
 ## **Shops of Mawhollow**
 
 ### **1. The Chitin & Carapace Forge**
@@ -150,7 +161,7 @@ The **Endless Maw** beneath the city is an abyssal storm of shadow and gnashing 
 
 * **Carapace Plate Armor (+1 Plate Armor)** (*Rare*, 2,600 gp): Forged from interlocking plates of chitinous beast shells. Weight is halved (32 lbs) and grants resistance to acid damage. When the wearer is struck by a critical hit, the armor cracks outward, dealing 2d6 piercing damage to the attacker.
 * **Hungering Greataxe (+1 Greataxe)** (*Rare*, 2,100 gp): Forged with teeth along the beard of the blade. On a hit, deals an additional 1d6 necrotic damage. When the wielder reduces a hostile creature to 0 hit points, the wielder gains temporary hit points equal to 5 + their Constitution modifier.
-* **Barbed Fang Shield (+1 Shield)** (*Uncommon*, 750 gp): Edged with jagged predator teeth. As a bonus action, the wielder can make a melee shield strike dealing 1d6 piercing damage; if the target is a creature, it must succeed on a saving throw Strength save or be grappled by the teeth.
+* **Barbed Fang Shield (+1 Shield)** (*Uncommon*, 750 gp): Edged with jagged predator teeth. As a bonus action, the wielder can make a melee shield strike dealing 1d6 piercing damage; if the target is a creature, it must succeed on a DC 13 Strength save or be grappled by the teeth.
 * **Bile-Etched Dagger** (*Uncommon*, 350 gp): Deals 1d4 piercing damage plus 1d4 acid damage. Critical hits corrode nonmagical metal armor worn by the target, reducing its AC by 1.
 
 **Unique Services**:
@@ -211,7 +222,46 @@ The **Endless Maw** beneath the city is an abyssal storm of shadow and gnashing 
 * **Breathing Leather Cloak** (*Uncommon*, 600 gp): Inhales toxic air through subcutaneous gills; grants immunity to inhaled poisons and gas-based breath weapons.
 * **Boots of the Gorge-Strider** (*Rare*, 1,400 gp): Allows the wearer to walk along vertical stone cliff faces and ceilings as if under the effect of *Spider Climb*.
 
----
+* * *
+
+### **5. The Devourer's Distillate**
+
+**Specialty**: Hunger-Quenching Potions, Acidic Draughts, and Bile Tonics  
+**Location**: The Maw-Rim Causeway, overlooking the crushing teeth of Mawhollow.  
+**Owner**: **Gorg the Satiated**, an enormous ogre-mage with twin bellies and a gentle, raspy voice.  
+**Description**: The shop is a cavern of bubbling iron cauldrons, copper stills, and thick glass jars filled with phosphorescent digestive juices and liquefied bone. Gorg stirs cauldrons with a five-foot wooden paddle, dispensing thick draughts that suppress the gnawing hunger of the plane.  
+
+**Notable Items for Sale**:
+* **Draught of the Bottomless Satiety** (250 gp): When consumed, completely satisfies all nutritional and caloric needs for 7 days, granting immunity to exhaustion caused by starvation.
+* **Corrosive Bile Flask (Splash Weapon)** (150 gp): Thrown up to 30 feet; deals 4d6 acid damage (DC 13 Dex save for half) and dissolves 1 inch of mundane metal.
+* **Potion of the Devourer's Bite** (*Uncommon*, 400 gp): Grants the drinker a bite attack (1d8 + Str mod piercing + 1d6 acid) and 10 temporary hit points whenever they reduce a hostile creature to 0 HP for 1 hour.
+* **Potion of Greater Healing** (150 gp): Restores 4d4+4 hit points.
+
+**Unique Services**:
+* **Acid Slurry Neutralization**: Gorg can neutralize acid damage on corrupted armor and tools (Cost: 50 gp).
+* **Hunger Suppression Infusion**: Enchants an adventurer's rations to satisfy hunger twice as long (Cost: 25 gp per week of rations).
+
+**Rumor**: Gorg drinks a potion every midnight made from the bile of an abyssal titan to keep his own ravenous demonic hunger at bay.
+
+* * *
+
+### **The Maw Codex: Organ-Grafting Services**
+
+The **Maw Codex** is Mawhollow's most notorious anatomical workshop, carved directly into the ivory enamel of a titanic fossilized tooth. Supervised by **Chirurgeon-Master Xul**, this bloody scriptorium specializes in extracting, preserving, and surgically grafting the organs, chitin, and glands of abyssal beasts into living mortal bodies.
+
+#### **The Storefront & Flesh Chamber**
+The operating theater is illuminated by glowing bile lanterns and heated by steam flues. Restraint tables carved from solid bone are flanked by silver surgical saws, bone needles, and jars of preservative amniotic fluid. Scribes transcribe anatomical schematics onto leather folios made from cured demon hide.
+
+#### **The Master Chirurgeon: Xul the Flesh-Stitcher**
+* **Appearance**: A gaunt tiefling with six slender arms and magnifying lenses grafted over his eyes. He speaks in clinical, detached whispers while his hands move with blinding speed.
+* **Personality**: Scientifically obsessed, treating the mortal anatomy as an unfinished sketch that requires radical biological enhancement.
+
+#### **Organ-Grafting Services**
+* **Chitinous Sub-Dermal Graft**: Surgically implants hardened fiendish carapace beneath a creature's skin, granting a permanent +1 to AC at the cost of disadvantage on saving throws against extreme heat (Cost: 1,000 gp).
+* **Acid Gland Implantation**: Grants the creature an action to spit a 15-foot line of acid dealing 3d6 acid damage once per short rest (Cost: 800 gp).
+* **Scent of Blood Receptor**: Surgically enhances the olfactory sense, granting advantage on Perception checks made to track wounded creatures within 60 feet (Cost: 500 gp).
+
+* * *
 
 ## **Taverns of Mawhollow**
 
@@ -225,7 +275,7 @@ The **Endless Maw** beneath the city is an abyssal storm of shadow and gnashing 
 **Signature Drinks and Dishes**:
 
 * **Marrow-Brew Stout** *(House Special)*: A thick, rich, jet-black stout brewed with roasted barley and boiled mammoth marrow; grants 5 temporary hit points and advantage on Strength checks for 2 hours (4 sp).
-* **Gorgefire Moonshine**: Distilled from fermented corpse-fungi; burns with a blue flame and numbs pain completely (saving throw Con save or poison immunity for 1 hour, followed by a splitting hangover) (2 sp).
+* **Gorgefire Moonshine**: Distilled from fermented corpse-fungi; burns with a blue flame and numbs pain completely (DC 12 Con save or poison immunity for 1 hour, followed by a splitting hangover) (2 sp).
 * **Roasted Spire-Bat Ribs**: Glazed with hot sour bile and chili paste, served crackling on skewers (6 sp).
 * **Bone-Marrow Trencher**: Toasted black bread trough filled with piping hot seasoned marrow and wild mushrooms (8 sp).
 
@@ -249,7 +299,7 @@ The **Endless Maw** beneath the city is an abyssal storm of shadow and gnashing 
 * **Dried Chitin Crisps**: Crunchy deep-fried insect legs tossed with salted ash (5 cp).
 * **Cave-Leech Stew**: Thick grey broth with chewy, salty leeches (1 sp).
 
----
+* * *
 
 ## **The Black Market: The Gut Warrens**
 
@@ -271,11 +321,11 @@ Deep within the lowest accessible shafts of the Ravenous Warrens, where the city
 **Owner**: **Mistress Vexia**, a medusa exiled from the Material Plane whose serpents are pale and blind.  
 **Notable Items for Sale (Poisons & Contraband)**:
 
-* **Purple Worm Poison (Injury)** (*DMG p. 258*, 2,000 gp): saving throw Con save or take 42 (12d6) poison damage.
+* **Purple Worm Poison (Injury)** (*DMG p. 258*, 2,000 gp): DC 19 Con save or take 42 (12d6) poison damage.
 * **Pale Tincture (Ingested)** (*DMG p. 258*, 250 gp): 1d6 poison damage every 24 hours until cured.
-* **Malice (Inhaled)** (*DMG p. 258*, 250 gp): saving throw Con save or blinded for 1 hour.
+* **Malice (Inhaled)** (*DMG p. 258*, 250 gp): DC 15 Con save or blinded for 1 hour.
 * **Concentrated Abyssal Bile (Contact)** (400 gp): When applied to an object or weapon, it dissolves 1 inch of solid iron or stone in 1 round. On a weapon hit, deals an additional 3d6 acid damage.
-* **Gut-Rot Spores (Inhaled)** (500 gp): Causes target to suffer excruciating stomach cramps (incapacitated on failed saving throw Con save for 1 minute).
+* **Gut-Rot Spores (Inhaled)** (500 gp): Causes target to suffer excruciating stomach cramps (incapacitated on failed DC 14 Con save for 1 minute).
 
 ---
 
@@ -284,19 +334,19 @@ Deep within the lowest accessible shafts of the Ravenous Warrens, where the city
 **Theme**: Black-Market Flesh Grafting Clinic  
 **Owner**: **Doctor Malakor**, a rogue wizard specializing in biological transmutation. For 1,000 gp, he will graft an extra functioning limb, chitinous armor plating (+1 natural AC), or predator fangs onto any living creature.
 
----
+* * *
 
 ## **Mawhollow Notice Board**
 
 The Mawhollow Notice Board is a slab of petrified whalebone hammered into the rock face outside the Gorgewalk gatehouse. Contracts are scratched into the bone with acid-pens by the Gorgekeepers and frantic merchants.
 
----
+* * *
 
 ### **Mission 1: The Devourer in the Cistern**
 
 **Posted by**: Commander Thorg of the Gorgekeepers  
 **Reward**: 700 gp and a *Hungering Greataxe*  
-**Description**: "The runoff cistern supplying Mawhollow's central drinking reserve has been infiltrated by a bloated aberration from the Devouring Wastes. It is poisoning the water supply with rotting bile and devouring repair crews. Descend into the flooded cistern, exterminate the monster, and flush the filters."  
+**Description**: "The runoff cistern supplying Mawhollow's central drinking reserve has been infiltrated by a bloated aberration from the Devouring Wastes. It is poisoning the water supply with rotting bile and devouring repair crews. Descend into the flooded cistern, exterminate the monster, and flush the filters."
 
 ---
 
@@ -304,7 +354,7 @@ The Mawhollow Notice Board is a slab of petrified whalebone hammered into the ro
 
 **Posted by**: Master Alchemist Morbus Vile (The Satiety Vault)  
 **Reward**: 600 gp and 2 *Feaststones*  
-**Description**: "A pack-drake caravan bringing freshly mined raw feaststones from the Deep Tooth quarry has broken down out in the Gnashing Plains after an axle snapped. Winged fiends are circling the convoy. Rendezvous with the caravan, repel the scavengers, and escort the remaining stones to the vault gates."  
+**Description**: "A pack-drake caravan bringing freshly mined raw feaststones from the Deep Tooth quarry has broken down out in the Gnashing Plains after an axle snapped. Winged fiends are circling the convoy. Rendezvous with the caravan, repel the scavengers, and escort the remaining stones to the vault gates."
 
 ---
 
@@ -312,7 +362,7 @@ The Mawhollow Notice Board is a slab of petrified whalebone hammered into the ro
 
 **Posted by**: High Priestess Vael of the Upper Temple  
 **Reward**: 850 gp and a *Living Sinew Bow*  
-**Description**: "A renegade Glutton Priest named Brother Malix has set up a secret shrine in the Ravenous Warrens, grafting parasitic Flesh Vines onto kidnapped citizens to breed an army of self-replicating servitors. Infiltrate his flesh-garden, sever the mother vine, and eliminate the heretic."  
+**Description**: "A renegade Glutton Priest named Brother Malix has set up a secret shrine in the Ravenous Warrens, grafting parasitic Flesh Vines onto kidnapped citizens to breed an army of self-replicating servitors. Infiltrate his flesh-garden, sever the mother vine, and eliminate the heretic."
 
 ---
 
@@ -329,8 +379,8 @@ The Mawhollow Notice Board is a slab of petrified whalebone hammered into the ro
 
 * **Calcified Bone Plate (+1 Plate Armor)** (*Rare*, 2,700 gp): Forged from reinforced abyssal vertebrae. Weight is reduced by 25%. When a melee attack hits you, the armor grows jagged bone-spikes, dealing 1d6 piercing damage to the attacker.
 * **Maw-Tooth Greatsword (+1 Greatsword)** (*Rare*, 2,000 gp): Edged with rows of shark-like teeth. On a hit, deals an extra 1d6 necrotic damage. When you score a critical hit, the teeth tear deep, inflicting 2d6 bleed damage at the start of the target's next turn.
-* **Ribcage Shield (+1 Shield)** (*Uncommon*, 750 gp): When an attacker misses you with a melee weapon, the ribs on the shield can snap shut to disarm the attacker (saving throw Strength save).
-* **Bone-Shard Dagger** (*Uncommon*, 300 gp): 1d4 piercing + 1d4 necrotic; on a critical hit, breaks off inside the wound, dealing 1d4 necrotic damage each round until removed with a saving throw Medicine check.
+* **Ribcage Shield (+1 Shield)** (*Uncommon*, 750 gp): When an attacker misses you with a melee weapon, the ribs on the shield can snap shut to disarm the attacker (DC 14 Strength save).
+* **Bone-Shard Dagger** (*Uncommon*, 300 gp): 1d4 piercing + 1d4 necrotic; on a critical hit, breaks off inside the wound, dealing 1d4 necrotic damage each round until removed with a DC 13 Medicine check.
 
 **Unique Services**:
 
@@ -379,7 +429,46 @@ The Mawhollow Notice Board is a slab of petrified whalebone hammered into the ro
 * **Ointment of Rot-Curing** (*Uncommon*, 200 gp): Immediately cures all forms of flesh rot, gangrene, and parasitic infections.
 * **Potion of Superior Healing** (*Rare*, 500 gp).
 
----
+* * *
+
+### **5. The Sinew-Weave Atelier**
+
+**Specialty**: Tendon-Threaded Leathers, Muscle-Lined Surcoats, and Bone-Needle Cloaks  
+**Location**: The Mid-Spire Promenade, anchored to the fleshy buttresses of Fleshspire.  
+**Owner**: **Madame Vrena of the Needle**, a pale cambion modiste with needle-thin bone fingers.  
+**Description**: The Atelier is an eerie yet opulent salon of dark purple velvet and polished ivory. Mannequins shaped from articulated skeletons wear form-fitting tunics of cured dermal skin, corsets of whalebone and sinew, and cloaks that twitch slightly when brushed. Vrena measures clients with living tape measures made of coiled tendon.  
+
+**Notable Items for Sale**:
+* **Sinew-Strung Leathers (+1 Studded Leather)** (*Rare*, 1,600 gp): Armor woven from enchanted muscle fibers; increases the wearer's Strength score by +1 (up to 20) and grants advantage on Athletics checks to jump.
+* **Mantle of the Carnivore** (*Rare*, 1,800 gp): While worn, the wearer regains 5 hit points whenever they score a critical hit with a melee weapon attack.
+* **Tendon-Laced Boots** (*Uncommon*, 550 gp): Running jump distance is doubled, and the wearer takes half damage from falling.
+* **Bone-Needle Dagger (+1 Dagger)** (*Uncommon*, 450 gp): Carved from demon bone; deals an extra 1d4 piercing damage and cannot be detected by metal detectors.
+
+**Unique Services**:
+* **Muscle Reinforcement Weave**: Sews flexible tendon fibers into existing leather armor, granting +1 to AC against bludgeoning damage (Cost: 200 gp).
+* **Flesh-Armor Repair**: Mends living or organic armor using cellular bonding resins within 12 hours (Cost: 75 gp).
+
+**Rumor**: Vrena was once court tailor to Graz'zt, having escaped the Abyss with an entire spool of celestial tendon stolen from an angel's wing.
+
+* * *
+
+### **The Flesh Scriptorium: Osteomantic Transscription**
+
+The **Flesh Scriptorium** is Fleshspire's premier archive of anatomical necromancy and biological evolution, located in the hollowed skull-dome of an ancient abyssal behemoth. Commanded by **High Osteomancer Malakar**, this institution transcribes spells directly onto living parchment and carves necrotic wards into bone scrolls.
+
+#### **The Scriptorium & Bone Vault**
+The circular hall is illuminated by glowing green necro-lanterns. Desks carved from polished femur bones hold inkwells filled with squid-ink and blood. Scribes in leather smocks inscribe complex necromantic matrices onto cured vellum with silver styluses.
+
+#### **The Master Osteomancer: Malakar the Bone-Carver**
+* **Appearance**: An ancient mummy lord who has retained his full intellectual faculties, clothed in flowing robes of gold-trimmed shroud linen and carrying a staff topped with a chattering crystal skull.
+* **Personality**: Scholarly, patient, and viewing death simply as another phase of biological architecture.
+
+#### **Osteomantic Services**
+* **Bone Spell Inscription**: Inscribes necromancy and transmutation spells onto flat bone scrolls that cannot be destroyed by fire or acid (Cost: 50 gp per spell level + standard costs).
+* **Skeletal Familiar Binding**: Binds an animal spirit into an articulated animal skeleton, creating an immortal skeletal familiar (Cost: 300 gp).
+* **Necrotic Resistance Inscription**: Inscribes wards onto armor that grant permanent resistance to necrotic damage (Cost: 500 gp).
+
+* * *
 
 ## **Taverns of Fleshspire**
 
@@ -417,7 +506,7 @@ The Mawhollow Notice Board is a slab of petrified whalebone hammered into the ro
 * **Salted Chitin Sticks**: Crispy roasted insect carapaces dusted with sulfur salt (5 cp).
 * **Leech Broth**: Salty, steaming soup made from cavern leeches (1 sp).
 
----
+* * *
 
 ## **The Black Market: The Bile Sump**
 
@@ -439,7 +528,7 @@ In the subterranean drainage ducts where the city's digestive fluids empty into 
 **Owner**: **Lady Morwen**, an exiled drow priestess of an arachnid death deity.  
 **Notable Items for Sale (Poisons & Contraband)**:
 
-* **Purple Worm Poison (Injury)** (*DMG p. 258*, 2,000 gp): saving throw Con save or take 42 (12d6) poison damage.
+* **Purple Worm Poison (Injury)** (*DMG p. 258*, 2,000 gp): DC 19 Con save or take 42 (12d6) poison damage.
 * **Pale Tincture (Ingested)** (*DMG p. 258*, 250 gp): Lingering necrotic poison.
 * **Torpor (Ingested)** (*DMG p. 258*, 600 gp): Incapacitating poison.
 * **Flesh-Rot Paste (Contact)** (500 gp): Destroys flesh, dealing 3d6 necrotic damage per round until treated.
@@ -451,11 +540,11 @@ In the subterranean drainage ducts where the city's digestive fluids empty into 
 **Theme**: Black-Market Flesh Grafting Den & Rogue Servitor Pen  
 **Owner**: **Chirurgeon Malis**, a mad biomancer who grafts extra arms, predator jaws, and chitinous plates onto outlaws seeking combat edges.
 
----
+* * *
 
-## **Fleshspire Notice Board**
+## **Fleshspire Notice Board & Tactical Encounters**
 
-The Fleshspire Notice Board is an enormous sheet of cured dragon skin nailed to the bone pillars outside the Glutton Cathedral. Contracts are branded into the hide with red-hot irons by the priesthood and desperate merchants.
+The Fleshspire Notice Board is an enormous sheet of cured dragon skin nailed to monolithic bone pillars outside the Glutton Cathedral. Contracts, culls, and salvage bounties are branded into the hide with red-hot irons by the Glutton Priesthood and desperate syndicate brokers.
 
 ---
 
@@ -463,7 +552,7 @@ The Fleshspire Notice Board is an enormous sheet of cured dragon skin nailed to 
 
 **Posted by**: Glutton Priest Vane  
 **Reward**: 750 gp and a *Calcified Bone Plate*  
-**Description**: "An apex Flesh Servitor—a mutated hulking amalgamation of bone, sinew, and multiple heads—has broken free of the Everbirth Chambers. It is tearing through the residential sinuses of Level 5, consuming everything in its path. Hunt down the abomination, destroy its central core, and return its skull to the Cathedral."  
+**Description**: "Enter the lower residential sinus corridors of Level 5, hunt down and destroy the mutated *Apex Flesh Servitor Alpha*, and recover its skull for the Cathedral."
 
 ---
 
@@ -471,7 +560,7 @@ The Fleshspire Notice Board is an enormous sheet of cured dragon skin nailed to 
 
 **Posted by**: Apothecary Vraxis (Bile & Blight Dispensary)  
 **Reward**: 600 gp and a *Symbiotic Vine Lash*  
-**Description**: "The main bile drainage conduit of the lower hull has been blocked by a swarm of abyssal bile-leeches that have grown to monstrous proportions. Without drainage, corrosive bile is backing up into the residential chambers. Enter the drainage flue, exterminate the leech queen, and open the sluice."  
+**Description**: "Enter the lower bile drainage flue, exterminate the *Bloated Otyugh Bile-Gorged Queen* and her leech swarm, and manually turn the sluice release wheel."
 
 ---
 
@@ -479,7 +568,7 @@ The Fleshspire Notice Board is an enormous sheet of cured dragon skin nailed to 
 
 **Posted by**: "Hollow" Jarek (The Harvested Soul)  
 **Reward**: 800 gp and an *Amulet of the Insatiable*  
-**Description**: "The Glutton Priests have acquired a divine 'Heart-Seed'—a living relic capable of growing an entire new spire—which they plan to offer as a grand sacrifice tonight, consuming a captured paladin in the process. Infiltrate the Cathedral altar, eliminate the high executioner, and retrieve the Heart-Seed."  
+**Description**: "Infiltrate the high altar of the Glutton Cathedral, eliminate *High Executioner Malgath*, and secure the divine Heart-Seed before a captured paladin is sacrificed."
 
 ---
 
@@ -507,7 +596,7 @@ The Fleshspire Notice Board is an enormous sheet of cured dragon skin nailed to 
 **Owner**: **Chainlord Vane Shadow-Drift**, an austere tiefling warlord clad in spikes and heavy iron links.  
 **Notable Items for Sale**:
 
-* **Spiked Chain-Flail (+1 Flail)** (*Rare*, 1,800 gp): Reach 10 ft. When you hit a creature, you can use a bonus action to attempt to trip the target (saving throw Strength save or knocked prone).
+* **Spiked Chain-Flail (+1 Flail)** (*Rare*, 1,800 gp): Reach 10 ft. When you hit a creature, you can use a bonus action to attempt to trip the target (DC 15 Strength save or knocked prone).
 * **Void-Steel Plate (+1 Plate Armor)** (*Rare*, 2,800 gp): Forged from meteoric black steel. Grants resistance to cold and force damage, and the wearer cannot be moved by magical wind or gravity.
 * **Repeating Crossbow of the Void (+1 Heavy Crossbow)** (*Rare*, 2,100 gp): Automatically reloads from an internal magazine of 6 bolts; can fire twice per attack action.
 
@@ -537,7 +626,46 @@ The Fleshspire Notice Board is an enormous sheet of cured dragon skin nailed to 
 * **Oxygen Bladder (10 charges)** (*Common*, 50 gp): Each charge provides 1 hour of fresh air in airless voids.
 * **Concentrated Star-Pelt (Rations of 10)** (25 gp): Sustainment for 10 days.
 
----
+* * *
+
+### **5. The Gravity-Anchor Atelier**
+
+**Specialty**: Void-Diver Suits, Magnetic Harnesses, and Heavy Weight Boots  
+**Location**: Docking Berth 7, overlooking the endless empty drift of The Hollow Expanse.  
+**Owner**: **Commander Oris Void-Strider**, an old githyanki corsair with a missing eye and an adamantine peg-leg.  
+**Description**: The Atelier is cluttered with pressurized diving helms, heavy canvas void-suits, coils of braided steel tether-rope, and magnetic iron clamps. Oris tests magnetic boots on an inverted iron plate bolted to the ceiling, assisting void-sailors and salvage divers preparing to explore drifting derelicts.  
+
+**Notable Items for Sale**:
+* **Magnetic Void-Boots** (*Uncommon*, 500 gp): Allows the wearer to walk across metal hulls and walls in zero gravity at normal walking speed without falling.
+* **Void-Diver Suit (+1 Leather Armor)** (*Rare*, 1,800 gp): Completely sealed suit providing 1 hour of breathable air and complete immunity to the vacuum and freezing cold of the void.
+* **Tether-Harpoon Rifle** (*Uncommon*, 450 gp): Fires an iron harpoon up to 90 feet with a 100-foot braided steel cable on a motorized crank.
+* **Gravity-Anchor Ring** (*Rare*, 1,400 gp): The wearer can toggle their own personal gravity orientation once per round as a bonus action.
+
+**Unique Services**:
+* **Air-Tank Recharging**: Recharges pressurized air canisters with breathable atmosphere (Cost: 10 gp per hour of air).
+* **Hull Magnetic Plating**: Treats footwear and shields with magnetic cores (Cost: 75 gp).
+
+**Rumor**: Oris discovered an abandoned astral dreadnought drifting frozen in the outer void, whose cargo bay holds crates of unmined starmetal.
+
+* * *
+
+### **The Void-Drift Scriptorium: Astronavigation & Cartography**
+
+The **Void-Drift Scriptorium** is The Hollow Expanse's essential astronomical archive, located inside a revolving observatory sphere suspended on three massive iron gimbals. Supervised by **Stargazer Thessaly**, this scriptorium charts drifting planar flotsam, temporal rifts, and safe void-currents.
+
+#### **The Observatory & Star Hall**
+The dome is made of crystal lenses that magnify the distant astral winds. Star-charts and holographic light-globes rotate in mid-air, tracking derelict hulls and floating leviathan carcasses.
+
+#### **The Master Stargazer: Thessaly the Far-Seer**
+* **Appearance**: A blind half-elf astronomer with glowing blue starlight swirling in her empty eye sockets. She wears starry velvet robes and speaks with quiet, mystical authority.
+* **Personality**: Poetic, visionary, and possessing an uncanny instinct for celestial drift and astral navigation.
+
+#### **Astronavigation Services**
+* **Void-Current Charting**: Provides accurate navigational coordinates to any known floating wreck or planar rift (Cost: 150 gp).
+* **Spell-Jamming Calibration**: Tunes magical helms and skiff rudders to navigate zero-gravity currents (Cost: 250 gp).
+* **Starlight Spell Inscription**: Inscribes divination and spatial spells into spellbooks with radiant ink (Cost: 50 gp per spell level).
+
+* * *
 
 ## **Taverns of The Hollow Expanse**
 
@@ -575,7 +703,7 @@ The Fleshspire Notice Board is an enormous sheet of cured dragon skin nailed to 
 * **Vortex Spritz**: Effervescent violet liqueur garnished with a glowing sugar rim (6 sp).
 * **Grav-Caviar**: Delicate glowing fish eggs that float off the plate if not eaten quickly (10 sp).
 
----
+* * *
 
 ## **The Black Market: The Void Siphon**
 
@@ -598,7 +726,7 @@ Hidden inside an abandoned water cistern on the underside of the main asteroid k
 **Notable Items for Sale (Poisons & Contraband)**:
 
 * **Midnight Tears (Ingested)** (*DMG p. 258*, 1,500 gp): Lethal delayed poison.
-* **Assassin’s Blood (Ingested)** (*DMG p. 257*, 150 gp): saving throw Con save or 1d12 poison damage.
+* **Assassin’s Blood (Ingested)** (*DMG p. 257*, 150 gp): DC 10 Con save or 1d12 poison damage.
 * **Essence of Ether (Inhaled)** (*DMG p. 258*, 300 gp): Renders target unconscious for 8 hours.
 * **Void-Rot Salve (Contact)** (600 gp): Induces freezing necrotic decay, dealing 3d6 cold and 3d6 necrotic damage on a hit.
 
@@ -609,11 +737,11 @@ Hidden inside an abandoned water cistern on the underside of the main asteroid k
 **Theme**: Safehouse & Mutineers' Refuge  
 **Owner**: **Drex the Unchained**, a former slave-galley rower who protects escaped indentures and mutineers from the Chainlords' bounty hunters.
 
----
+* * *
 
-## **The Hollow Expanse Notice Board**
+## **The Hollow Expanse Notice Board & Tactical Encounters**
 
-The Hollow Expanse Notice Board is an anchor-plate bolted to the central mast of the Void Docks. Bounties, salvage contracts, and privateering letters of marque are nailed to the wood with iron spikes.
+The Hollow Expanse Notice Board is a massive anchor-plate bolted to the central spire mast of the Void Docks. Bounties, privateering letters of marque, salvage manifests, and cull orders are nailed directly to the seasoned wood with heavy iron pitons.
 
 ---
 
@@ -621,7 +749,7 @@ The Hollow Expanse Notice Board is an anchor-plate bolted to the central mast of
 
 **Posted by**: Master Shipwright Dax (The Void-Hull Shipyard)  
 **Reward**: 750 gp and a *Gravitational Anchor*  
-**Description**: "During a gravitational pulse from the Endless Maw, the main sinew-chain tethering the merchant barge *The Gilded Drifter* snapped. The barge—carrying twenty crewmen and valuable astral charts—is drifting toward the event horizon. Fly out, grapple the drifting vessel, repel the shadow predators circling it, and tow it back to dock."  
+**Description**: "Fly out to the drifting merchant barge *The Gilded Drifter*, eliminate the shadow predators and gargoyles tearing through the helm, and re-attach a heavy tow cable before the ship falls into the event horizon."
 
 ---
 
@@ -629,7 +757,7 @@ The Hollow Expanse Notice Board is an anchor-plate bolted to the central mast of
 
 **Posted by**: Quartermaster Orin (The Drift Provisions)  
 **Reward**: 650 gp and a *Repeating Crossbow of the Void*  
-**Description**: "A pack of feral Void-Drakes has nested on Asteroid K-7 along the primary supply shipping lane. They have already dragged down two food convoys, leaving our ration supplies dangerously low. Lead an extermination strike against the alpha drake and clear the flight corridor."  
+**Description**: "Land on Asteroid K-7 along the supply convoy route, eradicate the pack of predatory *Alpha Void-Drakes*, and destroy their nesting roost."
 
 ---
 
@@ -637,4 +765,6 @@ The Hollow Expanse Notice Board is an anchor-plate bolted to the central mast of
 
 **Posted by**: Drex the Unchained (The Anchorless Haven)  
 **Reward**: 850 gp and a *Spiked Chain-Flail*  
-**Description**: "A ruthless pirate captain known as 'Iron-Lash' Valen has locked his crew in the lower cargo hold without food or water, intending to sell them to the Glutton Priests in Fleshspire. Board Valen's ship, eliminate Valen and his loyal officers, and liberate the crew."
+**Description**: "Board the pirate corsair *The Black Skiff*, eliminate ruthless captain *Iron-Lash Valen* and his loyal enforcers, and free thirty captured crewmen locked in the cargo hold."
+
+---
